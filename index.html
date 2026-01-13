@@ -1,122 +1,152 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Global Risk Intelligence A-Z</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <title>Global Risk Dashboard</title>
     <style>
-        :root {
-            --bg: #f1f5f9; --card: #ffffff; --dark: #0f172a;
-            --high: #ef4444; --med: #f59e0b; --low: #0ea5e9; --accent: #2563eb;
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #121212;
+            color: #e0e0e0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
         }
-        body { font-family: 'Inter', sans-serif; background: var(--bg); color: #1e293b; margin: 0; padding-bottom: 50px; }
-        header { background: var(--dark); color: white; padding: 2.5rem 1rem; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
-        .container { max-width: 1100px; margin: 2rem auto; padding: 0 1rem; }
-
-        /* Filters */
-        .filter-group { display: flex; justify-content: center; gap: 8px; margin-bottom: 2rem; flex-wrap: wrap; }
-        .btn { padding: 8px 18px; border-radius: 30px; border: 1px solid #e2e8f0; background: white; cursor: pointer; font-weight: 600; font-size: 0.85rem; transition: 0.2s; color: #64748b; }
-        .btn.active { background: var(--dark); color: white; border-color: var(--dark); }
-        .btn:hover:not(.active) { background: #e2e8f0; }
-
-        /* A-Z List */
-        .list-wrapper { display: flex; flex-direction: column; gap: 8px; }
-        .risk-card { background: var(--card); border-radius: 12px; border: 1px solid #e2e8f0; overflow: hidden; transition: 0.2s; }
-        .risk-card:hover { border-color: #cbd5e1; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); }
-
-        .card-header { padding: 1.25rem; display: flex; align-items: center; justify-content: space-between; cursor: pointer; }
-        .term-info { display: flex; align-items: center; gap: 1rem; }
-        .dot { width: 10px; height: 10px; border-radius: 50%; }
-        .dot-High { background: var(--high); box-shadow: 0 0 8px var(--high); }
-        .dot-Medium { background: var(--med); }
-        .dot-Low { background: var(--low); }
+        .container {
+            background-color: #1e1e1e;
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+            max-width: 600px;
+            width: 90%;
+            text-align: center;
+        }
+        h1 { margin-bottom: 0.5rem; font-size: 1.5rem; color: #888; }
         
-        .term-text { font-weight: 800; font-size: 1.1rem; }
-        .badge { font-size: 0.7rem; font-weight: 800; color: #64748b; background: #f1f5f9; padding: 2px 8px; border-radius: 4px; text-transform: uppercase; }
+        /* 리스크 점수 디자인 */
+        .score-box {
+            font-size: 5rem;
+            font-weight: bold;
+            margin: 1rem 0;
+            padding: 1rem;
+            border-radius: 10px;
+            background-color: #2c2c2c;
+            color: #fff;
+            transition: all 0.3s ease;
+        }
+        
+        .status { font-size: 1.2rem; margin-bottom: 1.5rem; font-weight: bold; }
+        
+        .summary-box {
+            background-color: #333;
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: left;
+            margin-bottom: 1rem;
+            line-height: 1.6;
+        }
+        
+        .details-list {
+            list-style-type: none;
+            padding: 0;
+            text-align: left;
+        }
+        .details-list li {
+            background: #2a2a2a;
+            margin-bottom: 5px;
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 0.9rem;
+            border-left: 3px solid #555;
+        }
 
-        /* Collapsible Section */
-        .card-body { display: none; padding: 1.5rem; background: #fafafa; border-top: 1px solid #f1f5f9; border-left: 4px solid var(--dark); }
-        .card-body.active { display: block; }
-        .cat-label { font-size: 0.75rem; font-weight: 800; color: var(--accent); margin-bottom: 0.5rem; display: block; }
-        .context-p { font-size: 0.95rem; line-height: 1.6; color: #475569; margin: 0; }
-        .btn-img { display: inline-block; margin-top: 1rem; color: var(--accent); text-decoration: none; font-weight: 700; font-size: 0.85rem; border: 1px solid var(--accent); padding: 5px 12px; border-radius: 6px; transition: 0.2s; }
-        .btn-img:hover { background: var(--accent); color: white; }
+        .timestamp {
+            margin-top: 2rem;
+            font-size: 0.8rem;
+            color: #666;
+        }
+
+        /* 로딩 애니메이션 */
+        .loading { color: #888; font-style: italic; }
     </style>
 </head>
 <body>
 
-<header>
-    <h1 style="margin:0; font-size: 1.8rem; letter-spacing: -1px;">🛡️ Global Risk Intelligence A-Z</h1>
-    <p style="margin:8px 0 0 0; font-size: 0.9rem; opacity: 0.8;">Market Safety Monitoring (English Only)</p>
-</header>
+    <div class="container">
+        <h1>Global Cultural Risk Level</h1>
+        
+        <div id="risk-score" class="score-box">--</div>
+        <div id="risk-status" class="status loading">Loading data...</div>
 
-<div class="container">
-    <div class="filter-group">
-        <button class="btn active" onclick="filterData(event, 'All')">All Categories</button>
-        <button class="btn" onclick="filterData(event, 'Public Figure')">Public Figures</button>
-        <button class="btn" onclick="filterData(event, 'Risk Term')">Risk Terms</button>
-        <button class="btn" onclick="filterData(event, 'Algospeak')">Algospeak</button>
-        <button class="btn" onclick="filterData(event, 'Dangerous Group')">Groups</button>
-        <button class="btn" onclick="filterData(event, 'Adult/Substance')">Substance</button>
+        <div class="summary-box">
+            <strong>Summary:</strong>
+            <p id="risk-summary">Fetching latest intelligence...</p>
+        </div>
+
+        <ul id="risk-details" class="details-list"></ul>
+
+        <div class="timestamp" id="last-updated">Waiting for update...</div>
     </div>
 
-    <div class="list-wrapper" id="risk-list">
-        </div>
-</div>
+    <script>
+        // 캐시 방지 기능을 넣은 데이터 로딩 함수
+        async function loadRiskData() {
+            try {
+                // [핵심] ?v=현재시간 을 붙여서 브라우저가 매번 새 파일로 인식하게 함
+                const response = await fetch('data.json?v=' + new Date().getTime());
+                
+                if (!response.ok) throw new Error("Data file not found");
+                
+                const data = await response.json();
 
-<script>
-    let masterData = [];
+                // 1. 점수 업데이트
+                const scoreElement = document.getElementById('risk-score');
+                scoreElement.innerText = data.risk_score;
 
-    async function loadData() {
-        try {
-            const res = await fetch(`data.json?t=${Date.now()}`);
-            masterData = await res.json();
-            // A-Z Sorting
-            masterData.sort((a, b) => a.term.localeCompare(b.term));
-            render('All');
-        } catch (e) {
-            document.getElementById('risk-list').innerHTML = `<p style="text-align:center; color:red;">Failed to load data. Please ensure data.json exists.</p>`;
+                // 2. 점수에 따른 색상 변경
+                const statusElement = document.getElementById('risk-status');
+                if (data.risk_score >= 80) {
+                    scoreElement.style.color = "#ff4444"; // 빨강 (위험)
+                    statusElement.innerText = "CRITICAL RISK";
+                    statusElement.style.color = "#ff4444";
+                } else if (data.risk_score >= 50) {
+                    scoreElement.style.color = "#ffbb33"; // 노랑 (주의)
+                    statusElement.innerText = "MODERATE RISK";
+                    statusElement.style.color = "#ffbb33";
+                } else {
+                    scoreElement.style.color = "#00C851"; // 초록 (안전)
+                    statusElement.innerText = "LOW RISK";
+                    statusElement.style.color = "#00C851";
+                }
+
+                // 3. 요약 및 상세 내용 업데이트
+                document.getElementById('risk-summary').innerText = data.summary;
+                
+                const list = document.getElementById('risk-details');
+                list.innerHTML = ''; // 기존 목록 초기화
+                data.details.forEach(item => {
+                    const li = document.createElement('li');
+                    li.innerText = item;
+                    list.appendChild(li);
+                });
+
+                // 4. 시간 업데이트
+                document.getElementById('last-updated').innerText = "Last Updated: " + data.timestamp;
+
+            } catch (error) {
+                console.error("Error loading data:", error);
+                document.getElementById('risk-status').innerText = "Data Offline";
+            }
         }
-    }
 
-    function render(filter) {
-        const list = document.getElementById('risk-list');
-        list.innerHTML = '';
+        // 페이지 열리면 바로 실행
+        loadRiskData();
 
-        const filtered = filter === 'All' ? masterData : masterData.filter(d => d.category === filter);
-
-        filtered.forEach(item => {
-            const card = document.createElement('div');
-            card.className = 'risk-card';
-            card.innerHTML = `
-                <div class="card-header" onclick="this.nextElementSibling.classList.toggle('active')">
-                    <div class="term-info">
-                        <div class="dot dot-${item.risk_level}"></div>
-                        <span class="term-text">${item.term}</span>
-                        <span class="badge">${item.country}</span>
-                    </div>
-                    <span style="font-size: 0.8rem; color: #94a3b8;">▼ Expand</span>
-                </div>
-                <div class="card-body">
-                    <span class="cat-label">${item.category}</span>
-                    <p class="context-p">${item.context}</p>
-                    ${item.category === 'Public Figure' ? `<a href="${item.image_url}" target="_blank" class="btn-img">📸 View Figure Image</a>` : ''}
-                    <div style="font-size:0.7rem; color:#94a3b8; margin-top:1.2rem;">ID: #${item.id} | Checked on: ${item.last_updated}</div>
-                </div>
-            `;
-            list.appendChild(card);
-        });
-    }
-
-    function filterData(e, cat) {
-        document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
-        e.currentTarget.classList.add('active');
-        render(cat);
-    }
-
-    document.addEventListener('DOMContentLoaded', loadData);
-</script>
-
+        // (선택) 60초마다 자동으로 새로고침해서 최신 데이터 유지
+        setInterval(loadRiskData, 60000);
+    </script>
 </body>
 </html>
