@@ -15,11 +15,11 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10' # Upgraded version
+          python-version: '3.10' # 3.10 이상 권장
 
       - name: Install dependencies
         run: |
-          pip install google-genai # New official library
+          pip install google-genai # 최신 라이브러리 설치
 
       - name: Run AI Brain
         env:
@@ -33,4 +33,5 @@ jobs:
           git add data.json
           git commit -m "Auto Update: Latest Risk Data [skip ci]" || echo "No changes to commit"
           git push
+
 
