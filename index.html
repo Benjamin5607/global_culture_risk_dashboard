@@ -3,142 +3,113 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Global Culture Risk Dashboard</title>
+    <title>Risk Intelligence A-Z</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
     <style>
         :root {
-            --danger-bg: #fef2f2; --danger-text: #991b1b; --danger-border: #ef4444;
-            --warn-bg: #fffbeb; --warn-text: #92400e; --warn-border: #f59e0b;
-            --info-bg: #f0f9ff; --info-text: #075985; --info-border: #0ea5e9;
-            --dark-bg: #0f172a; --card-bg: #ffffff;
+            --bg: #f8fafc; --dark: #0f172a; --accent: #2563eb;
+            --high: #ef4444; --med: #f59e0b; --low: #0ea5e9;
         }
-
-        body { font-family: 'Inter', sans-serif; background: #f8fafc; margin: 0; color: #334155; padding-bottom: 50px; }
-        header { background: var(--dark-bg); color: white; padding: 1.5rem 2rem; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
-        .container { padding: 2rem; max-width: 1600px; margin: 0 auto; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); margin: 0; color: #1e293b; }
+        header { background: var(--dark); color: white; padding: 2rem; text-align: center; }
+        .container { max-width: 1000px; margin: 2rem auto; padding: 0 1rem; }
         
-        /* Filter System */
-        .filter-container { display: flex; justify-content: center; gap: 10px; margin-bottom: 2rem; flex-wrap: wrap; }
-        .filter-btn { padding: 10px 20px; border-radius: 25px; border: 1px solid #e2e8f0; background: white; cursor: pointer; font-weight: 600; transition: 0.3s; color: #64748b; }
-        .filter-btn.active { background: var(--dark-bg); color: white; border-color: var(--dark-bg); }
-        .filter-btn:hover:not(.active) { background: #f1f5f9; }
+        /* Filter Buttons */
+        .filters { display: flex; justify-content: center; gap: 0.5rem; margin-bottom: 2rem; flex-wrap: wrap; }
+        .btn { padding: 0.6rem 1.2rem; border-radius: 50px; border: 1px solid #e2e8f0; background: white; cursor: pointer; font-weight: 600; font-size: 0.85rem; }
+        .btn.active { background: var(--dark); color: white; }
 
-        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem; }
-        .country-section { background: var(--card-bg); border-radius: 16px; border: 1px solid #e2e8f0; overflow: hidden; display: flex; flex-direction: column; }
-        .country-header { padding: 1.25rem; background: #f8fafc; border-bottom: 1px solid #e2e8f0; font-weight: 800; font-size: 1.1rem; }
+        /* A-Z List Style */
+        .risk-card { background: white; border-radius: 12px; margin-bottom: 0.5rem; border: 1px solid #e2e8f0; overflow: hidden; }
+        .card-header { padding: 1rem 1.5rem; display: flex; justify-content: space-between; align-items: center; cursor: pointer; transition: background 0.2s; }
+        .card-header:hover { background: #f1f5f9; }
         
-        .risk-list { padding: 1.25rem; flex-grow: 1; }
-        .risk-item { padding: 1rem; border-radius: 12px; margin-bottom: 1rem; border-left: 5px solid #cbd5e1; }
-        .risk-High { background: var(--danger-bg); border-left-color: var(--danger-border); }
-        .risk-Medium { background: var(--warn-bg); border-left-color: var(--warn-border); }
-        .risk-Low { background: var(--info-bg); border-left-color: var(--info-border); }
+        .term-box { display: flex; align-items: center; gap: 1rem; }
+        .risk-dot { width: 12px; height: 12px; border-radius: 50%; }
+        .dot-High { background: var(--high); }
+        .dot-Medium { background: var(--med); }
+        .dot-Low { background: var(--low); }
 
-        .tag { font-size: 0.65rem; font-weight: 800; text-transform: uppercase; padding: 3px 8px; border-radius: 6px; color: white; margin-bottom: 5px; display: inline-block; }
-        .tag-High { background: var(--danger-border); }
-        .tag-Medium { background: var(--warn-border); }
-        .tag-Low { background: var(--info-border); }
+        .term-name { font-weight: 700; font-size: 1.1rem; }
+        .country-badge { font-size: 0.7rem; color: #64748b; font-weight: 800; border: 1px solid #e2e8f0; padding: 2px 6px; border-radius: 4px; }
+
+        /* Collapsible Content */
+        .card-content { display: none; padding: 1.5rem; background: #fafafa; border-top: 1px solid #eee; }
+        .card-content.active { display: block; }
         
-        .term { font-weight: 800; font-size: 1.1rem; display: block; margin: 5px 0; color: #1e293b; }
-        .category { font-size: 0.75rem; color: #64748b; font-weight: 600; text-transform: uppercase; }
-        .reason { font-size: 0.9rem; line-height: 1.5; color: #475569; margin: 5px 0; }
+        .category-label { font-size: 0.7rem; font-weight: 800; color: var(--accent); text-transform: uppercase; margin-bottom: 0.5rem; display: block; }
+        .description { font-size: 0.95rem; line-height: 1.6; color: #475569; }
+        .image-link { display: inline-block; margin-top: 1rem; color: var(--accent); text-decoration: none; font-weight: 600; font-size: 0.85rem; }
     </style>
 </head>
 <body>
 
 <header>
-    <div>
-        <h1 style="margin:0; font-size: 1.5rem;">🛡️ Culture Risk Radar</h1>
-        <p style="margin:0; font-size: 0.8rem; opacity: 0.7;">AI-Powered Risk Intelligence</p>
-    </div>
+    <h1>🛡️ Global Risk Intelligence A-Z</h1>
+    <p>Market Safety Monitor (English Only)</p>
 </header>
 
 <div class="container">
-    <div class="filter-container">
-        <button class="filter-btn active" onclick="filterCategory(event, 'All')">All Categories</button>
-        <button class="filter-btn" onclick="filterCategory(event, 'Public Figure')">Public Figures</button>
-        <button class="filter-btn" onclick="filterCategory(event, 'Risk Term')">Risk Terms</button>
-        <button class="filter-btn" onclick="filterCategory(event, 'Algospeak')">Algospeak</button>
-        <button class="filter-btn" onclick="filterCategory(event, 'Adult/Substance')">Adult/Substance</button>
-        <button class="filter-btn" onclick="filterCategory(event, 'Dangerous Group')">Dangerous Groups</button>
+    <div class="filters">
+        <button class="btn active" onclick="filterItems(event, 'All')">All A-Z</button>
+        <button class="btn" onclick="filterItems(event, 'Public Figure')">Figures</button>
+        <button class="btn" onclick="filterItems(event, 'Risk Term')">Risks</button>
+        <button class="btn" onclick="filterItems(event, 'Algospeak')">Algospeak</button>
+        <button class="btn" onclick="filterItems(event, 'Adult/Substance')">Adult/Substance</button>
     </div>
 
-    <div class="grid" id="dashboard-grid">
-        </div>
+    <div id="risk-list"></div>
 </div>
 
 <script>
-    const countries = {
-        "US": "🇺🇸 United States",
-        "UK": "🇬🇧 United Kingdom",
-        "AU": "🇦🇺 Australia",
-        "CA": "🇨🇦 Canada",
-        "NZ": "🇳🇿 New Zealand"
-    };
+    let rawData = [];
 
-    let masterData = [];
-
-    document.addEventListener('DOMContentLoaded', initDashboard);
-
-    async function initDashboard() {
-        const grid = document.getElementById('dashboard-grid');
+    async function fetchData() {
         try {
-            const response = await fetch(`data.json?t=${new Date().getTime()}`);
-            if (!response.ok) throw new Error("Could not load data.json");
-            masterData = await response.json();
-            renderDashboard('All');
-        } catch (err) {
-            console.error(err);
-            grid.innerHTML = `<p style="text-align:center; width:100%; color:red;">Failed to load data: ${err.message}</p>`;
-        }
+            const res = await fetch(`data.json?t=${Date.now()}`);
+            rawData = await res.json();
+            // Sort A-Z by Term
+            rawData.sort((a, b) => a.term.localeCompare(b.term));
+            renderList('All');
+        } catch (e) { console.error("Load failed"); }
     }
 
-    function renderDashboard(filter) {
-        const grid = document.getElementById('dashboard-grid');
-        grid.innerHTML = '';
+    function renderList(filter) {
+        const container = document.getElementById('risk-list');
+        container.innerHTML = '';
 
-        if (!masterData || masterData.length === 0) {
-            grid.innerHTML = `<p style="text-align:center; width:100%;">No data available to display.</p>`;
-            return;
-        }
+        const filtered = filter === 'All' ? rawData : rawData.filter(d => d.category === filter);
 
-        Object.keys(countries).forEach(code => {
-            let countryData = masterData.filter(item => item.country === code);
-            
-            if (filter !== 'All') {
-                countryData = countryData.filter(item => item.category === filter);
-            }
-
-            if (countryData.length === 0) return;
-
-            const section = document.createElement('section');
-            section.className = 'country-section';
-            section.innerHTML = `
-                <div class="country-header">${countries[code]}</div>
-                <div class="risk-list">
-                    ${countryData.map(item => `
-                        <div class="risk-item risk-${item.risk_level}">
-                            <div style="display:flex; justify-content:space-between; align-items:center;">
-                                <span class="category">${item.category}</span>
-                                <span class="tag tag-${item.risk_level}">${item.risk_level} Risk</span>
-                            </div>
-                            <span class="term">${item.term}</span>
-                            <p class="reason">${item.context}</p>
-                            <div style="font-size:0.7rem; color:#94a3b8; margin-top:10px;">
-                                Updated: ${item.last_updated}
-                            </div>
-                        </div>
-                    `).join('')}
+        filtered.forEach(item => {
+            const div = document.createElement('div');
+            div.className = 'risk-card';
+            div.innerHTML = `
+                <div class="card-header" onclick="this.nextElementSibling.classList.toggle('active')">
+                    <div class="term-box">
+                        <div class="risk-dot dot-${item.risk_level}"></div>
+                        <span class="term-name">${item.term}</span>
+                        <span class="country-badge">${item.country}</span>
+                    </div>
+                    <span style="color:#cbd5e1">▼</span>
+                </div>
+                <div class="card-content">
+                    <span class="category-label">${item.category}</span>
+                    <p class="description">${item.context}</p>
+                    ${item.category === 'Public Figure' ? `<a href="${item.image_url}" target="_blank" class="image-link">📸 View Figure Image Search</a>` : ''}
+                    <div style="font-size:0.7rem; color:#94a3b8; margin-top:1rem;">Updated: ${item.last_updated}</div>
                 </div>
             `;
-            grid.appendChild(section);
+            container.appendChild(div);
         });
     }
 
-    function filterCategory(event, cat) {
-        document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-        event.currentTarget.classList.add('active');
-        renderDashboard(cat);
+    function filterItems(e, cat) {
+        document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
+        e.currentTarget.classList.add('active');
+        renderList(cat);
     }
+
+    document.addEventListener('DOMContentLoaded', fetchData);
 </script>
 
 </body>
