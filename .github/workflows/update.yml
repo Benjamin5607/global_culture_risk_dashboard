@@ -24,7 +24,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install google-genai
+          # google-genai (X) -> google-generativeai (O) 로 변경!
+          pip install google-generativeai
 
       - name: Run AI Brain
         env:
@@ -53,3 +54,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
