@@ -2,115 +2,50 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Risk Intelligence A-Z</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
     <style>
-        :root {
-            --bg: #f8fafc; --dark: #0f172a; --accent: #2563eb;
-            --high: #ef4444; --med: #f59e0b; --low: #0ea5e9;
-        }
-        body { font-family: 'Inter', sans-serif; background: var(--bg); margin: 0; color: #1e293b; }
-        header { background: var(--dark); color: white; padding: 2rem; text-align: center; }
-        .container { max-width: 1000px; margin: 2rem auto; padding: 0 1rem; }
-        
-        /* Filter Buttons */
-        .filters { display: flex; justify-content: center; gap: 0.5rem; margin-bottom: 2rem; flex-wrap: wrap; }
-        .btn { padding: 0.6rem 1.2rem; border-radius: 50px; border: 1px solid #e2e8f0; background: white; cursor: pointer; font-weight: 600; font-size: 0.85rem; }
-        .btn.active { background: var(--dark); color: white; }
-
-        /* A-Z List Style */
-        .risk-card { background: white; border-radius: 12px; margin-bottom: 0.5rem; border: 1px solid #e2e8f0; overflow: hidden; }
-        .card-header { padding: 1rem 1.5rem; display: flex; justify-content: space-between; align-items: center; cursor: pointer; transition: background 0.2s; }
-        .card-header:hover { background: #f1f5f9; }
-        
-        .term-box { display: flex; align-items: center; gap: 1rem; }
-        .risk-dot { width: 12px; height: 12px; border-radius: 50%; }
-        .dot-High { background: var(--high); }
-        .dot-Medium { background: var(--med); }
-        .dot-Low { background: var(--low); }
-
-        .term-name { font-weight: 700; font-size: 1.1rem; }
-        .country-badge { font-size: 0.7rem; color: #64748b; font-weight: 800; border: 1px solid #e2e8f0; padding: 2px 6px; border-radius: 4px; }
-
-        /* Collapsible Content */
-        .card-content { display: none; padding: 1.5rem; background: #fafafa; border-top: 1px solid #eee; }
-        .card-content.active { display: block; }
-        
-        .category-label { font-size: 0.7rem; font-weight: 800; color: var(--accent); text-transform: uppercase; margin-bottom: 0.5rem; display: block; }
-        .description { font-size: 0.95rem; line-height: 1.6; color: #475569; }
-        .image-link { display: inline-block; margin-top: 1rem; color: var(--accent); text-decoration: none; font-weight: 600; font-size: 0.85rem; }
+        :root { --dark: #0f172a; --high: #ef4444; --med: #f59e0b; --low: #0ea5e9; }
+        body { font-family: sans-serif; background: #f8fafc; margin: 0; padding: 20px; }
+        .container { max-width: 900px; margin: 0 auto; }
+        .risk-card { background: white; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 8px; cursor: pointer; }
+        .card-header { padding: 15px; display: flex; align-items: center; gap: 15px; font-weight: bold; }
+        .dot { width: 10px; height: 10px; border-radius: 50%; }
+        .High { background: var(--high); } .Medium { background: var(--med); } .Low { background: var(--low); }
+        .content { display: none; padding: 20px; border-top: 1px solid #eee; font-size: 0.95rem; line-height: 1.6; color: #444; }
+        .content.active { display: block; }
+        .img-btn { color: #2563eb; text-decoration: none; font-size: 0.8rem; border: 1px solid #2563eb; padding: 2px 8px; border-radius: 4px; }
     </style>
 </head>
 <body>
-
-<header>
-    <h1>🛡️ Global Risk Intelligence A-Z</h1>
-    <p>Market Safety Monitor (English Only)</p>
-</header>
-
-<div class="container">
-    <div class="filters">
-        <button class="btn active" onclick="filterItems(event, 'All')">All A-Z</button>
-        <button class="btn" onclick="filterItems(event, 'Public Figure')">Figures</button>
-        <button class="btn" onclick="filterItems(event, 'Risk Term')">Risks</button>
-        <button class="btn" onclick="filterItems(event, 'Algospeak')">Algospeak</button>
-        <button class="btn" onclick="filterItems(event, 'Adult/Substance')">Adult/Substance</button>
+    <div class="container">
+        <h1 style="text-align: center;">🛡️ Risk Intelligence A-Z</h1>
+        <div id="list"></div>
     </div>
+    <script>
+        async function load() {
+            const res = await fetch('data.json?t=' + Date.now());
+            let data = await res.json();
+            data.sort((a, b) => a.term.localeCompare(b.term)); // A-Z 정렬
 
-    <div id="risk-list"></div>
-</div>
-
-<script>
-    let rawData = [];
-
-    async function fetchData() {
-        try {
-            const res = await fetch(`data.json?t=${Date.now()}`);
-            rawData = await res.json();
-            // Sort A-Z by Term
-            rawData.sort((a, b) => a.term.localeCompare(b.term));
-            renderList('All');
-        } catch (e) { console.error("Load failed"); }
-    }
-
-    function renderList(filter) {
-        const container = document.getElementById('risk-list');
-        container.innerHTML = '';
-
-        const filtered = filter === 'All' ? rawData : rawData.filter(d => d.category === filter);
-
-        filtered.forEach(item => {
-            const div = document.createElement('div');
-            div.className = 'risk-card';
-            div.innerHTML = `
-                <div class="card-header" onclick="this.nextElementSibling.classList.toggle('active')">
-                    <div class="term-box">
-                        <div class="risk-dot dot-${item.risk_level}"></div>
-                        <span class="term-name">${item.term}</span>
-                        <span class="country-badge">${item.country}</span>
+            const list = document.getElementById('list');
+            data.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'risk-card';
+                div.innerHTML = `
+                    <div class="card-header" onclick="this.nextElementSibling.classList.toggle('active')">
+                        <div class="dot ${item.risk_level}"></div>
+                        <span>[${item.country}] ${item.term}</span>
                     </div>
-                    <span style="color:#cbd5e1">▼</span>
-                </div>
-                <div class="card-content">
-                    <span class="category-label">${item.category}</span>
-                    <p class="description">${item.context}</p>
-                    ${item.category === 'Public Figure' ? `<a href="${item.image_url}" target="_blank" class="image-link">📸 View Figure Image Search</a>` : ''}
-                    <div style="font-size:0.7rem; color:#94a3b8; margin-top:1rem;">Updated: ${item.last_updated}</div>
-                </div>
-            `;
-            container.appendChild(div);
-        });
-    }
-
-    function filterItems(e, cat) {
-        document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
-        e.currentTarget.classList.add('active');
-        renderList(cat);
-    }
-
-    document.addEventListener('DOMContentLoaded', fetchData);
-</script>
-
+                    <div class="content">
+                        <strong>Category:</strong> ${item.category}<br><br>
+                        ${item.context}<br><br>
+                        ${item.category === 'Public Figure' ? `<a href="${item.image_url}" target="_blank" class="img-btn">Search Image</a>` : ''}
+                    </div>
+                `;
+                list.appendChild(div);
+            });
+        }
+        load();
+    </script>
 </body>
 </html>
