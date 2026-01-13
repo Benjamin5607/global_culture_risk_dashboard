@@ -36,15 +36,20 @@ jobs:
           git config --global user.name "Benjamin5607"
           git config --global user.email "Benjamin5607@users.noreply.github.com"
           git add data.json
-          git commit -m "Auto Update: Latest Risk Data" || echo "No changes to commit"
-          # 우리가 등록한 GH_PAT 열쇠를 사용해 403 에러를 강제로 뚫습니다.
-          git push https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
+          # 변경사항이 없으면 커밋하지 않고 넘어감 (에러 방지)
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update: Latest Risk Data"
+          # GH_PAT가 있으면 사용, 없으면 그냥 시도 (403 에러 방지)
+          git push https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main || echo "Push skipped or failed"
 
+      # --- 여기서부터 배포 단계 (중복되면 절대 안 됨!) ---
+
+      # 1. 파일 하나로 묶기 (Upload) - 딱 한 번만 실행되어야 함
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: '.'
 
+      # 2. 묶은 파일 서버에 올리기 (Deploy)
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
