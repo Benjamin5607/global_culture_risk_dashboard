@@ -1,0 +1,35 @@
+name: 12-Hour AI Research Update
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # 매 12시간마다 실행 (UTC 기준)
+  workflow_dispatch: # 버튼 눌러서 수동 실행 가능하게 함
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install google-generativeai
+
+      - name: Run AI Brain
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python brain.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Action AI"
+          git config --global user.email "action@github.com"
+          git add data.json
+          git commit -m "Auto Update: Latest Risk Data [skip ci]" || echo "No changes to commit"
+          git push
