@@ -1,50 +1,63 @@
 import os
 import json
-from google import genai # 구형(google.generativeai) 아님!
+import requests # 라이브러리 대신 직접 요청 도구 사용
 from datetime import datetime
 
 def analyze_risk():
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        return get_fallback_data("API Key is missing")
+
+    # SDK 대신 구글 서버 주소로 직접 요청 (모델명 에러 해결의 열쇠)
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+    
+    headers = {'Content-Type': 'application/json'}
+    payload = {
+        "contents": [{
+            "parts": [{"text": """
+                Analyze the current global geopolitical and economic risks for the next 12 hours.
+                Focus on South Korea, USA, China, and Middle East.
+                Return the result ONLY in JSON format with the following structure:
+                {
+                    "timestamp": "YYYY-MM-DD HH:MM:ss",
+                    "risk_score": (1-100 integer),
+                    "summary": "One sentence summary",
+                    "details": ["Bullet point 1", "Bullet point 2", "Bullet point 3"]
+                }
+            """}]
+        }]
+    }
+
     try:
-        # 1. API 키 가져오기
-        api_key = os.environ.get("GEMINI_API_KEY")
-        if not api_key:
-            raise ValueError("API Key is missing")
+        # 우편물 보내듯 직접 전송
+        response = requests.post(url, headers=headers, json=payload)
+        
+        # 응답 확인
+        if response.status_code != 200:
+            print(f"❌ API Error: {response.text}")
+            return get_fallback_data(f"Google API Error: {response.status_code}")
 
-        # 2. 신형 클라이언트 연결 (이게 최신 방식)
-        client = genai.Client(api_key=api_key)
-
-        # 3. 모델에게 질문 (gemini-1.5-flash 사용)
-        response = client.models.generate_content(
-            model="gemini-1.5-flash",
-            contents="""
-            Analyze the current global geopolitical and economic risks for the next 12 hours.
-            Focus on South Korea, USA, China, and Middle East.
-            Return the result ONLY in JSON format with the following structure:
-            {
-                "timestamp": "YYYY-MM-DD HH:MM:ss",
-                "risk_score": (1-100 integer),
-                "summary": "One sentence summary",
-                "details": ["Bullet point 1", "Bullet point 2", "Bullet point 3"]
-            }
-            """
-        )
-
-        # 4. 응답 처리 (JSON 추출)
-        # 신형 SDK는 response.text로 바로 접근 가능
-        text_response = response.text.replace("```json", "").replace("```", "").strip()
-        return json.loads(text_response)
+        result = response.json()
+        
+        # 데이터 추출 (구조가 약간 다름)
+        text_response = result['candidates'][0]['content']['parts'][0]['text']
+        
+        # JSON 청소
+        clean_text = text_response.replace("```json", "").replace("```", "").strip()
+        return json.loads(clean_text)
 
     except Exception as e:
-        print(f"❌ Error: {e}")
-        # 에러 나도 파일은 만들어서 배포가 멈추지 않게 함
-        return {
-            "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "risk_score": 0,
-            "summary": "System Maintenance: Update in progress",
-            "details": [f"Error Log: {str(e)}"]
-        }
+        print(f"❌ Connection Error: {e}")
+        return get_fallback_data(str(e))
 
-# 5. 실행 및 저장
+def get_fallback_data(error_msg):
+    return {
+        "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "risk_score": 0,
+        "summary": "System Maintenance",
+        "details": [f"Error: {error_msg}"]
+    }
+
 if __name__ == "__main__":
     data = analyze_risk()
     with open("data.json", "w", encoding="utf-8") as f:
