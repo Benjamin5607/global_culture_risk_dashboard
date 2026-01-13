@@ -2,8 +2,8 @@ name: 12-Hour AI Research Update
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # 매 12시간마다 실행
-  workflow_dispatch: # 수동 실행 버튼
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4 # 최신 버전 권장
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -31,24 +31,22 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python brain.py
 
-      # 1. 변경된 data.json을 레포지토리에 저장 (403 에러 방지 처리)
-     - name: Commit and Push changes
+      # 1. 데이터 저장 단계 (GH_PAT 열쇠 사용)
+      - name: Commit and Push changes
         run: |
           git config --global user.name "Benjamin5607"
-          git config --global user.email "본인메일@example.com" # 본인 깃허브 메일
+          git config --global user.email "Benjamin5607@users.noreply.github.com"
           git add data.json
           git commit -m "Auto Update: Latest Risk Data" || echo "No changes to commit"
-          # 우리가 만든 GH_PAT 열쇠를 사용해서 강제로 문을 엽니다.
           git push https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
-      # 2. 웹 배포를 위한 파일 업로드 (이 단계가 있어야 배포가 시작됨)
+
+      # 2. 웹 배포를 위한 파일 업로드
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.' # 현재 폴더 전체를 배포 (index.html, data.json 등 포함)
+          path: '.'
 
-      # 3. 실제로 GitHub Pages에 배포 실행 (무한 대기 해결)
+      # 3. GitHub Pages 배포 실행
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-
