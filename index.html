@@ -3,144 +3,99 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Global Risk Dashboard</title>
+    <title>Risk Dashboard - Debug Mode</title>
     <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #121212;
-            color: #e0e0e0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            margin: 0;
-        }
-        .container {
-            background-color: #1e1e1e;
-            padding: 2rem;
-            border-radius: 15px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
-            max-width: 600px;
-            width: 90%;
-            text-align: center;
-        }
-        h1 { margin-bottom: 0.5rem; font-size: 1.5rem; color: #888; text-transform: uppercase; letter-spacing: 2px; }
-        
-        .score-box {
-            font-size: 5rem;
-            font-weight: bold;
-            margin: 1rem 0;
-            padding: 1rem;
-            border-radius: 10px;
-            background-color: #2c2c2c;
-            color: #fff;
-        }
-        
-        .status { font-size: 1.2rem; margin-bottom: 1.5rem; font-weight: bold; }
-        
-        .summary-box {
-            background-color: #333;
-            padding: 1rem;
-            border-radius: 8px;
-            text-align: left;
-            margin-bottom: 1rem;
-            line-height: 1.6;
-            border-left: 4px solid #007bff;
-        }
-        
-        .details-list {
-            list-style-type: none;
-            padding: 0;
-            text-align: left;
-        }
-        .details-list li {
-            background: #2a2a2a;
-            margin-bottom: 8px;
-            padding: 12px;
-            border-radius: 5px;
-            font-size: 0.9rem;
-            border-left: 3px solid #555;
-        }
-
-        .timestamp {
-            margin-top: 2rem;
-            font-size: 0.8rem;
-            color: #666;
-            border-top: 1px solid #333;
-            padding-top: 10px;
-        }
-        .loading { color: #888; font-style: italic; }
+        body { background-color: #121212; color: #fff; font-family: sans-serif; padding: 20px; }
+        .box { border: 1px solid #444; padding: 20px; margin-bottom: 20px; border-radius: 8px; }
+        .score { font-size: 3rem; font-weight: bold; }
+        .log-box { background: #000; color: #0f0; font-family: monospace; padding: 10px; height: 150px; overflow-y: scroll; border: 1px solid #333; }
+        button { padding: 10px 20px; background: #007bff; color: white; border: none; cursor: pointer; font-size: 1rem; }
     </style>
 </head>
 <body>
 
-    <div class="container">
-        <h1>Global Risk Level</h1>
-        
-        <div id="risk-score" class="score-box">--</div>
-        <div id="risk-status" class="status loading">Initializing System...</div>
+    <h1>🚨 Dashboard Debugger</h1>
 
-        <div class="summary-box">
-            <strong style="display:block; margin-bottom:5px; color:#fff;">SITUATION SUMMARY:</strong>
-            <span id="risk-summary">Connecting to global news feeds...</span>
-        </div>
-
-        <ul id="risk-details" class="details-list"></ul>
-
-        <div class="timestamp" id="last-updated">Waiting for server response...</div>
+    <div class="box">
+        <h3>Risk Score:</h3>
+        <div id="display-score" class="score">Waiting...</div>
+        <div id="display-summary">Waiting for data...</div>
     </div>
 
+    <div class="box">
+        <h3>News Details:</h3>
+        <ul id="display-details"></ul>
+    </div>
+
+    <h3>🔍 System Log (Show this to Gemini):</h3>
+    <div id="debug-log" class="log-box">Initializing...</div>
+    
+    <button onclick="loadData()">Force Reload</button>
+
     <script>
-        async function loadRiskData() {
+        function log(message) {
+            const logBox = document.getElementById('debug-log');
+            const time = new Date().toLocaleTimeString();
+            logBox.innerHTML += `<div>[${time}] ${message}</div>`;
+            logBox.scrollTop = logBox.scrollHeight;
+        }
+
+        async function loadData() {
+            log("🚀 Starting data fetch...");
+            
             try {
-                // Cache busting (강제 새로고침)
-                const response = await fetch('data.json?v=' + new Date().getTime());
-                if (!response.ok) throw new Error("Data file missing");
+                // 1. data.json 파일이 있는지 확인
+                log("📡 Requesting data.json...");
+                // 캐시 방지용 난수 추가
+                const response = await fetch('data.json?v=' + Math.random());
                 
-                const data = await response.json();
+                log(`📥 Server Response: ${response.status} ${response.statusText}`);
 
-                // 1. Update Score
-                const scoreElement = document.getElementById('risk-score');
-                scoreElement.innerText = data.risk_score;
-
-                // 2. Update Status Color
-                const statusElement = document.getElementById('risk-status');
-                if (data.risk_score >= 80) {
-                    scoreElement.style.color = "#ff4444";
-                    statusElement.innerText = "CRITICAL WARNING";
-                    statusElement.style.color = "#ff4444";
-                } else if (data.risk_score >= 50) {
-                    scoreElement.style.color = "#ffbb33";
-                    statusElement.innerText = "ELEVATED RISK";
-                    statusElement.style.color = "#ffbb33";
-                } else {
-                    scoreElement.style.color = "#00C851";
-                    statusElement.innerText = "STABLE CONDITION";
-                    statusElement.style.color = "#00C851";
+                if (!response.ok) {
+                    throw new Error(`HTTP Error! Status: ${response.status}`);
                 }
 
-                // 3. Update Text
-                document.getElementById('risk-summary').innerText = data.summary;
+                // 2. 텍스트로 먼저 받아와서 확인
+                const textData = await response.text();
+                log(`📄 Raw Data Length: ${textData.length} chars`);
                 
-                const list = document.getElementById('risk-details');
-                list.innerHTML = ''; 
-                data.details.forEach(item => {
-                    const li = document.createElement('li');
-                    li.innerText = item;
-                    list.appendChild(li);
-                });
+                if (textData.length === 0) {
+                    throw new Error("File is empty (0 bytes).");
+                }
 
-                document.getElementById('last-updated').innerText = "Last Updated: " + data.timestamp;
+                // 3. JSON 변환 시도
+                const data = JSON.parse(textData);
+                log("✅ JSON Parsed Successfully!");
+                log(`📊 Found Score: ${data.risk_score}`);
+
+                // 4. 화면 업데이트
+                document.getElementById('display-score').innerText = data.risk_score;
+                document.getElementById('display-score').style.color = data.risk_score > 50 ? 'red' : '#00ff00';
+                
+                document.getElementById('display-summary').innerText = data.summary;
+
+                const list = document.getElementById('display-details');
+                list.innerHTML = '';
+                if (data.details && data.details.length > 0) {
+                    data.details.forEach(item => {
+                        list.innerHTML += `<li>${item}</li>`;
+                    });
+                } else {
+                    list.innerHTML = "<li>No details available in JSON.</li>";
+                }
+
+                log("🎉 Update Complete.");
 
             } catch (error) {
-                console.error("Error:", error);
-                document.getElementById('risk-status').innerText = "SYSTEM OFFLINE";
-                document.getElementById('risk-summary').innerText = "Could not retrieve data. Please check connection.";
+                log(`❌ FATAL ERROR: ${error.message}`);
+                document.getElementById('display-score').innerText = "ERROR";
+                document.getElementById('display-score').style.color = "red";
+                document.getElementById('display-summary').innerText = "Check the Log box below.";
             }
         }
 
-        loadRiskData();
-        setInterval(loadRiskData, 30000); // 30초마다 갱신
+        // 시작 시 실행
+        loadData();
     </script>
 </body>
 </html>
