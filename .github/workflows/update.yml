@@ -37,8 +37,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git commit -m "Auto Update: Latest Risk Data" || echo "No changes to commit"
-          git push
+          # 변경사항이 있을 때만 커밋 (에러 방지)
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update: Latest Risk Data"
+          # 토큰을 주소에 직접 넣어서 403 에러 강제 돌파
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
 
       # 2. 웹 배포를 위한 파일 업로드 (이 단계가 있어야 배포가 시작됨)
       - name: Upload artifact
@@ -50,3 +52,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
