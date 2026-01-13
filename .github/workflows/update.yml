@@ -20,12 +20,12 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.11' # 3.10은 경고가 뜨니 3.11로 상향
 
       - name: Install dependencies
         run: |
-          # google-genai (X) -> google-generativeai (O) 로 변경!
-          pip install google-generativeai
+          # 구글이 강제하는 최신 SDK 설치
+          pip install google-genai
 
       - name: Run AI Brain
         env:
@@ -54,4 +54,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
 
