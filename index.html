@@ -2,50 +2,121 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Risk Intelligence A-Z</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Risk Intelligence A-Z</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
     <style>
-        :root { --dark: #0f172a; --high: #ef4444; --med: #f59e0b; --low: #0ea5e9; }
-        body { font-family: sans-serif; background: #f8fafc; margin: 0; padding: 20px; }
-        .container { max-width: 900px; margin: 0 auto; }
-        .risk-card { background: white; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 8px; cursor: pointer; }
-        .card-header { padding: 15px; display: flex; align-items: center; gap: 15px; font-weight: bold; }
+        :root {
+            --bg: #f1f5f9; --card: #ffffff; --dark: #0f172a;
+            --high: #ef4444; --med: #f59e0b; --low: #0ea5e9; --accent: #2563eb;
+        }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: #1e293b; margin: 0; padding-bottom: 50px; }
+        header { background: var(--dark); color: white; padding: 2.5rem 1rem; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        .container { max-width: 1100px; margin: 2rem auto; padding: 0 1rem; }
+
+        /* Filters */
+        .filter-group { display: flex; justify-content: center; gap: 8px; margin-bottom: 2rem; flex-wrap: wrap; }
+        .btn { padding: 8px 18px; border-radius: 30px; border: 1px solid #e2e8f0; background: white; cursor: pointer; font-weight: 600; font-size: 0.85rem; transition: 0.2s; color: #64748b; }
+        .btn.active { background: var(--dark); color: white; border-color: var(--dark); }
+        .btn:hover:not(.active) { background: #e2e8f0; }
+
+        /* A-Z List */
+        .list-wrapper { display: flex; flex-direction: column; gap: 8px; }
+        .risk-card { background: var(--card); border-radius: 12px; border: 1px solid #e2e8f0; overflow: hidden; transition: 0.2s; }
+        .risk-card:hover { border-color: #cbd5e1; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); }
+
+        .card-header { padding: 1.25rem; display: flex; align-items: center; justify-content: space-between; cursor: pointer; }
+        .term-info { display: flex; align-items: center; gap: 1rem; }
         .dot { width: 10px; height: 10px; border-radius: 50%; }
-        .High { background: var(--high); } .Medium { background: var(--med); } .Low { background: var(--low); }
-        .content { display: none; padding: 20px; border-top: 1px solid #eee; font-size: 0.95rem; line-height: 1.6; color: #444; }
-        .content.active { display: block; }
-        .img-btn { color: #2563eb; text-decoration: none; font-size: 0.8rem; border: 1px solid #2563eb; padding: 2px 8px; border-radius: 4px; }
+        .dot-High { background: var(--high); box-shadow: 0 0 8px var(--high); }
+        .dot-Medium { background: var(--med); }
+        .dot-Low { background: var(--low); }
+        
+        .term-text { font-weight: 800; font-size: 1.1rem; }
+        .badge { font-size: 0.7rem; font-weight: 800; color: #64748b; background: #f1f5f9; padding: 2px 8px; border-radius: 4px; text-transform: uppercase; }
+
+        /* Collapsible Section */
+        .card-body { display: none; padding: 1.5rem; background: #fafafa; border-top: 1px solid #f1f5f9; border-left: 4px solid var(--dark); }
+        .card-body.active { display: block; }
+        .cat-label { font-size: 0.75rem; font-weight: 800; color: var(--accent); margin-bottom: 0.5rem; display: block; }
+        .context-p { font-size: 0.95rem; line-height: 1.6; color: #475569; margin: 0; }
+        .btn-img { display: inline-block; margin-top: 1rem; color: var(--accent); text-decoration: none; font-weight: 700; font-size: 0.85rem; border: 1px solid var(--accent); padding: 5px 12px; border-radius: 6px; transition: 0.2s; }
+        .btn-img:hover { background: var(--accent); color: white; }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1 style="text-align: center;">🛡️ Risk Intelligence A-Z</h1>
-        <div id="list"></div>
-    </div>
-    <script>
-        async function load() {
-            const res = await fetch('data.json?t=' + Date.now());
-            let data = await res.json();
-            data.sort((a, b) => a.term.localeCompare(b.term)); // A-Z 정렬
 
-            const list = document.getElementById('list');
-            data.forEach(item => {
-                const div = document.createElement('div');
-                div.className = 'risk-card';
-                div.innerHTML = `
-                    <div class="card-header" onclick="this.nextElementSibling.classList.toggle('active')">
-                        <div class="dot ${item.risk_level}"></div>
-                        <span>[${item.country}] ${item.term}</span>
-                    </div>
-                    <div class="content">
-                        <strong>Category:</strong> ${item.category}<br><br>
-                        ${item.context}<br><br>
-                        ${item.category === 'Public Figure' ? `<a href="${item.image_url}" target="_blank" class="img-btn">Search Image</a>` : ''}
-                    </div>
-                `;
-                list.appendChild(div);
-            });
+<header>
+    <h1 style="margin:0; font-size: 1.8rem; letter-spacing: -1px;">🛡️ Global Risk Intelligence A-Z</h1>
+    <p style="margin:8px 0 0 0; font-size: 0.9rem; opacity: 0.8;">Market Safety Monitoring (English Only)</p>
+</header>
+
+<div class="container">
+    <div class="filter-group">
+        <button class="btn active" onclick="filterData(event, 'All')">All Categories</button>
+        <button class="btn" onclick="filterData(event, 'Public Figure')">Public Figures</button>
+        <button class="btn" onclick="filterData(event, 'Risk Term')">Risk Terms</button>
+        <button class="btn" onclick="filterData(event, 'Algospeak')">Algospeak</button>
+        <button class="btn" onclick="filterData(event, 'Dangerous Group')">Groups</button>
+        <button class="btn" onclick="filterData(event, 'Adult/Substance')">Substance</button>
+    </div>
+
+    <div class="list-wrapper" id="risk-list">
+        </div>
+</div>
+
+<script>
+    let masterData = [];
+
+    async function loadData() {
+        try {
+            const res = await fetch(`data.json?t=${Date.now()}`);
+            masterData = await res.json();
+            // A-Z Sorting
+            masterData.sort((a, b) => a.term.localeCompare(b.term));
+            render('All');
+        } catch (e) {
+            document.getElementById('risk-list').innerHTML = `<p style="text-align:center; color:red;">Failed to load data. Please ensure data.json exists.</p>`;
         }
-        load();
-    </script>
+    }
+
+    function render(filter) {
+        const list = document.getElementById('risk-list');
+        list.innerHTML = '';
+
+        const filtered = filter === 'All' ? masterData : masterData.filter(d => d.category === filter);
+
+        filtered.forEach(item => {
+            const card = document.createElement('div');
+            card.className = 'risk-card';
+            card.innerHTML = `
+                <div class="card-header" onclick="this.nextElementSibling.classList.toggle('active')">
+                    <div class="term-info">
+                        <div class="dot dot-${item.risk_level}"></div>
+                        <span class="term-text">${item.term}</span>
+                        <span class="badge">${item.country}</span>
+                    </div>
+                    <span style="font-size: 0.8rem; color: #94a3b8;">▼ Expand</span>
+                </div>
+                <div class="card-body">
+                    <span class="cat-label">${item.category}</span>
+                    <p class="context-p">${item.context}</p>
+                    ${item.category === 'Public Figure' ? `<a href="${item.image_url}" target="_blank" class="btn-img">📸 View Figure Image</a>` : ''}
+                    <div style="font-size:0.7rem; color:#94a3b8; margin-top:1.2rem;">ID: #${item.id} | Checked on: ${item.last_updated}</div>
+                </div>
+            `;
+            list.appendChild(card);
+        });
+    }
+
+    function filterData(e, cat) {
+        document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
+        e.currentTarget.classList.add('active');
+        render(cat);
+    }
+
+    document.addEventListener('DOMContentLoaded', loadData);
+</script>
+
 </body>
 </html>
