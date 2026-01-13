@@ -1,11 +1,8 @@
 {
-    "timestamp": "2024-05-28 17:00:00",
-    "risk_score": 70,
-    "summary": "Geopolitical risks remain elevated for the next 12 hours due to ongoing Middle East conflict escalation, North Korean saber-rattling post-satellite launch failure, and persistent global economic uncertainties.",
+    "timestamp": "2026-01-13 16:27:01",
+    "risk_score": 0,
+    "summary": "System Maintenance",
     "details": [
-        "Middle East Conflict Intensification: Continued Israeli military operations in Rafah and the associated humanitarian crisis, alongside potential for escalated cross-border clashes between Israel and Hezbollah, pose significant risk of immediate regional instability and humanitarian concern.",
-        "Korean Peninsula Tensions: North Korea's ongoing response following its failed satellite launch, including potential for sharp rhetoric or minor provocations, could further heighten regional anxiety in the immediate term.",
-        "Global Economic Sentiment: Markets will monitor for any unexpected economic data releases, central bank commentary (particularly from the US Federal Reserve), or shifts in commodity prices (especially oil), influenced by geopolitical developments.",
-        "China-US Dynamics: Ongoing diplomatic exchanges and potential for incidents in disputed territories (e.g., South China Sea) could impact regional and global risk perceptions, though major shifts are less likely within a 12-hour window."
+        "Error: Google API Error: 404"
     ]
 }
