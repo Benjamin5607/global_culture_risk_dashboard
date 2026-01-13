@@ -2,8 +2,8 @@ name: 12-Hour AI Research Update
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # 매 12시간마다 실행 (UTC 기준)
-  workflow_dispatch: # 버튼 눌러서 수동 실행 가능하게 함
+    - cron: '0 */12 * * *' # 매 12시간마다 실행
+  workflow_dispatch: # 수동 실행 버튼
 
 permissions:
   contents: write
@@ -11,34 +11,42 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # 최신 버전 권장
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10' # 3.10 이상 권장
+          python-version: '3.10'
 
       - name: Install dependencies
         run: |
-          pip install google-genai # 최신 라이브러리 설치
+          pip install google-genai
 
       - name: Run AI Brain
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python brain.py
 
+      # 1. 변경된 data.json을 레포지토리에 저장 (403 에러 방지 처리)
       - name: Commit and Push changes
         run: |
-          git config --global user.name "GitHub Action AI"
-          git config --global user.email "action@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git commit -m "Auto Update: Latest Risk Data [skip ci]" || echo "No changes to commit"
+          git commit -m "Auto Update: Latest Risk Data" || echo "No changes to commit"
           git push
 
+      # 2. 웹 배포를 위한 파일 업로드 (이 단계가 있어야 배포가 시작됨)
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.' # 현재 폴더 전체를 배포 (index.html, data.json 등 포함)
 
-
-
+      # 3. 실제로 GitHub Pages에 배포 실행 (무한 대기 해결)
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
