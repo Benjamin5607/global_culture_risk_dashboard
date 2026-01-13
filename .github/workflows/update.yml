@@ -32,16 +32,14 @@ jobs:
         run: python brain.py
 
       # 1. 변경된 data.json을 레포지토리에 저장 (403 에러 방지 처리)
-      - name: Commit and Push changes
+     - name: Commit and Push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Benjamin5607"
+          git config --global user.email "본인메일@example.com" # 본인 깃허브 메일
           git add data.json
-          # 변경사항이 있을 때만 커밋 (에러 방지)
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update: Latest Risk Data"
-          # 토큰을 주소에 직접 넣어서 403 에러 강제 돌파
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-
+          git commit -m "Auto Update: Latest Risk Data" || echo "No changes to commit"
+          # 우리가 만든 GH_PAT 열쇠를 사용해서 강제로 문을 엽니다.
+          git push https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
       # 2. 웹 배포를 위한 파일 업로드 (이 단계가 있어야 배포가 시작됨)
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -52,4 +50,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
 
