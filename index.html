@@ -3,218 +3,101 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Global Geopolitical Risk Dashboard</title>
+    <title>Global Risk Dashboard</title>
     <style>
-        /* Modern Dark Theme */
         body {
-            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-            background-color: #0f172a; /* Deep Navy */
-            color: #e2e8f0;
-            margin: 0;
-            padding: 20px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-        }
-
-        .dashboard {
-            background-color: #1e293b; /* Card Background */
-            border-radius: 20px;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
-            max-width: 700px;
-            width: 100%;
-            padding: 40px;
-            text-align: center;
-            border: 1px solid #334155;
-        }
-
-        h1 {
-            font-size: 1.2rem;
-            text-transform: uppercase;
-            letter-spacing: 3px;
-            color: #94a3b8;
-            margin-bottom: 30px;
-        }
-
-        /* Score Circle */
-        .score-container {
-            position: relative;
-            width: 200px;
-            height: 200px;
-            margin: 0 auto 30px;
+            background-color: #000; /* 완전 검은색 */
+            color: #fff;
+            font-family: sans-serif;
             display: flex;
             flex-direction: column;
-            justify-content: center;
             align-items: center;
-            border-radius: 50%;
-            border: 10px solid #334155; /* Default ring */
-            box-shadow: 0 0 20px rgba(0,0,0,0.3);
-            transition: all 0.5s ease;
-        }
-
-        .score-value {
-            font-size: 5rem;
-            font-weight: 800;
-            line-height: 1;
-        }
-
-        .score-label {
-            font-size: 1rem;
-            text-transform: uppercase;
-            margin-top: 5px;
-            font-weight: 600;
-        }
-
-        /* Summary Box */
-        .summary-box {
-            background-color: #334155;
-            padding: 20px;
-            border-radius: 12px;
-            text-align: left;
-            margin-bottom: 25px;
-            border-left: 5px solid #3b82f6; /* Blue accent */
-        }
-
-        .summary-title {
-            font-size: 0.85rem;
-            text-transform: uppercase;
-            color: #94a3b8;
-            margin-bottom: 8px;
-            display: block;
-        }
-
-        .summary-text {
-            font-size: 1.1rem;
-            line-height: 1.6;
+            justify-content: center;
+            height: 100vh;
             margin: 0;
+            text-align: center;
+        }
+        h1 { color: #888; margin-bottom: 20px; }
+        
+        .score-box {
+            font-size: 8rem; /* 엄청 크게 */
+            font-weight: bold;
+            color: #ff0000; /* 기본 빨강 */
+            margin: 20px 0;
         }
 
-        /* News List */
-        .news-list {
-            list-style: none;
-            padding: 0;
-            text-align: left;
+        .message {
+            font-size: 1.5rem;
+            color: yellow;
+            background: #222;
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid #555;
+            max-width: 80%;
         }
 
-        .news-item {
-            background-color: #0f172a;
-            margin-bottom: 10px;
-            padding: 15px;
-            border-radius: 8px;
-            font-size: 0.95rem;
-            display: flex;
-            align-items: start;
-            border: 1px solid #334155;
-        }
-
-        .news-icon {
-            margin-right: 10px;
-            font-size: 1.2rem;
-        }
-
-        .footer {
-            margin-top: 40px;
+        .debug {
+            margin-top: 50px;
+            color: #444;
             font-size: 0.8rem;
-            color: #64748b;
         }
-
-        /* Status Colors */
-        .status-safe { color: #4ade80; border-color: #4ade80; } /* Green */
-        .status-warning { color: #facc15; border-color: #facc15; } /* Yellow */
-        .status-danger { color: #f87171; border-color: #f87171; } /* Red */
-
     </style>
 </head>
 <body>
 
-    <div class="dashboard">
-        <h1>Global Culture Risk Index</h1>
+    <h1>GLOBAL RISK LEVEL</h1>
+    
+    <div id="score" class="score-box">--</div>
 
-        <div id="risk-circle" class="score-container">
-            <div id="risk-score" class="score-value">--</div>
-            <div id="risk-status" class="score-label">Loading</div>
-        </div>
+    <div id="msg" class="message">Connecting to Server...</div>
 
-        <div class="summary-box">
-            <span class="summary-title">Intelligence Summary</span>
-            <p id="risk-summary" class="summary-text">Connecting to satellite feed...</p>
-        </div>
-
-        <div class="summary-title" style="text-align: left;">Key Indicators</div>
-        <ul id="risk-details" class="news-list">
-            </ul>
-
-        <div class="footer" id="last-updated">System Initializing...</div>
-    </div>
+    <div id="debug" class="debug">Target: Direct URL Mode</div>
 
     <script>
-        async function updateDashboard() {
+        async function getData() {
+            const scoreDiv = document.getElementById('score');
+            const msgDiv = document.getElementById('msg');
+            const debugDiv = document.getElementById('debug');
+
+            // [핵심] 님의 데이터 파일 절대 주소입니다. (오타 수정 금지)
+            const realUrl = "https://benjamin5607.github.io/global_culture_risk_dashboard/data.json";
+            
+            // 캐시 무시하고 강제로 긁어오는 주소 생성
+            const target = realUrl + "?t=" + new Date().getTime();
+
+            debugDiv.innerText = "Trying to fetch: " + target;
+
             try {
-                // [핵심] 3개 있는 그 데이터 파일을 강제로 긁어옵니다.
-                const response = await fetch('data.json?v=' + new Date().getTime());
-                if (!response.ok) throw new Error("Data file not accessible");
+                const response = await fetch(target);
                 
+                if (!response.ok) {
+                    throw new Error("HTTP ERROR: " + response.status);
+                }
+
                 const data = await response.json();
 
-                // 1. 점수 업데이트
-                const score = data.risk_score;
-                const scoreEl = document.getElementById('risk-score');
-                const circleEl = document.getElementById('risk-circle');
-                const statusEl = document.getElementById('risk-status');
+                // 1. 점수 표시
+                scoreDiv.innerText = data.risk_score;
+                
+                // 2. 색상 변경
+                if (data.risk_score < 50) scoreDiv.style.color = "#00ff00"; // 초록
+                else if (data.risk_score < 80) scoreDiv.style.color = "#ffff00"; // 노랑
+                else scoreDiv.style.color = "#ff0000"; // 빨강
 
-                scoreEl.innerText = score;
-
-                // 점수에 따라 색상과 상태 텍스트 변경
-                // 기존 클래스 제거
-                circleEl.classList.remove('status-safe', 'status-warning', 'status-danger');
-
-                if (score >= 70) {
-                    circleEl.classList.add('status-danger');
-                    statusEl.innerText = "CRITICAL";
-                } else if (score >= 40) {
-                    circleEl.classList.add('status-warning');
-                    statusEl.innerText = "ELEVATED";
-                } else {
-                    circleEl.classList.add('status-safe');
-                    statusEl.innerText = "STABLE";
-                }
-
-                // 2. 요약 업데이트
-                document.getElementById('risk-summary').innerText = data.summary;
-
-                // 3. 뉴스 리스트 업데이트
-                const listEl = document.getElementById('risk-details');
-                listEl.innerHTML = ''; // 초기화
-
-                if (data.details && data.details.length > 0) {
-                    data.details.forEach(news => {
-                        const li = document.createElement('li');
-                        li.className = 'news-item';
-                        // 경고 아이콘과 내용 분리
-                        const icon = news.includes('⚠️') ? '🚨' : '📰';
-                        const text = news.replace('⚠️', '').trim();
-                        
-                        li.innerHTML = `<span class="news-icon">${icon}</span><span>${text}</span>`;
-                        listEl.appendChild(li);
-                    });
-                } else {
-                    listEl.innerHTML = '<li class="news-item">No significant risk factors detected.</li>';
-                }
-
-                // 4. 시간 업데이트
-                document.getElementById('last-updated').innerText = "Last Updated: " + data.timestamp;
+                // 3. 메시지 표시
+                msgDiv.innerHTML = `<strong>SUMMARY:</strong><br>${data.summary}<br><br><strong>DETAILS:</strong><br>` + 
+                                   (data.details ? data.details.join("<br>") : "No details");
 
             } catch (error) {
-                console.error("Dashboard Error:", error);
-                document.getElementById('risk-summary').innerText = "Data connection failed. Ensure data.json exists.";
+                scoreDiv.innerText = "ERR";
+                scoreDiv.style.color = "white";
+                msgDiv.innerHTML = "❌ FAILED TO LOAD DATA<br>" + error.message + 
+                                   "<br><br><a href='" + realUrl + "' style='color:cyan'>Click here to verify file exists</a>";
             }
         }
 
-        // 실행
-        updateDashboard();
-        // 30초마다 자동 갱신
-        setInterval(updateDashboard, 30000);
+        getData();
     </script>
+
 </body>
 </html>
