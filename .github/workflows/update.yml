@@ -17,15 +17,20 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      # [순서 변경] AI 돌리기 전에 최신 코드를 먼저 받아서 충돌 방지
+      - name: Pull latest changes first
+        run: |
+          git config --global user.name "Benjamin5607"
+          git config --global user.email "Benjamin5607@users.noreply.github.com"
+          git pull origin main --rebase || echo "Already up to date"
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          # 복잡한 AI SDK 대신 가벼운 requests만 설치 (에러 원천 차단)
-          pip install requests
+        run: pip install requests
 
       - name: Run AI Brain
         env:
@@ -34,9 +39,6 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          git config --global user.name "Benjamin5607"
-          git config --global user.email "Benjamin5607@users.noreply.github.com"
-          git pull origin main --rebase
           git add data.json
           git commit -m "Auto Update: Latest Risk Data" || echo "No changes to commit"
           git push https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
