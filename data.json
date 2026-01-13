@@ -1,11 +1,11 @@
 {
-    "timestamp": "2024-05-31 09:30:00",
-    "risk_score": 68,
-    "summary": "Global geopolitical and economic risks remain elevated for the next 12 hours, driven by persistent Middle East conflicts, potential North Korean provocations, and ongoing economic uncertainties in China.",
+    "timestamp": "2024-05-28 17:00:00",
+    "risk_score": 70,
+    "summary": "Geopolitical risks remain elevated for the next 12 hours due to ongoing Middle East conflict escalation, North Korean saber-rattling post-satellite launch failure, and persistent global economic uncertainties.",
     "details": [
-        "**Middle East:** Continued Israeli military operations in Gaza, particularly Rafah, maintain high humanitarian and regional escalation risks; ongoing Houthi actions in the Red Sea continue to pose threats to shipping and regional stability.",
-        "**Korean Peninsula:** High potential for immediate North Korean provocations (e.g., short-range missile tests, border incidents) following recent rhetoric and actions, increasing inter-Korean tensions and requiring vigilance.",
-        "**China:** Market sensitivity to property sector news and official economic policy statements persists, with underlying concerns about growth momentum and trade relations with the USA; any unexpected data or policy shifts could trigger immediate market reactions.",
-        "**USA:** Financial markets will react to any overnight geopolitical developments or economic data from Asia/Europe; domestic political rhetoric ahead of the upcoming elections continues, alongside the ongoing Federal Reserve interest rate outlook shaping economic sentiment."
+        "Middle East Conflict Intensification: Continued Israeli military operations in Rafah and the associated humanitarian crisis, alongside potential for escalated cross-border clashes between Israel and Hezbollah, pose significant risk of immediate regional instability and humanitarian concern.",
+        "Korean Peninsula Tensions: North Korea's ongoing response following its failed satellite launch, including potential for sharp rhetoric or minor provocations, could further heighten regional anxiety in the immediate term.",
+        "Global Economic Sentiment: Markets will monitor for any unexpected economic data releases, central bank commentary (particularly from the US Federal Reserve), or shifts in commodity prices (especially oil), influenced by geopolitical developments.",
+        "China-US Dynamics: Ongoing diplomatic exchanges and potential for incidents in disputed territories (e.g., South China Sea) could impact regional and global risk perceptions, though major shifts are less likely within a 12-hour window."
     ]
 }
