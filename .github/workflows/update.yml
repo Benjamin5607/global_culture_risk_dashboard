@@ -1,68 +1,39 @@
-name: 12-Hour Final Fix
+name: Simple Data Update
 
 on:
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch:
 
-# [핵심] 권한 강제 부여
 permissions:
   contents: write
-  pages: write
-  id-token: write
-
-# [핵심] 앞에 밀린 작업들 강제로 취소시키기 (무한 대기 뚫는 키)
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
 
 jobs:
-  # 1단계: 데이터 갱신하고 파일 묶기
-  update-and-build:
+  update-data:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Pull latest
+      - name: Pull latest changes
         run: |
           git config --global user.name "Benjamin5607"
           git config --global user.email "Benjamin5607@users.noreply.github.com"
           git pull origin main --rebase || echo "Up to date"
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: Install Tools
+      - name: Install dependencies
         run: pip install requests feedparser
 
       - name: Run News Analyzer
         run: python brain.py
 
-      - name: Commit & Push
+      - name: Commit and Push
         run: |
           git add data.json
           git commit -m "Auto Update: RSS Data" || echo "No changes"
           git push https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
-
-      - name: Upload Artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: '.'
-
-  # 2단계: 배포만 따로 실행 (환경 격리)
-  deploy:
-    needs: update-and-build
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
