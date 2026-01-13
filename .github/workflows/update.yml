@@ -1,4 +1,4 @@
-name: 12-Hour AI Research Update
+name: 12-Hour No-Key Update
 
 on:
   schedule:
@@ -12,7 +12,6 @@ permissions:
 
 jobs:
   build-and-deploy:
-    # [핵심] 배포 환경 명시 (무한 대기 방지)
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -35,20 +34,19 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          # AI 라이브러리 다 필요 없고, 요청(requests)과 RSS파서(feedparser)만 설치
+          pip install requests feedparser
 
-      - name: Run AI Brain
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: Run News Analyzer (No API Key)
+        # 여기에 env(API KEY) 설정이 아예 없습니다!
         run: python brain.py
 
       - name: Commit and Push changes
         run: |
           git add data.json
-          git commit -m "Auto Update: Latest Risk Data" || echo "No changes to commit"
+          git commit -m "Auto Update: RSS Based Risk Data" || echo "No changes to commit"
           git push https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
-
-      # --- 배포 단계 (여기서부터는 파일에 딱 하나만 존재해야 함!) ---
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
