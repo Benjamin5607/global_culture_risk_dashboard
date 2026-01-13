@@ -3,13 +3,47 @@ import json
 import requests
 from datetime import datetime
 
+def get_available_model(api_key):
+    """
+    구글 서버에 '지금 사용 가능한 모델 목록'을 요청해서
+    텍스트 생성이 가능한 모델 중 하나를 자동으로 선택합니다.
+    """
+    url = f"https://generativelanguage.googleapis.com/v1beta/models?key={api_key}"
+    
+    try:
+        response = requests.get(url)
+        if response.status_code != 200:
+            print(f"⚠️ 모델 목록 조회 실패: {response.text}")
+            return "models/gemini-1.5-flash" # 실패 시 기본값 강제 할당
+
+        data = response.json()
+        
+        # 'generateContent' 기능을 지원하는 모델만 필터링
+        for model in data.get('models', []):
+            if 'generateContent' in model.get('supportedGenerationMethods', []):
+                model_name = model['name']
+                # 기왕이면 최신 'gemini' 모델 우선 선택
+                if 'gemini' in model_name:
+                    print(f"✅ Found available model: {model_name}")
+                    return model_name
+        
+        # 목록은 왔는데 적당한 게 없으면 그냥 첫 번째 놈 선택
+        return data['models'][0]['name']
+
+    except Exception as e:
+        print(f"⚠️ 모델 탐색 중 에러: {e}")
+        return "models/gemini-1.5-flash" # 에러 나면 그냥 이거 씀
+
 def analyze_risk():
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         return get_fallback_data("API Key is missing")
 
-    # [모델 변경] 1.5-flash -> gemini-pro (가장 안정적인 모델로 변경)
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={api_key}"
+    # [핵심] 여기서 '되는 놈'을 잡아옵니다.
+    target_model = get_available_model(api_key)
+    
+    # URL 조립 (모델명이 'models/gemini-pro' 형태이므로 바로 붙임)
+    url = f"https://generativelanguage.googleapis.com/v1beta/{target_model}:generateContent?key={api_key}"
     
     headers = {'Content-Type': 'application/json'}
     payload = {
@@ -32,16 +66,18 @@ def analyze_risk():
         response = requests.post(url, headers=headers, json=payload)
         
         if response.status_code != 200:
-            print(f"❌ API Error: {response.text}")
+            print(f"❌ API Error ({target_model}): {response.text}")
             return get_fallback_data(f"Google API Error: {response.status_code}")
 
         result = response.json()
         
-        # gemini-pro 응답 구조 안전하게 추출
+        # 응답 추출
         try:
             text_response = result['candidates'][0]['content']['parts'][0]['text']
         except (KeyError, IndexError):
-            return get_fallback_data("AI Response Structure Changed")
+            # 가끔 모델마다 응답 구조가 다를 수 있어서 안전장치
+            print(f"❌ Unexpected structure from {target_model}: {result}")
+            return get_fallback_data("AI Response Structure Error")
         
         clean_text = text_response.replace("```json", "").replace("```", "").strip()
         return json.loads(clean_text)
