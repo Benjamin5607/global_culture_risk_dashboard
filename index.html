@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,9 +24,8 @@
             width: 90%;
             text-align: center;
         }
-        h1 { margin-bottom: 0.5rem; font-size: 1.5rem; color: #888; }
+        h1 { margin-bottom: 0.5rem; font-size: 1.5rem; color: #888; text-transform: uppercase; letter-spacing: 2px; }
         
-        /* 리스크 점수 디자인 */
         .score-box {
             font-size: 5rem;
             font-weight: bold;
@@ -35,7 +34,6 @@
             border-radius: 10px;
             background-color: #2c2c2c;
             color: #fff;
-            transition: all 0.3s ease;
         }
         
         .status { font-size: 1.2rem; margin-bottom: 1.5rem; font-weight: bold; }
@@ -47,6 +45,7 @@
             text-align: left;
             margin-bottom: 1rem;
             line-height: 1.6;
+            border-left: 4px solid #007bff;
         }
         
         .details-list {
@@ -56,8 +55,8 @@
         }
         .details-list li {
             background: #2a2a2a;
-            margin-bottom: 5px;
-            padding: 10px;
+            margin-bottom: 8px;
+            padding: 12px;
             border-radius: 5px;
             font-size: 0.9rem;
             border-left: 3px solid #555;
@@ -67,86 +66,81 @@
             margin-top: 2rem;
             font-size: 0.8rem;
             color: #666;
+            border-top: 1px solid #333;
+            padding-top: 10px;
         }
-
-        /* 로딩 애니메이션 */
         .loading { color: #888; font-style: italic; }
     </style>
 </head>
 <body>
 
     <div class="container">
-        <h1>Global Cultural Risk Level</h1>
+        <h1>Global Risk Level</h1>
         
         <div id="risk-score" class="score-box">--</div>
-        <div id="risk-status" class="status loading">Loading data...</div>
+        <div id="risk-status" class="status loading">Initializing System...</div>
 
         <div class="summary-box">
-            <strong>Summary:</strong>
-            <p id="risk-summary">Fetching latest intelligence...</p>
+            <strong style="display:block; margin-bottom:5px; color:#fff;">SITUATION SUMMARY:</strong>
+            <span id="risk-summary">Connecting to global news feeds...</span>
         </div>
 
         <ul id="risk-details" class="details-list"></ul>
 
-        <div class="timestamp" id="last-updated">Waiting for update...</div>
+        <div class="timestamp" id="last-updated">Waiting for server response...</div>
     </div>
 
     <script>
-        // 캐시 방지 기능을 넣은 데이터 로딩 함수
         async function loadRiskData() {
             try {
-                // [핵심] ?v=현재시간 을 붙여서 브라우저가 매번 새 파일로 인식하게 함
+                // Cache busting (강제 새로고침)
                 const response = await fetch('data.json?v=' + new Date().getTime());
-                
-                if (!response.ok) throw new Error("Data file not found");
+                if (!response.ok) throw new Error("Data file missing");
                 
                 const data = await response.json();
 
-                // 1. 점수 업데이트
+                // 1. Update Score
                 const scoreElement = document.getElementById('risk-score');
                 scoreElement.innerText = data.risk_score;
 
-                // 2. 점수에 따른 색상 변경
+                // 2. Update Status Color
                 const statusElement = document.getElementById('risk-status');
                 if (data.risk_score >= 80) {
-                    scoreElement.style.color = "#ff4444"; // 빨강 (위험)
-                    statusElement.innerText = "CRITICAL RISK";
+                    scoreElement.style.color = "#ff4444";
+                    statusElement.innerText = "CRITICAL WARNING";
                     statusElement.style.color = "#ff4444";
                 } else if (data.risk_score >= 50) {
-                    scoreElement.style.color = "#ffbb33"; // 노랑 (주의)
-                    statusElement.innerText = "MODERATE RISK";
+                    scoreElement.style.color = "#ffbb33";
+                    statusElement.innerText = "ELEVATED RISK";
                     statusElement.style.color = "#ffbb33";
                 } else {
-                    scoreElement.style.color = "#00C851"; // 초록 (안전)
-                    statusElement.innerText = "LOW RISK";
+                    scoreElement.style.color = "#00C851";
+                    statusElement.innerText = "STABLE CONDITION";
                     statusElement.style.color = "#00C851";
                 }
 
-                // 3. 요약 및 상세 내용 업데이트
+                // 3. Update Text
                 document.getElementById('risk-summary').innerText = data.summary;
                 
                 const list = document.getElementById('risk-details');
-                list.innerHTML = ''; // 기존 목록 초기화
+                list.innerHTML = ''; 
                 data.details.forEach(item => {
                     const li = document.createElement('li');
                     li.innerText = item;
                     list.appendChild(li);
                 });
 
-                // 4. 시간 업데이트
                 document.getElementById('last-updated').innerText = "Last Updated: " + data.timestamp;
 
             } catch (error) {
-                console.error("Error loading data:", error);
-                document.getElementById('risk-status').innerText = "Data Offline";
+                console.error("Error:", error);
+                document.getElementById('risk-status').innerText = "SYSTEM OFFLINE";
+                document.getElementById('risk-summary').innerText = "Could not retrieve data. Please check connection.";
             }
         }
 
-        // 페이지 열리면 바로 실행
         loadRiskData();
-
-        // (선택) 60초마다 자동으로 새로고침해서 최신 데이터 유지
-        setInterval(loadRiskData, 60000);
+        setInterval(loadRiskData, 30000); // 30초마다 갱신
     </script>
 </body>
 </html>
