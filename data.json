@@ -1,8 +1,11 @@
 {
-    "timestamp": "2026-01-13 16:16:44",
-    "risk_score": 0,
-    "summary": "System Maintenance",
+    "timestamp": "2024-05-31 09:30:00",
+    "risk_score": 68,
+    "summary": "Global geopolitical and economic risks remain elevated for the next 12 hours, driven by persistent Middle East conflicts, potential North Korean provocations, and ongoing economic uncertainties in China.",
     "details": [
-        "Error: Google API Error: 403"
+        "**Middle East:** Continued Israeli military operations in Gaza, particularly Rafah, maintain high humanitarian and regional escalation risks; ongoing Houthi actions in the Red Sea continue to pose threats to shipping and regional stability.",
+        "**Korean Peninsula:** High potential for immediate North Korean provocations (e.g., short-range missile tests, border incidents) following recent rhetoric and actions, increasing inter-Korean tensions and requiring vigilance.",
+        "**China:** Market sensitivity to property sector news and official economic policy statements persists, with underlying concerns about growth momentum and trade relations with the USA; any unexpected data or policy shifts could trigger immediate market reactions.",
+        "**USA:** Financial markets will react to any overnight geopolitical developments or economic data from Asia/Europe; domestic political rhetoric ahead of the upcoming elections continues, alongside the ongoing Federal Reserve interest rate outlook shaping economic sentiment."
     ]
 }
