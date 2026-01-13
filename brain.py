@@ -1,6 +1,6 @@
 import os
 import json
-import requests # 라이브러리 대신 직접 요청 도구 사용
+import requests
 from datetime import datetime
 
 def analyze_risk():
@@ -8,8 +8,8 @@ def analyze_risk():
     if not api_key:
         return get_fallback_data("API Key is missing")
 
-    # SDK 대신 구글 서버 주소로 직접 요청 (모델명 에러 해결의 열쇠)
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+    # [모델 변경] 1.5-flash -> gemini-pro (가장 안정적인 모델로 변경)
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={api_key}"
     
     headers = {'Content-Type': 'application/json'}
     payload = {
@@ -29,20 +29,20 @@ def analyze_risk():
     }
 
     try:
-        # 우편물 보내듯 직접 전송
         response = requests.post(url, headers=headers, json=payload)
         
-        # 응답 확인
         if response.status_code != 200:
             print(f"❌ API Error: {response.text}")
             return get_fallback_data(f"Google API Error: {response.status_code}")
 
         result = response.json()
         
-        # 데이터 추출 (구조가 약간 다름)
-        text_response = result['candidates'][0]['content']['parts'][0]['text']
+        # gemini-pro 응답 구조 안전하게 추출
+        try:
+            text_response = result['candidates'][0]['content']['parts'][0]['text']
+        except (KeyError, IndexError):
+            return get_fallback_data("AI Response Structure Changed")
         
-        # JSON 청소
         clean_text = text_response.replace("```json", "").replace("```", "").strip()
         return json.loads(clean_text)
 
