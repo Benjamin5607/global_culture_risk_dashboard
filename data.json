@@ -1,8 +1,10 @@
 {
-    "timestamp": "2026-01-13 16:27:01",
-    "risk_score": 0,
-    "summary": "System Maintenance",
+    "timestamp": "2026-01-13 16:30:50",
+    "risk_score": 45,
+    "summary": "Analyzed 40 news articles from BBC World.",
     "details": [
-        "Error: Google API Error: 404"
+        "⚠️ Trump briefed on military and covert options for Iran, sources say",
+        "⚠️ 'They just kept killing': Eyewitnesses describe deadly crackdown in Iran",
+        "- We choose Denmark over US, Greenland's PM says"
     ]
 }
