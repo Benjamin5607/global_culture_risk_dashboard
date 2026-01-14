@@ -2,7 +2,10 @@
     {
         "term": "Gyatt",
         "group": "language",
-        "country": ["US", "Global"],
+        "country": [
+            "US",
+            "Global"
+        ],
         "category": "Sexual Slang",
         "risk_level": "Medium",
         "context": {
@@ -18,7 +21,11 @@
     {
         "term": "Andrew Tate",
         "group": "person",
-        "country": ["US", "UK", "RO"],
+        "country": [
+            "US",
+            "UK",
+            "RO"
+        ],
         "category": "Public Figure",
         "risk_level": "High",
         "context": {
@@ -34,7 +41,10 @@
     {
         "term": "Proud Boys",
         "group": "group",
-        "country": ["US", "CA"],
+        "country": [
+            "US",
+            "CA"
+        ],
         "category": "Extremist Group",
         "risk_level": "High",
         "context": {
@@ -50,7 +60,10 @@
     {
         "term": "Tide Pod Challenge",
         "group": "trend",
-        "country": ["US", "Global"],
+        "country": [
+            "US",
+            "Global"
+        ],
         "category": "TikTok Trend",
         "risk_level": "High",
         "context": {
@@ -66,7 +79,9 @@
     {
         "term": "Sealioning",
         "group": "language",
-        "country": ["Online"],
+        "country": [
+            "Online"
+        ],
         "category": "Bullying",
         "risk_level": "Medium",
         "context": {
