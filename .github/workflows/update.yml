@@ -1,39 +1,61 @@
-name: Simple Data Update
+name: Groq AI Update
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */6 * * *' # 6시간마다 실행 (Groq은 빠르니까 더 자주!)
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
-  update-data:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull latest changes
+      - name: Pull latest
         run: |
           git config --global user.name "Benjamin5607"
           git config --global user.email "Benjamin5607@users.noreply.github.com"
           git pull origin main --rebase || echo "Up to date"
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install requests feedparser
+      - name: Install Requests
+        run: pip install requests
 
-      - name: Run News Analyzer
+      - name: Run Groq AI Agent
+        env: 
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} # [핵심] 키 전달
         run: python brain.py
 
-      - name: Commit and Push
+      - name: Commit & Push
         run: |
           git add data.json
-          git commit -m "Auto Update: RSS Data" || echo "No changes"
+          git commit -m "Auto Update: Groq AI Data" || echo "No changes"
           git push https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
+
+      - name: Build Page
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
