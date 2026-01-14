@@ -3,10 +3,15 @@ name: 🏭 Factory Bulk Generator & Deploy
 on:
   workflow_dispatch: # 버튼 클릭용
 
+# [핵심] 교통 정리: 공장 버튼을 연타해도, 옛날 작업은 취소하고 최신 작업만 배포함
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 permissions:
   contents: write
-  pages: write      # [추가] 배포 권한
-  id-token: write   # [추가] 배포 권한
+  pages: write
+  id-token: write
 
 jobs:
   bulk-generate-and-deploy:
@@ -43,9 +48,9 @@ jobs:
         run: |
           git add data.json
           git commit -m "🏭 Bulk Data Injection & Deploy" || echo "No changes"
-          git push https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
+          git push origin main
 
-      # --- [추가된 배포 코드] 여기서부터 웹사이트로 쏴줍니다 ---
+      # --- 배포 섹션 ---
 
       - name: 7. 웹사이트 파일 묶기
         uses: actions/upload-pages-artifact@v3
