@@ -1,5 +1,23 @@
 [
     {
+        "term": "Debug Mode Active",
+        "group": "trend",
+        "country": [
+            "Test"
+        ],
+        "category": "System Check",
+        "risk_level": "Low",
+        "trend_score": 99,
+        "status": "Active",
+        "first_detected": "2026-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "If you see this, the Python script is working, but API might be failed.",
+            "ko": "이게 보이면 파이썬은 정상입니다. API 키나 호출에 문제가 있는 겁니다.",
+            "ja": "これが表示されたらシステムは正常です。"
+        }
+    },
+    {
         "term": "Proud Boys",
         "group": "group",
         "country": [
