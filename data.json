@@ -1,10 +1,35 @@
-{
-    "timestamp": "2026-01-13 16:49:55 UTC",
-    "risk_score": 42,
-    "summary": "Detected 4 risk-related keywords across major global news outlets.",
-    "details": [
-        "⚠️ 'They just kept killing': Eyewitnesses describe deadly crackdown in Iran",
-        "⚠️ Hunt for gunman after Corsican exile is shot dead at mother's funeral",
-        "⚠️ Custody extended for owner of Swiss ski bar after deadly fire"
-    ]
-}
+[
+    {
+        "term": "Skibidi Toilet",
+        "country": ["US", "UK"],
+        "category": "Algospeak",
+        "risk_level": "Low",
+        "context": "초현실적인 화장실 머리 밈. 폭력적이거나 위험하진 않지만, 아이들의 주의 집중력 저하와 관련하여 부모들이 우려함. 마케팅 사용 시 '너무 어린 타겟'으로 보일 수 있음.",
+        "first_detected": "2023-02-07",
+        "last_updated": "2026-01-14",
+        "trend_score": 85,
+        "status": "Active"
+    },
+    {
+        "term": "From the river to the sea",
+        "country": ["US", "UK", "AU"],
+        "category": "Hate Speech",
+        "risk_level": "High",
+        "context": "이스라엘-팔레스타인 갈등과 관련된 정치적 슬로건. 특정 맥락에서는 반유대주의적 표현으로 해석되어 플랫폼 제재 대상이 될 수 있음. 브랜드 사용 절대 금지.",
+        "first_detected": "2023-10-07",
+        "last_updated": "2026-01-14",
+        "trend_score": 98,
+        "status": "Active"
+    },
+    {
+        "term": "Rizz",
+        "country": ["US", "CA"],
+        "category": "Public Figure",
+        "risk_level": "Low",
+        "context": "Charisma(카리스마)의 줄임말. 이성에게 어필하는 능력. 긍정적인 밈으로 널리 쓰임. 브랜드 마케팅 활용도 높음.",
+        "first_detected": "2022-06-01",
+        "last_updated": "2025-12-20",
+        "trend_score": 40,
+        "status": "Archived"
+    }
+]
