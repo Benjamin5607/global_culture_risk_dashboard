@@ -5,84 +5,76 @@ import time
 import random
 from datetime import datetime
 
-# 깃허브 Secrets에서 키를 가져옵니다
+# API 키 가져오기
 API_KEY = os.environ.get("GROQ_API_KEY")
 
 def get_current_date():
     return datetime.now().strftime("%Y-%m-%d")
 
-def generate_massive_data():
-    print("🏭 GitHub Cloud Factory: Five Eyes (US/UK/CA/AU/NZ) Mode Started...")
+def generate_massive_data_safe():
+    print("🏭 Factory Started (Model: Llama 3.1 Instant + Image Support)...")
 
     if not API_KEY:
-        print("❌ Error: GROQ_API_KEY not found in Secrets.")
+        print("❌ Error: GROQ_API_KEY not found.")
         return
 
     # 1. 기존 데이터 로드
     try:
         with open("data.json", "r", encoding="utf-8") as f:
             current_data = json.load(f)
-        print(f"📂 Loaded existing data: {len(current_data)} items")
     except:
         current_data = []
-        print("📂 No existing data. Starting fresh.")
 
     existing_terms = {item['term'].lower() for item in current_data}
+    print(f"📂 Loaded {len(current_data)} existing items.")
 
-    # ==========================================
-    # 질문 리스트 생성 (미국, 영국, 캐나다, 호주, 뉴질랜드 집중)
-    # ==========================================
+    # 2. 5개국 타겟 질문 리스트
     prompts = []
     target_countries = ["USA", "UK", "Canada", "Australia", "New Zealand"]
     
-    # 전략: 국가별 + 알파벳별 분할 정복
-    alphabet_chunks = ["ABCDE", "FGHIJ", "KLMNO", "PQRST", "UVWXYZ"]
-    
     for country in target_countries:
-        # 알파벳별 슬랭 찾기
-        for chunk in alphabet_chunks:
-            prompts.append(f"Gen Z internet slang in {country} starting with letters {chunk}")
-        
-        # 국가별 특수 주제
-        prompts.append(f"Political dog whistles used in {country}")
-        prompts.append(f"Controversial influencers in {country} (2024-2025)")
-        prompts.append(f"Corporate buzzwords specific to {country}")
+        prompts.append(f"Trending internet slang in {country}")
+        prompts.append(f"Controversial public figures in {country}") # 인물
+        prompts.append(f"Dangerous extremist groups in {country}")   # 그룹
+        prompts.append(f"Political dog whistles in {country}")
+        prompts.append(f"TikTok trends in {country}")
 
-    # 공통 주제
-    common_topics = [
-        "Incel and Manosphere terminology (English)",
-        "Gaming and Twitch chat slang (Western)",
-        "Algospeak words on TikTok (English)",
-        "Crypto slang"
-    ]
-    prompts.extend(common_topics)
+    random.shuffle(prompts)
 
-    random.shuffle(prompts) # 순서 섞기
-
-    # ==========================================
-    # 공장 가동 (깃허브 액션 시간 제한 고려하여 최대 15번 배치만 실행)
-    # ==========================================
-    # 로컬과 달리 깃허브는 너무 오래 돌면 강제 종료될 수 있어서
-    # 한 번 실행에 15번 질문(약 100~120개 생산) 정도로 제한하는 게 안전합니다.
-    max_batches = 15 
-    
     url = "https://api.groq.com/openai/v1/chat/completions"
     headers = {"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"}
 
-    for i, specific_topic in enumerate(prompts[:max_batches]):
-        print(f"\n🔄 Batch [{i+1}/{max_batches}] Topic: '{specific_topic}'")
+    # 공장 가동 (최대 15번 반복 - 깃허브 시간 제한 고려)
+    max_batches = 15
+    for i, topic in enumerate(prompts[:max_batches]):
+        if len(current_data) >= 500:
+            print("\n🎉 500개 달성!")
+            break
 
+        print(f"\n🔄 [{i+1}/{max_batches}] '{topic}' (이미지 찾는 중...)")
+
+        # [핵심] 여기에 image_url을 요청하는 줄을 넣었습니다! 👇
         system_prompt = f"""
-        List 8 distinct real-world terms related to "{specific_topic}".
-        Target Countries: USA, UK, Canada, Australia, New Zealand ONLY.
-        Focus on trends from 2024-2026.
+        List 8 distinct items related to "{topic}". 
+        Focus on 2024-2026 trends in USA, UK, Canada, Australia, NZ.
         
         Output JSON object with key "items".
-        Schema: term, group, country (list), category, risk_level, trend_score (40-99), status ('Active'), first_detected, last_updated, context: {{en, ko, ja}}
+        Schema: 
+        - term: string
+        - image_url: string (URL of a public image/logo if available, otherwise "null")
+        - group: 'language' | 'person' | 'group' | 'trend'
+        - country: list of strings
+        - category: string
+        - risk_level: 'High' | 'Medium' | 'Low'
+        - trend_score: Integer (40-99)
+        - status: 'Active'
+        - first_detected: 'YYYY-MM-DD'
+        - last_updated: '{get_current_date()}'
+        - context: {{ "en": "...", "ko": "...", "ja": "..." }}
         """
 
         payload = {
-            "model": "llama-3.3-70b-versatile",
+            "model": "llama-3.1-8b-instant", # 가장 빠른 모델
             "messages": [
                 {"role": "system", "content": "Output JSON only."},
                 {"role": "user", "content": system_prompt}
@@ -93,31 +85,36 @@ def generate_massive_data():
         try:
             response = requests.post(url, headers=headers, json=payload)
             if response.status_code == 200:
-                result = response.json()
-                content = result['choices'][0]['message']['content']
-                batch_data = json.loads(content).get('items', [])
+                content = response.json()['choices'][0]['message']['content']
+                items = json.loads(content).get('items', [])
                 
                 added = 0
-                for item in batch_data:
-                    term_key = item['term'].lower().strip()
-                    if term_key not in existing_terms:
-                        item['term'] = item['term'].strip()
+                for item in items:
+                    if item['term'].lower() not in existing_terms:
+                        # 이미지 URL이 없거나 이상하면 null로 처리
+                        if 'image_url' not in item: item['image_url'] = "null"
+                        
                         item['last_updated'] = get_current_date()
                         current_data.append(item)
-                        existing_terms.add(term_key)
+                        existing_terms.add(item['term'].lower())
                         added += 1
-                print(f"   ✅ Added {added} items.")
+                print(f"   ✅ {added} items added.")
+                
+            elif response.status_code == 429:
+                print("   ⏳ Rate limit. Sleeping 30s...")
+                time.sleep(30)
             else:
                 print(f"   ❌ API Error: {response.text}")
+
         except Exception as e:
             print(f"   ⚠️ Exception: {e}")
 
-        time.sleep(1) # 1초 휴식
+        time.sleep(2) # 2초 휴식
 
     # 저장
-    print(f"\n💾 Saving to data.json... Total items: {len(current_data)}")
+    print(f"\n💾 Saving {len(current_data)} items to data.json...")
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(current_data, f, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
-    generate_massive_data()
+    generate_massive_data_safe()
