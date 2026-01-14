@@ -1,5 +1,24 @@
 [
     {
+        "term": "Proud Boys",
+        "group": "group",
+        "country": [
+            "US",
+            "CA"
+        ],
+        "category": "Extremist Group",
+        "risk_level": "High",
+        "context": {
+            "ko": "북미의 극우 파시스트 폭력 단체. 캐나다에서는 테러 단체로 지정됨.",
+            "en": "Far-right fascist violent group in North America. Designated as a terrorist group in Canada.",
+            "ja": "北米の極右ファシスト暴力団体。カナダではテロ組織に指定されている。"
+        },
+        "first_detected": "2016-09-01",
+        "last_updated": "2025-12-01",
+        "trend_score": 70,
+        "status": "Review"
+    },
+    {
         "term": "Gyatt",
         "group": "language",
         "country": [
@@ -16,7 +35,7 @@
         "first_detected": "2023-11-01",
         "last_updated": "2026-01-14",
         "trend_score": 88,
-        "status": "Active"
+        "status": "Archived"
     },
     {
         "term": "Andrew Tate",
@@ -36,26 +55,7 @@
         "first_detected": "2022-05-15",
         "last_updated": "2026-01-10",
         "trend_score": 95,
-        "status": "Active"
-    },
-    {
-        "term": "Proud Boys",
-        "group": "group",
-        "country": [
-            "US",
-            "CA"
-        ],
-        "category": "Extremist Group",
-        "risk_level": "High",
-        "context": {
-            "ko": "북미의 극우 파시스트 폭력 단체. 캐나다에서는 테러 단체로 지정됨.",
-            "en": "Far-right fascist violent group in North America. Designated as a terrorist group in Canada.",
-            "ja": "北米の極右ファシスト暴力団体。カナダではテロ組織に指定されている。"
-        },
-        "first_detected": "2016-09-01",
-        "last_updated": "2025-12-01",
-        "trend_score": 70,
-        "status": "Review"
+        "status": "Archived"
     },
     {
         "term": "Tide Pod Challenge",
@@ -92,6 +92,6 @@
         "first_detected": "2014-09-01",
         "last_updated": "2026-01-12",
         "trend_score": 60,
-        "status": "Active"
+        "status": "Archived"
     }
 ]
