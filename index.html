@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Global Culture Risk Database</title>
     <style>
-        /* 기본 스타일 (다크 모드) */
+        /* [기본 스타일] */
         body { background-color: #121212; color: #e0e0e0; font-family: 'Segoe UI', sans-serif; margin: 0; padding: 20px; }
         .container { max-width: 1400px; margin: 0 auto; }
         
@@ -14,26 +14,334 @@
         h1 { margin: 0; font-size: 24px; color: #fff; }
         .last-update { font-size: 12px; color: #666; margin-top: 5px; }
 
-        /* 언어 버튼 */
-        .lang-switcher { display: flex; gap: 5px; }
-        .lang-btn { background: #1e1e1e; color: #888; border: 1px solid #444; padding: 5px 10px; cursor: pointer; border-radius: 4px; transition: 0.2s; }
-        .lang-btn:hover { background: #333; }
-        .lang-btn.active { background: #3b82f6; color: #fff; border-color: #3b82f6; }
-
+        /* [상단 컨트롤 패널] */
+        .controls { display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 20px; align-items: center; background: #1e1e1e; padding: 15px; border-radius: 12px; border: 1px solid #333; }
+        
         /* 탭 버튼 */
-        .tabs { display: flex; gap: 10px; margin-bottom: 20px; overflow-x: auto; }
-        .tab-btn { background-color: #1e1e1e; color: #888; border: 1px solid #333; padding: 10px 20px; cursor: pointer; border-radius: 8px; white-space: nowrap; transition: 0.2s; }
-        .tab-btn:hover { background-color: #2c2c2c; }
+        .tabs { display: flex; gap: 5px; }
+        .tab-btn { background-color: #2c2c2c; color: #aaa; border: 1px solid #444; padding: 8px 16px; cursor: pointer; border-radius: 6px; font-weight: bold; transition: 0.2s; }
+        .tab-btn:hover { background-color: #333; color: #fff; }
         .tab-btn.active { background-color: #3b82f6; color: white; border-color: #3b82f6; }
 
+        /* 카테고리 드롭다운 */
+        .category-select { background: #121212; color: #fff; border: 1px solid #444; padding: 8px; border-radius: 6px; min-width: 150px; cursor: pointer; }
+
+        /* 언어 버튼 */
+        .lang-switcher { margin-left: auto; display: flex; gap: 5px; }
+        .lang-btn { background: #2c2c2c; color: #888; border: 1px solid #444; padding: 5px 10px; cursor: pointer; border-radius: 4px; font-size: 12px; }
+        .lang-btn.active { background: #3b82f6; color: #fff; border-color: #3b82f6; }
+
+        /* [A-Z 알파벳 필터바] */
+        .alpha-filter { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 10px; width: 100%; justify-content: center; }
+        .alpha-btn { background: transparent; color: #666; border: 1px solid #333; width: 30px; height: 30px; border-radius: 4px; cursor: pointer; font-size: 12px; transition: 0.2s; }
+        .alpha-btn:hover { background: #333; color: #fff; }
+        .alpha-btn.active { background: #3b82f6; color: #fff; border-color: #3b82f6; font-weight: bold; }
+        .alpha-btn.disabled { opacity: 0.3; cursor: default; }
+
         /* 테이블 공통 */
-        .table-wrapper { background: #1e1e1e; border-radius: 12px; overflow-x: auto; box-shadow: 0 4px 20px rgba(0,0,0,0.4); }
+        .table-wrapper { background: #1e1e1e; border-radius: 12px; overflow-x: auto; box-shadow: 0 4px 20px rgba(0,0,0,0.4); margin-top: 20px; }
         table { width: 100%; border-collapse: collapse; min-width: 800px; }
         th { background-color: #252525; color: #aaa; text-align: left; padding: 15px; border-bottom: 2px solid #333; font-size: 13px; text-transform: uppercase; }
-        td { padding: 15px; border-bottom: 1px solid #2c2c2c; font-size: 14px; vertical-align: middle; }
+        td { padding: 15px; border-bottom: 1px solid #2c2c2c; font-size: 14px; vertical-align: top; }
         tr:hover { background-color: #2a2a2a; }
 
-        /* [스타일] 인물/그룹용 (프로필 사진) */
+        /* 스타일 요소들 */
+        .profile-cell { display: flex; align-items: center; gap: 12px; }
+        .avatar { width: 45px; height: 45px; border-radius: 50%; object-fit: cover; background: #333; border: 2px solid #444; }
+        .search-icon { text-decoration: none; color: #666; font-size: 12px; display: block; margin-top: 2px; }
+        .search-icon:hover { color: #3b82f6; }
+
+        .slang-term { font-size: 1.3em; font-weight: bold; color: #3b82f6; display: block; margin-bottom: 4px; }
+        
+        /* 카테고리 뱃지 디자인 */
+        .cat-badge { 
+            display: inline-block; padding: 4px 8px; border-radius: 12px; font-size: 11px; 
+            background: #333; color: #ccc; border: 1px solid #444; margin-right: 4px; margin-bottom: 4px;
+        }
+        
+        /* 리스크 뱃지 */
+        .risk-badge { padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; }
+        .risk-high { background: #451a1a; color: #ff6b6b; border: 1px solid #ff6b6b; }
+        .risk-medium { background: #453a1a; color: #feca57; border: 1px solid #feca57; }
+        .risk-low { background: #1a452a; color: #1dd1a1; border: 1px solid #1dd1a1; }
+        
+        .score-bar-bg { background: #333; height: 6px; width: 100%; border-radius: 3px; margin-top: 5px; }
+        .score-bar-fill { height: 100%; border-radius: 3px; }
+        .col-context { color: #ccc; line-height: 1.5; font-size: 0.95em; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div>
+                <h1>Global Culture Risk Database</h1>
+                <div id="last-updated" class="last-update">Connecting...</div>
+            </div>
+        </header>
+
+        <div class="controls">
+            <div class="tabs">
+                <button class="tab-btn active" onclick="filterGroup('all')">ALL</button>
+                <button class="tab-btn" onclick="filterGroup('language')">💬 Slang</button>
+                <button class="tab-btn" onclick="filterGroup('person')">👤 People</button>
+                <button class="tab-btn" onclick="filterGroup('group')">⚠️ Groups</button>
+                <button class="tab-btn" onclick="filterGroup('trend')">📱 Trends</button>
+            </div>
+
+            <select id="category-filter" class="category-select" onchange="filterCategory(this.value)">
+                <option value="all">All Categories</option>
+            </select>
+
+            <div class="lang-switcher">
+                <button class="lang-btn active" onclick="changeLanguage('en')">ENG</button>
+                <button class="lang-btn" onclick="changeLanguage('ko')">KOR</button>
+                <button class="lang-btn" onclick="changeLanguage('ja')">JPN</button>
+            </div>
+
+            <div class="alpha-filter" id="alpha-filter">
+                <button class="alpha-btn active" onclick="filterAlpha('all')">ALL</button>
+                </div>
+        </div>
+
+        <div class="table-wrapper">
+            <table>
+                <thead id="table-head"></thead>
+                <tbody id="table-body"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        let allData = [];
+        let filteredData = []; // 현재 필터링된 데이터
+        let currentLang = 'ko'; 
+        let currentGroup = 'all';
+        let currentAlpha = 'all';
+        let currentCat = 'all';
+
+        async function init() {
+            try {
+                const res = await fetch('data.json?v=' + Date.now());
+                if (!res.ok) throw new Error("Data fetch failed");
+                allData = await res.json();
+                document.getElementById('last-updated').innerText = "Updated: " + new Date().toLocaleString();
+                
+                // 알파벳 버튼 생성
+                createAlphaButtons();
+                // 초기 렌더링
+                applyFilters();
+            } catch (e) {
+                console.error(e);
+                document.getElementById('table-body').innerHTML = '<tr><td colspan="6" style="text-align:center; padding:30px;">Failed to load data.</td></tr>';
+            }
+        }
+
+        function createAlphaButtons() {
+            const alphaContainer = document.getElementById('alpha-filter');
+            const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+            alphabet.forEach(char => {
+                const btn = document.createElement('button');
+                btn.className = 'alpha-btn';
+                btn.innerText = char;
+                btn.onclick = () => filterAlpha(char);
+                alphaContainer.appendChild(btn);
+            });
+        }
+
+        // --- 필터 로직 ---
+        function filterGroup(group) {
+            currentGroup = group;
+            updateActiveBtn('.tab-btn', group === 'all' ? 0 : null, group); 
+            // 탭 변경 시 알파벳/카테고리 초기화 여부는 선택사항 (여기선 유지)
+            applyFilters();
+        }
+
+        function filterAlpha(char) {
+            currentAlpha = char;
+            // 버튼 스타일 업데이트
+            document.querySelectorAll('.alpha-btn').forEach(b => {
+                b.classList.remove('active');
+                if (b.innerText === char || (char === 'all' && b.innerText === 'ALL')) b.classList.add('active');
+            });
+            applyFilters();
+        }
+
+        function filterCategory(cat) {
+            currentCat = cat;
+            applyFilters();
+        }
+
+        function changeLanguage(lang) {
+            currentLang = lang;
+            document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
+            document.querySelector(`.lang-btn[onclick="changeLanguage('${lang}')"]`).classList.add('active');
+            renderTable(); // 데이터는 그대로, 렌더링만 다시
+        }
+
+        function updateActiveBtn(selector, index, value) {
+            document.querySelectorAll(selector).forEach(b => b.classList.remove('active'));
+            // 단순화를 위해 텍스트나 클릭 이벤트로 찾아서 활성화
+            if (value) {
+               const target = Array.from(document.querySelectorAll(selector)).find(b => b.getAttribute('onclick').includes(`'${value}'`));
+               if(target) target.classList.add('active');
+            }
+        }
+
+        // --- 핵심: 데이터 필터링 및 카테고리 목록 갱신 ---
+        function applyFilters() {
+            // 1. 그룹 필터
+            let temp = currentGroup === 'all' ? allData : allData.filter(d => d.group === currentGroup);
+
+            // 2. 카테고리 목록 업데이트 (현재 그룹에 있는 카테고리만 수집)
+            updateCategoryDropdown(temp);
+
+            // 3. 카테고리 필터 적용
+            if (currentCat !== 'all') {
+                temp = temp.filter(d => d.category === currentCat);
+            }
+
+            // 4. 알파벳 필터 적용
+            if (currentAlpha !== 'all') {
+                temp = temp.filter(d => d.term.toUpperCase().startsWith(currentAlpha));
+            }
+
+            filteredData = temp;
+            
+            // 5. 정렬 (최신순 -> 이름순)
+            // 사전 모드일 때는 이름순이 더 좋음
+            if (currentGroup === 'language') {
+                filteredData.sort((a, b) => a.term.localeCompare(b.term));
+            } else {
+                filteredData.sort((a, b) => new Date(b.last_updated) - new Date(a.last_updated));
+            }
+
+            renderTable();
+        }
+
+        function updateCategoryDropdown(data) {
+            const select = document.getElementById('category-filter');
+            // 현재 선택된 값 기억
+            const savedVal = currentCat;
+            
+            // 카테고리 추출 및 정렬
+            const categories = [...new Set(data.map(d => d.category))].sort();
+            
+            select.innerHTML = '<option value="all">All Categories</option>';
+            categories.forEach(cat => {
+                const option = document.createElement('option');
+                option.value = cat;
+                option.innerText = cat;
+                select.appendChild(option);
+            });
+
+            // 값 복원 (만약 필터링된 데이터에도 해당 카테고리가 있다면)
+            if (categories.includes(savedVal)) {
+                select.value = savedVal;
+            } else {
+                select.value = 'all';
+                currentCat = 'all';
+            }
+        }
+
+        function renderTable() {
+            const thead = document.getElementById('table-head');
+            const tbody = document.getElementById('table-body');
+            tbody.innerHTML = '';
+            
+            // 100개 제한 (렌더링 속도)
+            const displayData = filteredData.slice(0, 100);
+
+            // [뷰 모드 설정]
+            if (currentGroup === 'language') {
+                // --- 얼반 딕셔너리 뷰 ---
+                thead.innerHTML = `
+                    <tr>
+                        <th width="20%">Word</th>
+                        <th width="15%">Category</th>
+                        <th>Definition</th>
+                        <th style="text-align:right">Status</th>
+                    </tr>
+                `;
+                
+                if (displayData.length === 0) {
+                    tbody.innerHTML = '<tr><td colspan="4" style="text-align:center; padding:30px;">No Results</td></tr>';
+                    return;
+                }
+
+                displayData.forEach(item => {
+                    let context = item.context[currentLang] || item.context['en'] || "No definition.";
+                    const tr = document.createElement('tr');
+                    tr.innerHTML = `
+                        <td>
+                            <span class="slang-term">${item.term}</span>
+                            <span class="cat-badge" style="background:#222; border:none;">${item.country ? item.country[0] : 'Global'}</span>
+                        </td>
+                        <td><span class="cat-badge">${item.category}</span></td>
+                        <td class="col-context">${context}</td>
+                        <td style="text-align:right; color:#666;">${item.status}</td>
+                    `;
+                    tbody.appendChild(tr);
+                });
+
+            } else {
+                // --- 기본 리스크 뷰 ---
+                thead.innerHTML = `
+                    <tr>
+                        <th width="25%">Identity</th>
+                        <th>Risk</th>
+                        <th>Score</th>
+                        <th>Info</th>
+                        <th>Context</th>
+                        <th style="text-align:right">Status</th>
+                    </tr>
+                `;
+
+                if (displayData.length === 0) {
+                    tbody.innerHTML = '<tr><td colspan="6" style="text-align:center; padding:30px;">No Results</td></tr>';
+                    return;
+                }
+
+                displayData.forEach(item => {
+                    let context = item.context[currentLang] || item.context['en'];
+                    let imgUrl = item.image_url;
+                    if (!imgUrl || imgUrl === "null" || imgUrl === "") imgUrl = `https://ui-avatars.com/api/?name=${encodeURIComponent(item.term)}&background=random&color=fff&size=64`;
+
+                    let riskClass = item.risk_level === 'High' ? 'risk-high' : (item.risk_level === 'Medium' ? 'risk-medium' : 'risk-low');
+                    let score = item.trend_score || 0;
+                    let scoreColor = score >= 80 ? '#ff6b6b' : (score >= 50 ? '#feca57' : '#1dd1a1');
+
+                    const tr = document.createElement('tr');
+                    tr.innerHTML = `
+                        <td>
+                            <div class="profile-cell">
+                                <img src="${imgUrl}" class="avatar" onerror="this.src='https://ui-avatars.com/api/?name=U&background=333&color=fff'">
+                                <div>
+                                    <span class="term-text">${item.term}</span>
+                                    <a href="https://www.google.com/search?q=${encodeURIComponent(item.term)}" target="_blank" class="search-icon">🔍 Search</a>
+                                </div>
+                            </div>
+                        </td>
+                        <td><span class="risk-badge ${riskClass}">${item.risk_level}</span></td>
+                        <td>
+                            <div style="font-weight:bold;">${score}</div>
+                            <div class="score-bar-bg"><div class="score-bar-fill" style="width:${score}%; background:${scoreColor}"></div></div>
+                        </td>
+                        <td>
+                            <span class="cat-badge">${item.country ? item.country[0] : 'Global'}</span>
+                            <span class="cat-badge" style="background:#2a2a2a; border-color:#444;">${item.category}</span>
+                        </td>
+                        <td class="col-context">${context}</td>
+                        <td style="text-align:right; color:#666;">${item.status}</td>
+                    `;
+                    tbody.appendChild(tr);
+                });
+            }
+        }
+
+        init();
+    </script>
+</body>
+</html>
         .profile-cell { display: flex; align-items: center; gap: 12px; }
         .avatar { width: 45px; height: 45px; border-radius: 50%; object-fit: cover; background: #333; border: 2px solid #444; }
         .search-icon { text-decoration: none; color: #666; font-size: 12px; margin-top: 4px; display: inline-block; }
@@ -385,3 +693,4 @@
     </script>
 </body>
 </html>
+
