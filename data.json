@@ -1,5 +1,21 @@
 [
     {
+        "term": "SS",
+        "group": "Symbol",
+        "country": "Germany",
+        "category": "Neo-Nazi",
+        "risk_level": "High",
+        "trend_score": "0.8",
+        "status": "Active",
+        "first_detected": "1950s",
+        "last_updated": "2020-01-01",
+        "context": {
+            "en": "A common symbol used by the Nazi party, consisting of two Sig runes.",
+            "ko": "나치당의 일반적인 기호로, 두 개의 시그 룬스를 구성합니다.",
+            "ja": " ナチ党によく使われる記号で、2つのシグ・ルーンを形成します。"
+        }
+    },
+    {
         "term": "Pepe the Frog",
         "group": "White Supremacy Movement",
         "country": "International",
