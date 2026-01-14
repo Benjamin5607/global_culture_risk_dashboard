@@ -1,86 +1,117 @@
+import os
 import json
-import feedparser
 import requests
+import random
 from datetime import datetime
 
-# 100% English Keywords
-RISK_KEYWORDS = [
-    "war", "conflict", "crisis", "missile", "nuclear", "attack", 
-    "dead", "kill", "threat", "tension", "military", "army", 
-    "sanction", "collapse", "emergency", "danger", "strike", "blast"
-]
+# 1. Groq API 키 가져오기
+API_KEY = os.environ.get("GROQ_API_KEY")
 
-# Multiple Sources to prevent empty data
-RSS_FEEDS = [
-    "http://feeds.bbci.co.uk/news/world/rss.xml",       # BBC World
-    "http://rss.cnn.com/rss/edition_world.rss",         # CNN World
-    "https://www.nytimes.com/services/xml/rss/nyt/World.xml" # NYT World
-]
+def get_current_date():
+    return datetime.now().strftime("%Y-%m-%d")
 
-def analyze_risk_from_news():
-    combined_entries = []
+def update_database():
+    if not API_KEY:
+        print("❌ Error: GROQ_API_KEY is missing.")
+        return
+
+    print("🚀 Starting Groq AI Agent...")
+
+    # 2. 기존 데이터 로드
+    try:
+        with open("data.json", "r", encoding="utf-8") as f:
+            current_data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        current_data = []
+
+    # 3. 주제 랜덤 선택
+    topics = [
+        "Gen Z Slang", 
+        "Controversial Influencer", 
+        "Viral TikTok Challenge", 
+        "Alt-Right Hate Symbol", 
+        "Algospeak (Hidden words)"
+    ]
+    topic = random.choice(topics)
+    print(f"🤖 Researching Topic: {topic}")
+
+    # 4. Groq (Llama3-70b) 요청 설정
+    url = "https://api.groq.com/openai/v1/chat/completions"
     
-    # "I am a browser, not a bot" header
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        "Authorization": f"Bearer {API_KEY}",
+        "Content-Type": "application/json"
     }
 
-    print("Fetching news feeds...")
-
-    for url in RSS_FEEDS:
-        try:
-            # Download XML first using requests (to bypass blocks)
-            response = requests.get(url, headers=headers, timeout=10)
-            if response.status_code == 200:
-                # Parse the downloaded string
-                feed = feedparser.parse(response.content)
-                combined_entries.extend(feed.entries)
-                print(f"✅ Fetched {len(feed.entries)} articles from {url}")
-            else:
-                print(f"❌ Failed to fetch {url}: {response.status_code}")
-        except Exception as e:
-            print(f"⚠️ Error fetching {url}: {e}")
-
-    # Analysis Logic
-    risk_score = 30
-    details = []
-    keyword_count = 0
-
-    # Analyze latest 20 articles
-    for entry in combined_entries[:20]:
-        title = entry.title
-        # Check for keywords (Case insensitive)
-        found_keywords = [word for word in RISK_KEYWORDS if word in title.lower()]
-        
-        if found_keywords:
-            keyword_count += len(found_keywords)
-            details.append(f"⚠️ {title}")
-        
-    # Calculate Score
-    risk_score += (keyword_count * 3)
-    risk_score = min(max(risk_score, 10), 98) # Min 10, Max 98
-
-    # Fill details if empty
-    if not details:
-        details = [entry.title for entry in combined_entries[:5]]
-        summary_text = "No immediate high-risk keywords detected in major headlines."
-    else:
-        summary_text = f"Detected {keyword_count} risk-related keywords across major global news outlets."
-
-    # Final English Data Structure
-    risk_data = {
-        "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC"),
-        "risk_score": risk_score,
-        "summary": summary_text,
-        "details": details[:7] # Show top 7 items
-    }
+    # 프롬프트: Llama3는 똑똑해서 JSON 구조를 잘 지킵니다.
+    system_prompt = """
+    You are a cultural risk intelligence analyst. 
+    Output MUST be a valid JSON object only. No markdown, no commentary.
+    """
     
-    return risk_data
+    user_prompt = f"""
+    Find one specific real-world example of a "{topic}" that is currently relevant globally or in the West.
+    
+    Return a single JSON object with this EXACT schema:
+    {{
+        "term": "Term Name",
+        "group": "Choose one: 'language', 'person', 'group', 'trend'",
+        "country": ["Country Code", "e.g. US"],
+        "category": "Short Category",
+        "risk_level": "High/Medium/Low",
+        "trend_score": (Integer 1-100),
+        "status": "Active",
+        "first_detected": "YYYY-MM-DD",
+        "last_updated": "{get_current_date()}",
+        "context": {{
+            "en": "English explanation (max 2 sentences).",
+            "ko": "Korean explanation (max 2 sentences).",
+            "ja": "Japanese explanation (max 2 sentences)."
+        }}
+    }}
+    """
+
+    payload = {
+        "model": "llama3-70b-8192", # Llama 3 70B (똑똑하고 빠름)
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ],
+        "temperature": 0.7,
+        "response_format": {"type": "json_object"} # JSON 강제 모드 (핵심!)
+    }
+
+    try:
+        # 5. API 호출
+        response = requests.post(url, headers=headers, json=payload)
+        
+        if response.status_code != 200:
+            print(f"❌ Groq API Error: {response.text}")
+            return
+
+        result = response.json()
+        content = result['choices'][0]['message']['content']
+        
+        # JSON 파싱
+        new_entry = json.loads(content)
+        
+        # 6. 중복 검사 및 저장
+        existing_terms = {item['term'] for item in current_data}
+        
+        if new_entry['term'] in existing_terms:
+            print(f"⚠️ Duplicate: {new_entry['term']}. Skipping.")
+        else:
+            current_data.insert(0, new_entry)
+            # 데이터 50개 유지
+            if len(current_data) > 50:
+                current_data = current_data[:50]
+                
+            with open("data.json", "w", encoding="utf-8") as f:
+                json.dump(current_data, f, indent=4, ensure_ascii=False)
+            print(f"✅ Success! Added: {new_entry['term']}")
+
+    except Exception as e:
+        print(f"❌ Python Error: {e}")
 
 if __name__ == "__main__":
-    data = analyze_risk_from_news()
-    
-    with open("data.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
-        
-    print(f"✅ Data updated. Score: {data['risk_score']}")
+    update_database()
