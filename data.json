@@ -5,7 +5,11 @@
         "country": ["US", "Global"],
         "category": "Sexual Slang",
         "risk_level": "Medium",
-        "context": "'Goddamn'의 줄임말로, 주로 여성의 신체(엉덩이)가 매력적일 때 사용하는 감탄사. 성희롱으로 간주될 수 있어 브랜드 사용 시 주의 요망.",
+        "context": {
+            "ko": "'Goddamn'의 줄임말로, 주로 여성의 신체(엉덩이)가 매력적일 때 사용하는 감탄사. 성희롱으로 간주될 수 있음.",
+            "en": "Short for 'Goddamn', used as an exclamation mainly when seeing an attractive female body part (buttocks). Can be considered sexual harassment.",
+            "ja": "「Goddamn」の略で、主に女性の身体（お尻）が魅力的な時に使う感嘆詞。セクハラと見なされる可能性がある。"
+        },
         "first_detected": "2023-11-01",
         "last_updated": "2026-01-14",
         "trend_score": 88,
@@ -17,7 +21,11 @@
         "country": ["US", "UK", "RO"],
         "category": "Public Figure",
         "risk_level": "High",
-        "context": "극단적인 남성우월주의(Misogyny)를 설파하는 인플루언서. 그의 발언을 인용하거나 이미지를 사용하는 것은 브랜드 평판에 치명적임.",
+        "context": {
+            "ko": "극단적인 남성우월주의(Misogyny)를 설파하는 인플루언서. 브랜드 평판에 치명적임.",
+            "en": "Influencer preaching extreme misogyny. Citing him or using his image is fatal to brand reputation.",
+            "ja": "極端な男性優越主義（ミソジニー）を説くインフルエンサー。彼を引用したり画像を使用することはブランドの評判に致命的。"
+        },
         "first_detected": "2022-05-15",
         "last_updated": "2026-01-10",
         "trend_score": 95,
@@ -29,7 +37,11 @@
         "country": ["US", "CA"],
         "category": "Extremist Group",
         "risk_level": "High",
-        "context": "북미의 극우 파시스트 폭력 단체. 정치적 폭력과 연관됨. 캐나다에서는 테러 단체로 지정됨.",
+        "context": {
+            "ko": "북미의 극우 파시스트 폭력 단체. 캐나다에서는 테러 단체로 지정됨.",
+            "en": "Far-right fascist violent group in North America. Designated as a terrorist group in Canada.",
+            "ja": "北米の極右ファシスト暴力団体。カナダではテロ組織に指定されている。"
+        },
         "first_detected": "2016-09-01",
         "last_updated": "2025-12-01",
         "trend_score": 70,
@@ -41,7 +53,11 @@
         "country": ["US", "Global"],
         "category": "TikTok Trend",
         "risk_level": "High",
-        "context": "세제 캡슐을 먹는 위험한 챌린지. 과거 유행했으나 최근 밈 형태로 다시 언급됨. 안전 관련 규정 위반 소지 있음.",
+        "context": {
+            "ko": "세제 캡슐을 먹는 위험한 챌린지. 최근 밈 형태로 다시 언급됨.",
+            "en": "Dangerous challenge of eating laundry detergent pods. Recently resurfaced as a meme.",
+            "ja": "洗剤カプセルを食べる危険なチャレンジ。最近ミームとして再び言及されている。"
+        },
         "first_detected": "2018-01-01",
         "last_updated": "2026-01-14",
         "trend_score": 45,
@@ -53,7 +69,11 @@
         "country": ["Online"],
         "category": "Bullying",
         "risk_level": "Medium",
-        "context": "예의 바른 척하며 끊임없이 증거를 요구해 상대방을 지치게 만드는 괴롭힘 기법. 트롤링의 일종.",
+        "context": {
+            "ko": "예의 바른 척하며 끊임없이 증거를 요구해 상대방을 지치게 만드는 괴롭힘 기법.",
+            "en": "Harassment technique of politely but persistently demanding evidence to exhaust the opponent.",
+            "ja": "礼儀正しいふりをして絶えず証拠を要求し、相手を疲れさせる嫌がらせの手法。"
+        },
         "first_detected": "2014-09-01",
         "last_updated": "2026-01-12",
         "trend_score": 60,
