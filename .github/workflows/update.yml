@@ -1,18 +1,19 @@
-name: Groq AI Update
+name: Final Auto Deploy
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # 6시간마다 실행 (Groq은 빠르니까 더 자주!)
-  workflow_dispatch:
+    - cron: '0 */4 * * *' # 4시간마다 자동 실행
+  workflow_dispatch:      # 버튼 클릭 수동 실행
+
+# [핵심] 교통 정리 기능: 배포 충돌 시 옛날 거 취소하고 새거 우선 실행
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 permissions:
   contents: write
   pages: write
   id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
 
 jobs:
   build-and-deploy:
@@ -23,39 +24,41 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout
+      - name: 1. 코드 가져오기
         uses: actions/checkout@v4
 
-      - name: Pull latest
+      - name: 2. 최신 코드 동기화 (충돌 방지)
         run: |
           git config --global user.name "Benjamin5607"
           git config --global user.email "Benjamin5607@users.noreply.github.com"
-          git pull origin main --rebase || echo "Up to date"
+          git pull origin main --rebase || echo "Already up to date"
 
-      - name: Setup Python
+      - name: 3. 파이썬 설치
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: Install Requests
+      - name: 4. 라이브러리 설치
         run: pip install requests
 
-      - name: Run Groq AI Agent
+      - name: 5. AI 브레인 가동 (데이터 갱신)
         env: 
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} # [핵심] 키 전달
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python brain.py
 
-      - name: Commit & Push
+      - name: 6. 데이터 저장 및 업로드
         run: |
           git add data.json
-          git commit -m "Auto Update: Groq AI Data" || echo "No changes"
-          git push https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
+          git commit -m "Auto Update: New Risk Data" || echo "No changes to commit"
+          git push origin main
 
-      - name: Build Page
+      # --- 웹사이트 배포 섹션 ---
+
+      - name: 7. 웹사이트 파일 묶기
         uses: actions/upload-pages-artifact@v3
         with:
           path: '.'
 
-      - name: Deploy
+      - name: 8. GitHub Pages에 배포하기
         id: deployment
         uses: actions/deploy-pages@v4
