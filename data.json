@@ -111,5 +111,662 @@
         "last_updated": "2026-01-12",
         "trend_score": 60,
         "status": "Archived"
+    },
+    {
+        "term": "Toxic Masculinity",
+        "group": "trend",
+        "country": [
+            "US",
+            "CA"
+        ],
+        "category": "Social Issue",
+        "risk_level": "High",
+        "trend_score": 85,
+        "status": "Active",
+        "first_detected": "2022-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "Refers to the harmful and outdated masculine ideals that perpetuate misogyny and gender-based violence.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Mansplaining",
+        "group": "language",
+        "country": [
+            "UK",
+            "AU"
+        ],
+        "category": "Feminism",
+        "risk_level": "Medium",
+        "trend_score": 60,
+        "status": "Active",
+        "first_detected": "2018-06-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "When a man explains something to a woman in a condescending or patronizing manner, often assuming she lacks knowledge.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Incel",
+        "group": "group",
+        "country": [
+            "US",
+            "CA"
+        ],
+        "category": "Online Community",
+        "risk_level": "High",
+        "trend_score": 90,
+        "status": "Active",
+        "first_detected": "2017-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "Short for 'involuntary celibate', refers to a subculture of men who feel they are unfairly denied romantic or sexual relationships.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Genderfluid",
+        "group": "person",
+        "country": [
+            "UK",
+            "US"
+        ],
+        "category": "LGBTQ+",
+        "risk_level": "Low",
+        "trend_score": 50,
+        "status": "Active",
+        "first_detected": "2015-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "Describes someone whose gender identity changes over time, or a person who identifies as multiple genders.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "HeForShe",
+        "group": "trend",
+        "country": [
+            "UN"
+        ],
+        "category": "Feminism",
+        "risk_level": "Low",
+        "trend_score": 40,
+        "status": "Active",
+        "first_detected": "2014-09-20",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "A solidarity movement for the advancement of women, which encourages men and boys to become advocates for gender equality.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Eco-Warrior Bella",
+        "group": "person",
+        "country": [
+            "US"
+        ],
+        "category": "Environmental Activism",
+        "risk_level": "Medium",
+        "trend_score": 67,
+        "status": "Active",
+        "first_detected": "2024-07-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "Influencer known for promoting extreme eco-friendly practices, sparking controversy over its practicality.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "The Digital Dissident",
+        "group": "group",
+        "country": [
+            "RU"
+        ],
+        "category": "Cybersecurity",
+        "risk_level": "High",
+        "trend_score": 93,
+        "status": "Active",
+        "first_detected": "2024-03-15",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "A group of hacktivists exposing governmental surveillance, causing global concern over data privacy.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Dr. Lee's Wellness",
+        "group": "person",
+        "country": [
+            "CN"
+        ],
+        "category": "Health and Wellness",
+        "risk_level": "Low",
+        "trend_score": 42,
+        "status": "Active",
+        "first_detected": "2024-10-20",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "A controversial figure promoting unconventional health remedies, sparking debates over their efficacy.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Sustainability Squad",
+        "group": "group",
+        "country": [
+            "CA"
+        ],
+        "category": "Environmental Activism",
+        "risk_level": "Medium",
+        "trend_score": 71,
+        "status": "Active",
+        "first_detected": "2024-05-10",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "A group of influencers advocating for sustainable living, but criticized for their excessive consumerism.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "CryptoKing23",
+        "group": "person",
+        "country": [
+            "JP"
+        ],
+        "category": "Cryptocurrency",
+        "risk_level": "High",
+        "trend_score": 97,
+        "status": "Active",
+        "first_detected": "2024-02-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "A cryptocurrency influencer accused of promoting fraudulent investment schemes.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Incels",
+        "group": "group",
+        "country": [
+            "US",
+            "CA"
+        ],
+        "category": "Hate Group",
+        "risk_level": "High",
+        "trend_score": 95,
+        "status": "Active",
+        "first_detected": "2017-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "A community of men who identify as involuntarily celibate and often express misogynistic views.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Jordan Peterson",
+        "group": "person",
+        "country": [
+            "CA"
+        ],
+        "category": "Public Figure",
+        "risk_level": "Medium",
+        "trend_score": 55,
+        "status": "Active",
+        "first_detected": "2016-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "A Canadian psychologist and author known for his conservative views on gender and politics.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "TERF",
+        "group": "trend",
+        "country": [
+            "GB",
+            "US"
+        ],
+        "category": "Social Issue",
+        "risk_level": "High",
+        "trend_score": 80,
+        "status": "Active",
+        "first_detected": "2019-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "Stands for Trans-Exclusionary Radical Feminist, referring to individuals who exclude trans women from feminist spaces.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Slay",
+        "group": "language",
+        "country": [
+            "US"
+        ],
+        "category": "Expression",
+        "risk_level": "Low",
+        "trend_score": 87,
+        "status": "Active",
+        "first_detected": "2024-02-15",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "To do something exceptionally well.",
+            "ko": "어떤 일을 매우 잘하는 것을 말합니다.",
+            "ja": "何かをすることを非常にうまくやることを意味します。"
+        }
+    },
+    {
+        "term": "Lowkey/Highkey",
+        "group": "language",
+        "country": [
+            "US",
+            "CA"
+        ],
+        "category": "Expression",
+        "risk_level": "Low",
+        "trend_score": 92,
+        "status": "Active",
+        "first_detected": "2024-05-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "To express a subtle or intense feeling about something.",
+            "ko": "บาง것에 대해 미묘하거나 강렬한 감정을 표현할 때 사용됩니다.",
+            "ja": "何かについて微妙なまたは強い気持ちを表現するときに使います。"
+        }
+    },
+    {
+        "term": "Cap",
+        "group": "language",
+        "country": [
+            "US"
+        ],
+        "category": "Expression",
+        "risk_level": "Medium",
+        "trend_score": 81,
+        "status": "Active",
+        "first_detected": "2024-08-20",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "To lie or exaggerate.",
+            "ko": "거짓말을 하거나 과장하는 것을 의미합니다.",
+            "ja": "嘘をつくこと、または誇張することを表します。"
+        }
+    },
+    {
+        "term": "Vibe Check",
+        "group": "trend",
+        "country": [
+            "US",
+            "AU"
+        ],
+        "category": "Social Media",
+        "risk_level": "Low",
+        "trend_score": 95,
+        "status": "Active",
+        "first_detected": "2024-10-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "To assess the atmosphere or mood of a social situation.",
+            "ko": "사회적 상황의 분위나 기분을 평가하는 것입니다.",
+            "ja": "社会的な状況の雰囲気や気分を評価することを意味します。"
+        }
+    },
+    {
+        "term": "Goblin Mode",
+        "group": "trend",
+        "country": [
+            "UK",
+            "US"
+        ],
+        "category": "Lifestyle",
+        "risk_level": "Low",
+        "trend_score": 89,
+        "status": "Active",
+        "first_detected": "2025-02-15",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "To reject societal expectations and live life on one's own terms.",
+            "ko": "사회적 기대)를 거부하고 스스로의 삶을 산다는 것을 의미합니다.",
+            "ja": "社会的な期待を拒否し、自分自身のやり方で生活することを意味します。"
+        }
+    },
+    {
+        "term": "Woke Culture",
+        "group": "trend",
+        "country": [
+            "US"
+        ],
+        "category": "Social Justice",
+        "risk_level": "Medium",
+        "trend_score": 67,
+        "status": "Active",
+        "first_detected": "2022-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "Refers to the perceived overemphasis on social justice and political correctness.",
+            "ko": "사회 정의와 정치 적절성을 강조하는 경향을 말한다.",
+            "ja": "社会正義や政治的正しさを重視している風潮を指す。"
+        }
+    },
+    {
+        "term": "Globalist",
+        "group": "language",
+        "country": [
+            "US",
+            "UK"
+        ],
+        "category": "Economy",
+        "risk_level": "High",
+        "trend_score": 82,
+        "status": "Active",
+        "first_detected": "2020-06-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "Used to describe those who support global cooperation and free trade, often with a negative connotation.",
+            "ko": "세계적인 협력과 자유 무역을 지지하는 사람들을 비판적으로 묘사하는 용어.",
+            "ja": "世界的な協力や自由貿易を支持する人々を否定的に表現する言葉。"
+        }
+    },
+    {
+        "term": "Deep State",
+        "group": "language",
+        "country": [
+            "US",
+            "AU"
+        ],
+        "category": "Government",
+        "risk_level": "Medium",
+        "trend_score": 59,
+        "status": "Active",
+        "first_detected": "2017-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "Refers to a perceived secret network of powerful, unelected government officials and bureaucrats.",
+            "ko": "선거되지 않은 권력있는 정부 관리와 관료들의 비공개 네트워크를 가리킨다.",
+            "ja": "選挙では選ばれていない、権力を握る政府職員や官僚の非公开ネットワークを指す。"
+        }
+    },
+    {
+        "term": "Culture War",
+        "group": "trend",
+        "country": [
+            "US",
+            "UK",
+            "AU"
+        ],
+        "category": "Social Justice",
+        "risk_level": "High",
+        "trend_score": 95,
+        "status": "Active",
+        "first_detected": "2020-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "Describes the conflict between conservative and liberal values, particularly on social issues.",
+            "ko": "보수적과 자유주의적 가치 사이의 충돌, 특히 사회 문제에 관한 것을 묘사한다.",
+            "ja": "保守的な価値観と自由主義的な価値観の間の対立、特に社会問題に関するものを表現する。"
+        }
+    },
+    {
+        "term": "Elites",
+        "group": "group",
+        "country": [
+            "US",
+            "EU"
+        ],
+        "category": "Economy",
+        "risk_level": "Medium",
+        "trend_score": 74,
+        "status": "Active",
+        "first_detected": "2019-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "Used to describe the wealthy and influential, often with a tone of resentment or distrust.",
+            "ko": "부유하고 영향력 있는 계층을 묘사하는 데 쓰이며, 종종 불만이나 불신의 색채를 띄고 있다.",
+            "ja": "富裕層や影響力のある人々を指し、しばしば不満や不信のニュアンスを含む。"
+        }
+    },
+    {
+        "term": "HODL",
+        "group": "trend",
+        "country": [
+            "US",
+            "KR",
+            "JP"
+        ],
+        "category": "Investing",
+        "risk_level": "Low",
+        "trend_score": 80,
+        "status": "Active",
+        "first_detected": "2013-12-18",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "HODL is a slang term that means to hold onto a cryptocurrency, rather than selling it, with the expectation that its value will rise over time.",
+            "ko": "HODL은 암호화폐를 가지고 있는 것을 의미하며, 가치가 시간이 지나면 상승할 것이라는 기대하에 판매하지 않는다는 것을 의미한다.",
+            "ja": "HODLとは、値上がりすることが期待できるという理由で、暗号通貨を売却せずに手元に留めることを意味するスラングである。"
+        }
+    },
+    {
+        "term": "Altcoin",
+        "group": "language",
+        "country": [
+            "CN",
+            "RU",
+            "IN"
+        ],
+        "category": "Alternative",
+        "risk_level": "Medium",
+        "trend_score": 50,
+        "status": "Active",
+        "first_detected": "2011-07-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "An altcoin is a type of cryptocurrency that is an alternative to Bitcoin, often with different features or technologies.",
+            "ko": "Altcoin은 비트코인의 대안으로, 종종 다른 기능이나 기술을 갖는 암호화폐의 일종이다.",
+            "ja": "Altcoinとは、ビットコインの代替として、しばしば異なる機能や技術を持つ暗号通貨の一種である。"
+        }
+    },
+    {
+        "term": "Rekt",
+        "group": "person",
+        "country": [
+            "US",
+            "CA",
+            "AU"
+        ],
+        "category": "Loss",
+        "risk_level": "High",
+        "trend_score": 95,
+        "status": "Active",
+        "first_detected": "2017-03-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "Rekt refers to a person who has suffered a significant financial loss due to a poor investment or trading decision in the cryptocurrency market.",
+            "ko": "Rekt는 암호화폐 시장에서 투자나 거래 판단 실수로 인해 큰 재정적 손실을 입은 사람을 말한다.",
+            "ja": "Rektとは、暗号通貨市場で投資や取引の決定ミスによって大きな経済損失を被った人を指す用語である。"
+        }
+    },
+    {
+        "term": "FUD",
+        "group": "trend",
+        "country": [
+            "DE",
+            "FR",
+            "UK"
+        ],
+        "category": "Sentiment",
+        "risk_level": "Medium",
+        "trend_score": 65,
+        "status": "Active",
+        "first_detected": "2014-09-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "FUD stands for Fear, Uncertainty, and Doubt, which refers to the spread of negative or false information about a cryptocurrency to influence its price.",
+            "ko": "FUD는 두려움, 불확실성, 그리고 의구심을 의미하며, 암호화폐에 대한 부정적이거나 허위 정보를 퍼트려 가격에 영향을 미치는 것을 말한다.",
+            "ja": "FUDとは、暗号通貨への投資を思いとどまらせるため、恐怖・不確実性・疑念を煽るものである。"
+        }
+    },
+    {
+        "term": "Whale",
+        "group": "group",
+        "country": [
+            "SG",
+            "HK",
+            "MY"
+        ],
+        "category": "Investor",
+        "risk_level": "Low",
+        "trend_score": 70,
+        "status": "Active",
+        "first_detected": "2013-09-15",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "A whale refers to an individual or entity that holds a large amount of a particular cryptocurrency, and has the potential to influence its market price.",
+            "ko": "whale은 특정 암호화폐를大量으로 소지하고 있으며, 그 시장가격에 영향을 줄 수 있는 개인이나 단체를 말한다.",
+            "ja": "ホエールとは、特定の暗号通貨を大量に保有し、その市場価格に影響を与える可能性を持つ個人または組織を指す。"
+        }
+    },
+    {
+        "term": "Shilling",
+        "group": "trend",
+        "country": [
+            "KR"
+        ],
+        "category": "Marketing",
+        "risk_level": "Low",
+        "trend_score": 50,
+        "status": "Active",
+        "first_detected": "2020-08-10",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "The act of enthusiastically promoting a particular cryptocurrency or project, often to increase its value.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Degenerate",
+        "group": "person",
+        "country": [
+            "US"
+        ],
+        "category": "Behavior",
+        "risk_level": "Medium",
+        "trend_score": 70,
+        "status": "Active",
+        "first_detected": "2022-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "A term used to describe someone who engages in high-risk, reckless behavior when investing in cryptocurrency.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Stan",
+        "group": "language",
+        "country": [
+            "US",
+            "UK"
+        ],
+        "category": "Fandom",
+        "risk_level": "Medium",
+        "trend_score": 70,
+        "status": "Active",
+        "first_detected": "2024-05-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "To be an overzealous or obsessive fan of a particular celebrity, series, or activity.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Tea",
+        "group": "language",
+        "country": [
+            "US",
+            "CA"
+        ],
+        "category": "Gossip",
+        "risk_level": "Medium",
+        "trend_score": 65,
+        "status": "Active",
+        "first_detected": "2024-06-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "Juicy or interesting information, often referring to gossip or scandalous news.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "No Cap",
+        "group": "language",
+        "country": [
+            "US"
+        ],
+        "category": "Honesty",
+        "risk_level": "Low",
+        "trend_score": 90,
+        "status": "Active",
+        "first_detected": "2024-07-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "An expression used to emphasize the truth or authenticity of something, similar to 'no lie' or 'no exaggeration'.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Critical Race Theory",
+        "group": "trend",
+        "country": [
+            "US"
+        ],
+        "category": "Education",
+        "risk_level": "Medium",
+        "trend_score": 58,
+        "status": "Active",
+        "first_detected": "2020-06-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "An academic concept that has been misrepresented and politicized to criticize discussions of systemic racism.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Open Borders",
+        "group": "language",
+        "country": [
+            "US",
+            "EU"
+        ],
+        "category": "Immigration",
+        "risk_level": "Medium",
+        "trend_score": 71,
+        "status": "Active",
+        "first_detected": "2019-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "Often used to misrepresent and criticize progressive immigration policies, suggesting a lack of border control.",
+            "ko": "",
+            "ja": ""
+        }
     }
 ]
