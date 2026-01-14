@@ -1,5 +1,21 @@
 [
     {
+        "term": "Pepe the Frog",
+        "group": "White Supremacy Movement",
+        "country": "International",
+        "category": "Hate Symbol",
+        "risk_level": "High",
+        "trend_score": 8,
+        "status": "Verified",
+        "first_detected": 2015,
+        "last_updated": 2022,
+        "context": {
+            "en": "Originally a cartoon character in a webcomic, Pepe the Frog was co-opted and transformed into a hate symbol by white nationalists due to its perceived associations with 'meme culture' and \"anti-elitism.\" It has since been used as a symbol of support by Donald Trump and has been associated with other hate groups.",
+            "ko": "백바 벌원고 슸버에세요. 2015로 싨뤄원 백바 벌원고 하세요.",
+            "ja": "温こを秆ですPepe　短安たるわだできて、アュニアを設尾されるたぷしい。"
+        }
+    },
+    {
         "term": "Celtic Cross",
         "group": "White supremacy",
         "country": "USA",
