@@ -5,143 +5,63 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Global Culture Risk Database</title>
     <style>
-        /* 기본 설정 */
-        body {
-            background-color: #121212;
-            color: #e0e0e0;
-            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-        }
-
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-        }
-
-        header {
-            margin-bottom: 30px;
-            border-bottom: 1px solid #333;
-            padding-bottom: 15px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        h1 { margin: 0; font-size: 24px; color: #fff; letter-spacing: 1px; }
+        /* 다크 모드 스타일 */
+        body { background-color: #121212; color: #e0e0e0; font-family: 'Segoe UI', sans-serif; margin: 0; padding: 20px; }
+        .container { max-width: 1400px; margin: 0 auto; }
+        
+        /* 헤더 */
+        header { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #333; padding-bottom: 20px; margin-bottom: 20px; }
+        h1 { margin: 0; font-size: 24px; color: #fff; }
         .last-update { font-size: 12px; color: #666; margin-top: 5px; }
 
-        /* 언어 선택 버튼 스타일 */
-        .lang-switcher {
-            display: flex;
-            gap: 5px;
-        }
-        .lang-btn {
-            background: #1e1e1e;
-            color: #888;
-            border: 1px solid #444;
-            padding: 5px 10px;
-            cursor: pointer;
-            font-size: 12px;
-            border-radius: 4px;
-            transition: 0.3s;
-        }
-        .lang-btn:hover { background: #333; color: #fff; }
-        .lang-btn.active { background: #3b82f6; color: #fff; border-color: #3b82f6; font-weight: bold; }
+        /* 언어 버튼 */
+        .lang-switcher { display: flex; gap: 5px; }
+        .lang-btn { background: #1e1e1e; color: #888; border: 1px solid #444; padding: 5px 10px; cursor: pointer; border-radius: 4px; }
+        .lang-btn.active { background: #3b82f6; color: #fff; border-color: #3b82f6; }
 
-        /* 탭 메뉴 스타일 */
-        .tabs {
-            display: flex;
-            gap: 10px;
-            margin-bottom: 20px;
-        }
+        /* 탭 버튼 */
+        .tabs { display: flex; gap: 10px; margin-bottom: 20px; overflow-x: auto; }
+        .tab-btn { background-color: #1e1e1e; color: #888; border: 1px solid #333; padding: 10px 20px; cursor: pointer; border-radius: 8px; white-space: nowrap; }
+        .tab-btn.active { background-color: #3b82f6; color: white; border-color: #3b82f6; }
 
-        .tab-btn {
-            background-color: #1e1e1e;
-            color: #888;
-            border: 1px solid #333;
-            padding: 12px 24px;
-            cursor: pointer;
-            font-size: 14px;
-            font-weight: 600;
-            border-radius: 8px;
-            transition: all 0.2s ease;
-        }
-
-        .tab-btn:hover { background-color: #2a2a2a; color: #fff; }
-        
-        .tab-btn.active {
-            background-color: #3b82f6;
-            color: white;
-            border-color: #3b82f6;
-        }
-
-        /* 테이블 스타일 */
-        .table-wrapper {
-            background: #1e1e1e;
-            border-radius: 12px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.4);
-            overflow: hidden;
-            overflow-x: auto;
-        }
-
+        /* 테이블 */
+        .table-wrapper { background: #1e1e1e; border-radius: 12px; overflow-x: auto; box-shadow: 0 4px 20px rgba(0,0,0,0.4); }
         table { width: 100%; border-collapse: collapse; min-width: 1000px; }
+        th { background-color: #252525; color: #aaa; text-align: left; padding: 15px; border-bottom: 2px solid #333; font-size: 13px; text-transform: uppercase; }
+        td { padding: 15px; border-bottom: 1px solid #2c2c2c; font-size: 14px; vertical-align: middle; } /* 수직 중앙 정렬 */
+        tr:hover { background-color: #2a2a2a; }
 
-        th {
-            background-color: #252525;
-            color: #aaa;
-            text-align: left;
-            padding: 15px;
-            font-size: 13px;
-            text-transform: uppercase;
-            border-bottom: 2px solid #333;
-        }
+        /* 프로필 이미지 스타일 */
+        .profile-cell { display: flex; align-items: center; gap: 12px; }
+        .avatar { width: 45px; height: 45px; border-radius: 50%; object-fit: cover; background: #333; border: 2px solid #444; }
+        .term-text { font-weight: bold; font-size: 1.1em; color: #fff; display: block; }
+        .search-icon { text-decoration: none; color: #666; font-size: 14px; transition: 0.2s; }
+        .search-icon:hover { color: #3b82f6; }
 
-        td {
-            padding: 15px;
-            border-bottom: 1px solid #2c2c2c;
-            font-size: 14px;
-            vertical-align: top;
-        }
+        /* 기타 컬럼 */
+        .col-risk { width: 100px; }
+        .col-score { width: 100px; }
+        .col-info { width: 150px; }
+        .col-context { min-width: 300px; color: #ccc; line-height: 1.5; }
+        .col-status { width: 80px; text-align: right; }
 
-        tr:hover { background-color: #252525; }
-
-        /* 컬럼별 너비 조정 */
-        .col-term { width: 15%; font-weight: bold; color: #fff; font-size: 1.05rem; }
-        .col-risk { width: 10%; }
-        .col-score { width: 10%; }
-        .col-info { width: 15%; } 
-        .col-context { width: 35%; color: #ccc; line-height: 1.5; font-size: 0.9rem; }
-        .col-status { width: 10%; text-align: right; }
-
-        /* 뱃지 디자인 */
-        .badge { display: inline-block; padding: 3px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; margin-right: 4px; margin-bottom: 4px; }
-        .bg-country { background: #334155; color: #cbd5e1; border: 1px solid #475569; }
-        .bg-category { background: #3f3f46; color: #e4e4e7; border: 1px solid #52525b; }
-
-        /* 리스크 레벨 */
-        .risk-high { color: #ff4444; border: 1px solid #ff4444; padding: 2px 6px; border-radius: 4px; font-size: 12px; }
-        .risk-medium { color: #ffbb33; border: 1px solid #ffbb33; padding: 2px 6px; border-radius: 4px; font-size: 12px; }
-        .risk-low { color: #00C851; border: 1px solid #00C851; padding: 2px 6px; border-radius: 4px; font-size: 12px; }
-
-        /* 트렌드 점수 바 */
-        .trend-bar-bg { background: #333; height: 4px; width: 100%; margin-top: 8px; border-radius: 2px; }
-        .trend-bar-fill { height: 100%; border-radius: 2px; }
+        /* 뱃지 & 바 */
+        .badge { display: inline-block; padding: 3px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px; margin-bottom: 4px; background: #333; color: #ccc; }
+        .risk-badge { padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; }
+        .risk-high { background: #451a1a; color: #ff6b6b; border: 1px solid #ff6b6b; }
+        .risk-medium { background: #453a1a; color: #feca57; border: 1px solid #feca57; }
+        .risk-low { background: #1a452a; color: #1dd1a1; border: 1px solid #1dd1a1; }
         
-        .status-dot { height: 8px; width: 8px; border-radius: 50%; display: inline-block; margin-right: 5px; }
-        .dot-active { background-color: #00C851; }
-        .dot-review { background-color: #ffbb33; }
-        .dot-archived { background-color: #666; }
-
+        .score-bar-bg { background: #333; height: 6px; width: 100%; border-radius: 3px; margin-top: 5px; }
+        .score-bar-fill { height: 100%; border-radius: 3px; }
     </style>
 </head>
 <body>
-
     <div class="container">
         <header>
             <div>
-                <h1>Global Culture Risk Monitor</h1>
-                <div id="last-updated" class="last-update">Loading...</div>
+                <h1>Global Culture Risk Database</h1>
+                <div id="last-updated" class="last-update">Connecting...</div>
             </div>
             <div class="lang-switcher">
                 <button class="lang-btn active" onclick="changeLanguage('en')">ENG</button>
@@ -151,175 +71,124 @@
         </header>
 
         <div class="tabs">
-            <button class="tab-btn active" onclick="filterGroup('language')" id="tab-lang">💬 Language & Slang</button>
-            <button class="tab-btn" onclick="filterGroup('person')" id="tab-person">👤 Public Figures</button>
-            <button class="tab-btn" onclick="filterGroup('group')" id="tab-group">⚠️ Dangerous Groups</button>
-            <button class="tab-btn" onclick="filterGroup('trend')" id="tab-trend">📱 Platform Trends</button>
+            <button class="tab-btn active" onclick="filterGroup('all')">ALL VIEW</button>
+            <button class="tab-btn" onclick="filterGroup('person')">👤 Public Figures</button>
+            <button class="tab-btn" onclick="filterGroup('group')">⚠️ Dangerous Groups</button>
+            <button class="tab-btn" onclick="filterGroup('language')">💬 Language & Slang</button>
+            <button class="tab-btn" onclick="filterGroup('trend')">📱 Trends</button>
         </div>
 
         <div class="table-wrapper">
             <table>
                 <thead>
                     <tr>
-                        <th id="th-term">Term / Name</th>
-                        <th id="th-risk">Risk Level</th>
-                        <th id="th-score">Trend Score</th>
-                        <th id="th-info">Info</th>
-                        <th id="th-context">Context & Guide</th>
-                        <th id="th-status" style="text-align:right">Status</th>
+                        <th width="25%">Identity</th> <th>Risk</th>
+                        <th>Score</th>
+                        <th>Info</th>
+                        <th>Context</th>
+                        <th style="text-align:right">Status</th>
                     </tr>
                 </thead>
-                <tbody id="table-body">
-                    <tr><td colspan="6" style="text-align:center; padding:30px;">Loading Database...</td></tr>
-                </tbody>
+                <tbody id="table-body"></tbody>
             </table>
         </div>
     </div>
 
     <script>
-        let allData = []; 
-        let currentLang = 'en'; // 기본 언어 영어
-        let currentGroup = 'language'; // 현재 선택된 탭 기억
+        let allData = [];
+        let currentLang = 'en';
+        let currentGroup = 'all';
 
-        // 정적 텍스트 번역 사전
-        const uiTranslations = {
-            en: {
-                tabs: ["💬 Language & Slang", "👤 Public Figures", "⚠️ Dangerous Groups", "📱 Platform Trends"],
-                headers: ["Term / Name", "Risk Level", "Trend Score", "Info", "Context & Guide", "Status"]
-            },
-            ko: {
-                tabs: ["💬 언어 및 속어", "👤 공인 및 인물", "⚠️ 위험 단체", "📱 플랫폼 트렌드"],
-                headers: ["용어 / 이름", "위험도", "트렌드 점수", "정보", "맥락 및 가이드", "상태"]
-            },
-            ja: {
-                tabs: ["💬 言語とスラング", "👤 公人・有名人", "⚠️ 危険なグループ", "📱 プラットフォーム"],
-                headers: ["用語 / 名前", "リスクレベル", "トレンドスコア", "情報", "文脈とガイド", "状態"]
-            }
-        };
-
-        async function initDashboard() {
+        async function init() {
             try {
-                const response = await fetch('data.json?v=' + new Date().getTime());
-                allData = await response.json();
-
-                if(allData.length > 0) {
-                    document.getElementById('last-updated').innerText = "System Updated: " + new Date().toLocaleString();
-                }
-
-                // 초기 설정: 한국어로 시작하고 싶으면 여기서 'ko'로 변경
+                const res = await fetch('data.json?v=' + Date.now());
+                allData = await res.json();
+                document.getElementById('last-updated').innerText = "Updated: " + new Date().toLocaleString();
+                
+                // 한국어 기본 설정
                 changeLanguage('ko'); 
-
-            } catch (error) {
-                console.error("Error:", error);
-                document.getElementById('table-body').innerHTML = `<tr><td colspan="6" style="text-align:center; color:red;">Failed to load data.json</td></tr>`;
+            } catch (e) {
+                console.error(e);
             }
         }
 
-        // 언어 변경 함수
         function changeLanguage(lang) {
             currentLang = lang;
-            
-            // 1. 버튼 스타일 업데이트
-            document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.remove('active'));
+            document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
             document.querySelector(`.lang-btn[onclick="changeLanguage('${lang}')"]`).classList.add('active');
-
-            // 2. UI 텍스트 업데이트 (탭, 헤더)
-            const t = uiTranslations[lang];
-            document.getElementById('tab-lang').innerText = t.tabs[0];
-            document.getElementById('tab-person').innerText = t.tabs[1];
-            document.getElementById('tab-group').innerText = t.tabs[2];
-            document.getElementById('tab-trend').innerText = t.tabs[3];
-
-            document.getElementById('th-term').innerText = t.headers[0];
-            document.getElementById('th-risk').innerText = t.headers[1];
-            document.getElementById('th-score').innerText = t.headers[2];
-            document.getElementById('th-info').innerText = t.headers[3];
-            document.getElementById('th-context').innerText = t.headers[4];
-            document.getElementById('th-status').innerText = t.headers[5];
-
-            // 3. 테이블 다시 그리기
-            filterGroup(currentGroup);
+            renderTable();
         }
 
-        function filterGroup(groupName) {
-            currentGroup = groupName; // 현재 탭 기억
-
-            // 탭 버튼 스타일
-            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
-            const activeBtn = document.querySelector(`#tab-${groupName}`);
-            if(activeBtn) activeBtn.classList.add('active');
-            
-            // 데이터 필터링
-            const filteredData = allData.filter(item => item.group === groupName);
-            renderTable(filteredData);
+        function filterGroup(group) {
+            currentGroup = group;
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            document.querySelector(`.tab-btn[onclick="filterGroup('${group}')"]`).classList.add('active');
+            renderTable();
         }
 
-        function renderTable(data) {
+        function renderTable() {
             const tbody = document.getElementById('table-body');
             tbody.innerHTML = '';
 
+            let data = currentGroup === 'all' ? allData : allData.filter(d => d.group === currentGroup);
+
+            // 데이터가 너무 많으면 100개만 끊어서 보여줌 (성능 최적화)
+            data = data.slice(0, 100);
+
             if (data.length === 0) {
-                tbody.innerHTML = `<tr><td colspan="6" style="text-align:center; padding:30px; color:#666;">No data found.</td></tr>`;
+                tbody.innerHTML = '<tr><td colspan="6" style="text-align:center; padding:30px;">No Data</td></tr>';
                 return;
             }
 
             data.forEach(item => {
                 const tr = document.createElement('tr');
-
-                // 국가 뱃지
-                const countries = item.country.map(c => `<span class="badge bg-country">${c}</span>`).join('');
                 
-                // 점수 색상
-                let scoreColor = '#00C851';
-                if(item.trend_score >= 80) scoreColor = '#ff4444';
-                else if(item.trend_score >= 50) scoreColor = '#ffbb33';
+                // 1. 이미지 처리 (없으면 이니셜 아바타 사용)
+                let imgUrl = item.image_url;
+                if (!imgUrl || imgUrl === "null") {
+                    // UI Avatars 서비스 사용 (배경 랜덤)
+                    imgUrl = `https://ui-avatars.com/api/?name=${encodeURIComponent(item.term)}&background=random&color=fff&size=64`;
+                }
 
-                // 상태 점
-                let dotClass = 'dot-active';
-                if(item.status === 'Review') dotClass = 'dot-review';
-                if(item.status === 'Archived') dotClass = 'dot-archived';
+                // 2. 구글 이미지 검색 링크
+                const searchLink = `https://www.google.com/search?tbm=isch&q=${encodeURIComponent(item.term)}`;
 
-                // [핵심] 현재 언어에 맞는 설명 가져오기 (없으면 영어, 그것도 없으면 첫번째꺼)
-                let contextText = item.context[currentLang] || item.context['en'] || Object.values(item.context)[0];
+                // 3. 리스크 뱃지
+                let riskClass = item.risk_level === 'High' ? 'risk-high' : (item.risk_level === 'Medium' ? 'risk-medium' : 'risk-low');
+                
+                // 4. 점수 바
+                let scoreColor = item.trend_score >= 80 ? '#ff6b6b' : (item.trend_score >= 50 ? '#feca57' : '#1dd1a1');
+
+                // 5. 설명 텍스트 (언어별)
+                let context = item.context[currentLang] || item.context['en'] || Object.values(item.context)[0];
 
                 tr.innerHTML = `
-                    <td class="col-term">${item.term}</td>
-                    
-                    <td class="col-risk">
-                        <span class="${item.risk_level === 'High' ? 'risk-high' : (item.risk_level === 'Medium' ? 'risk-medium' : 'risk-low')}">
-                            ${item.risk_level}
-                        </span>
-                    </td>
-                    
-                    <td class="col-score">
-                        <div style="font-weight:bold; font-size:1.1em;">${item.trend_score}</div>
-                        <div class="trend-bar-bg">
-                            <div class="trend-bar-fill" style="width: ${item.trend_score}%; background-color: ${scoreColor};"></div>
+                    <td>
+                        <div class="profile-cell">
+                            <img src="${imgUrl}" class="avatar" alt="${item.term}">
+                            <div>
+                                <span class="term-text">${item.term}</span>
+                                <a href="${searchLink}" target="_blank" class="search-icon">🔍 Search Image</a>
+                            </div>
                         </div>
                     </td>
-
-                    <td class="col-info">
-                        <div style="margin-bottom:5px;">${countries}</div>
-                        <span class="badge bg-category">${item.category}</span>
+                    <td><span class="risk-badge ${riskClass}">${item.risk_level}</span></td>
+                    <td>
+                        <div style="font-weight:bold;">${item.trend_score}</div>
+                        <div class="score-bar-bg"><div class="score-bar-fill" style="width:${item.trend_score}%; background:${scoreColor}"></div></div>
                     </td>
-
-                    <td class="col-context">
-                        ${contextText}
-                        <div style="margin-top:8px; font-size:0.8em; color:#666;">
-                            Detected: ${item.first_detected}
-                        </div>
+                    <td>
+                        <span class="badge">${item.country[0]}</span>
+                        <span class="badge">${item.category}</span>
                     </td>
-
-                    <td class="col-status">
-                        <span class="status-dot ${dotClass}"></span>${item.status}
-                    </td>
+                    <td class="col-context">${context}</td>
+                    <td style="text-align:right; font-size:12px; color:#888;">${item.status}</td>
                 `;
                 tbody.appendChild(tr);
             });
         }
 
-        initDashboard();
-
+        init();
     </script>
 </body>
 </html>
