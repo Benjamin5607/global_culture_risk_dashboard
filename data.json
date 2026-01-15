@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nathanael Rateliff",
+        "group": "",
+        "country": "United States",
+        "category": "Musician Controversy",
+        "risk_level": "high",
+        "trend_score": 8.5,
+        "status": "active",
+        "first_detected": "2011",
+        "last_updated": "2022",
+        "context": {
+            "en": "American singer-songwriter and musician known for his work as the lead vocalist of The Lifted Brow and his solo work, but also criticized for his comments on mental health, which some viewed as insensitive.",
+            "ko": "미국 가수이자 음악가인 나스널라 틀레파프(Nathanael Rateliff)가 제기한 정신 건강과 감정에 관한 주장은 일부로부터 감정적이고 불온하다고 여겨질 수 있습니다.",
+            "ja": "アメリカのシンガーソングライターであるナスナルラ・ラタリフ(Nathanael Rateliff)は、自身のメンタルヘルスを話し出すことが多く、批評家から「敏感ではない」という意見もある。"
+        }
+    },
+    {
         "term": "SS",
         "group": "Symbol",
         "country": "Germany",
