@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Global Culture Risk Dashboard</title>
     <style>
-        /* [스타일] */
+        /* [Style] */
         body { background-color: #121212; color: #e0e0e0; font-family: 'Segoe UI', sans-serif; margin: 0; padding: 20px; }
         .container { max-width: 1400px; margin: 0 auto; }
         
-        /* 헤더 */
+        /* Header */
         header { display: flex; flex-direction: column; gap: 15px; border-bottom: 1px solid #333; padding-bottom: 20px; margin-bottom: 20px; }
         .header-top { display: flex; justify-content: space-between; align-items: center; width: 100%; }
         h1 { margin: 0; font-size: 24px; color: #fff; }
         .last-update { font-size: 12px; color: #666; margin-top: 5px; }
 
-        /* 검색창 */
+        /* Search Box */
         .search-box-wrapper { position: relative; width: 100%; max-width: 600px; margin: 0 auto; }
         .search-input { 
             width: 100%; padding: 15px 20px; font-size: 16px; 
@@ -29,25 +29,24 @@
             border-radius: 20px; cursor: pointer; font-weight: bold;
         }
 
-        /* 탭 컨트롤 */
+        /* Tabs */
         .controls { display: flex; gap: 10px; margin-bottom: 20px; overflow-x: auto; }
         .tab-btn { background-color: #2c2c2c; color: #aaa; border: 1px solid #444; padding: 8px 16px; cursor: pointer; border-radius: 6px; font-weight: bold; transition: 0.2s; white-space: nowrap; }
         .tab-btn:hover { background-color: #333; color: #fff; }
         .tab-btn.active { background-color: #3b82f6; color: white; border-color: #3b82f6; }
 
-        /* 테이블 */
+        /* Table */
         .table-wrapper { background: #1e1e1e; border-radius: 12px; overflow-x: auto; box-shadow: 0 4px 20px rgba(0,0,0,0.4); min-height: 300px; }
         table { width: 100%; border-collapse: collapse; min-width: 900px; }
         th { background-color: #252525; color: #aaa; text-align: left; padding: 15px; border-bottom: 2px solid #333; font-size: 13px; text-transform: uppercase; }
         td { padding: 15px; border-bottom: 1px solid #2c2c2c; font-size: 14px; vertical-align: middle; }
         
-        /* [중요] 프로필 & 이미지 스타일 */
+        /* Profile & Search Button */
         .profile-cell { display: flex; align-items: center; gap: 15px; }
         .avatar { width: 50px; height: 50px; border-radius: 50%; object-fit: cover; background: #333; border: 2px solid #555; }
         .info-group { display: flex; flex-direction: column; }
         .term-text { font-weight: bold; font-size: 1.1em; color: #fff; }
         
-        /* [중요] 구글 검색 버튼 스타일 */
         .google-search-btn { 
             display: inline-flex; align-items: center; gap: 4px;
             text-decoration: none; color: #aaa; font-size: 12px; margin-top: 4px; 
@@ -56,7 +55,7 @@
         }
         .google-search-btn:hover { color: #fff; border-color: #3b82f6; background: #3b82f6; }
 
-        /* 뱃지 */
+        /* Badges */
         .cat-badge { display: inline-block; padding: 4px 8px; border-radius: 12px; font-size: 11px; background: #333; color: #ccc; border: 1px solid #444; margin-right: 4px; }
         .risk-badge { padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; }
         .risk-high { background: #451a1a; color: #ff6b6b; border: 1px solid #ff6b6b; }
@@ -94,9 +93,10 @@
             <table>
                 <thead>
                     <tr>
-                        <th width="30%">Target Identity</th> <th width="10%">Risk</th>
+                        <th width="30%">Target Identity</th>
+                        <th width="10%">Risk</th>
                         <th width="15%">Category</th>
-                        <th>Context / Reason</th>
+                        <th>Context / Reason (English)</th>
                         <th style="text-align:right">Status</th>
                     </tr>
                 </thead>
@@ -107,7 +107,7 @@
 
     <script>
         let allData = [];
-        let currentGroup = 'person'; // 기본값: 인물
+        let currentGroup = 'person'; 
 
         async function init() {
             try {
@@ -115,14 +115,13 @@
                 allData = await res.json();
                 document.getElementById('last-updated').innerText = `DB Status: ${allData.length} entries managed by Groq AI.`;
                 
-                // 슬랭('language')은 리스트에서 안 보여줌 (검색용으로만 남김)
+                // Default View
                 filterGroup('person');
             } catch (e) {
                 console.error(e);
             }
         }
 
-        // --- 검색 (슬랭 검색은 여기서만 가능) ---
         async function performSearch() {
             const query = document.getElementById('searchInput').value.trim().toLowerCase();
             const tbody = document.getElementById('table-body');
@@ -131,16 +130,15 @@
 
             tbody.innerHTML = '<tr><td colspan="5" class="loading-text">Searching DB & Urban Dictionary...</td></tr>';
             
-            // 1. DB 검색
+            // 1. Search Local DB
             let results = allData.filter(d => d.term.toLowerCase().includes(query));
 
-            // 2. Urban Dictionary 실시간 검색 (슬랭용)
+            // 2. Search Urban Dictionary (Live)
             try {
                 const res = await fetch(`https://api.urbandictionary.com/v0/define?term=${encodeURIComponent(query)}`);
                 const data = await res.json();
                 if (data.list && data.list.length > 0) {
                     const best = data.list.sort((a,b)=>b.thumbs_up-a.thumbs_up)[0];
-                    // 중복 아니면 추가
                     if (!results.some(r => r.term.toLowerCase() === best.word.toLowerCase())) {
                         results.unshift({
                             term: best.word,
@@ -160,16 +158,13 @@
         }
         function handleEnter(e) { if(e.key==='Enter') performSearch(); }
 
-        // --- 필터링 ---
         function filterGroup(group) {
             currentGroup = group;
             
-            // 버튼 활성화
             document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
             const activeBtn = Array.from(document.querySelectorAll('.tab-btn')).find(b => b.getAttribute('onclick').includes(group));
             if(activeBtn) activeBtn.classList.add('active');
 
-            // 데이터 필터링 (슬랭은 리스트 뷰에서 제외)
             let data;
             if (group === 'all') {
                 data = allData.filter(d => d.group !== 'language'); 
@@ -179,7 +174,6 @@
             renderTable(data);
         }
 
-        // --- 렌더링 (이미지/검색버튼 복구) ---
         function renderTable(data) {
             const tbody = document.getElementById('table-body');
             tbody.innerHTML = '';
@@ -190,19 +184,16 @@
             }
 
             data.forEach(item => {
-                const context = item.context['ko'] || item.context['en'] || Object.values(item.context)[0];
+                // Force English Context
+                const context = item.context['en'] || (typeof item.context === 'string' ? item.context : "No description available.");
                 
-                // [이미지 처리]
                 let imgUrl = item.image_url;
-                // 이미지가 없거나 null이면 아바타 생성 (인물/그룹/트렌드 모두 적용)
                 if (!imgUrl || imgUrl === "null" || imgUrl === "") {
                     imgUrl = `https://ui-avatars.com/api/?name=${encodeURIComponent(item.term)}&background=random&color=fff&size=64`;
                 }
 
-                // [구글 검색 링크]
                 const googleUrl = `https://www.google.com/search?q=${encodeURIComponent(item.term + " controversy")}`;
 
-                // [리스크 뱃지]
                 let riskClass = item.risk_level === 'High' ? 'risk-high' : (item.risk_level === 'Medium' ? 'risk-medium' : 'risk-low');
 
                 const tr = document.createElement('tr');
