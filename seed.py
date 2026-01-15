@@ -11,7 +11,7 @@ def get_current_date():
     return datetime.now().strftime("%Y-%m-%d")
 
 def generate_risk_data():
-    print("🏭 Risk Factory: Mining Public Figures, Groups & Trends...")
+    print("🏭 Risk Factory: Mining Public Figures, Groups & Trends (English Only)...")
 
     if not API_KEY:
         print("❌ Error: API Key missing.")
@@ -20,15 +20,13 @@ def generate_risk_data():
     try:
         with open("data.json", "r", encoding="utf-8") as f:
             current_data = json.load(f)
-        # 슬랭(language) 데이터는 이제 필요 없으니 제거할 수도 있지만,
-        # 일단 기존 데이터는 두고 새 데이터 위주로 갑니다.
     except:
         current_data = []
 
     existing_terms = {item['term'].lower() for item in current_data}
     print(f"📂 Loaded {len(current_data)} items.")
 
-    # [수정된 주제] 슬랭 제외, 리스크 중심 주제 선정
+    # 주제 선정 (미국/영국/캐나다/호주/뉴질랜드)
     prompts = []
     target_countries = ["USA", "UK", "Canada", "Australia", "New Zealand"]
     
@@ -49,7 +47,7 @@ def generate_risk_data():
 
         print(f"\n🕵️‍♂️ Analyzing: '{topic}'...")
 
-        # [프롬프트] 이미지 URL 요청 + 명확한 스키마
+        # [수정됨] 영어 설명(en)만 요청
         system_prompt = f"""
         List 6 items related to "{topic}".
         Focus on high-risk or controversial entities.
@@ -63,7 +61,7 @@ def generate_risk_data():
         - risk_level: 'High' | 'Medium' | 'Low'
         - image_url: string (URL of a public profile image/logo. If unknown, use "null")
         - trend_score: Integer (50-99)
-        - context: {{ "en": "Description...", "ko": "Korean translation..." }}
+        - context: {{ "en": "Detailed description and reason for controversy in English." }}
         """
 
         payload = {
@@ -83,11 +81,9 @@ def generate_risk_data():
                 
                 added = 0
                 for item in items:
-                    # 슬랭이 섞여 들어오면 거름
                     if item.get('group') == 'language': continue
 
                     if item['term'].lower() not in existing_terms:
-                        # 이미지 없으면 null 처리 (프론트엔드에서 아바타로 변환됨)
                         if 'image_url' not in item: item['image_url'] = "null"
                         
                         item['status'] = 'Active'
@@ -103,9 +99,8 @@ def generate_risk_data():
         except Exception as e:
             print(f"   ⚠️ Error: {e}")
 
-        time.sleep(2) # 휴식
+        time.sleep(2)
 
-    # 저장
     print(f"\n💾 Saving {len(current_data)} items...")
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(current_data, f, indent=4, ensure_ascii=False)
