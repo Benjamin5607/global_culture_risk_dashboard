@@ -1,5 +1,24 @@
 [
     {
+        "term": "Pope Benedict XVI",
+        "group": [
+            "Clergy",
+            "Bishops"
+        ],
+        "country": "Holy See (Vatican City)",
+        "category": "Controversial Figure",
+        "risk_level": 3,
+        "trend_score": 20,
+        "status": "Deceased",
+        "first_detected": "1927-04-16T00:00:00",
+        "last_updated": "2021-04-05T13:47:00",
+        "context": {
+            "en": "Former Head of the Catholic Church accused of covering up child molestation cases by priests.",
+            "ko": "포피 베타 XVI의 성추행 사건 및 아동 학대 문제로 논란이 되다.",
+            "ja": "フロイバ）ゆくチフィゼインパは窑や徏えだろ。"
+        }
+    },
+    {
         "term": "Nathanael Rateliff",
         "group": "",
         "country": "United States",
