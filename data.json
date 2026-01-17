@@ -1,5 +1,21 @@
 [
     {
+        "term": "Renegade Dance Challenge",
+        "group": "Charli D'Amelio",
+        "country": "USA",
+        "category": "Dance",
+        "risk_level": "Low",
+        "trend_score": 8.5,
+        "status": "Active",
+        "first_detected": "March 2020",
+        "last_updated": "May 2020",
+        "context": {
+            "en": "The Renegade dance, a dance craze originating from TikTok, where users would mimic the moves of the character Renegade from a music challenge.",
+            "ko": "머 었 분 의 입력 입 등 의 다",
+            "ja": "한 안 호레 총 소 총 주 제 하주"
+        }
+    },
+    {
         "term": "Mahatma Gandhi",
         "group": "Historical Figure",
         "country": "India",
