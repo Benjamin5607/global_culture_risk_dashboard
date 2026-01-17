@@ -1,5 +1,21 @@
 [
     {
+        "term": "Mahatma Gandhi",
+        "group": "Historical Figure",
+        "country": "India",
+        "category": "Politician",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "1915",
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "Indian independence activist and leader",
+            "ko": "인도의 독립운동가",
+            "ja": "山礼に小山の施篇回"
+        }
+    },
+    {
         "term": "Pope Benedict XVI",
         "group": [
             "Clergy",
