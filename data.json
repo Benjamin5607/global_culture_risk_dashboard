@@ -1,21 +1,5 @@
 [
     {
-        "term": "North Korea",
-        "group": "Country",
-        "country": "North Korea",
-        "category": "Controversial Figire",
-        "risk_level": 9,
-        "trend_score": -0.5,
-        "status": "Active",
-        "first_detected": "2006-01-01",
-        "last_updated": "2022-12-31",
-        "context": {
-            "en": "Known internationally for its authoritarian leadership and nuclear program, North Korea is considered a controversial figure in the global politics arena.",
-            "ko": "북한은 국제적으로 그 독재적인 리더십과 핵무기 프로그램으로 주목을 받아왔다. ",
-            "ja": "北朝鮮は、世界中で独裁的なリーダーシップと核兵器プログラムによって注目を集めているが、北朝鮮を取り巻く状況はいまでも不明なものとなっている。 "
-        }
-    },
-    {
         "term": "Renegade by Tonina Satin",
         "group": "Dance",
         "country": "United States",
@@ -307,6 +291,22 @@
             "en": "A popular TikTok dance that was originated in Australia and became a global hit.",
             "ko": "",
             "ja": ""
+        }
+    },
+    {
+        "term": "North Korea",
+        "group": "Country",
+        "country": "North Korea",
+        "category": "Controversial Figire",
+        "risk_level": 9,
+        "trend_score": -0.5,
+        "status": "Archived",
+        "first_detected": "2006-01-01",
+        "last_updated": "2022-12-31",
+        "context": {
+            "en": "Known internationally for its authoritarian leadership and nuclear program, North Korea is considered a controversial figure in the global politics arena.",
+            "ko": "북한은 국제적으로 그 독재적인 리더십과 핵무기 프로그램으로 주목을 받아왔다. ",
+            "ja": "北朝鮮は、世界中で独裁的なリーダーシップと核兵器プログラムによって注目を集めているが、北朝鮮を取り巻く状況はいまでも不明なものとなっている。 "
         }
     },
     {
