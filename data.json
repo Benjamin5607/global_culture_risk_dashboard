@@ -1,5 +1,21 @@
 [
     {
+        "term": "Renegade by Tonina Satin",
+        "group": "Dance",
+        "country": "United States",
+        "category": "Music",
+        "risk_level": "Low",
+        "trend_score": 90,
+        "status": "Active",
+        "first_detected": "April 2020",
+        "last_updated": "June 2020",
+        "context": {
+            "en": "A popular dance trend based on the song 'Renegade' by Tonina Satin, originating from a dance challenge video posted on TikTok.",
+            "ko": "티거의 곡 'Renegade'에 바탕을 둔 인기 춤 추기 운동",
+            "ja": "TikTokで投稿されたダンスの映像に基づくポップのダンス・チューニング"
+        }
+    },
+    {
         "term": "Renegade Dance Trend",
         "group": [
             "TikTok Users",
