@@ -1,5 +1,24 @@
 [
     {
+        "term": "Renegade Dance Trend",
+        "group": [
+            "TikTok Users",
+            "Dance Comunity"
+        ],
+        "country": "United States",
+        "category": "dance",
+        "risk_level": "low",
+        "trend_score": "high",
+        "status": "active",
+        "first_detected": "2020",
+        "last_updated": "2021",
+        "context": {
+            "en": "The Renegade Dance Challenge went viral in TikTok in 2020, with many users uploading videos of themselves dancing to the popular song.",
+            "ko": "\"레넌지드 댄스\" 도전은 2020년 텀블러(TikTok)에서 바이럴되면서, 사용자 대부분이 노래에 맞춰 춤을 추는 영상을 업로드했다.",
+            "ja": "\"RENEGADE\"ダンスで挑戦するという動向は2020年TikTokでバーチャルとなった。多くのユーザーがその流行歌と合わせたダンス動画をアップロードしている。"
+        }
+    },
+    {
         "term": "Renegade Dance Challenge",
         "group": "Charli D'Amelio",
         "country": "USA",
