@@ -1,5 +1,21 @@
 [
     {
+        "term": "Adolf Hitler",
+        "group": "Historical Figure",
+        "country": "Germany",
+        "category": "Controversial Leader",
+        "risk_level": "High",
+        "trend_score": 0.9,
+        "status": "Verified",
+        "first_detected": "1920",
+        "last_updated": "2022-12-31",
+        "context": {
+            "en": "The leader of the Nazi party in Germany and responsible for the Holocaust.",
+            "ko": "나치당의 지도자로 홀로코스트를 저지른 인물",
+            "ja": "ドイツのナチ党指導者でホロコーストの責任者"
+        }
+    },
+    {
         "trend": {
             "term": "Renegade Dance",
             "group": "Dance",
