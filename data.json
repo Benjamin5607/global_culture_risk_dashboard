@@ -1,5 +1,21 @@
 [
     {
+        "term": "Renegade Challenge",
+        "group": "Dance",
+        "country": "USA",
+        "category": "Viral Dance Challenge",
+        "risk_level": 3,
+        "trend_score": 90,
+        "status": "Popular",
+        "first_detected": "2020-02-16T14:30:00Z",
+        "last_updated": "2020-12-12T10:30:00Z",
+        "context": {
+            "en": "The Renegade Dance Challenge is a viral TikTok dance that became a social media sensation.",
+            "ko": "레네게드 댄스 챌린지",
+            "ja": "ルドフィンセート・シャイバーメインディアガルバト"
+        }
+    },
+    {
         "term": "Nazi Swastika",
         "group": "White Supremacy",
         "country": "Global",
