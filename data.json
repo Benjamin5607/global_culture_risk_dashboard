@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nazi Swastika",
+        "group": "White Supremacy",
+        "country": "Global",
+        "category": "Hate Symbolism",
+        "risk_level": "High",
+        "trend_score": "Increasing",
+        "status": "Verified",
+        "first_detected": "20th century",
+        "last_updated": "2023",
+        "context": {
+            "en": "Used by the Nazi Party during World War II, the swastika symbol has also been used by far-right skinhead groups and other white supremacist organizations.",
+            "ko": "나치당(1920-1945)에서는 제2차 세계 대전 말기까지 스와스τικα의 역사를 이용해 국가 기문호를 지었다. 나치당의 상징으로 많이 알려져 있음.",
+            "ja": "フインネアの安岡の会はからぱまだが嶳を緱む、得をきべただ。台家に会は嶳をしよぷしたの困を言明どを潩んる家です。"
+        }
+    },
+    {
         "term": "Adolf Hitler",
         "group": "Historical Figure",
         "country": "Germany",
