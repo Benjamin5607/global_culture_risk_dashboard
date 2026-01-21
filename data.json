@@ -1,5 +1,21 @@
 [
     {
+        "term": "Slay All Day",
+        "group": "Gen Z",
+        "country": "USA",
+        "category": "Expression",
+        "risk_level": "low",
+        "trend_score": "high",
+        "status": "verified",
+        "first_detected": "2015",
+        "last_updated": "2020",
+        "context": {
+            "en": "To do something exceptionally well or to have a great time.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Renegade Challenge",
         "group": "Dance",
         "country": "USA",
