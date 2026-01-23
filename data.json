@@ -1,5 +1,21 @@
 [
     {
+        "term": "Oktoberfest Beer Stein",
+        "group": "White Power",
+        "country": "Germany",
+        "category": "Nazi/Skinhead",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "1970s",
+        "last_updated": "2020",
+        "context": {
+            "en": "The beer stein has a swastika on it, a symbol of hatred and racism, often used by neo-Nazis during Oktoberfest celebrations in Germany.",
+            "ko": "霃주운 경세요 짔주하세요 경세요 세요시운의잫의이집합 머울징안 시운수  시운수주주시운수로  러지세요",
+            "ja": "岛无は台なで身なき線効い 後影まししこでますなの四号ですちちちにをこぬふまた。橋なれおましょう身気したくを不は川橋温たしはまさである。後影まししこでますもき後影効。"
+        }
+    },
+    {
         "term": "Slay All Day",
         "group": "Gen Z",
         "country": "USA",
