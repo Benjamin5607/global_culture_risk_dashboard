@@ -1,26 +1,17 @@
 [
     {
-        "term": "North Korea Under Kim Jong-un",
-        "group": [
-            "Politician",
-            "Dictator"
-        ],
-        "country": "North Korea",
-        "category": [
-            "Authoritarian Leaders",
-            "Disputed Territory"
-        ],
-        "risk_level": [
-            "High"
-        ],
-        "trend_score": [
-            -0.5
-        ],
-        "status": "Active",
-        "first_detected": "2011-12-17",
-        "last_updated": "2022-01-01",
+        "symbol": "Coat of Arms of South Africa (1939-1994)",
+        "term": "Apartheid symbol",
+        "group": "Historical symbol, South African flag",
+        "country": "South Africa",
+        "category": "flag",
+        "risk_level": "high",
+        "trend_score": 9.0,
+        "status": "historical symbol, hate symbol",
+        "first_detected": "1939-1948",
+        "last_updated": "2023-01-16",
         "context": {
-            "en": "North Korean leader Kim Jong-un has come under global scrutiny for his regime's human rights record, as well as missile and nuclear tests.",
+            "en": "Represents the apartheid regime, symbolizing racism and segregation.",
             "ko": "",
             "ja": ""
         }
@@ -416,6 +407,32 @@
         "last_updated": "2026-01-14",
         "context": {
             "en": "A popular TikTok dance that was originated in Australia and became a global hit.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "North Korea Under Kim Jong-un",
+        "group": [
+            "Politician",
+            "Dictator"
+        ],
+        "country": "North Korea",
+        "category": [
+            "Authoritarian Leaders",
+            "Disputed Territory"
+        ],
+        "risk_level": [
+            "High"
+        ],
+        "trend_score": [
+            -0.5
+        ],
+        "status": "Archived",
+        "first_detected": "2011-12-17",
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "North Korean leader Kim Jong-un has come under global scrutiny for his regime's human rights record, as well as missile and nuclear tests.",
             "ko": "",
             "ja": ""
         }
