@@ -1,5 +1,21 @@
 [
     {
+        "term": "Renegade",
+        "group": "Dance",
+        "country": "USA",
+        "category": "Challenge",
+        "risk_level": "Medium",
+        "trend_score": 8,
+        "status": "Active",
+        "first_detected": "2020-03-28 14:30:00",
+        "last_updated": "2020-05-12 10:00:00",
+        "context": {
+            "en": "The 'Renegade' dance challenge became a sensation on TikTok, where users were encouraged to record themselves performing a hip-hop dance routine to the song 'Lottery' by K CAMP. The challenge was popularized by 14-year-old Jalaiah Harmon, who originally created the dance.",
+            "ko": "레네가드(renegade) 래퍼가 2020년에 리드하는 댄스와 리듬에 맞춰서 댄스하는 유행어.",
+            "ja": "レネイデッドチャレンジは、歌 \"ロトリー\"（KC CAMP）へのダンスルーチンが収録されているヒップホップダンスを実行するユーザーを誘導するためにTikTokでのチャレンジです。"
+        }
+    },
+    {
         "symbol": "Coat of Arms of South Africa (1939-1994)",
         "term": "Apartheid symbol",
         "group": "Historical symbol, South African flag",
