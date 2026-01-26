@@ -1,5 +1,21 @@
 [
     {
+        "term": "North Korea's Kim Jong-un",
+        "group": "Politician",
+        "country": "North Korea",
+        "category": "Authoritarian Leader",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "2011",
+        "last_updated": "2023",
+        "context": {
+            "en": "Leader of North Korea known for authoritarian rule and nuclear ambitions.",
+            "ko": "북한 의 지도자로, 권위주의적 지배 와 핵 개발에 відом한.",
+            "ja": "北韓を指揮する権威主義的統治者と核開発に知られている人物。"
+        }
+    },
+    {
         "term": "Renegade",
         "group": "Dance",
         "country": "USA",
