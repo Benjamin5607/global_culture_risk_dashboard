@@ -1,5 +1,21 @@
 [
     {
+        "term": "White Power Fist",
+        "group": "White Power",
+        "country": "USA",
+        "category": "Symbol of White Supremacy",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Validated",
+        "first_detected": "1970",
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "A raised fist with fingers intertwined, symbolizing unity and solidarity among whites",
+            "ko": " 백인우월주의자들이 사용하는 상징입니다.  가락 사이의 끈이 백인의 우세함을 대변하는 것입니다.",
+            "ja": ""
+        }
+    },
+    {
         "term": "North Korea's Kim Jong-un",
         "group": "Politician",
         "country": "North Korea",
