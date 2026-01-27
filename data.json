@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nikola Tesla",
+        "group": "Scientists",
+        "country": "Serbia",
+        "category": "Controversial Figures",
+        "risk_level": 7,
+        "trend_score": 5,
+        "status": "resolved",
+        "first_detected": "1884",
+        "last_updated": "2021-02-10T23:45:06.371Z",
+        "context": {
+            "en": "<p>Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, physicist, and futurist best known for his contributions to the development of the modern alternating current (AC) electricity system.</p>",
+            "ko": "<p>테슬라는 세르비아 태생의 미국인 발명가이자, 전기, 기계공학자이며, 물리학자이자 futurologist입니다. 그는 AC 전기에 기여한 것으로 유명합니다.</p>",
+            "ja": "<p>ニコラ・テスラは、セルビア出身のアメリカ人の発明家で、電気学者、機械工学者、物理学者、そしてユートピア論者。彼は交流電力量（AC）電撃を開発したことで名高い。</p>"
+        }
+    },
+    {
         "hate_symbol": {
             "term": "OK Sign",
             "group": "White Power",
