@@ -1,5 +1,25 @@
 [
     {
+        "hate_symbol": {
+            "term": "OK Sign",
+            "group": "White Power",
+            "country": "USA",
+            "category": "Gesture",
+            "risk_level": "High",
+            "trend_score": 0.9,
+            "status": "Confirmed",
+            "first_detected": "2009",
+            "last_updated": "2023",
+            "context": {
+                "en": "'Ok' or 'white power' sign made by some people.",
+                "ko": "\"ok\"라고 부르는 것과 상관이 있어도 'white power' 시호",
+                "ja": ">"
+            }
+        },
+        "status": "Active",
+        "first_detected": "2026-01-27"
+    },
+    {
         "term": "White Power Sign",
         "group": "White Supremacy",
         "country": "USA",
