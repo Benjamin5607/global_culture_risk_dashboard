@@ -1,5 +1,21 @@
 [
     {
+        "term": "White Power Sign",
+        "group": "White Supremacy",
+        "country": "USA",
+        "category": "Hate Symbols",
+        "risk_level": "High",
+        "trend_score": 0.7,
+        "status": "Active",
+        "first_detected": 1978,
+        "last_updated": 2022,
+        "context": {
+            "en": "A hand gesture formed by extending the index and middle fingers, resembling a hooked white cross, used to indicate adherence to white power ideology.",
+            "ko": "화이트 파워 신호",
+            "ja": "本市新木回立"
+        }
+    },
+    {
         "term": "White Power Fist",
         "group": "White Power",
         "country": "USA",
