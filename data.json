@@ -1,5 +1,21 @@
 [
     {
+        "term": "OKBOOM",
+        "group": "Anarchist and Far-Right",
+        "country": "United States",
+        "category": "Hate Symbol",
+        "risk_level": "High",
+        "trend_score": 0.5,
+        "status": "Active",
+        "first_detected": "2017",
+        "last_updated": "2022",
+        "context": {
+            "en": "A hashtag used by some white nationalists referencing the phrase 'OK, boomer'",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Nikola Tesla",
         "group": "Scientists",
         "country": "Serbia",
