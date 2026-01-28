@@ -1,5 +1,21 @@
 [
     {
+        "term": "North_Korea_Denuclearization Talks",
+        "group": "Politician",
+        "country": "North Korea",
+        "category": "Government Leader",
+        "risk_level": "High",
+        "trend_score": 0.85,
+        "status": "Active",
+        "first_detected": "2014-01-01",
+        "last_updated": "2022-12-31",
+        "context": {
+            "en": "North Korea has been engaging in talks over denuclearization efforts, however the talks have been stalled since 2019.",
+            "ko": "",
+            "ja": "北朝鮮は、核廃絶交渉において、2019年以来交渉が中断されている"
+        }
+    },
+    {
         "term": "Nikola Tesla",
         "group": "Scientists",
         "country": "Serbia",
