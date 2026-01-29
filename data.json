@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nikolai Ivanovich Yezhov",
+        "group": "Politician",
+        "country": "Russia",
+        "category": "Historical Figure",
+        "risk_level": "Medium",
+        "trend_score": 2,
+        "status": "Historical Figure",
+        "first_detected": "2020-01-01T00:00:00.000Z",
+        "last_updated": "2022-02-15T16:30:00.000Z",
+        "context": {
+            "en": "Nikolai Yezhov was the Soviet head of the secret police during the Great Purge of 1936—1938, under Joseph Stalin.",
+            "ko": "예주프는 1936년에서 1938년까지 스탈린 아래에 소비에트 연방의 비서장이자 비밀警察를 이끄는 사람이다.",
+            "ja": "ニコライ・イエジュフ(ロシア語: Никола́й Ива́нович Ежо́в, 1895年10月1日 – 1940年2月5日)はロシアの政治家、ソビエト連邦の国家保安委員会の第1代書記を務めた人"
+        }
+    },
+    {
         "term": "OKBOOM",
         "group": "Anarchist and Far-Right",
         "country": "United States",
