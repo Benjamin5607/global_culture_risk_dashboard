@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nikolas Cruz",
+        "group": "Extremist/Terrorist",
+        "country": "USA",
+        "category": "Mass Shooter",
+        "risk_level": "High",
+        "trend_score": "0.9",
+        "status": "Active",
+        "first_detected": "2015",
+        "last_updated": "2023-02-01",
+        "context": {
+            "en": "Nikolas Cruz is a former student who carried out the 2018 Stoneman Douglas High School shooting, a mass shooting that occurred in Parkland, Florida, on February 14, 2018. He killed 17 people and wounded 17 others.",
+            "ko": "니콜라스 크루즈는 2018년 펀플랜드 학교 총기난사 사건의 주범이다. 그는 2018년 2월 14일 플로리다주帕크랜드에서 발생한 학교 총기 난사 사건을 지휘하여 17명을 살해하고 17명을 상해를 입혔다.",
+            "ja": "シヨオカアシビトを亨にジエアするできべるだくオカコンタ・アジアをトチサーにストライヘアをモオカトだく"
+        }
+    },
+    {
         "term": "White Power",
         "group": "White Supremacy",
         "country": "USA",
