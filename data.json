@@ -1,5 +1,21 @@
 [
     {
+        "term": "White Power",
+        "group": "White Supremacy",
+        "country": "USA",
+        "category": "Racism/Extremism",
+        "risk_level": "High",
+        "trend_score": 10.5,
+        "status": "Active",
+        "first_detected": "1978",
+        "last_updated": "2023",
+        "context": {
+            "en": "A term used by white supremacists to promote the idea that white people should be superior to other racial groups.",
+            "ko": "백인 우월주의자들 사이에서 사용되는 용어로, 흑인과 같은 다른 인종 그룹보다 백인들이 우위에 있는 생각을 제도화하는 것을 목적으로 한다.",
+            "ja": "本囍匹つ当しい亡の綩にたたたれの当はプレンートを則きたすでます。"
+        }
+    },
+    {
         "term": "Nikolai Ivanovich Yezhov",
         "group": "Politician",
         "country": "Russia",
