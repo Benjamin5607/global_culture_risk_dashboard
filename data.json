@@ -1,5 +1,21 @@
 [
     {
+        "term": "Kim Jong-un",
+        "group": "Politician",
+        "country": "North Korea",
+        "category": "Controversial Figure",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "2011-12-17T23:00:00.000Z",
+        "last_updated": "2022-01-01T00:00:00.000Z",
+        "context": {
+            "en": "Supreme Leader of North Korea who has been involved in various controversies due to the country's human rights record and nuclear missile program.",
+            "ko": "북한 최고 지도자 김정은. 그는 북한의 인권 기록과 핵미사일 프로그램과 관련된 여러 논란에 연루되어 있습니다.",
+            "ja": "朝鮮民主主義人民共和國の最高指導者である金正恩。国家元首としての評判が低く、北朝鮮の核兵器化と人権状況に関する論争など、さまざまな論争で報道されました。"
+        }
+    },
+    {
         "term": "Hokkaido Incident",
         "group": "Neo-Nazis",
         "country": "Japan",
