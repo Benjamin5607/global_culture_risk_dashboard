@@ -1,5 +1,21 @@
 [
     {
+        "term": "Hokkaido Incident",
+        "group": "Neo-Nazis",
+        "country": "Japan",
+        "category": "Hate Symbol",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "1968",
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "The Hokkaido incident was a series of racist incidents in Japan that involved Neo-Nazi groups.",
+            "ko": "홋카이도 사건",
+            "ja": "「ヒケン本をだけ」"
+        }
+    },
+    {
         "term": "Nikolas Cruz",
         "group": "Extremist/Terrorist",
         "country": "USA",
