@@ -424,26 +424,6 @@
         "first_detected": "2026-01-14"
     },
     {
-        "term": "Tea Spill",
-        "group": "trend",
-        "country": [
-            "CA",
-            "US",
-            "UK"
-        ],
-        "category": "gossip",
-        "risk_level": "High",
-        "trend_score": 91,
-        "status": "Active",
-        "first_detected": "2025-11-01",
-        "last_updated": "2026-01-14",
-        "context": {
-            "en": "The act of revealing gossip about someone online, especially about celebrities.",
-            "ko": "어떤 사람에 대해 온라인으로 속삭이는 일을 의미합니다.",
-            "ja": ""
-        }
-    },
-    {
         "term": "Neo Tokio",
         "group": "place",
         "country": [
@@ -541,6 +521,26 @@
         "context": {
             "en": "A popular TikTok dance that was originated in Australia and became a global hit.",
             "ko": "",
+            "ja": ""
+        }
+    },
+    {
+        "term": "Tea Spill",
+        "group": "trend",
+        "country": [
+            "CA",
+            "US",
+            "UK"
+        ],
+        "category": "gossip",
+        "risk_level": "High",
+        "trend_score": 91,
+        "status": "Archived",
+        "first_detected": "2025-11-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "The act of revealing gossip about someone online, especially about celebrities.",
+            "ko": "어떤 사람에 대해 온라인으로 속삭이는 일을 의미합니다.",
             "ja": ""
         }
     },
