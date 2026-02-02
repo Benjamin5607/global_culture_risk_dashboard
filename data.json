@@ -1,5 +1,21 @@
 [
     {
+        "term": "Hokkien",
+        "group": "Hoklo",
+        "country": "Taiwan",
+        "category": "Hate Symbol",
+        "risk_level": "Medium",
+        "trend_score": "High",
+        "status": "Active",
+        "first_detected": "1993",
+        "last_updated": "2020-01-01",
+        "context": {
+            "en": "Hokkien is sometimes considered a hate symbol in Taiwan due to its association with a separatist movement.",
+            "ko": "귿bc야의 분세요 다면하세요 분세요 서을 번소해세요.",
+            "ja": "吋川はたはしです信にがおる吋川ですできいだいる."
+        }
+    },
+    {
         "term": "Kim Jong-un",
         "group": "Politician",
         "country": "North Korea",
