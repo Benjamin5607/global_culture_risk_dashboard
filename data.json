@@ -1,5 +1,21 @@
 [
     {
+        "term": "Savage",
+        "group": "Gen Z",
+        "country": "United States",
+        "category": "Insult/Harsher Term",
+        "risk_level": "Moderate",
+        "trend_score": 8,
+        "status": "Current",
+        "first_detected": "2014",
+        "last_updated": "2022",
+        "context": {
+            "en": "Used to describe someone being ruthless or brutally honest, even if it hurts.",
+            "ko": "인종적이고 날카로운 성격을 가리키는 말.",
+            "ja": "ある人が誰かの行動や話を激しく批判的に見ようとして、自分にとって痛いと思っても、それを言い出すこと"
+        }
+    },
+    {
         "term": "Hokkien",
         "group": "Hoklo",
         "country": "Taiwan",
