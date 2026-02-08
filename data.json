@@ -1,5 +1,21 @@
 [
     {
+        "term": "Joseph Stalin",
+        "group": "politicians",
+        "country": "Russia",
+        "category": "totalitarian leader",
+        "risk_level": "high",
+        "trend_score": -0.6,
+        "status": "controversial",
+        "first_detected": 1922,
+        "last_updated": 1953,
+        "context": {
+            "en": "Joseph Stalin was a Soviet leader who implemented policies that led to widespread famine, political repression, and the deaths of millions of people.",
+            "ko": "민주시좋고일 주주엀 첰로세요일주우지백의주주시기엀로세요",
+            "ja": "王床存しん、平四を了用にがあだもいなほい、と、いめなほいはプロザイムれびいがあだ"
+        }
+    },
+    {
         "term": "Savage",
         "group": "Gen Z",
         "country": "United States",
