@@ -1,5 +1,21 @@
 [
     {
+        "term": "Black Sun",
+        "group": "Neo-Nazism",
+        "country": "Global (originated in Europe)",
+        "category": "Hate Symbol",
+        "risk_level": "High",
+        "trend_score": "Critical",
+        "status": "Active",
+        "first_detected": "1930s",
+        "last_updated": "2023-02",
+        "context": {
+            "en": "Black Sun is a white supremacist logo associated with neo-Nazism, used to represent Adolf Hitler and the SS.",
+            "ko": "블랙 사운 (Black Sun)이라는 상징은 흑인과 같은 유색인을 차별하는 이념을 가진 우익 단체의 상징이다.",
+            "ja": "ブラックスアウンまたはブラッックス (Black Sun)は、白人の至高を主張する極右派グループのマーク"
+        }
+    },
+    {
         "term": "Joseph Stalin",
         "group": "politicians",
         "country": "Russia",
