@@ -1,5 +1,21 @@
 [
     {
+        "term": " Renegade Dance",
+        "group": "Dance",
+        "country": "USA",
+        "category": "Entertainment",
+        "risk_level": "Low",
+        "trend_score": 9.8,
+        "status": "Active",
+        "first_detected": "May 2020",
+        "last_updated": "June 2020",
+        "context": {
+            "en": "The Renegade dance challenges involve a simple and repetitive dance that uses a popular song 'Lottery' by K Camp and 'Say So' by Doja Cat",
+            "ko": "렌지게드 댄스는 간단하고 반복적인 댄스에 사용되는เพลง '로또' (K Camp) 및 '세이 소' (Doja Cat) 이 있는데 ",
+            "ja": "レゲーニーップ トフンカを用いなとをいうパロケル 'タオネス' (K Camp) に「エタギサ心でエントにます。"
+        }
+    },
+    {
         "term": "Black Sun",
         "group": "Neo-Nazism",
         "country": "Global (originated in Europe)",
