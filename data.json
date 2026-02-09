@@ -1,5 +1,21 @@
 [
     {
+        "term": "North Korean Supreme Leader",
+        "group": "Politician",
+        "country": "North Korea",
+        "category": "Controversial Figure",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "1948",
+        "last_updated": "2023",
+        "context": {
+            "en": "Kim Jong-un has been the leader of North Korea since 2011 and is known for his authoritarian rule and nuclear ambitions.",
+            "ko": "김정은은 2011년부터 북한을 이끌고 있으며 독裁 통치와 원자弹 관련 업적으로 유명하다.",
+            "ja": "金正恩(きんじょううん, 1982年 - )は、北朝鮮の最高指導者であり、国防委員長兼最高軍事委員会委員長兼国家安全保障委員長である。"
+        }
+    },
+    {
         "term": " Renegade Dance",
         "group": "Dance",
         "country": "USA",
