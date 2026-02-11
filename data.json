@@ -1,5 +1,21 @@
 [
     {
+        "term": "Taqiyah",
+        "group": "Muslim",
+        "country": "Global",
+        "category": "Hate Symbol",
+        "risk_level": "High",
+        "trend_score": "Positive",
+        "status": "Verified",
+        "first_detected": "1920s",
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "A headscarf worn by Muslim men as a symbol of piety and identity.",
+            "ko": "이슬람교도가 신심이나 정체성을 나타내기 위해 입는 터기야.",
+            "ja": "イスラム教徒が信仰や身分を表現するために頭につけるタキヤ。"
+        }
+    },
+    {
         "term": "North Korean Supreme Leader",
         "group": "Politician",
         "country": "North Korea",
