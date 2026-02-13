@@ -1,5 +1,21 @@
 [
     {
+        "term": "Sieg Heil",
+        "group": "Neo-Nazi",
+        "country": "Germany, USA",
+        "category": "Gesture, Phrase",
+        "risk_level": "High",
+        "trend_score": 8,
+        "status": "Active",
+        "first_detected": "1933",
+        "last_updated": "2022",
+        "context": {
+            "en": "A salute made with the right hand, extending the arm out to the side and up at the end, often accompanied by the phrase 'Heil Hitler'.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Taqiyah",
         "group": "Muslim",
         "country": "Global",
