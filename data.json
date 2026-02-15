@@ -1,5 +1,21 @@
 [
     {
+        "term": "Julian Assange",
+        "group": "Activist",
+        "country": "Australia",
+        "category": "Public Figure",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "1990",
+        "last_updated": "2021",
+        "context": {
+            "en": "Co-founder of WikiLeaks, known for publishing classified government documents.",
+            "ko": "위키Leaks 설립자, 정부의 분류된 기밀문서를 발표한 것으로 유명하다.",
+            "ja": "フガンツ・カラャリッをクフデょすの仅邰はがおでしの"
+        }
+    },
+    {
         "term": "Sieg Heil",
         "group": "Neo-Nazi",
         "country": "Germany, USA",
