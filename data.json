@@ -1,5 +1,21 @@
 [
     {
+        "term": "SS Runes",
+        "group": "Racist and White Supremacist Symbols",
+        "country": "International",
+        "category": "Hate Symbol",
+        "risk_level": "High",
+        "trend_score": "+10",
+        "status": "Active",
+        "first_detected": "300",
+        "last_updated": "2022",
+        "context": {
+            "en": "The symbol 'SS' is associated with the Nazis and is used by some neo-Nazis to refer to their ideology.",
+            "ko": "나치들의 상징이자 일부 네오나치들이 자신들의 이념에 사용하는 기호.",
+            "ja": "ナチスのサインであり、有些のネオナチが自分のイデオロギーに使用するサイン"
+        }
+    },
+    {
         "term": "Julian Assange",
         "group": "Activist",
         "country": "Australia",
