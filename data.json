@@ -1,5 +1,30 @@
 [
     {
+        "term": "Hoklo",
+        "group": "Hoklo people",
+        "country": "Taiwan",
+        "category": "Hate Symbol",
+        "risk_level": "High",
+        "trend_score": 5,
+        "status": "Verified",
+        "first_detected": "2018-01-01",
+        "last_updated": "2020-06-01",
+        "context": {
+            "en": {
+                "description": "The Hoklo are a Taiwanese ethnic group.",
+                "context": "The Hoklo people have faced discrimination and persecution throughout history, particularly during the Han Chinese colonization of Taiwan."
+            },
+            "ko": {
+                "description": "후코어는 대만의 민족 집단이다.",
+                "context": "후코어는 역대 다수의 역사에서 차별과 억압을 겪었다. 특히, 하남 중화인민공화국의 점령 시대에는 가장 심하게 겪었다."
+            },
+            "ja": {
+                "description": "",
+                "context": ""
+            }
+        }
+    },
+    {
         "term": "SS Runes",
         "group": "Racist and White Supremacist Symbols",
         "country": "International",
