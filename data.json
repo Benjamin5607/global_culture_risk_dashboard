@@ -1,5 +1,20 @@
 [
     {
+        "term": "Mahmoud Ahmadinejad",
+        "group": "Politician",
+        "category": "Controversial Figure",
+        "risk_level": "High",
+        "trend_score": "0.8",
+        "status": "Historic",
+        "first_detected": "1977",
+        "last_updated": "2015",
+        "context": {
+            "en": "Mahmoud Ahmadinejad is a former Iranian politician and the sixth President of Iran from 2005 to 2013. He is known for his anti-Western and anti-Israeli rhetoric, which led to controversy and tensions with the international community.",
+            "ko": "아마드니예아드(Mahmoud Ahmadinejad)는 이란의 제 6대 대통령이며, 2005년부터 2013년까지 재임 한 이란의 정치인이다. 그는 이스라엘 및 서구와의 대립과 긴장감을 일으킨 반대 서방 및 반대 이스라엘 연설으로 잘 알려져 있다.",
+            "ja": "マフムード・アフマディネジャド(Mahmoud Ahmadinejad)はイランの政治家、元イラン大統領(第6代)。同国の政治家としての政治活動を通じて西洋やイスラエルに対する強固な反対姿勢を展開し、国際社会と緊張した関係を持っていた。"
+        }
+    },
+    {
         "term": "Hoklo",
         "group": "Hoklo people",
         "country": "Taiwan",
