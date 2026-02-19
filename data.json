@@ -1,5 +1,21 @@
 [
     {
+        "term": "Pegida",
+        "group": "White Supremacy",
+        "country": "Germany",
+        "category": "Anti-Muslim",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "2014",
+        "last_updated": "2023",
+        "context": {
+            "en": "Pegida stands for Patriotic Europeans Against the Islamisation of the Occident. It is a far-right and anti-Muslim movement.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Mahmoud Ahmadinejad",
         "group": "Politician",
         "category": "Controversial Figure",
