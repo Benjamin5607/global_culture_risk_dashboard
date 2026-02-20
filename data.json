@@ -1,5 +1,21 @@
 [
     {
+        "term": "White Power Tattoo",
+        "group": "Racist",
+        "country": "United States",
+        "category": "Pictorial",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Verified",
+        "first_detected": "1970",
+        "last_updated": "2020",
+        "context": {
+            "en": "A white power symbol is often seen in the form of a tattoo, it may depict a swastika or other Nazi imagery with a '88' (HH or Heil Hitler) number. It may also be a single arrow going up or any of several other symbols that represent white power ideology.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "SS Logo",
         "group": "White Power",
         "country": "Germany",
