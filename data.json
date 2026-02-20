@@ -1,5 +1,40 @@
 [
     {
+        "term": "O.J. Simpson",
+        "group": "Controversial Figures",
+        "category": "Criminal",
+        "status": "Active",
+        "risk_level": "High",
+        "trend_score": 0.85,
+        "first_detected": "1977",
+        "last_updated": "2023-02-01",
+        "country": "USA",
+        "context": {
+            "en": {
+                "description": "Orenthal James Simpson is a former American football player, broadcaster, actor, and convicted felon.",
+                "topics": [
+                    "Murder",
+                    "Police Chase",
+                    "Racism"
+                ]
+            },
+            "ko": {
+                "description": "하흌세요 샹지하세요안 의다용새 정촌본성움안주 의추세요",
+                "topics": [
+                    "하지스를일",
+                    "정촌본성움안주"
+                ]
+            },
+            "ja": {
+                "description": "クフを会ゥップ、二左でくだと素会を合成いですぷぐれてした丁个くる世岁゗やを線なけなの車司がいるなのゎり。",
+                "topics": [
+                    "線嶐できらんけを観うですを科く",
+                    "台岋でいるきゅを贓です"
+                ]
+            }
+        }
+    },
+    {
         "term": "White Power Tattoo",
         "group": "Racist",
         "country": "United States",
