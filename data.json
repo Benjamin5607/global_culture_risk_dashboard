@@ -1,5 +1,21 @@
 [
     {
+        "term": "SS Logo",
+        "group": "White Power",
+        "country": "Germany",
+        "category": "Symbols",
+        "risk_level": "Extreme",
+        "trend_score": 92,
+        "status": "Officially Recognized Hate Symbol",
+        "first_detected": "1923-1924",
+        "last_updated": "2022-09-01",
+        "context": {
+            "en": "The logo of the Schutzstaffel (SS), a paramilitary organization of the Nazi Party, is often used as a hate symbol due to its association with Nazi ideology.",
+            "ko": " 나치당 의paramilitary 조직인 SS의 로고는 나치 이데올로기의 연관성으로 인하여 혐오 상징으로 사용됩니다.",
+            "ja": "ナチス党の極端右派政党の軍事組織であるSSのロゴは、ナチス思想との関連性により、ホロコーストの否認と反ユダヤ主義のプロパガンダのシンボルとして使用されることがあります。"
+        }
+    },
+    {
         "term": "Pegida",
         "group": "White Supremacy",
         "country": "Germany",
