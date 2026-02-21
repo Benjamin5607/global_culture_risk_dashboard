@@ -1,5 +1,21 @@
 [
     {
+        "term": "Marshall McLuhan",
+        "group": "Media theorist",
+        "country": "Canada",
+        "category": "Social Commentator",
+        "risk_level": "Low",
+        "trend_score": "4.1",
+        "status": "Active",
+        "first_detected": "1940",
+        "last_updated": "2023-02-01",
+        "context": {
+            "en": "Canadian philosopher and media theorist who is considered to be one of the most important theorists of the 20th century, best known for his concept of the \"global village\": a world where people can communicate and access information anywhere, anytime through electronic media like the internet.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "O.J. Simpson",
         "group": "Controversial Figures",
         "category": "Criminal",
