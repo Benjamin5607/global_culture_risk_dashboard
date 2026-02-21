@@ -1,5 +1,21 @@
 [
     {
+        "term": "Shook",
+        "group": "Gen Z",
+        "country": "USA",
+        "category": "Emotional State",
+        "risk_level": "Low",
+        "trend_score": "8",
+        "status": "Current",
+        "first_detected": "2017",
+        "last_updated": "2022",
+        "context": {
+            "en": "completely shocked or surprised",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Marshall McLuhan",
         "group": "Media theorist",
         "country": "Canada",
