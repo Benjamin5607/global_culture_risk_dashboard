@@ -1,5 +1,21 @@
 [
     {
+        "term": "Kim_Jong-un",
+        "group": "Political Leader",
+        "country": "North Korea",
+        "category": "Controversial Figure",
+        "risk_level": "High",
+        "trend_score": 9,
+        "status": "Active",
+        "first_detected": 2011,
+        "last_updated": 1643723900,
+        "context": {
+            "en": "The supreme leader of the Democratic People's Republic of Korea",
+            "ko": "북한의 최고 리더",
+            "ja": "北朝鮮の最高指導者"
+        }
+    },
+    {
         "term": "Nikolai Yezhov",
         "group": "historical figures",
         "country": "Soviet Union",
