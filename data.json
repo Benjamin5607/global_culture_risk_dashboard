@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nikolai Yezhov",
+        "group": "historical figures",
+        "country": "Soviet Union",
+        "category": "politician",
+        "risk_level": 8,
+        "trend_score": -0.4,
+        "status": "former",
+        "first_detected": 1936,
+        "last_updated": "2023-02-22",
+        "context": {
+            "en": "Nikolai Yezhov, a Soviet politician, served as the chief of the Soviet secret police during the Great Purge, a period of intense repression.",
+            "ko": "예졸프 가 소련 정치인으로, 소비에트 연방 공안성 차관으로 활동하였으며 조국防衛군을 통해 인치적 억압의 극대화",
+            "ja": "ニコライ・イェジエフソビエト連邦の政治家で、ソビエット秘密警察の警備総局長として大粛清に参加した。"
+        }
+    },
+    {
         "term": "Shook",
         "group": "Gen Z",
         "country": "USA",
