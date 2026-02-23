@@ -1,5 +1,21 @@
 [
     {
+        "term": " Renegade Dance ",
+        "group": null,
+        "country": "US",
+        "category": "Dance",
+        "risk_level": "low",
+        "trend_score": 8,
+        "status": "active",
+        "first_detected": "2020-05-05",
+        "last_updated": "2020-05-30",
+        "context": {
+            "en": "A dance challenge created by 14-year-old Jalaiah Harmon, gaining popularity on TikTok. It involves a combination of simple moves, including the 'glow-up' step.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Kim_Jong-un",
         "group": "Political Leader",
         "country": "North Korea",
