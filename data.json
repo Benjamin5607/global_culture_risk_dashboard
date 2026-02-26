@@ -17,7 +17,8 @@
             }
         },
         "status": "Active",
-        "first_detected": "2026-02-26"
+        "first_detected": "2026-02-26",
+        "term": "Unknown Issue"
     },
     {
         "Hate Symbol": {
