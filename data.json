@@ -1,5 +1,21 @@
 [
     {
+        "term": "#RenegadeChallenge",
+        "group": "Dance Challenges",
+        "country": "Global",
+        "category": "Entertainment",
+        "risk_level": "Medium",
+        "trend_score": 9.5,
+        "status": "Trending",
+        "first_detected": "April 2020",
+        "last_updated": "May 2020",
+        "context": {
+            "en": "#RenegadeChallenge - a dance challenge on the social media platform TikTok, set to the song 'Lottery' by K Camp, and popularized by 14-year-old Jalaiah Harmon. The trend went viral in April 2020, with many users creating and sharing their own versions of the dance.",
+            "ko": "#란지드 챌린지 - 티커톡에서 진행되는 댄스 챌린지. 노래는 '_lottery'로, 젊은 이웃인 Jalaiah Harmon이 인기를 모으고있는 노래. 2020년 4월에 viral해, 사용자들은 자신의 버전의 댄스를 만들고 공유했습니다.",
+            "ja": "#ランジド チャレンジ - TikTokで行われるダンス チャレンジ。歌は‘_lottery’として、若い友達のJalaiah Harmonが人気を得ている楽曲。2020年4月にViralしたが、ユーザーは自分のバージョンのダンスを作成して共有しました。"
+        }
+    },
+    {
         "term": " Renegade Dance ",
         "group": null,
         "country": "US",
