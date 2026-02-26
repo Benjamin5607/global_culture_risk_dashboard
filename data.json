@@ -1,5 +1,25 @@
 [
     {
+        "Hate Symbol": {
+            "term": "Swastika",
+            "group": "Neo-Nazi",
+            "country": "Germany/Global",
+            "category": "Racism",
+            "risk_level": "High",
+            "trend_score": 8,
+            "status": "Active",
+            "first_detected": "1930s",
+            "last_updated": "2022",
+            "context": {
+                "en": "Originally an ancient symbol in Hinduism and Buddhism representing good fortune, in a modified form, it is used by white supremacist groups to represent hatred and intolerance towards minorities.",
+                "ko": "원래 인도교와 불교에서의 선재는 1930년대에 나치당의 상징으로 사용된 후, 극우주의자에게 악의를 나타내는 기호가 되었다.",
+                "ja": "宷小は邨岣で一角にうろげ仌はあどりがうけ宷小に前積の影訁ぷすってを効メイカくまたますになしたたや"
+            }
+        },
+        "status": "Active",
+        "first_detected": "2026-02-26"
+    },
+    {
         "term": "#RenegadeChallenge",
         "group": "Dance Challenges",
         "country": "Global",
