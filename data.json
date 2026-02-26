@@ -1,5 +1,25 @@
 [
     {
+        "savage": {
+            "term": "Savage",
+            "group": "Gen Z Slang",
+            "country": "USA",
+            "category": "Derogatory term",
+            "risk_level": 3,
+            "trend_score": 5,
+            "status": "Active",
+            "first_detected": "2015-2016",
+            "last_updated": "2022-01-01",
+            "context": {
+                "en": "Used to describe someone who is being ruthless or brutally honest.",
+                "ko": "어느 이는 무방비하게 행동하거나, 지나치게 심한 진실로 다그치거나, 사람의 감정을 상하게하는 것",
+                "ja": "誰かが厳しくあたかも無意識に自分の行動を自分の感情を持たせず、人を傷つけるような表現"
+            }
+        },
+        "status": "Active",
+        "first_detected": "2026-02-26"
+    },
+    {
         "Hate Symbol": {
             "term": "Swastika",
             "group": "Neo-Nazi",
@@ -17,7 +37,8 @@
             }
         },
         "status": "Active",
-        "first_detected": "2026-02-26"
+        "first_detected": "2026-02-26",
+        "term": "Unknown Issue"
     },
     {
         "term": "#RenegadeChallenge",
