@@ -1,5 +1,21 @@
 [
     {
+        "term": "Oktoberfest beers with Nazi symbols",
+        "group": "White Supremacists",
+        "country": "Germany",
+        "category": "Hate Symbols in Popular Culture",
+        "risk_level": "Medium",
+        "trend_score": 0.5,
+        "status": "Current",
+        "first_detected": "2010",
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "Oktoberfest is a popular German beer festival that has been targeted by white supremacists for its association with German culture and heritage. In 2010, a group of neo-Nazis were arrested for selling Oktoberfest beers with swastikas and other Nazi symbols.",
+            "ko": "장안를출잫 에 안의 호세시 설생 설소이 었샬안세요.",
+            "ja": "私娘保済(不毒宏款カタア) わなあで代ぴらうべうだよう"
+        }
+    },
+    {
         "savage": {
             "term": "Savage",
             "group": "Gen Z Slang",
