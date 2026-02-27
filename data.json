@@ -1,5 +1,21 @@
 [
     {
+        "term": " Renegade Dance Challenge",
+        "group": "Dance",
+        "country": "United States",
+        "category": "Entertainment",
+        "risk_level": "Low",
+        "trend_score": 9.5,
+        "status": "Active",
+        "first_detected": "2020-04-24",
+        "last_updated": "2020-05-01",
+        "context": {
+            "en": "The Renegade dance challenge, also known as Renegade dance, is a viral dance challenge that originated on the TikTok platform.",
+            "ko": "Renegade 춤 과정을 따로 따로 따로 따로",
+            "ja": "レネゲードダンス チャレンジ、レネゲードダンスは、人気のあるダンスチャレンジです"
+        }
+    },
+    {
         "term": "Oktoberfest beers with Nazi symbols",
         "group": "White Supremacists",
         "country": "Germany",
