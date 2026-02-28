@@ -1,5 +1,21 @@
 [
     {
+        "term": "North Korea's former Supreme Leader Kim Jong-il",
+        "group": "Politician",
+        "country": "North Korea",
+        "category": "Authoritarian Leader",
+        "risk_level": 9,
+        "trend_score": 8,
+        "status": "Notorious",
+        "first_detected": "1994",
+        "last_updated": "2022",
+        "context": {
+            "en": "Kim Jong-il was a controversial figure in modern North Korean history known for his authoritarian rule and human rights abuses.",
+            "ko": "김정일은 현대 조선민주주의인민공화국 역사에서 가장 논란의 여지가 많은 인물로 그의 계산주의 통치와 인권 학살로 알려져 있다.",
+            "ja": "金正日は近代北朝鮮史の中で最も論議の多い人物として知られ、彼の autoritarian統治と人権蹂躪のために話題になった人物"
+        }
+    },
+    {
         "term": "SS Symbol",
         "group": "Neo-Nazi",
         "country": "Germany",
