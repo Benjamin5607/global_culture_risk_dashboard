@@ -1,5 +1,21 @@
 [
     {
+        "term": "SS Symbol",
+        "group": "Neo-Nazi",
+        "country": "Germany",
+        "category": "Hate",
+        "risk_level": "High",
+        "trend_score": 80,
+        "status": "Active",
+        "first_detected": "1920s",
+        "last_updated": "2022",
+        "context": {
+            "en": "A symbol of the Schutzstaffel, the elite guard of the Nazi Party, often used by neo-Nazis to represent white nationalism and anti-Semitism.",
+            "ko": "나치당의 고위 경호대인 슈투르마프겔(Schutzstaffel, 아부)의 상징, 가끔 우화인종주의와 반세미트주의를 대표하는 네오나치들에게 사용된다.",
+            "ja": "ナチ党のエリート警備隊であるシュッツシュタッフのシンボル, 時々白人至上主義者や反ユダヤ主義者に使われる"
+        }
+    },
+    {
         "term": "Oktoberfest beers with Nazi symbols",
         "group": "White Supremacists",
         "country": "Germany",
