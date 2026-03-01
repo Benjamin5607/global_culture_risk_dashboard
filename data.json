@@ -1,5 +1,21 @@
 [
     {
+        "term": "Renegade (dance)",
+        "group": "Renegade (song)",
+        "country": "USA",
+        "category": "Dance",
+        "risk_level": "Low",
+        "trend_score": 8.5,
+        "status": "Active",
+        "first_detected": "2020-04-24",
+        "last_updated": "2020-05-01",
+        "context": {
+            "en": "A TikTok dance challenge based on a song by Tonino Speciale, with the choreography created by 14-year-old Jalaiah Harmon.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "North Korea's former Supreme Leader Kim Jong-il",
         "group": "Politician",
         "country": "North Korea",
