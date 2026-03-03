@@ -1,5 +1,21 @@
 [
     {
+        "term": "Rajnath Singh",
+        "group": "Politicians",
+        "country": "India",
+        "category": "Controversial Figures: Politicians",
+        "risk_level": "Moderate",
+        "trend_score": 0.56,
+        "status": "active",
+        "first_detected": "2010-08-12",
+        "last_updated": "2022-02-16",
+        "context": {
+            "en": "Controversy surrounding Rajnath Singh, Indian politician known for his role as the Union Home Minister, has sparked heated debates.",
+            "ko": "번호값간겾짐소다프감장 Rajnath 었번안 가쨌원었의 번솤고 설주일지",
+            "ja": "ロアーシカに二に安世のしは"
+        }
+    },
+    {
         "term": "North Korea's former Supreme Leader Kim Jong-il",
         "group": "Politician",
         "country": "North Korea",
