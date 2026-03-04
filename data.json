@@ -1,5 +1,21 @@
 [
     {
+        "term": "#Renegade",
+        "group": "Dance",
+        "country": "United States",
+        "category": "Social",
+        "risk_level": "Low",
+        "trend_score": 80,
+        "status": "Active",
+        "first_detected": "2020-05-16T19:30:00.000Z",
+        "last_updated": "2022-03-21T18:30:00.000Z",
+        "context": {
+            "en": "A dance trend made famous by a 14-year-old boy named Jaden, who danced to the song of the same name. The challenge was to dance like him.",
+            "ko": "#레네이다운스 (Renegade dance)",
+            "ja": "#レネイゲダンス"
+        }
+    },
+    {
         "term": "Rajnath Singh",
         "group": "Politicians",
         "country": "India",
