@@ -1,5 +1,24 @@
 [
     {
+        "term": "Nigel Farage",
+        "group": [
+            "Politician",
+            "Far-right Populist"
+        ],
+        "country": "United Kingdom",
+        "category": "Controversial Figure",
+        "risk_level": "high",
+        "trend_score": 0.8,
+        "status": "active",
+        "first_detected": "2006",
+        "last_updated": "2023-02-15T00:00:00Z",
+        "context": {
+            "en": "Leader of the Brexit Party, a far-right, anti-immigration party.",
+            "ko": "十치곩미백 굠근웜요 벌닥하세요",
+            "ja": "バィレを先です、川湖したを圣なします、发台を気嵌が後成さその一屍ですたと当関りる人ですのつ観帝です"
+        }
+    },
+    {
         "term": "#Renegade",
         "group": "Dance",
         "country": "United States",
