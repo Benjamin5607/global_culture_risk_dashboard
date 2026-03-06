@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nikita Khrushchev",
+        "group": "Politician",
+        "country": "Russia/Soviet Union",
+        "category": "Controversial Figure",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Deceased",
+        "first_detected": "1940",
+        "last_updated": "2022",
+        "context": {
+            "en": "Khrushchev's tenure was marked by the de-Stalinization of Soviet society, but he also implemented repressive policies, such as suppressing the Hungarian Revolution and crushing the Polish October.",
+            "ko": "크루셰프의 임기가 소비에트 사회의 드 스탈린화로 인해 표면화되었지만 그는 또한 반동의 헝가리 혁명을 탄압하고 폴란드 10월 사건을 진압하는 등의 위압적인 정책들을 실행했습니다.",
+            "ja": "デレリカはバー・エックに徐を走きた。小对温はメーゲイルを泱些当ます。「小对温な電武」に当前で私樹して処したに角してわた。》"
+        }
+    },
+    {
         "term": "Nigel Farage",
         "group": [
             "Politician",
