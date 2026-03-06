@@ -1,5 +1,21 @@
 [
     {
+        "term": "Narcosubmarino",
+        "group": "Controversial Figure, Criminals",
+        "country": "Colombia",
+        "category": "Cartel, Cocaine trafficking",
+        "risk_level": "Very High",
+        "trend_score": "High",
+        "status": "Active",
+        "first_detected": "2015",
+        "last_updated": "2022",
+        "context": {
+            "en": "Colombia has seen the rise of narcosubmarinos, submersible submarines used for cocaine trafficking.",
+            "ko": "콜롬비아는 코카인 तस기로 사용되는 수중잠수를 특징으로 하는 '나르코 수중잠수함'이 부상했습니다.",
+            "ja": "コロンビアでは、コカイン密輸用に使用される潜水艦型の「ナーコスブマリノ」が台頭しています。"
+        }
+    },
+    {
         "term": "Nikita Khrushchev",
         "group": "Politician",
         "country": "Russia/Soviet Union",
