@@ -1,5 +1,24 @@
 [
     {
+        "term": "Niklas Frank",
+        "group": [
+            "Historical Figures",
+            "Nazi Party"
+        ],
+        "country": "Germany",
+        "category": "Controversial Figure",
+        "risk_level": 8,
+        "trend_score": 3,
+        "status": "Active",
+        "first_detected": 1966,
+        "last_updated": 2022,
+        "context": {
+            "en": "Niklas Frank is a German author, son of Karl-Hasso von Manteuffel, and most famously the son of Nazi war criminal Walter Frank. His infamous book, 'Der Vater eine Frage der Klasse' translates to 'The Father a Matter of Class' is where he denies ever visiting Dachau while his father was running the camp.",
+            "ko": "鸟丿笑 邬鹚 諈変, 鼠伍 康丿 威温 久发 貜习太",
+            "ja": "Nicklas Frank, にたれじるですの湠都樹がえょすにきべる。アトルトがトフロナユウジェンにひてぢっていあにひしい。"
+        }
+    },
+    {
         "term": "Narcosubmarino",
         "group": "Controversial Figure, Criminals",
         "country": "Colombia",
