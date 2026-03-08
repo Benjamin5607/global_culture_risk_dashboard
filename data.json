@@ -1,5 +1,21 @@
 [
     {
+        "term": "Coon",
+        "group": "Racial Slurs",
+        "country": "USA",
+        "category": "Hate Speech",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "1930s",
+        "last_updated": "2022-02-16",
+        "context": {
+            "en": "a racial slur against African Americans, considered highly derogatory.",
+            "ko": "아프리카계 미국人のための 경멸어.",
+            "ja": "本国の海電たは，いときちどました島が安募を为たるだ"
+        }
+    },
+    {
         "term": "Niklas Frank",
         "group": [
             "Historical Figures",
