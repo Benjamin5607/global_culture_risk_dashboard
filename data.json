@@ -1,5 +1,24 @@
 [
     {
+        "term": "OKKK",
+        "group": "Extremist group",
+        "country": "South Korea",
+        "category": [
+            "Anti-government",
+            "Anti-police"
+        ],
+        "risk_level": "High",
+        "trend_score": -1,
+        "status": "Verified",
+        "first_detected": "2018",
+        "last_updated": "2022-06-01",
+        "context": {
+            "en": "Symbol associated with the Korean extreme right group, New Right or Kkktkk.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Coon",
         "group": "Racial Slurs",
         "country": "USA",
