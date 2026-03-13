@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nikolai Yevseyevich Valuev",
+        "group": "Politician, KGB agent, Spymaster, and Sports figure",
+        "country": "Russia",
+        "category": "Controversial Figure",
+        "risk_level": 9,
+        "trend_score": -5,
+        "status": "Notable",
+        "first_detected": "1975",
+        "last_updated": "2021",
+        "context": {
+            "en": "Nikolai Valuev is a Russian former professional boxer, kickboxer, and mixed martial artist. He served in the KGB and was a notable figure in post-Soviet Russia. However, he has been involved in various scandals and controversies throughout his career.",
+            "ko": "백원 지세요 준고원알 엀닪",
+            "ja": "ニコライ·バルテフはロシアの元プロボクサー、キックボクサー、ミックスマーシャルアーティスト。KGBに在籍し、 постソビエトロシアの有名人"
+        }
+    },
+    {
         "term": "North Korean Leader Kim Jong-un",
         "group": "Leaders",
         "country": "North Korea",
