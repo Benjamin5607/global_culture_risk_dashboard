@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nikolai Dzhumagaliev",
+        "group": "Individual (Extremist)",
+        "country": "Soviet Union",
+        "category": "Extremist/Hate Group",
+        "risk_level": "Moderate",
+        "trend_score": "High",
+        "status": "Active",
+        "first_detected": "1960",
+        "last_updated": "2022",
+        "context": {
+            "en": "Nikolai Dzhumagaliev is a Soviet inventor and convicted bomber. He is a prominent figure in the international community.",
+            "ko": "샐소 잤추습프조시요 의샐소어 얰주라잤프조. 산소습원주라잤프조 서잤촛현의현 의산소습프조를 엃시주우킨운네",
+            "ja": "を岌んの小にきる線はは水はいる仌と毀さその張を、小を宐なきるいるいをしい、古死を消したいをめようきどかただぎ"
+        }
+    },
+    {
         "term": "Nikolai Tesla",
         "group": "Scientist",
         "country": "Serbia/USA",
