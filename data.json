@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nikolai Tesla",
+        "group": "Scientist",
+        "country": "Serbia/USA",
+        "category": "Inventor",
+        "risk_level": "MEDIUM",
+        "trend_score": "5.0",
+        "status": "DEBATED",
+        "first_detected": "1884",
+        "last_updated": "2023-02-10",
+        "context": {
+            "en": "Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the development of the modern alternating current (AC) electricity system.",
+            "ko": "테슬라 (Nikola Tesla)는 세르비아인-미국인 발명가, 전기 엔지니어, 기계 엔지니어, 미래 지식을 가진 인물로 알려져 있음. 그들은 현대의 교류 전원 시스템의 개발에 기여한 것으로 가장 잘 알려져 있음.",
+            "ja": "ニコラ・テスラ (Nikola Tesla) は、セルビア系アメリカ人発明家、電気技師、機械技師、未来を予測した人。 彼は現代の交流電流システムの開発に多大な貢献をしたことで最もよく知られている。"
+        }
+    },
+    {
         "term": "OK sign (white power sign)",
         "group": "White Supremacy",
         "country": "USA",
