@@ -1,5 +1,21 @@
 [
     {
+        "term": "OK sign (white power sign)",
+        "group": "White Supremacy",
+        "country": "USA",
+        "category": "Extremist",
+        "risk_level": "High",
+        "trend_score": 80,
+        "status": "Verified",
+        "first_detected": "1970s",
+        "last_updated": "2022",
+        "context": {
+            "en": "The OK sign has been used to signal white power or supremacy in the United States, often by people who do not intend to convey a racist message. This can be confusing, as it may be used innocently in other contexts.",
+            "ko": "OK 부호는 미국에서 سفید인 우월감 또는 우파력을 나타낼 수 있는 것으로 사용되었다. 이 부호는 종종 사람들로서는 의도치 않게 사용한다.",
+            "ja": ""
+        }
+    },
+    {
         "term": "Nikolai Yevseyevich Valuev",
         "group": "Politician, KGB agent, Spymaster, and Sports figure",
         "country": "Russia",
