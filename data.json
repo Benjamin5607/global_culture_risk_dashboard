@@ -1,5 +1,21 @@
 [
     {
+        "term": "Ok sign (Thumbs Up) Reverse",
+        "group": "General Hate",
+        "country": "Global",
+        "category": "Hate Symbol",
+        "risk_level": "High",
+        "trend_score": "Neutral",
+        "status": "Verified",
+        "first_detected": "2014-09-04",
+        "last_updated": "2019-03-26",
+        "context": {
+            "en": "This is a variation of the traditional thumbs-up gesture with the palm of the hand facing to the left, typically used to mock or insult individuals.",
+            "ko": "이 표기는 전통적인 손가락 업 손동작의 버전으로 Palm of the hand가 왼쪽을 바라보고, 일반적으로 모욕 또는 저주하는 표징으로 사용된다.",
+            "ja": "これは伝統的な手の指を上げる手品のバージョンで、手のひらの向きが左方向を向いており、通常、嘲笑や侮辱するために使用される。"
+        }
+    },
+    {
         "term": "OK Hand Sign",
         "group": "Hand Gesture",
         "country": "Global",
