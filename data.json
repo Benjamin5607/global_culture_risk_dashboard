@@ -1,5 +1,21 @@
 [
     {
+        "term": "Ghosted",
+        "group": "Gen Z Slang",
+        "country": "USA",
+        "category": "Relationship/ Dating",
+        "risk_level": "Medium",
+        "trend_score": 80,
+        "status": "Active",
+        "first_detected": "2014",
+        "last_updated": "2022",
+        "context": {
+            "en": "to suddenly stop responding to someone's messages or interactions",
+            "ko": "누군가의 메시지나 상호작용에uddenly 답하지 않는 것을 말한다.",
+            "ja": "ついったくの返信や交互作用を突然止めることを意味する"
+        }
+    },
+    {
         "term": "Nikolai Dzhumagaliev",
         "group": "Individual (Extremist)",
         "country": "Soviet Union",
