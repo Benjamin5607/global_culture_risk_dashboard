@@ -1,5 +1,21 @@
 [
     {
+        "term": "OK Hand Sign",
+        "group": "Hand Gesture",
+        "country": "Global",
+        "category": "Hate Symbol",
+        "risk_level": "High",
+        "trend_score": 6.2,
+        "status": "Verified",
+        "first_detected": "2010",
+        "last_updated": "2022-12-01",
+        "context": {
+            "en": "The OK hand gesture, also known as an 'okay hand sign,' is a hand gesture in which the index finger is separated from the thumb, indicating a 'okay' or confirmation of an action. This gesture has been used for decades and was once widely recognized across the world as a positive confirmation. However, some extremist groups in the 2010s adopted the gesture, separating the thumb and index finger with a peace sign finger in between and the middle finger extended. This variation, in the hands of hate groups and white supremacists, turned it into a hate symbol. The 'OK' hand gesture is still widely recognized as a positive sign and is commonly used today as a friendly gesture, often in photos or emojis.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Ghosted",
         "group": "Gen Z Slang",
         "country": "USA",
