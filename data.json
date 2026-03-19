@@ -1,5 +1,21 @@
 [
     {
+        "term": "Savage Mode",
+        "group": "Dance",
+        "country": "USA",
+        "category": "Entertainment",
+        "risk_level": "Low",
+        "trend_score": 85,
+        "status": "Active",
+        "first_detected": "June 2021",
+        "last_updated": "August 2022",
+        "context": {
+            "en": "Savage Mode, a dance challenge that gained popularity on TikTok, involves dancing with a strong and fierce attitude to a popular song. It was inspired by a song from the same name by Beyonce and featured in a viral TikTok video.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "White Power Logo",
         "group": "Neo-Nazi",
         "country": "United States",
