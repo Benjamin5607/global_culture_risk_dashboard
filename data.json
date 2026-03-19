@@ -1,5 +1,21 @@
 [
     {
+        "term": "White Power Logo",
+        "group": "Neo-Nazi",
+        "country": "United States",
+        "category": "Racial or Ethnic Supremacy",
+        "risk_level": "High",
+        "trend_score": 80,
+        "status": "Confirmed",
+        "first_detected": "Late 1990s",
+        "last_updated": "2022-12-31",
+        "context": {
+            "en": "The White Power Logo, also known as the White Fist or Odin's Cross, is a symbol used by some white power skinheads and certain neo-Nazi groups. It is often depicted as a white fist, often clenched, with the word 'white' or a similar expression written on it, or as a cross with an 'O''s in the center and an arrow pointing upwards or a fist.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Ok sign (Thumbs Up) Reverse",
         "group": "General Hate",
         "country": "Global",
