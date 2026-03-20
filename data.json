@@ -1,5 +1,21 @@
 [
     {
+        "term": "Mahatma Gandhi's Critics",
+        "group": "Historical Figure",
+        "country": "India",
+        "category": "Controversial Figure",
+        "risk_level": 7,
+        "trend_score": 5,
+        "status": "resolved",
+        "first_detected": "1950's",
+        "last_updated": "2020",
+        "context": {
+            "en": "Some critics view Gandhi as a symbol of Indian subjugation and a hindrance to modernization, while others see him as a champion of peaceful resistance and a key figure in India's struggle for independence.",
+            "ko": "감디는 인도 독립을 위해 평화적인 저항의 지지자로 간주되는 한편, 인도 수지가의 상징으로 인식되고 현대화를 방해하는 존재로 보는 비판자가 있습니다.",
+            "ja": "ガンジーは、インドの独立を求める平和的な抵抗の支持者でもあり、インドの抑圧の象徴であり、近代化を妨害する存在と見なされる批判者もいます。"
+        }
+    },
+    {
         "term": "Savage Mode",
         "group": "Dance",
         "country": "USA",
