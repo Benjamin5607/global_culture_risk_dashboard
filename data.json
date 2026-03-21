@@ -1,5 +1,21 @@
 [
     {
+        "term": "",
+        "group": "White Supremacy",
+        "country": "USA",
+        "category": "Symbol",
+        "risk_level": "medium",
+        "trend_score": 8,
+        "status": "active",
+        "first_detected": "1940s",
+        "last_updated": "2020",
+        "context": {
+            "en": "A symbol often associated with the Ku Klux Klan, a white supremacist organization.",
+            "ko": "하이윈드 하트 기호",
+            "ja": "ハイワインドハートシンボル"
+        }
+    },
+    {
         "term": "Mahatma Gandhi's Critics",
         "group": "Historical Figure",
         "country": "India",
