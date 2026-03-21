@@ -1,5 +1,57 @@
 [
     {
+        "term": "Vladimir Putin",
+        "group": "Politician",
+        "country": "Russia",
+        "category": "Controversial Figure",
+        "risk_level": 8,
+        "trend_score": 7,
+        "status": "Active",
+        "first_detected": "2004",
+        "last_updated": "2023",
+        "context": {
+            "en": {
+                "enrichment": {
+                    "description": "Vladimir Putin is a Russian politician who has served as the President of Russia (4th term), Prime Minister of Russia, and Mayor of Saint Petersburg. He is the longest-serving Russian leader since Joseph Stalin and is considered one of the most powerful people in the world.",
+                    "keywords": [
+                        "Russia",
+                        "Vladimir Putin",
+                        "Politician",
+                        "President",
+                        "Prime Minister",
+                        "Mayor"
+                    ]
+                }
+            },
+            "ko": {
+                "enrichment": {
+                    "description": "Vлад미르 푸틴은 러시아의 정치인으로 4회 러시아 대통령, 러시아 총리, 상트 피테르부르크 시장직을 역임했다. 그는 Joseph 스탐린 이후 러시아를 장기 통치한 지도자 중 한 명으로 세계에서 가장 영향력 있는 인물 중 하나로 알려져 있다.",
+                    "keywords": [
+                        "러시아",
+                        "Vladimir Putin",
+                        "정치인",
+                        "러시아 대통령",
+                        "러시아总理",
+                        "상트 피테르부르크"
+                    ]
+                }
+            },
+            "ja": {
+                "enrichment": {
+                    "description": "ВладиМір ПУТінはロシアの政治家であり、4期ロシア大統領、ロシア首相、サンクトペテルブルク市長を歴任している。彼はヨセフ スターリン以来、ロシアを長期に渡って支配した指導者の一人であり、世界で最も影響力のある人物の一人である。",
+                    "keywords": [
+                        "ロシア",
+                        "Vladimir Putin",
+                        "政治家",
+                        "ロシア大統領",
+                        "ロシア首相",
+                        "サンクトペテルブルク"
+                    ]
+                }
+            }
+        }
+    },
+    {
         "term": "",
         "group": "White Supremacy",
         "country": "USA",
