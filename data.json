@@ -1,5 +1,21 @@
 [
     {
+        "term": "White Power Logo (WPL)",
+        "group": "White Supremacist",
+        "country": "USA",
+        "category": "Symbolic Expression",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "1978",
+        "last_updated": "2022",
+        "context": {
+            "en": "The White Power Logo is a symbol used by white supremacists and neo-Nazis to represent their ideology.",
+            "ko": "화이트 파워 로고는 백인 우월주의자이자 이민 배척주의자들이 자신의 사상을 대표하는 상징이다.",
+            "ja": "ワイト ポワワー ロゴは、白人至上主義者やナチスのスピンオフである第三のposition者の彼らの思想を表すシンボルです。"
+        }
+    },
+    {
         "term": "Vladimir Putin",
         "group": "Politician",
         "country": "Russia",
