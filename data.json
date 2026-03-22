@@ -1,5 +1,21 @@
 [
     {
+        "term": "Napoleon Bonaparte",
+        "group": "Historical Figure",
+        "country": "France",
+        "category": "Controversial Figure",
+        "risk_level": 8,
+        "trend_score": 7.1,
+        "status": "Active",
+        "first_detected": "1769",
+        "last_updated": "2023-12-01",
+        "context": {
+            "en": "Napoleon Bonaparte was a French military leader and statesman who rose to prominence during the French Revolution and its associated wars in Europe.",
+            "ko": "나폴레옹 보나파르트는 프랑스 군사령관이자 정치인으로, 그는 프랑스 혁명과 관련된 유럽 전쟁에서 명성을 얻었습니다.",
+            "ja": "ナポレオン・ボナパルテはフランス軍の指揮官にして政治家であり、フランス革命とヨーロッパでの関連した戦争で名を馳せた人物"
+        }
+    },
+    {
         "term": "Kim Jong Un",
         "group": "Head of State",
         "country": "North Korea",
