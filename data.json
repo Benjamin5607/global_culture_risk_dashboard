@@ -1,5 +1,21 @@
 [
     {
+        "term": "Kim Jong Un",
+        "group": "Head of State",
+        "country": "North Korea",
+        "category": "Authoritarian Leader",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "2011",
+        "last_updated": "2023-01-01",
+        "context": {
+            "en": "North Korean leader known for his authoritarian rule and nuclear weapons program.",
+            "ko": "김정은, 조선민주주의인민공화국의 지도자로 그의 자권적 통치와 هست성 무기 프로그램 때문으로 유명하다.",
+            "ja": "北朝鮮の指導者として知られ、彼の自権的統治と核兵器プログラムのためによく知られている"
+        }
+    },
+    {
         "term": "White Power Logo (WPL)",
         "group": "White Supremacist",
         "country": "USA",
