@@ -1,5 +1,21 @@
 [
     {
+        "term": "OKKKK",
+        "group": "Extremist groups",
+        "country": "South Korea",
+        "category": "Hate Symbols",
+        "risk_level": "High",
+        "trend_score": 8,
+        "status": "Verified",
+        "first_detected": "2013-02-13",
+        "last_updated": "2022-10-11",
+        "context": {
+            "en": "A popular hate symbol created by South Korean 'antisocial social club' group members",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Napoleon Bonaparte",
         "group": "Historical Figure",
         "country": "France",
