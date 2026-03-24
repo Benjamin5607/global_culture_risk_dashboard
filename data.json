@@ -1,5 +1,21 @@
 [
     {
+        "term": "OKWinged",
+        "group": "White Power",
+        "country": "Germany",
+        "category": "Hate Symbols",
+        "risk_level": "High",
+        "trend_score": 8,
+        "status": "Verified",
+        "first_detected": "2018-11-10",
+        "last_updated": "2022-02-20",
+        "context": {
+            "en": "An OK symbol is made by superimposing the letters of the word \"okay\" in a stylized way with an outstretched wing",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Iron Cross",
         "group": "Symbol",
         "country": "Global",
