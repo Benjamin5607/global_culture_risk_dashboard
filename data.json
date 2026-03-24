@@ -1,5 +1,21 @@
 [
     {
+        "term": "Iron Cross",
+        "group": "Symbol",
+        "country": "Global",
+        "category": "Hate Symbol",
+        "risk_level": "High",
+        "trend_score": 0.85,
+        "status": "Valid",
+        "first_detected": "1930s",
+        "last_updated": "2022-12-01",
+        "context": {
+            "en": "A red cross with the arms of a swastika, often used in neo-Nazi and white supremacist contexts.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "OKKKK",
         "group": "Extremist groups",
         "country": "South Korea",
