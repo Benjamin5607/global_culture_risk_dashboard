@@ -1,5 +1,27 @@
 [
     {
+        "term": "Simp (slang)",
+        "group": [
+            "Gen Z"
+        ],
+        "country": [
+            "USA",
+            "Canada",
+            "UK"
+        ],
+        "category": "Slang/Insult",
+        "risk_level": "Medium",
+        "trend_score": 0.87,
+        "status": "Current",
+        "first_detected": 2019,
+        "last_updated": 2022,
+        "context": {
+            "en": "A person who overly invests emotions, energy, or excitement into someone or something often to an unhealthy degree.",
+            "ko": "어딘가에 지나치게 집중하는 사람.",
+            "ja": "幻导は、代　五とりちぽら、崎を詯るゃたきしただ."
+        }
+    },
+    {
         "term": "OKWinged",
         "group": "White Power",
         "country": "Germany",
