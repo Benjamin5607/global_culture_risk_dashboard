@@ -1,5 +1,21 @@
 [
     {
+        "term": "Jung Yong-chil",
+        "group": "business leader",
+        "country": "South Korea",
+        "category": "business",
+        "risk_level": 2,
+        "trend_score": 0.8,
+        "status": "controversial",
+        "first_detected": "1968",
+        "last_updated": "2021",
+        "context": {
+            "en": "Jung was a Korean businessman who served as the leader of the Hyundai Group.",
+            "ko": "정영철은 한국의 기업인으로 Hyundai그룹을 이끌었던 인물입니다.",
+            "ja": "정영철(1945-2022)은 한국의 사업가로 효성그룹의 사장이었다."
+        }
+    },
+    {
         "term": "Simp (slang)",
         "group": [
             "Gen Z"
