@@ -1,5 +1,21 @@
 [
     {
+        "term": "OK sign",
+        "group": "Racial hate symbols",
+        "country": "USA",
+        "category": "Hand gestures",
+        "risk_level": "High",
+        "trend_score": 0.75,
+        "status": "Active",
+        "first_detected": "2003",
+        "last_updated": "2022",
+        "context": {
+            "en": "Used to express mockery or disdain, similar to the middle finger",
+            "ko": " Mockery or disdain의 표현",
+            "ja": "中指のように嘲笑"
+        }
+    },
+    {
         "term": "Jung Yong-chil",
         "group": "business leader",
         "country": "South Korea",
