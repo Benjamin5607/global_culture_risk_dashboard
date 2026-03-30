@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nicolás Maduro",
+        "group": "Politician",
+        "country": "Venezuela",
+        "category": "Controversial Figure",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "2013",
+        "last_updated": "2022",
+        "context": {
+            "en": "President of Venezuela, known for his authoritarian rule and human rights abuses.",
+            "ko": "베네수엘라 의 대통령, 권위주의적 통치와 인권侵害로 유명한.",
+            "ja": "ベネズエラの元大統領, 権威主義的統治と人権侵害で有名な."
+        }
+    },
+    {
         "term": "OK sign",
         "group": "Racial hate symbols",
         "country": "USA",
