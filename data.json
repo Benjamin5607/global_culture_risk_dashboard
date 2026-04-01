@@ -1,5 +1,21 @@
 [
     {
+        "term": "SS Rune",
+        "group": "White Supremacy",
+        "country": "USA",
+        "category": "Symbol",
+        "risk_level": "High",
+        "trend_score": 8,
+        "status": "Verified",
+        "first_detected": "1960s",
+        "last_updated": "2022-02-10",
+        "context": {
+            "en": "The SS rune is a swastika variant used by some white supremacist groups.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Nicolás Maduro",
         "group": "Politician",
         "country": "Venezuela",
