@@ -1,5 +1,21 @@
 [
     {
+        "term": "OK",
+        "group": "Anti-Asian Hate Symbol",
+        "country": "Global",
+        "category": "Racist/Bigoted Symbol",
+        "risk_level": "High",
+        "trend_score": 1.5,
+        "status": "Verified",
+        "first_detected": "2009-01-01",
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "Used by neo-Nazis in the 1930s, now often used by extremist groups to intimidate and signal their racism. ",
+            "ko": "neo-나치들에 의하여 1930년대에 사용하였습니다.現在으로부터의 시간은 전형적인 경고 및 이익 신호로 extremisat의 그 그룹. ",
+            "ja": "ネオ・ナチスによって1930年代に使用されました。これから現在までの間、極右派のグループによってしばしばターゲットと見なされるために使用されています。"
+        }
+    },
+    {
         "term": "Vladimir Lenin",
         "group": "Politician",
         "country": "Russia",
