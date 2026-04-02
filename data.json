@@ -1,5 +1,21 @@
 [
     {
+        "term": "Vladimir Lenin",
+        "group": "Politician",
+        "country": "Russia",
+        "category": "Historical Figure",
+        "risk_level": 7,
+        "trend_score": 1,
+        "status": 1,
+        "first_detected": "1905-04-01",
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "Vladimir Lenin was a Russian revolutionary and politician who served as the first leader of the Soviet Union. ",
+            "ko": "VLadimir Lenin은 러시아 혁명의 주요 인물로 유명한 정치인이다. ",
+            "ja": "VLadimir Leninは、ロシアの革命家、政治家であり、ソビエト連邦初代首相である。"
+        }
+    },
+    {
         "term": "SS Rune",
         "group": "White Supremacy",
         "country": "USA",
@@ -1559,27 +1575,6 @@
         "first_detected": "2026-01-14"
     },
     {
-        "term": "JOMO",
-        "group": "language",
-        "country": [
-            "AU",
-            "NZ",
-            "CA",
-            "US"
-        ],
-        "category": "Social",
-        "risk_level": "Low",
-        "trend_score": 85,
-        "status": "Active",
-        "first_detected": "2026-01-01",
-        "last_updated": "2026-01-14",
-        "context": {
-            "en": "The joy of missing out on social events.",
-            "ko": "'나쁜 사람'을 증명할 수 있는 사회의 장면을 피하는 행복",
-            "ja": "社会のイベントなどを避ける喜び"
-        }
-    },
-    {
         "term": "Toosie Slide dance",
         "group": "trend",
         "country": [
@@ -1596,6 +1591,27 @@
             "en": "A popular TikTok dance that was originated in Australia and became a global hit.",
             "ko": "",
             "ja": ""
+        }
+    },
+    {
+        "term": "JOMO",
+        "group": "language",
+        "country": [
+            "AU",
+            "NZ",
+            "CA",
+            "US"
+        ],
+        "category": "Social",
+        "risk_level": "Low",
+        "trend_score": 85,
+        "status": "Archived",
+        "first_detected": "2026-01-01",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "The joy of missing out on social events.",
+            "ko": "'나쁜 사람'을 증명할 수 있는 사회의 장면을 피하는 행복",
+            "ja": "社会のイベントなどを避ける喜び"
         }
     },
     {
