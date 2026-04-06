@@ -1,5 +1,21 @@
 [
     {
+        "term": "Rohingya",
+        "group": "Ethnic and Religious Minority Group",
+        "country": "Myanmar and Bangladesh",
+        "category": "Human Rights",
+        "risk_level": 90,
+        "trend_score": 85,
+        "status": "Ongoing",
+        "first_detected": "2017",
+        "last_updated": "2022",
+        "context": {
+            "en": "Rohingya Muslims living in Myanmar's Rakhine state have faced decades of persecution, state-sponsored violence, and humanitarian crisis after the Myanmar military launched a campaign of terror against Rohingya villages in August 2017.",
+            "ko": "루민족은 미얀마 라캉세국에살고있는 이슬람교도들은 수십년에 걸쳐 고문, 군부의 폭력, 그리고 위기 상황에 직면해왔다. 미얀마 군대는 2017년 8월 루민족 거주지에 대규모 공격을 감행했다.",
+            "ja": "ミャンマールのラカイン州に住むイスラム教徒のロHINGヤ族は、2017年8月ミャンマー軍による村落への攻撃に直面し、人権侵害、暴力に直面し、人権侵害、その後の人権侵害、暴力などを経験している"
+        }
+    },
+    {
         "term": "OK",
         "group": "Anti-Asian Hate Symbol",
         "country": "Global",
