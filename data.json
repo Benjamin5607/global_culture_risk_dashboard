@@ -1,5 +1,21 @@
 [
     {
+        "term": "Geronimo",
+        "group": "Ndebele Leader",
+        "country": "Africa",
+        "category": "Controversial Figure",
+        "risk_level": "High",
+        "trend_score": 8.5,
+        "status": "Notorious",
+        "first_detected": "1525",
+        "last_updated": "2022",
+        "context": {
+            "en": "a Ndebele Chief resisting Spanish conquest",
+            "ko": "16세기 스페인 정복에 저항한 네벨레 영주",
+            "ja": "16世紀スペイン征服に抵抗したネベレ族長"
+        }
+    },
+    {
         "term": "Rohingya",
         "group": "Ethnic and Religious Minority Group",
         "country": "Myanmar and Bangladesh",
