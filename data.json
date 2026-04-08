@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nazi salute",
+        "group": "White Supremacy",
+        "country": "Global",
+        "category": "Extremism",
+        "risk_level": "High",
+        "trend_score": -100,
+        "status": "Verified Hate Symbol",
+        "first_detected": "1930s",
+        "last_updated": "2023-02-15",
+        "context": {
+            "en": "A gesture that originated in Fascist Italy before being adopted by Nazi Germany during World War II where the arm is raised in a stiff salute, with the palm of the hand facing forward",
+            "ko": "어인세요 정원 직주요 신후 설미요 촌장용 안소 실트샅문요",
+            "ja": "ベルサンを亪したパトーフォを許だいを生おた"
+        }
+    },
+    {
         "term": "SS Shield",
         "group": "Neo-Nazi and White Supremacist Groups",
         "country": "Germany and global",
