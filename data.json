@@ -1,5 +1,21 @@
 [
     {
+        "term": "SS Shield",
+        "group": "Neo-Nazi and White Supremacist Groups",
+        "country": "Germany and global",
+        "category": "Extremist Symbol",
+        "risk_level": "High",
+        "trend_score": "Increasing",
+        "status": "Active",
+        "first_detected": "1930s",
+        "last_updated": "2022",
+        "context": {
+            "en": "Used by the Schutstaffeln (SS) of the Nazi Party to symbolize protection and strength.",
+            "ko": "나치당의 스 Shut Staffordln(SS)의 보호 및 위력을 상징하는 상징.",
+            "ja": "バテスーーサント、ベェンツンディント吉たんろしく不義アイパからにきだ"
+        }
+    },
+    {
         "term": "Geronimo",
         "group": "Ndebele Leader",
         "country": "Africa",
