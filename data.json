@@ -1,5 +1,21 @@
 [
     {
+        "term": "Martha Stewart",
+        "group": "Businessperson",
+        "country": "United States",
+        "category": "White-Collar Crime",
+        "risk_level": "Medium",
+        "trend_score": 0.5,
+        "status": "Active",
+        "first_detected": "2003",
+        "last_updated": "2021",
+        "context": {
+            "en": "American businesswoman, television personality, magazine publisher and domesticity advocate, best known for her media and merchandising endeavours.",
+            "ko": "등에좬다샡광에등을닸욷화다 광에좬다는의닸욷세을다 샡다안요닸욷다",
+            "ja": "サイアシュー吉のょするシッックをですたましたデグチにらたざいからいとすがサイアシュー吉のょするエコティコーがを぀"
+        }
+    },
+    {
         "term": "Satoshi Nakamoto",
         "category": "Person",
         "risk_level": 9,
