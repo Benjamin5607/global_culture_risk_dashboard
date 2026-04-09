@@ -1,5 +1,21 @@
 [
     {
+        "term": "Satoshi Nakamoto",
+        "category": "Person",
+        "risk_level": 9,
+        "trend_score": 6.3,
+        "status": "Controversial Figure",
+        "first_detected": 2008,
+        "last_updated": 2022,
+        "context": {
+            "en": "Creator of Bitcoin, but their real identity remains unknown.",
+            "ko": "비트코인의 창시자 인 니코 모모아모로, 그러나 실제 정체는 미상.",
+            "ja": "ビットコインの創設者として知られているサトシ・ナカモトは、現時点では実際の人物は不明である。"
+        },
+        "group": "Cryptocurrency",
+        "country": "Unknown"
+    },
+    {
         "term": "Nazi salute",
         "group": "White Supremacy",
         "country": "Global",
