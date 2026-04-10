@@ -1,5 +1,21 @@
 [
     {
+        "term": "OK sign (White power)",
+        "group": "White Supremacy",
+        "country": "USA",
+        "category": "Hand Gesture",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "1935",
+        "last_updated": "2020",
+        "context": {
+            "en": "An 'OK sign' with your right hand can be a white power gesture when done with the pinky down.",
+            "ko": "오른손으로 오키 신호를 올린다.",
+            "ja": "?"
+        }
+    },
+    {
         "term": "Martha Stewart",
         "group": "Businessperson",
         "country": "United States",
