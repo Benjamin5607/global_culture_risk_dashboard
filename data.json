@@ -1,5 +1,34 @@
 [
     {
+        "term": "Saddam Hussein",
+        "group": "Leader",
+        "country": "Iraq",
+        "category": "Controversial Figure",
+        "risk_level": 5,
+        "trend_score": 4,
+        "status": "Historical",
+        "first_detected": "1979",
+        "last_updated": "2021-01-01T00:00:00",
+        "context": {
+            "en": {
+                "description": "Saddam Hussein was the President of Iraq from 1979 to 2003 who was overthrown by the US-led invasion in 2003.",
+                "risk_factors": [
+                    "Authoritarian rule",
+                    "Human rights abuses",
+                    "International conflict"
+                ]
+            },
+            "ko": {
+                "description": "",
+                "risk_factors": []
+            },
+            "ja": {
+                "description": "",
+                "risk_factors": []
+            }
+        }
+    },
+    {
         "term": "OK sign (White power)",
         "group": "White Supremacy",
         "country": "USA",
