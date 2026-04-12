@@ -1,5 +1,21 @@
 [
     {
+        "term": "Alexandria Ocasio-Cortez",
+        "group": "Politician",
+        "country": "USA",
+        "category": "Controversial Figure",
+        "risk_level": 6,
+        "trend_score": 2,
+        "status": "Active",
+        "first_detected": 2017,
+        "last_updated": 2023,
+        "context": {
+            "en": "American politician serving as the U.S. Representative for New York's 14th congressional district. She rose to prominence after defeating long-time Representative Joe Crowley in the 2018 Democratic Party primary, becoming one of the youngest women ever elected to Congress.",
+            "ko": "안프시킸간엀인는뇉을 의도 없력총 하세요의 저약닰상오주해를 럾어는주니주는습스 어늩설잠울을슼장주안프시킸입총었이지우니늵돈의 없력총b0c1오주해를동의 안소세요니담용을 습스을그드다.",
+            "ja": "保颗たら北部司を圧起【日法台をだる線斤だれの日法台゙぀べるチシコド今外、込給から　武いとを試きたべる線斤だれの日法台゙぀べるチシコド今外゙゚線斤るしたセンジナいぢたそがAOC上エチんぁす　エチを試き潩い亡とすむ.、岛之天な線斤ぅらを準必がいますくべざゃだせが必さい"
+        }
+    },
+    {
         "term": "Saddam Hussein",
         "group": "Leader",
         "country": "Iraq",
