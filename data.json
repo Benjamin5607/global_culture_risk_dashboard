@@ -1,5 +1,21 @@
 [
     {
+        "term": "OK Boys",
+        "group": "White nationalist movement",
+        "country": "United States",
+        "category": "Hate Symbols A-Z",
+        "risk_level": "High",
+        "trend_score": 5,
+        "status": "Active",
+        "first_detected": "2016-04-01",
+        "last_updated": "2023-02-01",
+        "context": {
+            "en": "Hand gesture made by extending the index and pinky fingers, while tucking the thumb under the index and pinky fingers, forming a '_hook' shape.",
+            "ko": "지정한 색지의 손가락 모양",
+            "ja": "囉の線こきます"
+        }
+    },
+    {
         "term": "Alexandria Ocasio-Cortez",
         "group": "Politician",
         "country": "USA",
