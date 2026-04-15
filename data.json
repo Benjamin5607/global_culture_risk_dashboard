@@ -1686,6 +1686,25 @@
         }
     },
     {
+        "term": "Toosie Slide dance",
+        "group": "trend",
+        "country": [
+            "AU",
+            "CA"
+        ],
+        "category": "dance",
+        "risk_level": "Medium",
+        "trend_score": 85,
+        "status": "Inactive",
+        "first_detected": "2020-03-24",
+        "last_updated": "2026-01-14",
+        "context": {
+            "en": "A popular TikTok dance that was originated in Australia and became a global hit.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Code Red",
         "group": "trend",
         "country": [
@@ -1698,7 +1717,7 @@
         "category": "Warning",
         "risk_level": "High",
         "trend_score": 92,
-        "status": "Active",
+        "status": "Archived",
         "first Detected": "2025-09-01",
         "last_updated": "2026-01-14",
         "context": {
@@ -1744,27 +1763,8 @@
                 "ja": "人気のビデオゲームで登場する、日本の未来都市。"
             }
         ],
-        "status": "Active",
+        "status": "Archived",
         "first_detected": "2026-01-14"
-    },
-    {
-        "term": "Toosie Slide dance",
-        "group": "trend",
-        "country": [
-            "AU",
-            "CA"
-        ],
-        "category": "dance",
-        "risk_level": "Medium",
-        "trend_score": 85,
-        "status": "Inactive",
-        "first_detected": "2020-03-24",
-        "last_updated": "2026-01-14",
-        "context": {
-            "en": "A popular TikTok dance that was originated in Australia and became a global hit.",
-            "ko": "",
-            "ja": ""
-        }
     },
     {
         "term": "OK Boys",
