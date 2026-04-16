@@ -1,5 +1,21 @@
 [
     {
+        "term": "Hokku",
+        "group": "Hate Symbol",
+        "country": "Japan",
+        "category": "Extreme Right",
+        "risk_level": "High",
+        "trend_score": 0.9,
+        "status": "Active",
+        "first_detected": "1990",
+        "last_updated": "2020",
+        "context": {
+            "en": "A Hokku is a two-line verse and a symbol of far-right extremist group with anti-communist and anti-socialist views.",
+            "ko": "호쿠 (Hokku)는極右의 極右主義자들에 의해서 사용되는 두 줄의 시이다. 이들의 목적은 사회주의와 공산주의에 저항한다.",
+            "ja": "ホクク(Hokku)は日本の右翼団体によって使用される2行の詩である。彼らの目標は社会主義、共産主義への抵抗だ。"
+        }
+    },
+    {
         "term": "Alexandria Ocasio-Cortez",
         "group": "Politician",
         "country": "USA",
