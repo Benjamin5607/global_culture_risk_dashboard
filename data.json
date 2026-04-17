@@ -1,5 +1,21 @@
 [
     {
+        "term": "Okapi",
+        "group": "Hate Symbol",
+        "country": "Belgium",
+        "category": "Far-Right",
+        "risk_level": "High",
+        "trend_score": 8.4,
+        "status": "Active",
+        "first_detected": "1940",
+        "last_updated": "2020",
+        "context": {
+            "en": "Used by Belgian fascists and neo-Nazis to symbolize their ideology, and also by anti-immigrant groups in Europe.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "QAnon believer",
         "group": "Extremist",
         "country": "USA",
