@@ -1,5 +1,21 @@
 [
     {
+        "term": "QAnon believer",
+        "group": "Extremist",
+        "country": "USA",
+        "category": "Ideology-based",
+        "risk_level": 6,
+        "trend_score": 8,
+        "status": "Active",
+        "first_detected": "2017",
+        "last_updated": "2023-03-01",
+        "context": {
+            "en": "A movement believing a secret plot by a ring of power-holding individuals in the United States.",
+            "ko": "Qanon의 신봉자, 미국 내에서 비밀적으로 활동하는 인근 그룹에 대한 믿음",
+            "ja": "クアンオン信者、米国の秘密組織への信者"
+        }
+    },
+    {
         "term": "Ku Klux Klan",
         "group": "White Supremacist Organization",
         "country": "United States",
