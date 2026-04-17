@@ -1,5 +1,21 @@
 [
     {
+        "term": "Ku Klux Klan",
+        "group": "White Supremacist Organization",
+        "country": "United States",
+        "category": "Extremist Symbolism",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "1865",
+        "last_updated": "2023-02-21",
+        "context": {
+            "en": "The Ku Klux Klan, commonly abbreviated as the KKK and formerlyynn as the Klu Klux Klan, is an American white supremacist terrorist organization and a large fraternal organization.",
+            "ko": "거엜를안세요 나장하세요 설정머지 사음원세요 징서추당하세요",
+            "ja": "タブドィーバディコズ・リトでは温笡岋库だはバディコズ、檓素におぎ寺はバディコズと再小はャビユ"
+        }
+    },
+    {
         "term": "Hokku",
         "group": "Hate Symbol",
         "country": "Japan",
