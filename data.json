@@ -1,5 +1,23 @@
 [
     {
+        "term": "Vivienne Westwood",
+        "group": [
+            "Fashion Designer",
+            "Activist"
+        ],
+        "country": "United Kingdom",
+        "category": "Controversial Figure",
+        "risk_level": 6,
+        "trend_score": 0.8,
+        "status": "Active",
+        "context": {
+            "en": "\"The Queen of Punk\" and known for her anti-capitalist views and support for environmental causes.",
+            "ko": "펑크 패션의 여왕으로 알려진 항 капіталіст 및 환경 문제에 대한 지지.",
+            "ja": "パコンムグメはメイェットでをかちみ則、纱請のして、流州をなりかちみをなたビインイサガトした."
+        },
+        "first_detected": "2026-04-19"
+    },
+    {
         "term": "Okapi",
         "group": "Hate Symbol",
         "country": "Belgium",
@@ -1579,27 +1597,6 @@
         }
     },
     {
-        "trend": {
-            "term": "Renegade Dance",
-            "group": "Dance",
-            "country": "United States",
-            "category": "Social Media",
-            "risk_level": "Low",
-            "trend_score": 9.5,
-            "status": "Trending",
-            "first_detected": "January 2020",
-            "last_updated": "March 2020",
-            "context": {
-                "en": "The Renegade dance is a popular dance challenge created by 14-year-old Jalaiah Harmon, which went viral on TikTok.",
-                "ko": "ᄎნ듹_촛안녕수는 촌을 안렬독요 식 인근를읍을 욹o TikTok 었과 주화 를.",
-                "ja": "詰及らはあなたRenegadeエカで島で下はさおるフォキーをきおが第和でくよくだ 安乤はいますにわざぷしですれたエカエクつべうべうはしていますにわざぷしですれたフォキー"
-            }
-        },
-        "status": "Active",
-        "first_detected": "2026-01-18",
-        "term": "Unknown Issue"
-    },
-    {
         "term": "Renegade by Tonina Satin",
         "group": "Dance",
         "country": "United States",
@@ -1767,6 +1764,27 @@
             "ko": "",
             "ja": ""
         }
+    },
+    {
+        "trend": {
+            "term": "Renegade Dance",
+            "group": "Dance",
+            "country": "United States",
+            "category": "Social Media",
+            "risk_level": "Low",
+            "trend_score": 9.5,
+            "status": "Trending",
+            "first_detected": "January 2020",
+            "last_updated": "March 2020",
+            "context": {
+                "en": "The Renegade dance is a popular dance challenge created by 14-year-old Jalaiah Harmon, which went viral on TikTok.",
+                "ko": "ᄎნ듹_촛안녕수는 촌을 안렬독요 식 인근를읍을 욹o TikTok 었과 주화 를.",
+                "ja": "詰及らはあなたRenegadeエカで島で下はさおるフォキーをきおが第和でくよくだ 安乤はいますにわざぷしですれたエカエクつべうべうはしていますにわざぷしですれたフォキー"
+            }
+        },
+        "status": "Archived",
+        "first_detected": "2026-01-18",
+        "term": "Unknown Issue"
     },
     {
         "term": "Code Red",
