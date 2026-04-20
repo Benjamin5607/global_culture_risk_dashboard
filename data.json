@@ -1,5 +1,21 @@
 [
     {
+        "term": "The Sieg Heil",
+        "group": "Nazi",
+        "country": "Germany",
+        "category": "Symbol",
+        "risk_level": "Very High",
+        "trend_score": 8,
+        "status": "Verified",
+        "first_detected": 1933,
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "A salute used by the Nazi party, involving a raised right arm and an 'S' shape with the hand, historically used as a greeting and gesture of allegiance to Adolf Hitler.",
+            "ko": "나치당의 salute, 오른손을 치켜세우고 손가락을 'S' 형태로 만드는 것이 historian적으로 히틀러를 위한 경의의 표현 ",
+            "ja": "ナチス党に使われた敬意の行為、右手を上げた後に手の形で「S」という形を作る行為 "
+        }
+    },
+    {
         "term": " Renegade ",
         "group": "Dance Challenge",
         "country": "USA",
