@@ -1,5 +1,21 @@
 [
     {
+        "term": " Renegade ",
+        "group": "Dance Challenge",
+        "country": "USA",
+        "category": "Entertainment",
+        "risk_level": "Low",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "April 2020",
+        "last_updated": "May 2020",
+        "context": {
+            "en": "The Renegade dance challenge started as a response to the hit song 'Lottery' by K.C. React.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "North Korea's leader Kim Jong-un",
         "group": [
             " Politician",
