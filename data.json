@@ -1,5 +1,37 @@
 [
     {
+        "term": "North Korea's leader Kim Jong-un",
+        "group": [
+            " Politician",
+            "Leader"
+        ],
+        "country": "North Korea",
+        "category": "Government",
+        "risk_level": "High",
+        "trend_score": {
+            "score": 8,
+            "label": "High",
+            "description": "There is significant controversy surrounding this individual."
+        },
+        "status": "Ongoing",
+        "first_detected": "2011",
+        "last_updated": "2023-01-01",
+        "context": {
+            "en": {
+                "brief": "Kim is the supreme leader of North Korea, known for his authoritarian rule and human rights abuses. He has been involved in multiple diplomatic crises and military provocations.",
+                "description": "Kim's rule has been marked by widespread human rights violations, a severe economic crisis, and increasing military tensions with neighboring countries."
+            },
+            "ko": {
+                "brief": "김정은(1964년 1월 8일 ~ )은 조선민주주의인민공화국의 최고지도자이며, 당 최고장로이자 국무위원회 위원장으로 2011년 12월 17일 사망한 김정일의 후계자이다.",
+                "description": "김정은의 통치에 있어 인권침해, 경제위기, 및 이웃 국가와의 군사적 긴장등이 있다."
+            },
+            "ja": {
+                "brief": "金日成の孫にあたる金正日が死去した2011年12月に、最高指導者に就任した。2012年3月に「国民を愛する者は、国を愛う」と名乗り、その後は「国と人民の幸福を第一に考えている者」と主張している。",
+                "description": "金正日死去後の2011年12月に最高指導者に就任している。2012年3月に「国民を愛する者は、国を愛う」と名乗り、その後は「国と人民の幸福を第一に考えている者」と主張している。\n"
+            }
+        }
+    },
+    {
         "term": "Vivienne Westwood",
         "group": [
             "Fashion Designer",
