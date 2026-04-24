@@ -1,5 +1,21 @@
 [
     {
+        "term": "North Korean leader, Kim Jong-un",
+        "group": "Political Figures",
+        "country": "North Korea",
+        "category": "Politician/ Leader",
+        "risk_level": 9,
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "2011-12-29",
+        "last_updated": "2023-02-15",
+        "context": {
+            "en": "Leader of the Democratic People's Republic of Korea, known for his authoritarian leadership and nuclear ambitions.",
+            "ko": "조선민주주의인민공화국의 지도자로,他的무분별한leadership 및 핵무력의욕으로유명하다.",
+            "ja": "北朝鮮の指導者として知られ、彼の極左主義指導や核兵器欲求で有名."
+        }
+    },
+    {
         "term": "The Sieg Heil",
         "group": "Nazi",
         "country": "Germany",
