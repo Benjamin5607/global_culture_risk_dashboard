@@ -1,5 +1,21 @@
 [
     {
+        "term": "Hirohito",
+        "group": "Historical Figure",
+        "country": "Japan",
+        "category": "Controversial Historical Figure",
+        "risk_level": "High",
+        "trend_score": 0.7,
+        "status": "Sensitive",
+        "first_detected": "1937",
+        "last_updated": "2022",
+        "context": {
+            "en": "Emperor of Japan during World War II",
+            "ko": "파시주새을어로",
+            "ja": "エーリンを右のプロコる公蹃。"
+        }
+    },
+    {
         "term": "The Sieg Heil",
         "group": "Nazi",
         "country": "Germany",
