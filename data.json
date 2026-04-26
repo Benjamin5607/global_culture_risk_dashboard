@@ -1,27 +1,18 @@
 [
     {
-        "term": "To Me",
-        "group": "Dance",
-        "country": "Philippines",
-        "category": "Entertainment",
-        "risk_level": "Low",
-        "trend_score": 9.8,
+        "term": "Celtic Cross with a Swastika",
+        "group": "White Supremacy",
+        "country": "Global",
+        "category": "Hate Symbol",
+        "risk_level": "High",
+        "trend_score": 8,
         "status": "Active",
-        "first_detected": "2021-06-01",
-        "last_updated": "2021-12-31",
+        "first_detected": "2018",
+        "last_updated": "2022-02-15",
         "context": {
-            "en": {
-                "description": "A dance trend where users do a choreographed dance to the song 'To Me' by SB19, a popular K-pop boy group.",
-                "example": "Users record themselves dancing to the song 'To Me' and share it on TikTok with hashtags #ToMeChallenge."
-            },
-            "ko": {
-                "description": "",
-                "example": ""
-            },
-            "ja": {
-                "description": "",
-                "example": ""
-            }
+            "en": "A combination of a Celtic cross and a swastika, symbolizing a fusion of white supremacism and anti-Semitism. Often used by white nationalist groups.",
+            "ko": "지트자지다주일엘을주래룸종해 챝주릍요 정지의 식겨울세요.",
+            "ja": "ケルト十字架とスワスティカの組み合わせ。白人至上主義とアンチ・シオニズムの融合を表す。これは、白人国粋主義グループによってよく使用される。"
         }
     },
     {
@@ -1868,6 +1859,31 @@
             "en": "A popular TikTok dance that was originated in Australia and became a global hit.",
             "ko": "",
             "ja": ""
+        }
+    },
+    {
+        "term": "To Me",
+        "group": "Dance",
+        "country": "Philippines",
+        "category": "Entertainment",
+        "risk_level": "Low",
+        "trend_score": 9.8,
+        "status": "Archived",
+        "first_detected": "2021-06-01",
+        "last_updated": "2021-12-31",
+        "context": {
+            "en": {
+                "description": "A dance trend where users do a choreographed dance to the song 'To Me' by SB19, a popular K-pop boy group.",
+                "example": "Users record themselves dancing to the song 'To Me' and share it on TikTok with hashtags #ToMeChallenge."
+            },
+            "ko": {
+                "description": "",
+                "example": ""
+            },
+            "ja": {
+                "description": "",
+                "example": ""
+            }
         }
     },
     {
