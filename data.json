@@ -1,5 +1,21 @@
 [
     {
+        "term": "Marie Stopes",
+        "group": "controversial figure",
+        "country": "UK",
+        "category": "social reformer, women's rights",
+        "risk_level": "high",
+        "trend_score": -1,
+        "status": "denounced",
+        "first_detected": "1920s",
+        "last_updated": "2022-02-15",
+        "context": {
+            "en": "Marie Stopes was a British pioneer in the field of birth control. She was a key figure in the development of family planning, but her views and methods have been subject to controversy, particularly in relation to her advocacy for eugenics and her opposition to abortion rights. Stopes' views on eugenics and her involvement in the UK's interwar eugenics movement have been cited as evidence of her racism and anti-Semitism. Her views on abortion have also been criticized for being overly restrictive and for ignoring the needs of women who seek reproductive autonomy.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Celtic Cross with a Swastika",
         "group": "White Supremacy",
         "country": "Global",
