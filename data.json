@@ -1,5 +1,21 @@
 [
     {
+        "term": "Covid-19",
+        "group": "[Hateful Imagery: COVID-19 Conspiracy Theories]",
+        "country": "global",
+        "category": "Health",
+        "risk_level": "high",
+        "trend_score": "0.98",
+        "status": "active",
+        "first_detected": "2020-01",
+        "last_updated": "2024-02",
+        "context": {
+            "en": "Associated with anti-vaccination and COVID-19 conspiracy theories",
+            "ko": "코로나19에 대한 거짓말과 대량 살인자 thuyết을 언급합니다.",
+            "ja": "コロナウイルス感染症 (COVID-19) に関連する陰謀論"
+        }
+    },
+    {
         "term": "Marie Stopes",
         "group": "controversial figure",
         "country": "UK",
