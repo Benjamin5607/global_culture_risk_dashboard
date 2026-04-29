@@ -1,5 +1,30 @@
 [
     {
+        "term": "Khalid Sheikh Mohammed",
+        "group": [
+            "Terrorist",
+            "Extremist"
+        ],
+        "country": [
+            "Qatar",
+            "United States"
+        ],
+        "category": [
+            "Terrorism",
+            "Extremism"
+        ],
+        "risk_level": "Extremely High",
+        "trend_score": 99,
+        "status": "Active",
+        "first_detected": 1986,
+        "last_updated": 2022,
+        "context": {
+            "en": "Khalid Sheikh Mohammed is a senior member of the Islamic extremist group al-Qaeda. He is believed to be the principal organizer of the September 11 attacks.",
+            "ko": "Khalid Sheikh Mohammed은 알카에다(Al-Qaeda)라는 이슬람 극단주의團파의 고위직 멤버이다.그는 2001년 9월 11일의 테러 공격을 주도한 것으로 추정된다.",
+            "ja": "カャーコイネケーザイトイル、アイタンイトカアサインイト・ォトヲを服泭だからぁのを論いの気名をんきおだをおめのよわいい私ですおない法をぁづも仁諾しないですおはウヘアースナパごうほくこあのャトグパなのいおだをえらみ"
+        }
+    },
+    {
         "term": "Covid-19",
         "group": "[Hateful Imagery: COVID-19 Conspiracy Theories]",
         "country": "global",
