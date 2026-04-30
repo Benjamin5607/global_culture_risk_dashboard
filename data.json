@@ -1,5 +1,22 @@
 [
     {
+        "id": "Q1056",
+        "term": "Joseph Arthur Comte de Gobineau",
+        "group": "Person",
+        "country": "France",
+        "category": "racism",
+        "risk_level": "EXTREMELY_HIGH",
+        "trend_score": 0.85,
+        "status": "CONFIRMED",
+        "first_detected": "1830",
+        "last_updated": "2022-02-16T14:43:33Z",
+        "context": {
+            "en": "French aristocrat, writer, historian, and Orientalist; known for his theory of racism and the concept of the Aryan race.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Vivien Leigh",
         "group": "Controversial Figures (Actress)",
         "country": "UK",
