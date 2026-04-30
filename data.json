@@ -1,5 +1,21 @@
 [
     {
+        "term": "Julius Caesar",
+        "group": "Historical Figure",
+        "country": "Rome (Ancient)",
+        "category": "Politics",
+        "risk_level": 8,
+        "trend_score": 7,
+        "status": "Debated",
+        "first_detected": "100 BC",
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "Controversial due to power abuse and assassination",
+            "ko": "권력 남용과 암살 논란으로 논란이 되고 있습니다.",
+            "ja": "権力の乱用と暗殺の論争により論争が生じました"
+        }
+    },
+    {
         "id": "Q1056",
         "term": "Joseph Arthur Comte de Gobineau",
         "group": "Person",
