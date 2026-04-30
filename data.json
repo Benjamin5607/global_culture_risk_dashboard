@@ -1,5 +1,21 @@
 [
     {
+        "term": "Vivien Leigh",
+        "group": "Controversial Figures (Actress)",
+        "country": "UK",
+        "category": "Entertainment",
+        "risk_level": "Low",
+        "trend_score": 4,
+        "status": "Resolved",
+        "first_detected": "2010-01-01",
+        "last_updated": "2022-10-01",
+        "context": {
+            "en": "Vivien Leigh is a British actress, she won two Academy Awards for Best Actress, she had a tumultuous marriage with Laurence Olivier, and was known for her struggles with mental health.",
+            "ko": "위븐 리지는 영국의 여배우였습니다. 그녀는 2회 아카데미상을 수상했으며 Laurence Olivier와의 불안정한 결혼생활, 정신 건강에 대한 그녀의 투쟁으로 알려졌습니다.",
+            "ja": "ヴィヴィアン・リーチ(Vivien Leigh)はイギリスの女優です。アカデミー賞最優秀女優賞のタイトルが2回あり、ローレンス・オリヴィエとの不穏な結婚、精神健康問題など、さまざまな議論を呼び続けてきました。"
+        }
+    },
+    {
         "term": "Khalid Sheikh Mohammed",
         "group": [
             "Terrorist",
