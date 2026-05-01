@@ -1,5 +1,21 @@
 [
     {
+        "term": "Mahathir Mohamad",
+        "group": "Politician",
+        "country": "Malaysia",
+        "category": "Controversial Figure",
+        "risk_level": "High",
+        "trend_score": "1.5",
+        "status": "Retired Politician",
+        "first_detected": "1972",
+        "last_updated": "2022",
+        "context": {
+            "en": "Former Prime Minister of Malaysia, known for his outspoken and often controversial views.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Julius Caesar",
         "group": "Historical Figure",
         "country": "Rome (Ancient)",
