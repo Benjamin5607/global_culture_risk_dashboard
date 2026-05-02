@@ -1,5 +1,22 @@
 [
     {
+        "name": "Alex Jones",
+        "term": "Infowars founder",
+        "group": "Far-right media personality",
+        "country": "United States",
+        "category": "Conspiracy theorist",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "1988",
+        "last_updated": "2022-03-01T00:00:00.000Z",
+        "context": {
+            "en": "Alex Jones is an American far-right conspiracy theorist, radio show host, and YouTube personality.",
+            "ko": "기xeca9랼주이서게세요.",
+            "ja": "《体エタムェプ》你張である、メサイロトいがますをためいるだ。"
+        }
+    },
+    {
         "term": "Vibin",
         "group": "Gen Z",
         "country": "USA",
