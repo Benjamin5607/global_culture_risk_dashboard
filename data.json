@@ -1,5 +1,21 @@
 [
     {
+        "term": "Vibin",
+        "group": "Gen Z",
+        "country": "USA",
+        "category": "phrase",
+        "risk_level": "low",
+        "trend_score": 70,
+        "status": "current",
+        "first_detected": "2019",
+        "last_updated": "2022",
+        "context": {
+            "en": "feeling energized and motivated to hang out with friends and do things",
+            "ko": "친구들과 함께 어울리고 활동할 때 에너지를 주는 느낌을 표현하는 단어",
+            "ja": "王試が人、だわはいしんれかっします"
+        }
+    },
+    {
         "term": "Mahathir Mohamad",
         "group": "Politician",
         "country": "Malaysia",
