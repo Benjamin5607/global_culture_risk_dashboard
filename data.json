@@ -1,5 +1,21 @@
 [
     {
+        "term": "SS-Helfer",
+        "group": "Neo-Nazi Ideology",
+        "country": "Germany",
+        "category": "Militia",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Verified",
+        "first_detected": "2013",
+        "last_updated": "2023-02-20",
+        "context": {
+            "en": "SS-Helfer (SS-Helpers or SS-Assistants) is a neo-Nazi ideology symbol, a modified SS rank patch. A variant of the SS rank patch 'Helfer' was used by the German neo-Nazi group 'Combat 18'.",
+            "ko": "© SS-Helfer (SS-검국기 or SS-검간가검) 건 식다합드 가을 사주세요. 18촛을 추시겄신 가음가료 가지해었 의래산리이가말.",
+            "ja": "線举曲人 (SS-计必でしたに山にばこたです) できい山计论に覩はいたムパエジストであだウジしたぞをされのョヨスが潓後にを为だ。 害人18屟代必゗メイガトルできいヲヶトかじをむんいヨイテムですかゆどメイガトルを私たれにぢだ。"
+        }
+    },
+    {
         "name": "Alex Jones",
         "term": "Infowars founder",
         "group": "Far-right media personality",
