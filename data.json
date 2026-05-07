@@ -1,5 +1,21 @@
 [
     {
+        "term": "+Lit",
+        "group": "Gen Z Slang",
+        "country": "USA",
+        "category": "Music/Culture",
+        "risk_level": "Low",
+        "trend_score": 85,
+        "status": "",
+        "first_detected": "2022",
+        "last_updated": "2023",
+        "context": {
+            "en": "a party or social gathering where people dance and have fun",
+            "ko": "party, party를举办하는 행사",
+            "ja": "パーティー, パーティーを催すイベント"
+        }
+    },
+    {
         "term": "SS-Helfer",
         "group": "Neo-Nazi Ideology",
         "country": "Germany",
