@@ -1,5 +1,24 @@
 [
     {
+        "term": "OK Boomers",
+        "group": [
+            "Generation Z",
+            "Millennials"
+        ],
+        "country": "United States",
+        "category": "Slurs",
+        "risk_level": 3,
+        "trend_score": -1,
+        "status": "In use",
+        "first_detected": "2019",
+        "last_updated": "2022",
+        "context": {
+            "en": "A pejorative term used to dismiss the opinions and values of older people.",
+            "ko": "50대 이상의 사람들을 비하하는 말.",
+            "ja": "年若い人々から50歳以上の人々の意見や価値観を軽蔑する言葉"
+        }
+    },
+    {
         "term": "+Lit",
         "group": "Gen Z Slang",
         "country": "USA",
