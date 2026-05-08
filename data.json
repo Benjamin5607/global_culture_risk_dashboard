@@ -1,5 +1,21 @@
 [
     {
+        "term": "+posechallenge",
+        "group": "Entertainment",
+        "country": "Global",
+        "category": "TikTok Trend",
+        "risk_level": "Low",
+        "trend_score": 8,
+        "status": "Active",
+        "first_detected": "2022-02-08",
+        "last_updated": "2022-03-01",
+        "context": {
+            "en": "A viral challenge on TikTok where users make funny poses and videos to show off their fashion sense and dance moves.",
+            "ko": "틱톡에서 유명한 채용 하나. 사용자는 패션의식을 드러내고 춤을 춰는 유연한 자세의 영상을 찍었다.",
+            "ja": "ティンバークラックを採用し、ユーザーは時計とペアをしてコラボできる"
+        }
+    },
+    {
         "term": "+Lit",
         "group": "Gen Z Slang",
         "country": "USA",
