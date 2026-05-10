@@ -1,5 +1,21 @@
 [
     {
+        "term": "The Swastika",
+        "group": "Symbol",
+        "country": "Germany",
+        "category": "Far-Right",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Verified",
+        "first_detected": "1920s",
+        "last_updated": "2022",
+        "context": {
+            "en": "A symbol used historically by various cultures as a representation of good fortune. In modern times, it is often associated with hatred and intolerance, particularly by extremist groups.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "OK Boomers",
         "group": [
             "Generation Z",
