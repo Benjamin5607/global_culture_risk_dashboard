@@ -1,5 +1,21 @@
 [
     {
+        "term": "Hugo Chávez",
+        "group": "politics",
+        "country": "Venezuela",
+        "category": "Controversial Leaders",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Detained/Deceased",
+        "first_detected": 1992,
+        "last_updated": 2013,
+        "context": {
+            "en": "Hugo Chávez was a Venezuelan politician who served as President of Venezuela from 1999 to 2013. He was a key figure in the Bolivarian Revolution.",
+            "ko": "후고 차베스(Hugo Chávez)는 베네수엘라의 정치가로 1999년부터 2013년까지 베네수엘라 대통령을 역임했습니다. 그는 볼리바르 혁명의 주요 인물 중 하나입니다.",
+            "ja": "フゴ·チャベス (Hugo Chávez, 1954년 7월 28일 – 2013년 3월 5일)은ベネズエラの政治家이자1999년부터2013년までベネズエラ大統領を務めた指導力を持つ政治家である。"
+        }
+    },
+    {
         "term": "The Swastika",
         "group": "Symbol",
         "country": "Germany",
