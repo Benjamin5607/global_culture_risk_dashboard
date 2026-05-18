@@ -1,5 +1,29 @@
 [
     {
+        "term": "Julius_Caesar",
+        "category": "Controversial_History_Figures",
+        "risk_level": 8,
+        "trend_score": 85,
+        "status": "verified",
+        "first_detected": "2021-01-01T00:00:00.000Z",
+        "last_updated": "2023-03-01T00:00:00.000Z",
+        "group": "Leaders_Politics",
+        "country": "Rome_Empire",
+        "context": {
+            "en": {
+                "description": "Julius Caesar was a Roman general and statesman who played a critical role in the transformation of the Roman Republic into the Roman Empire. He is also known for his involvement in the Gallic Wars and his crossing of the Rubicon River, which led to a civil war in Rome.",
+                "sentiment": "positive"
+            },
+            "ko": {
+                "description": "율리우스 카이사르(Julius Caesar)는 로마 제국(Roman Empire)의 정치가이자 군사 지도자로 로마 공화정(Roman Republic)을 로마 제국(Roman Empire)으로 바꾸는데 결정적 역할을 한 인물이다. 또한 갈리아 전쟁과 Rubin 강을 건너는 등 로마 내의 내전을 일으킨 인물이다.",
+                "sentiment": "negative"
+            },
+            "ja": {
+                "description": "ユリウス・カエサルは、共和政ローマを帝国に変えるために中心的役割を果たしたローマの軍事指導者および政治家である。ガリア戦争における功績とルビコ川を渡った事件など、ローマ内戦を引き起こした人物である。"
+            }
+        }
+    },
+    {
         "term": "Hugo Chávez",
         "group": "politics",
         "country": "Venezuela",
