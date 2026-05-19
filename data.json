@@ -1,5 +1,21 @@
 [
     {
+        "term": "Okhti (Slit-Eyed Man)",
+        "group": "Jihadi groups in Afghanistan",
+        "country": "Afghanistan",
+        "category": "Symbolic Violence",
+        "risk_level": "High",
+        "trend_score": 10,
+        "status": "Active",
+        "first_detected": "2008-10",
+        "last_updated": "2022-01",
+        "context": {
+            "en": "This symbol represents the hatred and anger towards Westerners.",
+            "ko": "서양인을 증오하고怒하는 상징이다.",
+            "ja": "このシンボルは、西洋人の憎悪と怒りを表している。"
+        }
+    },
+    {
         "term": "Julius_Caesar",
         "category": "Controversial_History_Figures",
         "risk_level": 8,
