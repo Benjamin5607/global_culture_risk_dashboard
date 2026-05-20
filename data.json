@@ -1,5 +1,21 @@
 [
     {
+        "term": "Pigeon",
+        "group": "White Power",
+        "country": "USA",
+        "category": "Animal Symbolism",
+        "risk_level": "High",
+        "trend_score": 0.9,
+        "status": "Verified",
+        "first_detected": "2011",
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "In the white supremacy movement, pigeons are often seen as a symbol of resistance and survival.",
+            "ko": "번주 촌행드소을 먹긔 프울 울북할안녕 저산었울코지잱.",
+            "ja": "保人に欦丁にきの久れしぅるやかよゎで必わむく保丁にするや・タイドンタイプヹゴカにいなしびしたしって."
+        }
+    },
+    {
         "term": "Okhti (Slit-Eyed Man)",
         "group": "Jihadi groups in Afghanistan",
         "country": "Afghanistan",
