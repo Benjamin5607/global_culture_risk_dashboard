@@ -1,5 +1,21 @@
 [
     {
+        "term": "Pope Francis",
+        "group": "Controversial Figure",
+        "country": "Argentina",
+        "category": "Religious Leader",
+        "risk_level": "Medium",
+        "trend_score": 0.6,
+        "status": "Active",
+        "first_detected": 2013,
+        "last_updated": 2021,
+        "context": {
+            "en": "Pope Francis is a highly polarizing figure, with some people seeing him as a beacon of hope and others criticizing his stances on abortion and LGBTQ+ rights.",
+            "ko": "±±± Francis±±±±±±±±±±± Francis±±±±±±±±±±±±±±±±±±±±",
+            "ja": "¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ Francis¤¤¤¤¤¤¤¤¤¤¤"
+        }
+    },
+    {
         "term": "Pigeon",
         "group": "White Power",
         "country": "USA",
