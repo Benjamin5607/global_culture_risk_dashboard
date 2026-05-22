@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nasdaq",
+        "group": "Economic Figures",
+        "country": "United States",
+        "category": "Business and Finance",
+        "risk_level": "High",
+        "trend_score": 7,
+        "status": "Current",
+        "first_detected": "1971",
+        "last_updated": 1643723400,
+        "context": {
+            "en": "Henry R. \"Larry\" Locke, William J. Rieders and Marvin L. Traub founded the NASDAQ, a stock exchange in the United States, in 1971.",
+            "ko": "1971년 NASDAQ, 미국의 시가총액 4위에 랭크인 주식시장.",
+            "ja": "1971년 NASDAQ, 미국의 시가총액 4위에 랭크인 주식시장."
+        }
+    },
+    {
         "term": "Pope Francis",
         "group": "Controversial Figure",
         "country": "Argentina",
