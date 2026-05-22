@@ -1,5 +1,21 @@
 [
     {
+        "term": "OK Boss",
+        "group": "White supremacist, neo-Nazi",
+        "country": "United States",
+        "category": "Symbolic Expression",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Confirmed",
+        "first_detected": "2016-07-25",
+        "last_updated": "2023-02-15",
+        "context": {
+            "en": "Expression used to mock a boss or authority figure, but also used to signal or express white power or support",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Nasdaq",
         "group": "Economic Figures",
         "country": "United States",
