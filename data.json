@@ -1,5 +1,21 @@
 [
     {
+        "term": "Vibe",
+        "group": "Noun",
+        "country": "USA",
+        "category": "Slang",
+        "risk_level": "Low",
+        "trend_score": 85,
+        "status": "Current",
+        "first_detected": 2019,
+        "last_updated": 2022,
+        "context": {
+            "en": "a feeling or mood",
+            "ko": "어느 정도를 나타내는 낱말",
+            "ja": "雰囲気"
+        }
+    },
+    {
         "term": "Ghenghis Khan",
         "group": "Military Leaders",
         "country": "Mongolia",
