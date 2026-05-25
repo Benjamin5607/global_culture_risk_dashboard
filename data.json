@@ -1,5 +1,21 @@
 [
     {
+        "term": "Ghenghis Khan",
+        "group": "Military Leaders",
+        "country": "Mongolia",
+        "category": "Controversial Figures in History",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Current",
+        "first_detected": "1162",
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "Ghenghis Khan is a legendary figure in Mongolian history, known for his military conquests and founding of the Mongol Empire.",
+            "ko": "ēğēńƳƶǎƱńō̄ƳǂƷƱǂƹƸƷƵƳǂ, ńǃńŏ̄ƴǂŋ̄ƷƱƷƸǄōŏ̄ƷƹƵǄ̄ǂƳƷƸǄ̄ƹƷƹǂŏ̄Ƶ̄ƴǂ",
+            "ja": "国州しぷたが仅三話のにびた、国州イネジかる給丁、四だれ羊ごん定拌んまでう」"
+        }
+    },
+    {
         "term": "OK Boss",
         "group": "White supremacist, neo-Nazi",
         "country": "United States",
