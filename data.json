@@ -1,5 +1,21 @@
 [
     {
+        "term": "Hugo Chavez",
+        "group": "politician",
+        "country": "Venezuela",
+        "category": "controversial figure",
+        "risk_level": "high",
+        "trend_score": 80,
+        "status": "active",
+        "first_detected": "1992",
+        "last_updated": "2013",
+        "context": {
+            "en": "Hugo Chávez was a Venezuelan politician and leader of the socialist government, whose policies were highly contested by various factions in the country.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Vibe",
         "group": "Noun",
         "country": "USA",
