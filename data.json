@@ -1,5 +1,21 @@
 [
     {
+        "term": "Black Sun (Schwarze Sonne)",
+        "group": "Neo-Nazism",
+        "country": "Germany",
+        "category": "Hate Symbol",
+        "risk_level": "High",
+        "trend_score": -5,
+        "status": "Active",
+        "first_detected": 1915,
+        "last_updated": "2023-02-20",
+        "context": {
+            "en": "Black Sun is a hate symbol associated with neo-Nazism.",
+            "ko": "블랙 선은 네오 나치즘과 관련된 증오 상징입니다.",
+            "ja": "ブラックサンはネオナチズムと関連する反社会的行為のシンボルです"
+        }
+    },
+    {
         "term": "Hugo Chavez",
         "group": "politician",
         "country": "Venezuela",
