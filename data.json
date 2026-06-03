@@ -1,5 +1,21 @@
 [
     {
+        "term": "OKAY Sign",
+        "group": "General Hate",
+        "country": "Global",
+        "category": "Racist/Bigoted",
+        "risk_level": "Medium",
+        "trend_score": -2.7,
+        "status": "Active",
+        "first_detected": 2020,
+        "last_updated": 2022,
+        "context": {
+            "en": "An okay symbol with the middle finger extended and the other fingers folded into the palm can be a hate symbol",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Black Sun (Schwarze Sonne)",
         "group": "Neo-Nazism",
         "country": "Germany",
