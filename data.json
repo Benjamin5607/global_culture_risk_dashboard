@@ -1,5 +1,21 @@
 [
     {
+        "term": "White Power Music",
+        "group": "Hate Music",
+        "country": "USA",
+        "category": "Hate Symbolism",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "1980s",
+        "last_updated": "2022",
+        "context": {
+            "en": "A genre of music that promotes racism, white supremacy, and hate",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "OKAY Sign",
         "group": "General Hate",
         "country": "Global",
