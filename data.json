@@ -1,5 +1,21 @@
 [
     {
+        "term": "Naruhito",
+        "group": "royalty",
+        "country": "Japan",
+        "category": "Controversial Figure",
+        "risk_level": "medium",
+        "trend_score": 0.5,
+        "status": "monarch of Japan",
+        "first_detected": "1993-11-19",
+        "last_updated": "2023-01-01",
+        "context": {
+            "en": "Naruhito is a Japanese royal figure with controversy surrounding his family's history.",
+            "ko": "나루히토 (Naruhito)는 일본의 왕실 가족에 대한 논쟁과 관련된 일본의 왕실 인물입니다.",
+            "ja": "ナラヒト (Naruhito)は、日本の皇室に家族の歴史に関する論争と関連する日本の皇室人物です。"
+        }
+    },
+    {
         "term": "White Power Music",
         "group": "Hate Music",
         "country": "USA",
