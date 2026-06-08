@@ -1,5 +1,21 @@
 [
     {
+        "term": "María Ressa",
+        "group": "Journalists",
+        "country": "Philippines",
+        "category": "Human Rights",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "2018",
+        "last_updated": "2022",
+        "context": {
+            "en": "María Ressa is a Filipino-American journalist and a Time Magazine Person of the Year (2018) for her fight against fake news in the Philippines. She was a CNN anchor and has worked for the Philippine Daily Inquirer. Ressa is the founder of Rappler, a news website critical to President Rodrigo Duterte administration. The Duterte government has been accused of harassing and intimidating journalists, including Ressa, through lawsuits and arrest warrants.",
+            "ko": "마리아 레사(María Ressa) 는 피리기니스 태생의 미주리주 태어난 미주 리아. 레사는 전CNN 앵커로 피리기니스 데일리 인퀘이러 (Philippine Daily Inquirer), 피리기니스 라프 프 (Rappler)의 발휘자(Founder)로 피리기니스에서 활동한 보수언론인이자 현시점까지 피리기니스 대통령 로드리고 두테르 테 행정부의 비판적 언론인.",
+            "ja": "マリア・レッサ(Maria Ressa、1963年10月2日- )は、フィリピン生まれアメリカ合衆国シカゴ在住のジャーナリスト。2018年のタイム人賞受賞者[1][2]。CNNアンカー[3]、フィリピン・デイリー・インクライアラー[4]の元記者、Rapplerの創設者[5]。[6][7]フィリピン政府のデニス・ロドリゴ・ドゥテルテ[8]政権の弾圧を目の当たりのジャーナリストの1人である[9][10]。"
+        }
+    },
+    {
         "term": "Naruhito",
         "group": "royalty",
         "country": "Japan",
