@@ -1,5 +1,21 @@
 [
     {
+        "term": "+ (Plus Sign)",
+        "group": "White Supremacy",
+        "country": "Global",
+        "category": "Symbols",
+        "risk_level": "High",
+        "trend_score": -100,
+        "status": "Verified",
+        "first_detected": null,
+        "last_updated": "2021-05-31",
+        "context": {
+            "en": "White power symbol that can be seen in various contexts, including graffiti, tattoos, and clothing.",
+            "ko": "하얀 권력 기호, 그라피티, tatto, 옷, 에서 다양 한 맥락 에서 볼 수있다.",
+            "ja": "白い権力の記号がグラフィティ、タトゥー、および服に多様な観点から見られる。"
+        }
+    },
+    {
         "term": "María Ressa",
         "group": "Journalists",
         "country": "Philippines",
