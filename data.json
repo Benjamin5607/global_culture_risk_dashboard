@@ -1,5 +1,21 @@
 [
     {
+        "term": "Marine Le Pen",
+        "group": "Political Figure",
+        "country": "France",
+        "category": "Far-Right Politician",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "2002",
+        "last_updated": "2023-01-01",
+        "context": {
+            "en": "Marine Le Pen is a French far-right politician who served as the leader of the National Front (FN) and is known for her nationalist and anti-immigration views.",
+            "ko": "마리 뤼펜(Marine Le Pen)은 프랑스의 극우 정치가로, 국가 фрон트(Le Front National, FN)의 지도자이며 herself의 반-immigration,국가주의적 견해로 유명하다.",
+            "ja": "マリーン・ルペン（Marine Le Pen）はフランス、極右政治家であり、全仏国家戦線（FN）の代表である。彼女自身の反移民、国粋主義的な観点で有名である。"
+        }
+    },
+    {
         "term": "+ (Plus Sign)",
         "group": "White Supremacy",
         "country": "Global",
