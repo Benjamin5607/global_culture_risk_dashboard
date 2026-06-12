@@ -1,5 +1,24 @@
 [
     {
+        "term": "Siege of Mecca (1947)",
+        "group": [
+            "White supremacist",
+            "Extremist"
+        ],
+        "country": "India",
+        "category": "Terrorism",
+        "risk_level": 8,
+        "trend_score": 0.7,
+        "status": "Verified",
+        "first_detected": 1947,
+        "last_updated": 2021,
+        "context": {
+            "en": "The Siege of Mecca was an event where a group of anti-colonial, radical Islamists and white supremacists laid siege to the Kaaba, a holy site in Islam.",
+            "ko": "월의 안녕 안원트스트법장여세요 집우대시하세요",
+            "ja": "趋趫四『得を足で　都の趋たらるです、セ・ゲ張趋しん仇代が完建いです。"
+        }
+    },
+    {
         "term": "OK sign as a Hate Symbol",
         "group": "Hand Sign",
         "country": "Global",
