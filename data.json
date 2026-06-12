@@ -1,5 +1,21 @@
 [
     {
+        "term": "OK sign as a Hate Symbol",
+        "group": "Hand Sign",
+        "country": "Global",
+        "category": "Racial Slurs and Hateful Gestures",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Verified",
+        "first_detected": "2013",
+        "last_updated": "2022",
+        "context": {
+            "en": "The OK sign, when made with the hand, can be a subtle but hateful hand gesture. It is often used to indicate white power or supremacy and has been associated with the Alt-Right movement.",
+            "ko": "엄지와 검지는 주로 하얀 인종에 대해 우군을 의미하는 손 가락 부호의 한 형태입니다. 그들은 가로로 놓여 있고 가로로 보이지 않습니다.",
+            "ja": "OKサインは、手の形として使用して、白人優位主義者などに対する差別的ハンドサインとして使用できる。Alt-Right運動とは関連し、白人優先主義や白人愛と関連していることがあります。"
+        }
+    },
+    {
         "term": "Marine Le Pen",
         "group": "Political Figure",
         "country": "France",
