@@ -1,5 +1,21 @@
 [
     {
+        "term": "SavagesDance",
+        "group": "Dance Craze",
+        "country": "Global",
+        "category": "Entertainment",
+        "risk_level": "Low",
+        "trend_score": 80,
+        "status": "Current",
+        "first_detected": "2022-07-26",
+        "last_updated": "2023-02-15",
+        "context": {
+            "en": "A dance challenge that started on TikTok in which a person performs an exaggerated and over-the-top dance to a song.",
+            "ko": "틱톡에서 시작된 exaggerated dance challenge.",
+            "ja": "틱톡에서 시작된過激なダンスチャレンジ"
+        }
+    },
+    {
         "term": "Siege of Mecca (1947)",
         "group": [
             "White supremacist",
