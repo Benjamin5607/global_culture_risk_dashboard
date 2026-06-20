@@ -7,6 +7,7 @@ on:
     paths:
       - 'brain.py'
       - 'war_room.json'
+      - '.github/workflows/generate_war_room.yml'
 
 permissions:
   contents: write
