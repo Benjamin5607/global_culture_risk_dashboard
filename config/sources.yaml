@@ -1,0 +1,29 @@
+languages:
+  - code: en
+    countries: [US, UK]
+  - code: ko
+    countries: [KR]
+  - code: ja
+    countries: [JP]
+  - code: th
+    countries: [TH]
+  - code: vi
+    countries: [VN]
+  - code: id
+    countries: [ID]
+  - code: ms
+    countries: [MY]
+  - code: es
+    countries: [ES]
+  - code: pt
+    countries: [PT, BR]
+  - code: tl
+    countries: [PH]
+  - code: de
+    countries: [DE]
+  - code: fr
+    countries: [FR]
+  - code: ru
+    countries: [RU]
+  - code: it
+    countries: [IT]
