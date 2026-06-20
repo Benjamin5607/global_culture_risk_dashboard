@@ -5,223 +5,778 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Global Culture Risk Dashboard</title>
     <style>
-        /* [Style] */
-        body { background-color: #121212; color: #e0e0e0; font-family: 'Segoe UI', sans-serif; margin: 0; padding: 20px; }
-        .container { max-width: 1400px; margin: 0 auto; }
-        
-        /* Header */
-        header { display: flex; flex-direction: column; gap: 15px; border-bottom: 1px solid #333; padding-bottom: 20px; margin-bottom: 20px; }
-        .header-top { display: flex; justify-content: space-between; align-items: center; width: 100%; }
-        h1 { margin: 0; font-size: 24px; color: #fff; }
-        .last-update { font-size: 12px; color: #666; margin-top: 5px; }
-
-        /* Search Box */
-        .search-box-wrapper { position: relative; width: 100%; max-width: 600px; margin: 0 auto; }
-        .search-input { 
-            width: 100%; padding: 15px 20px; font-size: 16px; 
-            background: #1e1e1e; border: 2px solid #333; color: #fff; 
-            border-radius: 30px; outline: none; transition: 0.3s;
-        }
-        .search-input:focus { border-color: #3b82f6; box-shadow: 0 0 15px rgba(59, 130, 246, 0.3); }
-        .search-btn {
-            position: absolute; right: 10px; top: 50%; transform: translateY(-50%);
-            background: #3b82f6; color: white; border: none; padding: 8px 20px;
-            border-radius: 20px; cursor: pointer; font-weight: bold;
+        :root {
+            --bg: #0f1117;
+            --surface: #1a1d27;
+            --surface2: #252836;
+            --border: #333847;
+            --text: #e8eaed;
+            --muted: #8b919a;
+            --primary: #3b82f6;
+            --primary-hover: #2563eb;
+            --danger: #ef4444;
+            --warning: #f59e0b;
+            --success: #10b981;
+            --accent: #6366f1;
         }
 
-        /* Tabs */
-        .controls { display: flex; gap: 10px; margin-bottom: 20px; overflow-x: auto; }
-        .tab-btn { background-color: #2c2c2c; color: #aaa; border: 1px solid #444; padding: 8px 16px; cursor: pointer; border-radius: 6px; font-weight: bold; transition: 0.2s; white-space: nowrap; }
-        .tab-btn:hover { background-color: #333; color: #fff; }
-        .tab-btn.active { background-color: #3b82f6; color: white; border-color: #3b82f6; }
+        * { box-sizing: border-box; }
+        body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; margin: 0; min-height: 100vh; }
 
-        /* Table */
-        .table-wrapper { background: #1e1e1e; border-radius: 12px; overflow-x: auto; box-shadow: 0 4px 20px rgba(0,0,0,0.4); min-height: 300px; }
-        table { width: 100%; border-collapse: collapse; min-width: 900px; }
-        th { background-color: #252525; color: #aaa; text-align: left; padding: 15px; border-bottom: 2px solid #333; font-size: 13px; text-transform: uppercase; }
-        td { padding: 15px; border-bottom: 1px solid #2c2c2c; font-size: 14px; vertical-align: middle; }
-        
-        /* Profile & Search Button */
-        .profile-cell { display: flex; align-items: center; gap: 15px; }
-        .avatar { width: 50px; height: 50px; border-radius: 50%; object-fit: cover; background: #333; border: 2px solid #555; }
-        .info-group { display: flex; flex-direction: column; }
-        .term-text { font-weight: bold; font-size: 1.1em; color: #fff; }
-        
-        .google-search-btn { 
-            display: inline-flex; align-items: center; gap: 4px;
-            text-decoration: none; color: #aaa; font-size: 12px; margin-top: 4px; 
-            background: #2a2a2a; padding: 2px 8px; border-radius: 4px; border: 1px solid #444;
-            transition: 0.2s; width: fit-content;
+        .app-shell { display: flex; min-height: 100vh; }
+        .sidebar {
+            width: 260px; background: var(--surface); border-right: 1px solid var(--border);
+            padding: 24px 16px; display: flex; flex-direction: column; gap: 8px; flex-shrink: 0;
         }
-        .google-search-btn:hover { color: #fff; border-color: #3b82f6; background: #3b82f6; }
+        .logo { font-size: 18px; font-weight: 700; color: #fff; margin-bottom: 8px; line-height: 1.3; }
+        .logo span { color: var(--primary); }
+        .logo-sub { font-size: 11px; color: var(--muted); margin-bottom: 24px; }
 
-        /* Badges */
-        .cat-badge { display: inline-block; padding: 4px 8px; border-radius: 12px; font-size: 11px; background: #333; color: #ccc; border: 1px solid #444; margin-right: 4px; }
-        .risk-badge { padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; }
-        .risk-high { background: #451a1a; color: #ff6b6b; border: 1px solid #ff6b6b; }
-        .risk-medium { background: #453a1a; color: #feca57; border: 1px solid #feca57; }
-        .risk-low { background: #1a452a; color: #1dd1a1; border: 1px solid #1dd1a1; }
+        .nav-btn {
+            display: flex; align-items: center; gap: 10px; width: 100%; padding: 12px 14px;
+            background: transparent; border: 1px solid transparent; border-radius: 10px;
+            color: var(--muted); cursor: pointer; font-size: 14px; text-align: left; transition: 0.2s;
+        }
+        .nav-btn:hover { background: var(--surface2); color: var(--text); }
+        .nav-btn.active { background: rgba(59,130,246,0.15); border-color: var(--primary); color: #fff; }
+        .nav-icon { font-size: 18px; width: 24px; text-align: center; }
 
-        .col-context { color: #ccc; line-height: 1.5; font-size: 0.95em; }
-        .loading-text { text-align: center; padding: 40px; color: #666; }
+        .main { flex: 1; padding: 24px 32px; overflow-x: hidden; }
+        .module { display: none; }
+        .module.active { display: block; }
+
+        .module-header { margin-bottom: 24px; }
+        .module-header h2 { margin: 0 0 6px; font-size: 26px; }
+        .module-header p { margin: 0; color: var(--muted); font-size: 14px; }
+
+        .stats-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 16px; margin-bottom: 24px; }
+        .stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 18px; }
+        .stat-label { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+        .stat-value { font-size: 28px; font-weight: 700; margin-top: 6px; }
+
+        .controls { display: flex; gap: 12px; margin-bottom: 20px; flex-wrap: wrap; align-items: center; }
+        .search-input {
+            flex: 1; min-width: 240px; padding: 12px 18px; font-size: 15px;
+            background: var(--surface); border: 1px solid var(--border); color: var(--text);
+            border-radius: 10px; outline: none;
+        }
+        .search-input:focus { border-color: var(--primary); }
+        .btn {
+            padding: 10px 20px; border-radius: 10px; border: none; cursor: pointer;
+            font-weight: 600; font-size: 14px; transition: 0.2s;
+        }
+        .btn-primary { background: var(--primary); color: #fff; }
+        .btn-primary:hover { background: var(--primary-hover); }
+        .btn-primary:disabled { opacity: 0.5; cursor: not-allowed; }
+        .btn-secondary { background: var(--surface2); color: var(--text); border: 1px solid var(--border); }
+        .btn-secondary:hover { border-color: var(--primary); }
+        .btn-sm { padding: 6px 12px; font-size: 12px; }
+
+        .tab-row { display: flex; gap: 8px; margin-bottom: 20px; overflow-x: auto; }
+        .tab-btn {
+            background: var(--surface2); color: var(--muted); border: 1px solid var(--border);
+            padding: 8px 16px; border-radius: 8px; cursor: pointer; font-weight: 600; white-space: nowrap;
+        }
+        .tab-btn.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+
+        .table-wrapper {
+            background: var(--surface); border-radius: 12px; overflow-x: auto;
+            border: 1px solid var(--border); min-height: 200px;
+        }
+        table { width: 100%; border-collapse: collapse; min-width: 800px; }
+        th { background: var(--surface2); color: var(--muted); text-align: left; padding: 14px 16px; font-size: 12px; text-transform: uppercase; border-bottom: 1px solid var(--border); }
+        td { padding: 14px 16px; border-bottom: 1px solid var(--border); font-size: 14px; vertical-align: middle; }
+        tr:last-child td { border-bottom: none; }
+
+        .profile-cell { display: flex; align-items: center; gap: 12px; }
+        .avatar { width: 44px; height: 44px; border-radius: 50%; object-fit: cover; background: var(--surface2); border: 2px solid var(--border); }
+        .term-text { font-weight: 700; color: #fff; }
+        .google-search-btn {
+            display: inline-flex; align-items: center; gap: 4px; text-decoration: none;
+            color: var(--muted); font-size: 11px; margin-top: 4px; background: var(--surface2);
+            padding: 2px 8px; border-radius: 4px; border: 1px solid var(--border); width: fit-content;
+        }
+        .google-search-btn:hover { color: #fff; border-color: var(--primary); background: var(--primary); }
+
+        .badge { display: inline-block; padding: 3px 8px; border-radius: 6px; font-size: 11px; font-weight: 600; margin-right: 4px; }
+        .badge-neutral { background: var(--surface2); color: var(--muted); border: 1px solid var(--border); }
+        .risk-high { background: rgba(239,68,68,0.15); color: #f87171; border: 1px solid #ef4444; }
+        .risk-medium { background: rgba(245,158,11,0.15); color: #fbbf24; border: 1px solid #f59e0b; }
+        .risk-low { background: rgba(16,185,129,0.15); color: #34d399; border: 1px solid #10b981; }
+
+        .loading-text { text-align: center; padding: 40px; color: var(--muted); }
+        .col-context { color: #ccc; line-height: 1.5; max-width: 400px; }
+
+        .filter-row { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
+        .filter-select {
+            padding: 8px 12px; background: var(--surface); border: 1px solid var(--border);
+            color: var(--text); border-radius: 8px; font-size: 13px;
+        }
+
+        .card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-bottom: 24px; }
+        .card {
+            background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px;
+        }
+        .card-title { font-weight: 700; font-size: 15px; margin-bottom: 8px; }
+        .card-summary { color: var(--muted); font-size: 13px; line-height: 1.5; }
+
+        .panel { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 24px; margin-bottom: 20px; }
+        .panel-title { font-size: 16px; font-weight: 700; margin-bottom: 16px; }
+        .input-group { margin-bottom: 16px; }
+        .input-group label { display: block; font-size: 12px; font-weight: 600; color: var(--muted); margin-bottom: 6px; text-transform: uppercase; }
+        .input-group select, .input-group textarea {
+            width: 100%; padding: 12px; background: var(--surface2); border: 1px solid var(--border);
+            color: var(--text); border-radius: 8px; font-size: 14px;
+        }
+        .input-group textarea { min-height: 120px; resize: vertical; font-family: inherit; }
+
+        .result-card {
+            background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+            padding: 24px; margin-top: 20px; border-top: 4px solid var(--accent); display: none;
+        }
+        .result-card.visible { display: block; }
+        .result-word { font-size: 24px; font-weight: 800; margin-bottom: 16px; }
+        .section-label { font-size: 11px; font-weight: 700; color: var(--muted); text-transform: uppercase; margin: 16px 0 6px; letter-spacing: 0.05em; }
+        .section-content { font-size: 15px; line-height: 1.6; }
+        .example-box { background: var(--surface2); border-left: 4px solid var(--accent); padding: 14px; border-radius: 0 8px 8px 0; font-style: italic; color: var(--muted); }
+
+        .report-output {
+            background: var(--surface2); border: 1px solid var(--border); border-radius: 8px;
+            padding: 20px; white-space: pre-wrap; line-height: 1.7; font-size: 14px; display: none;
+        }
+        .report-output.visible { display: block; }
+
+        .spinner { display: inline-block; animation: spin 1s linear infinite; }
+        @keyframes spin { 100% { transform: rotate(360deg); } }
+
+        .api-banner {
+            background: rgba(245,158,11,0.1); border: 1px solid var(--warning); border-radius: 8px;
+            padding: 10px 16px; font-size: 13px; color: #fbbf24; margin-bottom: 20px;
+        }
+
+        .lang-select { padding: 6px 10px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface2); color: var(--text); font-size: 13px; }
+
+        @media (max-width: 768px) {
+            .app-shell { flex-direction: column; }
+            .sidebar { width: 100%; flex-direction: row; overflow-x: auto; padding: 12px; }
+            .nav-btn { white-space: nowrap; width: auto; }
+            .main { padding: 16px; }
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <div class="header-top">
-                <div>
-                    <h1>Global Culture Risk Dashboard</h1>
-                    <div id="last-updated" class="last-update">Loading...</div>
+<div class="app-shell">
+    <nav class="sidebar">
+        <div class="logo">Global Culture<br><span>Risk Dashboard</span></div>
+        <div class="logo-sub">Unified Platform v2.0</div>
+
+        <button class="nav-btn active" data-module="risk" onclick="switchModule('risk')">
+            <span class="nav-icon">🛡️</span> Culture Risk Monitor
+        </button>
+        <button class="nav-btn" data-module="slang-db" onclick="switchModule('slang-db')">
+            <span class="nav-icon">📚</span> Slang Dictionary
+        </button>
+        <button class="nav-btn" data-module="slang-ai" onclick="switchModule('slang-ai')">
+            <span class="nav-icon">🧠</span> Slang AI Curator
+        </button>
+        <button class="nav-btn" data-module="war-room" onclick="switchModule('war-room')">
+            <span class="nav-icon">📡</span> Risk War Room
+        </button>
+    </nav>
+
+    <main class="main">
+        <!-- MODULE 1: Culture Risk Monitor -->
+        <section id="module-risk" class="module active">
+            <div class="module-header">
+                <h2>🛡️ Culture Risk Monitor</h2>
+                <p id="risk-last-updated">Loading risk database...</p>
+            </div>
+
+            <div class="controls">
+                <input type="text" id="riskSearchInput" class="search-input" placeholder="Search slang, people, groups..." onkeypress="if(event.key==='Enter') performRiskSearch()">
+                <button class="btn btn-primary" onclick="performRiskSearch()">Search</button>
+            </div>
+
+            <div class="tab-row">
+                <button class="tab-btn active" onclick="filterRiskGroup('person')">👤 Public Figures</button>
+                <button class="tab-btn" onclick="filterRiskGroup('group')">⚠️ Dangerous Groups</button>
+                <button class="tab-btn" onclick="filterRiskGroup('trend')">📱 Platform Trends</button>
+                <button class="tab-btn" onclick="filterRiskGroup('all')">View All Risks</button>
+            </div>
+
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th width="28%">Target Identity</th>
+                            <th width="10%">Risk</th>
+                            <th width="15%">Category</th>
+                            <th>Context / Reason</th>
+                            <th style="text-align:right">Status</th>
+                        </tr>
+                    </thead>
+                    <tbody id="risk-table-body"></tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- MODULE 2: Slang Dictionary -->
+        <section id="module-slang-db" class="module">
+            <div class="module-header">
+                <h2>📚 Multilingual Slang Dictionary</h2>
+                <p>Crawled from Urban Dictionary, Wiktionary, Reddit, and GitHub lists across 14 languages</p>
+            </div>
+
+            <div class="stats-row">
+                <div class="stat-card"><div class="stat-label">Total Terms</div><div class="stat-value" id="slang-total">-</div></div>
+                <div class="stat-card"><div class="stat-label">Languages</div><div class="stat-value" id="slang-langs">-</div></div>
+                <div class="stat-card"><div class="stat-label">Sources</div><div class="stat-value" id="slang-sources">-</div></div>
+            </div>
+
+            <div class="filter-row">
+                <input type="text" id="slangSearchInput" class="search-input" placeholder="Search terms or definitions..." oninput="filterSlangData()" style="flex:2">
+                <select id="slangLangFilter" class="filter-select" onchange="filterSlangData()">
+                    <option value="">All Languages</option>
+                </select>
+                <select id="slangSourceFilter" class="filter-select" onchange="filterSlangData()">
+                    <option value="">All Sources</option>
+                </select>
+            </div>
+
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th width="20%">Term</th>
+                            <th width="10%">Language</th>
+                            <th width="12%">Country</th>
+                            <th width="12%">Source</th>
+                            <th>Definition</th>
+                        </tr>
+                    </thead>
+                    <tbody id="slang-table-body"></tbody>
+                </table>
+            </div>
+            <div id="slang-pagination" class="controls" style="justify-content:center; margin-top:16px;"></div>
+        </section>
+
+        <!-- MODULE 3: Slang AI Curator -->
+        <section id="module-slang-ai" class="module">
+            <div class="module-header">
+                <h2>🧠 Slang AI Curator</h2>
+                <p>Country-aware slang analysis powered by Groq AI</p>
+            </div>
+
+            <div id="ai-banner" class="api-banner" style="display:none">
+                ⚠️ AI features require the Flask backend. Run <code>python app.py</code> or deploy to Render/Railway.
+            </div>
+
+            <div class="panel">
+                <div style="display:flex; justify-content:flex-end; margin-bottom:16px;">
+                    <select id="uiLang" class="lang-select" onchange="changeUILanguage()">
+                        <option value="EN">🌐 English</option>
+                        <option value="KR">🇰🇷 한국어</option>
+                        <option value="JP">🇯🇵 日本語</option>
+                        <option value="ES">🇪🇸 Español</option>
+                    </select>
+                </div>
+
+                <div class="input-group">
+                    <label id="lblTargetCountry">Target Country</label>
+                    <select id="countrySelect"></select>
+                </div>
+                <div class="input-group">
+                    <label id="lblSearch">Slang Term</label>
+                    <input type="text" id="slangAiInput" class="search-input" placeholder="e.g. Rizz" onkeypress="if(event.key==='Enter') askAI()">
+                </div>
+                <button class="btn btn-primary" id="searchBtn" onclick="askAI()">Analyze</button>
+            </div>
+
+            <div id="ai-loader" class="loading-text" style="display:none"><span class="spinner">🧠</span> <span id="loadingText">AI is thinking...</span></div>
+
+            <div id="resultCard" class="result-card">
+                <div class="result-word" id="r_word"></div>
+                <div class="section-label" id="lblDef">Definition</div>
+                <div class="section-content" id="r_def"></div>
+                <div class="section-label" id="lblOrigin">Origin & Nuance</div>
+                <div class="section-content" id="r_origin"></div>
+                <div class="section-label" id="lblEx">Example</div>
+                <div class="example-box" id="r_ex"></div>
+            </div>
+        </section>
+
+        <!-- MODULE 4: Risk War Room -->
+        <section id="module-war-room" class="module">
+            <div class="module-header">
+                <h2>📡 Global Risk War Room</h2>
+                <p>Real-time strategic risk intelligence and forensic analysis</p>
+            </div>
+
+            <div id="war-banner" class="api-banner" style="display:none">
+                ⚠️ War Room AI features require the Flask backend. Run <code>python app.py</code> or deploy to Render/Railway.
+            </div>
+
+            <div class="filter-row">
+                <select id="scanScope" class="filter-select">
+                    <option value="Global (All)">🌍 Global (All)</option>
+                    <option value="United States">🇺🇸 United States</option>
+                    <option value="South Korea">🇰🇷 South Korea</option>
+                    <option value="Japan">🇯🇵 Japan</option>
+                    <option value="France">🇫🇷 France</option>
+                    <option value="Iran">🇮🇷 Iran</option>
+                    <option value="Uganda">🇺🇬 Uganda</option>
+                </select>
+                <button class="btn btn-primary" onclick="loadTopRisks()">⚡ Scan Top 3 Risks</button>
+            </div>
+
+            <div class="panel">
+                <div class="panel-title">⚡ Top 3 Urgent Signals</div>
+                <div id="top-risks-grid" class="card-grid">
+                    <div class="loading-text">Click "Scan Top 3 Risks" to begin</div>
                 </div>
             </div>
-            
-            <div class="search-box-wrapper">
-                <input type="text" id="searchInput" class="search-input" placeholder="Search Slang, People, Groups..." onkeypress="handleEnter(event)">
-                <button class="search-btn" onclick="performSearch()">Search</button>
+
+            <div class="panel">
+                <div class="panel-title">🕵️ Deep Dive Analysis</div>
+                <div class="input-group">
+                    <label>Incident Details</label>
+                    <textarea id="analyzeInput" placeholder="Paste incident details, news, or URL context here..."></textarea>
+                </div>
+                <button class="btn btn-primary" id="analyzeBtn" onclick="runForensicAnalysis()">Run Forensic Analysis</button>
+                <div id="reportOutput" class="report-output"></div>
             </div>
-        </header>
 
-        <div class="controls">
-            <button class="tab-btn active" onclick="filterGroup('person')">👤 Public Figures</button>
-            <button class="tab-btn" onclick="filterGroup('group')">⚠️ Dangerous Groups</button>
-            <button class="tab-btn" onclick="filterGroup('trend')">📱 Platform Trends</button>
-            <button class="tab-btn" onclick="filterGroup('all')">View All Risks</button>
-        </div>
+            <div class="panel">
+                <div class="panel-title">🏳️ Country Dashboard</div>
+                <button class="btn btn-secondary" onclick="loadCountryDashboard()">Load Country Overview</button>
+                <div id="countrySummary" class="report-output" style="margin-top:16px;"></div>
+            </div>
+        </section>
+    </main>
+</div>
 
-        <div class="table-wrapper">
-            <table>
-                <thead>
-                    <tr>
-                        <th width="30%">Target Identity</th>
-                        <th width="10%">Risk</th>
-                        <th width="15%">Category</th>
-                        <th>Context / Reason (English)</th>
-                        <th style="text-align:right">Status</th>
-                    </tr>
-                </thead>
-                <tbody id="table-body"></tbody>
-            </table>
-        </div>
-    </div>
+<script>
+    const API_BASE = window.location.origin;
+    let allRiskData = [];
+    let currentRiskGroup = 'person';
+    let allSlangData = [];
+    let filteredSlangData = [];
+    let slangPage = 0;
+    const SLANG_PAGE_SIZE = 50;
+    let backendAvailable = null;
 
-    <script>
-        let allData = [];
-        let currentGroup = 'person'; 
+    const i18n = {
+        EN: { lblCountry: "Target Country", lblSearch: "Slang Term", btnSearch: "Analyze", loading: "AI is thinking... 🧠", lblDef: "Definition", lblOrigin: "Origin & Nuance", lblEx: "Example" },
+        KR: { lblCountry: "검색할 국가", lblSearch: "슬랭 단어", btnSearch: "분석하기", loading: "AI가 분석 중입니다... 🧠", lblDef: "뜻 (의미)", lblOrigin: "유래 및 뉘앙스", lblEx: "사용 예시" },
+        JP: { lblCountry: "対象国", lblSearch: "スラング単語", btnSearch: "分析する", loading: "AIが考え中... 🧠", lblDef: "意味", lblOrigin: "由来・ニュアンス", lblEx: "使用例" },
+        ES: { lblCountry: "País de destino", lblSearch: "Término", btnSearch: "Analizar", loading: "IA pensando... 🧠", lblDef: "Definición", lblOrigin: "Origen y Matiz", lblEx: "Ejemplo" }
+    };
 
-        async function init() {
-            try {
-                const res = await fetch('data.json?v=' + Date.now());
-                allData = await res.json();
-                document.getElementById('last-updated').innerText = `DB Status: ${allData.length} entries managed by Groq AI.`;
-                
-                // Default View
-                filterGroup('person');
-            } catch (e) {
-                console.error(e);
-            }
+    const countryData = {
+        "Asia": [
+            { code: "KR", name: "🇰🇷 South Korea" }, { code: "JP", name: "🇯🇵 Japan" },
+            { code: "CN", name: "🇨🇳 China" }, { code: "VN", name: "🇻🇳 Vietnam" },
+            { code: "TH", name: "🇹🇭 Thailand" }, { code: "ID", name: "🇮🇩 Indonesia" },
+            { code: "IN", name: "🇮🇳 India" }
+        ],
+        "North America": [
+            { code: "US", name: "🇺🇸 United States" }, { code: "CA", name: "🇨🇦 Canada" },
+            { code: "MX", name: "🇲🇽 Mexico" }
+        ],
+        "Europe": [
+            { code: "GB", name: "🇬🇧 United Kingdom" }, { code: "FR", name: "🇫🇷 France" },
+            { code: "DE", name: "🇩🇪 Germany" }, { code: "ES", name: "🇪🇸 Spain" },
+            { code: "IT", name: "🇮🇹 Italy" }, { code: "RU", name: "🇷🇺 Russia" }
+        ],
+        "South America": [
+            { code: "BR", name: "🇧🇷 Brazil" }, { code: "AR", name: "🇦🇷 Argentina" }
+        ],
+        "Others": [
+            { code: "AU", name: "🇦🇺 Australia" }, { code: "ZA", name: "🇿🇦 South Africa" }
+        ]
+    };
+
+    async function checkBackend() {
+        if (backendAvailable !== null) return backendAvailable;
+        try {
+            const res = await fetch(`${API_BASE}/api/models`, { signal: AbortSignal.timeout(3000) });
+            backendAvailable = res.ok;
+        } catch {
+            backendAvailable = false;
         }
+        document.getElementById('ai-banner').style.display = backendAvailable ? 'none' : 'block';
+        document.getElementById('war-banner').style.display = backendAvailable ? 'none' : 'block';
+        return backendAvailable;
+    }
 
-        async function performSearch() {
-            const query = document.getElementById('searchInput').value.trim().toLowerCase();
-            const tbody = document.getElementById('table-body');
+    function switchModule(name) {
+        document.querySelectorAll('.module').forEach(m => m.classList.remove('active'));
+        document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+        document.getElementById('module-' + name).classList.add('active');
+        document.querySelector(`[data-module="${name}"]`).classList.add('active');
+        if (name === 'slang-ai' || name === 'war-room') checkBackend();
+    }
 
-            if (!query) { filterGroup(currentGroup); return; }
+    // ===== MODULE 1: Risk Monitor =====
+    async function initRiskData() {
+        try {
+            const res = await fetch('data.json?v=' + Date.now());
+            allRiskData = await res.json();
+            document.getElementById('risk-last-updated').innerText = `DB Status: ${allRiskData.length} entries managed by Groq AI.`;
+            filterRiskGroup('person');
+        } catch (e) {
+            document.getElementById('risk-last-updated').innerText = 'Failed to load risk data.';
+        }
+    }
 
-            tbody.innerHTML = '<tr><td colspan="5" class="loading-text">Searching DB & Urban Dictionary...</td></tr>';
-            
-            // 1. Search Local DB
-            let results = allData.filter(d => d.term.toLowerCase().includes(query));
+    async function performRiskSearch() {
+        const query = document.getElementById('riskSearchInput').value.trim().toLowerCase();
+        const tbody = document.getElementById('risk-table-body');
+        if (!query) { filterRiskGroup(currentRiskGroup); return; }
 
-            // 2. Search Urban Dictionary (Live)
-            try {
-                const res = await fetch(`https://api.urbandictionary.com/v0/define?term=${encodeURIComponent(query)}`);
-                const data = await res.json();
-                if (data.list && data.list.length > 0) {
-                    const best = data.list.sort((a,b)=>b.thumbs_up-a.thumbs_up)[0];
-                    if (!results.some(r => r.term.toLowerCase() === best.word.toLowerCase())) {
-                        results.unshift({
-                            term: best.word,
-                            group: 'language',
-                            risk_level: 'Low',
-                            category: 'Slang Search',
-                            country: ['Global'],
-                            context: { en: best.definition.replace(/[\[\]]/g, "") },
-                            status: 'Live',
-                            image_url: 'null' 
-                        });
-                    }
+        tbody.innerHTML = '<tr><td colspan="5" class="loading-text">Searching DB & Urban Dictionary...</td></tr>';
+        let results = allRiskData.filter(d => d.term.toLowerCase().includes(query));
+
+        try {
+            const proxyUrl = backendAvailable ? `${API_BASE}/search?term=${encodeURIComponent(query)}` : `https://api.urbandictionary.com/v0/define?term=${encodeURIComponent(query)}`;
+            const res = await fetch(proxyUrl);
+            const data = await res.json();
+            if (data.list && data.list.length > 0) {
+                const best = data.list.sort((a,b) => b.thumbs_up - a.thumbs_up)[0];
+                if (!results.some(r => r.term.toLowerCase() === best.word.toLowerCase())) {
+                    results.unshift({
+                        term: best.word, group: 'language', risk_level: 'Low', category: 'Slang Search',
+                        country: ['Global'], context: { en: best.definition.replace(/[\[\]]/g, "") },
+                        status: 'Live', image_url: 'null'
+                    });
                 }
-            } catch(e) {}
+            }
+        } catch(e) {}
 
-            renderTable(results);
+        renderRiskTable(results);
+    }
+
+    function filterRiskGroup(group) {
+        currentRiskGroup = group;
+        document.querySelectorAll('#module-risk .tab-btn').forEach(b => b.classList.remove('active'));
+        const btns = document.querySelectorAll('#module-risk .tab-btn');
+        const idx = ['person','group','trend','all'].indexOf(group);
+        if (btns[idx]) btns[idx].classList.add('active');
+
+        let data;
+        if (group === 'all') {
+            data = allRiskData.filter(d => d.group !== 'language');
+        } else {
+            data = allRiskData.filter(d => d.group === group);
         }
-        function handleEnter(e) { if(e.key==='Enter') performSearch(); }
+        renderRiskTable(data);
+    }
 
-        function filterGroup(group) {
-            currentGroup = group;
-            
-            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-            const activeBtn = Array.from(document.querySelectorAll('.tab-btn')).find(b => b.getAttribute('onclick').includes(group));
-            if(activeBtn) activeBtn.classList.add('active');
+    function renderRiskTable(data) {
+        const tbody = document.getElementById('risk-table-body');
+        tbody.innerHTML = '';
+        if (data.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="5" class="loading-text">No data found in this category.</td></tr>';
+            return;
+        }
 
-            let data;
-            if (group === 'all') {
-                data = allData.filter(d => d.group !== 'language'); 
+        data.slice(0, 200).forEach(item => {
+            const context = item.context?.en || (typeof item.context === 'string' ? item.context : "No description available.");
+            let imgUrl = item.image_url;
+            if (!imgUrl || imgUrl === "null" || imgUrl === "") {
+                imgUrl = `https://ui-avatars.com/api/?name=${encodeURIComponent(item.term)}&background=random&color=fff&size=64`;
+            }
+            const googleUrl = `https://www.google.com/search?q=${encodeURIComponent(item.term + " controversy")}`;
+            const riskStr = String(item.risk_level);
+            let riskClass = riskStr.toLowerCase().includes('high') ? 'risk-high' : (riskStr.toLowerCase().includes('medium') ? 'risk-medium' : 'risk-low');
+            const country = Array.isArray(item.country) ? item.country[0] : (item.country || 'Global');
+
+            const tr = document.createElement('tr');
+            tr.innerHTML = `
+                <td><div class="profile-cell">
+                    <img src="${imgUrl}" class="avatar" alt="">
+                    <div><div class="term-text">${escapeHtml(item.term)}</div>
+                    <a href="${googleUrl}" target="_blank" class="google-search-btn">🔍 Google It</a></div>
+                </div></td>
+                <td><span class="badge ${riskClass}">${escapeHtml(String(item.risk_level))}</span></td>
+                <td><span class="badge badge-neutral">${escapeHtml(String(country))}</span>
+                    <span class="badge badge-neutral">${escapeHtml(String(item.category || ''))}</span></td>
+                <td class="col-context">${escapeHtml(context)}</td>
+                <td style="text-align:right; color:var(--muted); font-size:12px;">${escapeHtml(String(item.status || ''))}</td>`;
+            tbody.appendChild(tr);
+        });
+    }
+
+    // ===== MODULE 2: Slang Dictionary =====
+    async function initSlangData() {
+        try {
+            const res = await fetch('output/raw_terms_clean.csv?v=' + Date.now());
+            const text = await res.text();
+            allSlangData = parseCSV(text);
+            filteredSlangData = allSlangData;
+
+            const langs = [...new Set(allSlangData.map(d => d.language).filter(Boolean))].sort();
+            const sources = [...new Set(allSlangData.map(d => d.source).filter(Boolean))].sort();
+
+            const langSelect = document.getElementById('slangLangFilter');
+            langs.forEach(l => { const o = document.createElement('option'); o.value = l; o.textContent = l.toUpperCase(); langSelect.appendChild(o); });
+
+            const srcSelect = document.getElementById('slangSourceFilter');
+            sources.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; srcSelect.appendChild(o); });
+
+            document.getElementById('slang-total').textContent = allSlangData.length.toLocaleString();
+            document.getElementById('slang-langs').textContent = langs.length;
+            document.getElementById('slang-sources').textContent = sources.length;
+
+            slangPage = 0;
+            renderSlangTable();
+        } catch (e) {
+            document.getElementById('slang-table-body').innerHTML = '<tr><td colspan="5" class="loading-text">Failed to load slang data.</td></tr>';
+        }
+    }
+
+    function parseCSV(text) {
+        const rows = [];
+        let current = '', inQuotes = false, fields = [], line = [];
+        for (let i = 0; i < text.length; i++) {
+            const ch = text[i];
+            if (inQuotes) {
+                if (ch === '"' && text[i+1] === '"') { current += '"'; i++; }
+                else if (ch === '"') inQuotes = false;
+                else current += ch;
             } else {
-                data = allData.filter(d => d.group === group);
+                if (ch === '"') inQuotes = true;
+                else if (ch === ',') { line.push(current); current = ''; }
+                else if (ch === '\n' || ch === '\r') {
+                    if (ch === '\r' && text[i+1] === '\n') i++;
+                    line.push(current); current = '';
+                    if (line.length > 1) rows.push(line);
+                    line = [];
+                } else current += ch;
             }
-            renderTable(data);
         }
+        if (line.length) { line.push(current); rows.push(line); }
 
-        function renderTable(data) {
-            const tbody = document.getElementById('table-body');
-            tbody.innerHTML = '';
+        if (rows.length < 2) return [];
+        const headers = rows[0].map(h => h.replace(/^\uFEFF/, '').trim());
+        return rows.slice(1).map(r => {
+            const obj = {};
+            headers.forEach((h, i) => obj[h] = (r[i] || '').trim());
+            return obj;
+        }).filter(r => r.term);
+    }
 
-            if (data.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="5" class="loading-text">No data found in this category.</td></tr>';
-                return;
-            }
+    function filterSlangData() {
+        const q = document.getElementById('slangSearchInput').value.toLowerCase();
+        const lang = document.getElementById('slangLangFilter').value;
+        const src = document.getElementById('slangSourceFilter').value;
 
-            data.forEach(item => {
-                // Force English Context
-                const context = item.context['en'] || (typeof item.context === 'string' ? item.context : "No description available.");
-                
-                let imgUrl = item.image_url;
-                if (!imgUrl || imgUrl === "null" || imgUrl === "") {
-                    imgUrl = `https://ui-avatars.com/api/?name=${encodeURIComponent(item.term)}&background=random&color=fff&size=64`;
-                }
+        filteredSlangData = allSlangData.filter(d => {
+            if (lang && d.language !== lang) return false;
+            if (src && d.source !== src) return false;
+            if (q && !d.term.toLowerCase().includes(q) && !(d.definition || '').toLowerCase().includes(q)) return false;
+            return true;
+        });
+        slangPage = 0;
+        renderSlangTable();
+    }
 
-                const googleUrl = `https://www.google.com/search?q=${encodeURIComponent(item.term + " controversy")}`;
+    function renderSlangTable() {
+        const tbody = document.getElementById('slang-table-body');
+        const start = slangPage * SLANG_PAGE_SIZE;
+        const page = filteredSlangData.slice(start, start + SLANG_PAGE_SIZE);
 
-                let riskClass = item.risk_level === 'High' ? 'risk-high' : (item.risk_level === 'Medium' ? 'risk-medium' : 'risk-low');
-
+        tbody.innerHTML = '';
+        if (page.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="5" class="loading-text">No matching terms found.</td></tr>';
+        } else {
+            page.forEach(item => {
                 const tr = document.createElement('tr');
                 tr.innerHTML = `
-                    <td>
-                        <div class="profile-cell">
-                            <img src="${imgUrl}" class="avatar" alt="img">
-                            <div class="info-group">
-                                <span class="term-text">${item.term}</span>
-                                <a href="${googleUrl}" target="_blank" class="google-search-btn">
-                                    🔍 Google It
-                                </a>
-                            </div>
-                        </div>
-                    </td>
-                    <td><span class="risk-badge ${riskClass}">${item.risk_level}</span></td>
-                    <td>
-                        <span class="cat-badge">${item.country ? item.country[0] : 'Global'}</span>
-                        <span class="cat-badge" style="background:#222;">${item.category}</span>
-                    </td>
-                    <td class="col-context">${context}</td>
-                    <td style="text-align:right; color:#666; font-size:12px;">${item.status}</td>
-                `;
+                    <td><span class="term-text">${escapeHtml(item.term)}</span></td>
+                    <td><span class="badge badge-neutral">${escapeHtml((item.language || '').toUpperCase())}</span></td>
+                    <td>${escapeHtml(item.country || '')}</td>
+                    <td><span class="badge badge-neutral">${escapeHtml(item.source || '')}</span></td>
+                    <td class="col-context">${escapeHtml((item.definition || '').substring(0, 300))}</td>`;
                 tbody.appendChild(tr);
             });
         }
 
-        init();
-    </script>
+        const totalPages = Math.ceil(filteredSlangData.length / SLANG_PAGE_SIZE);
+        const pag = document.getElementById('slang-pagination');
+        pag.innerHTML = '';
+        if (totalPages > 1) {
+            const prev = document.createElement('button');
+            prev.className = 'btn btn-secondary btn-sm';
+            prev.textContent = '← Prev';
+            prev.disabled = slangPage === 0;
+            prev.onclick = () => { slangPage--; renderSlangTable(); };
+            pag.appendChild(prev);
+
+            const info = document.createElement('span');
+            info.style.color = 'var(--muted)';
+            info.style.padding = '0 12px';
+            info.textContent = `Page ${slangPage + 1} / ${totalPages} (${filteredSlangData.length.toLocaleString()} terms)`;
+            pag.appendChild(info);
+
+            const next = document.createElement('button');
+            next.className = 'btn btn-secondary btn-sm';
+            next.textContent = 'Next →';
+            next.disabled = slangPage >= totalPages - 1;
+            next.onclick = () => { slangPage++; renderSlangTable(); };
+            pag.appendChild(next);
+        }
+    }
+
+    // ===== MODULE 3: Slang AI Curator =====
+    function initCountrySelect() {
+        const select = document.getElementById('countrySelect');
+        let html = '';
+        for (const [region, countries] of Object.entries(countryData)) {
+            html += `<optgroup label="${region}">`;
+            countries.forEach(c => html += `<option value="${c.code}">${c.name}</option>`);
+            html += '</optgroup>';
+        }
+        select.innerHTML = html;
+        changeUILanguage();
+    }
+
+    function changeUILanguage() {
+        const lang = document.getElementById('uiLang').value;
+        const text = i18n[lang];
+        document.getElementById('lblTargetCountry').innerText = text.lblCountry;
+        document.getElementById('lblSearch').innerText = text.lblSearch;
+        document.getElementById('searchBtn').innerText = text.btnSearch;
+        document.getElementById('loadingText').innerText = text.loading;
+        document.getElementById('lblDef').innerText = text.lblDef;
+        document.getElementById('lblOrigin').innerText = text.lblOrigin;
+        document.getElementById('lblEx').innerText = text.lblEx;
+    }
+
+    async function askAI() {
+        const term = document.getElementById('slangAiInput').value.trim();
+        const country = document.getElementById('countrySelect').value;
+        if (!term) return alert('Please enter a term!');
+
+        const btn = document.getElementById('searchBtn');
+        const loader = document.getElementById('ai-loader');
+        const card = document.getElementById('resultCard');
+
+        card.classList.remove('visible');
+        loader.style.display = 'block';
+        btn.disabled = true;
+
+        try {
+            const res = await fetch(`${API_BASE}/curate?term=${encodeURIComponent(term)}&country=${country}`);
+            if (!res.ok) throw new Error('Server unavailable');
+            const json = await res.json();
+
+            if (json.status === 'ok') {
+                document.getElementById('r_word').innerText = term;
+                document.getElementById('r_def').innerText = json.data.definition;
+                document.getElementById('r_origin').innerText = json.data.origin;
+                document.getElementById('r_ex').innerText = `"${json.data.example}"`;
+                loader.style.display = 'none';
+                card.classList.add('visible');
+            } else {
+                throw new Error(json.msg || 'Analysis failed');
+            }
+        } catch (e) {
+            alert('Error: Start the backend with `python app.py` or deploy to a server with GROQ_API_KEY configured.');
+            loader.style.display = 'none';
+        } finally {
+            btn.disabled = false;
+        }
+    }
+
+    // ===== MODULE 4: Risk War Room =====
+    async function loadTopRisks() {
+        const scope = document.getElementById('scanScope').value;
+        const grid = document.getElementById('top-risks-grid');
+        grid.innerHTML = '<div class="loading-text"><span class="spinner">📡</span> Scanning...</div>';
+
+        try {
+            const res = await fetch(`${API_BASE}/api/risk/top3?scope=${encodeURIComponent(scope)}`);
+            if (!res.ok) throw new Error('Server unavailable');
+            const json = await res.json();
+            const events = json.events || [];
+
+            grid.innerHTML = '';
+            if (events.length === 0) {
+                grid.innerHTML = '<div class="loading-text">No events found.</div>';
+                return;
+            }
+
+            events.slice(0, 3).forEach(event => {
+                const level = (event.risk_level || 'Low').toLowerCase();
+                const riskClass = level.includes('high') ? 'risk-high' : (level.includes('medium') ? 'risk-medium' : 'risk-low');
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <span class="badge ${riskClass}">${escapeHtml(event.risk_level || 'Unknown')}</span>
+                    <div class="card-title">${escapeHtml(event.title || '')}</div>
+                    <div class="card-summary">${escapeHtml(event.summary || '')}</div>`;
+                grid.appendChild(card);
+            });
+        } catch (e) {
+            grid.innerHTML = '<div class="loading-text">Failed to scan. Start backend with `python app.py`.</div>';
+        }
+    }
+
+    async function runForensicAnalysis() {
+        const text = document.getElementById('analyzeInput').value.trim();
+        if (!text) return alert('Please enter incident details.');
+
+        const btn = document.getElementById('analyzeBtn');
+        const output = document.getElementById('reportOutput');
+        btn.disabled = true;
+        output.classList.remove('visible');
+        output.textContent = 'Analyzing...';
+        output.classList.add('visible');
+
+        try {
+            const res = await fetch(`${API_BASE}/api/risk/analyze`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ text })
+            });
+            if (!res.ok) throw new Error('Server unavailable');
+            const json = await res.json();
+            output.textContent = json.status === 'ok' ? json.report : (json.msg || 'Analysis failed');
+        } catch (e) {
+            output.textContent = 'Failed. Start backend with `python app.py` and set GROQ_API_KEY.';
+        } finally {
+            btn.disabled = false;
+        }
+    }
+
+    async function loadCountryDashboard() {
+        const scope = document.getElementById('scanScope').value;
+        const output = document.getElementById('countrySummary');
+        output.textContent = 'Loading...';
+        output.classList.add('visible');
+
+        try {
+            const res = await fetch(`${API_BASE}/api/risk/country?scope=${encodeURIComponent(scope)}`);
+            if (!res.ok) throw new Error('Server unavailable');
+            const json = await res.json();
+            output.textContent = json.status === 'ok' ? json.summary : (json.msg || 'Failed');
+        } catch (e) {
+            output.textContent = 'Failed. Start backend with `python app.py`.';
+        }
+    }
+
+    function escapeHtml(str) {
+        const div = document.createElement('div');
+        div.textContent = str;
+        return div.innerHTML;
+    }
+
+    // Init
+    initRiskData();
+    initSlangData();
+    initCountrySelect();
+    checkBackend();
+</script>
 </body>
 </html>

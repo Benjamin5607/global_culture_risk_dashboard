@@ -1,0 +1,45 @@
+name: Daily Slang Crawl
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl-and-sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+          cache: "pip"
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Crawlers
+        run: |
+          mkdir -p output
+          python crawlers/urban_dictionary.py || echo "Urban failed"
+          python crawlers/wiktionary_slang.py || echo "Wiktionary failed"
+          python crawlers/reddit_slang.py || echo "Reddit failed"
+          python crawlers/github_lists.py || echo "GitHub Lists failed"
+
+      - name: Run Deduplication Pipeline
+        run: python pipeline/deduplicate.py
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "SlangBot"
+          git config --global user.email "bot@slang.com"
+          git add output/raw_terms_clean.csv
+          git commit -m "Daily Update: Slang Data" || exit 0
+          git push
