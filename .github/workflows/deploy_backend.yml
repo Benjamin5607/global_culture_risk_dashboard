@@ -9,10 +9,12 @@ on:
       - 'requirements.txt'
       - 'Procfile'
       - 'render.yaml'
+      - 'Dockerfile'
   workflow_dispatch:
 
 permissions:
   contents: write
+  packages: write
 
 jobs:
   verify-groq:
@@ -46,13 +48,13 @@ jobs:
           print('Groq API key verified successfully')
           "
 
-  deploy-render:
+  sync-render-repo:
     needs: verify-groq
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Sync backend to Render-connected repo
+      - name: Sync backend files to slang_dictionary via GitHub API
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
@@ -61,21 +63,40 @@ jobs:
             exit 0
           fi
 
-          git config --global user.name "Deploy Bot"
-          git config --global user.email "bot@global-culture-risk.dev"
+          upload_file() {
+            local file="$1"
+            local dest="$2"
+            local sha
+            sha=$(curl -sf -H "Authorization: Bearer $GH_TOKEN" \
+              "https://api.github.com/repos/Benjamin5607/slang_dictionary/contents/$dest" \
+              | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('sha',''))" 2>/dev/null || echo "")
 
-          git clone "https://x-access-token:${GH_TOKEN}@github.com/Benjamin5607/slang_dictionary.git" /tmp/render-deploy
-          cd /tmp/render-deploy
+            local content
+            content=$(base64 -w0 "$file")
 
-          cp "$GITHUB_WORKSPACE/app.py" .
-          cp "$GITHUB_WORKSPACE/requirements.txt" .
-          cp "$GITHUB_WORKSPACE/Procfile" .
-          rm -rf modules
-          cp -r "$GITHUB_WORKSPACE/modules" .
+            local payload
+            if [ -n "$sha" ]; then
+              payload=$(python3 -c "import json; print(json.dumps({'message':'Sync unified backend [auto]','content':'$content','sha':'$sha'}))")
+            else
+              payload=$(python3 -c "import json; print(json.dumps({'message':'Sync unified backend [auto]','content':'$content'}))")
+            fi
 
-          git add app.py requirements.txt Procfile modules/
-          git diff --staged --quiet || git commit -m "Sync unified backend from global_culture_risk_dashboard [auto]"
-          git push origin main
+            curl -sf -X PUT \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/Benjamin5607/slang_dictionary/contents/$dest" \
+              -d "$payload"
+            echo "Updated $dest"
+          }
+
+          upload_file "app.py" "app.py"
+          upload_file "requirements.txt" "requirements.txt"
+          upload_file "Procfile" "Procfile"
+
+          for modfile in modules/risk_war_room.py modules/slang_curator.py; do
+            upload_file "$modfile" "$modfile"
+          done
+
           echo "Backend synced to slang_dictionary — Render will auto-deploy"
 
       - name: Trigger Render deploy hook
@@ -84,19 +105,37 @@ jobs:
         run: |
           if [ -n "$DEPLOY_HOOK" ]; then
             curl -sf "$DEPLOY_HOOK"
-            echo "Render deploy triggered"
-          else
-            echo "RENDER_DEPLOY_HOOK_URL not set — Render will deploy via GitHub auto-deploy if connected"
+            echo "Render deploy hook triggered"
           fi
 
-      - name: Wake Render service
+      - name: Wait for Render backend
         run: |
-          for i in 1 2 3 4 5; do
-            if curl -sf https://slang-dictionary-p04y.onrender.com/api/models; then
-              echo "Backend is live"
+          for i in 1 2 3 4 5 6 7 8; do
+            if curl -sf "https://slang-dictionary-p04y.onrender.com/api/models" > /dev/null 2>&1; then
+              echo "Unified backend is live at /api/models"
               exit 0
             fi
-            echo "Waiting for Render cold start ($i/5)..."
-            sleep 15
+            echo "Waiting for Render deploy ($i/8)..."
+            sleep 30
           done
-          echo "Backend not yet responding — may need first deploy"
+          echo "Backend not yet on unified version — Render may still be deploying"
+
+  build-container:
+    needs: verify-groq
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Log in to GHCR
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push Docker image
+        run: |
+          IMAGE="ghcr.io/benjamin5607/global-culture-risk-api:latest"
+          docker build -t "$IMAGE" .
+          docker push "$IMAGE"
+          echo "Container image pushed: $IMAGE"
