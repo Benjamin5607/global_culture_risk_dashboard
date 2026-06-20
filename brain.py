@@ -108,5 +108,45 @@ def update_database():
         json.dump(current_data, f, indent=4, ensure_ascii=False)
     print("💾 Saved successfully.")
 
+    # 4. War Room Top 3 리스크 갱신
+    update_war_room()
+
+
+def update_war_room():
+    if not API_KEY:
+        return
+
+    url = "https://api.groq.com/openai/v1/chat/completions"
+    headers = {"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"}
+    scopes = ["Global (All)", "United States", "South Korea", "Japan"]
+    war_room = {"updated": get_current_date(), "scopes": {}}
+
+    for scope in scopes:
+        prompt = f"""
+        Identify the TOP 3 security/political/social risks in '{scope}' from the PAST 7 DAYS.
+        Return ONLY valid JSON: {{"events":[{{"title":"","risk_level":"High|Medium|Low","summary":""}}]}}
+        """
+        payload = {
+            "model": "llama-3.1-8b-instant",
+            "messages": [
+                {"role": "system", "content": "Output JSON only."},
+                {"role": "user", "content": prompt},
+            ],
+            "response_format": {"type": "json_object"},
+        }
+        try:
+            response = requests.post(url, headers=headers, json=payload, timeout=30)
+            if response.status_code == 200:
+                content = response.json()["choices"][0]["message"]["content"]
+                data = json.loads(content)
+                events = data.get("events", [])
+                war_room["scopes"][scope] = events[:3]
+                print(f"📡 War Room updated: {scope}")
+        except Exception as e:
+            print(f"⚠️ War Room update failed for {scope}: {e}")
+
+    with open("war_room.json", "w", encoding="utf-8") as f:
+        json.dump(war_room, f, indent=4, ensure_ascii=False)
+
 if __name__ == "__main__":
     update_database()

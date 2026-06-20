@@ -55,6 +55,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Sync backend files to slang_dictionary via GitHub API
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |

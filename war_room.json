@@ -1,0 +1,8 @@
+{
+    "updated": "2026-06-20",
+    "scopes": {
+        "Global (All)": [
+            {"title": "Scanning...", "risk_level": "Low", "summary": "Data will be updated by the next scheduled Groq scan."}
+        ]
+    }
+}
