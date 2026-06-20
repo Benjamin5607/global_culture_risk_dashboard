@@ -10,9 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Poke Backend Server
-        run: |
-          if [ -n "${{ secrets.BACKEND_URL }}" ]; then
-            curl -sf "${{ secrets.BACKEND_URL }}/" || echo "Backend not reachable"
-          else
-            echo "BACKEND_URL secret not configured, skipping"
-          fi
+        run: curl -sf https://slang-dictionary-p04y.onrender.com/api/models || curl -sf https://slang-dictionary-p04y.onrender.com/

@@ -5,6 +5,7 @@ import urllib.parse
 import urllib.request
 
 from flask import Flask, jsonify, request, send_file
+from flask_cors import CORS
 
 from modules.risk_war_room import (
     analyze_risk_detail,
@@ -15,6 +16,11 @@ from modules.risk_war_room import (
 from modules.slang_curator import curate_slang
 
 app = Flask(__name__)
+CORS(app, origins=[
+    "https://benjamin5607.github.io",
+    "http://localhost:8080",
+    "http://127.0.0.1:8080",
+])
 
 
 @app.route("/")
