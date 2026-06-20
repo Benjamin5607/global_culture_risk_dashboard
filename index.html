@@ -401,22 +401,29 @@
 
     async function checkBackend() {
         if (backendAvailable !== null) return backendAvailable;
+        let hasFullBackend = false;
+        let hasCurate = false;
+
         for (let attempt = 0; attempt < 3; attempt++) {
             try {
-                const res = await fetch(`${API_BASE}/api/models`, { signal: AbortSignal.timeout(45000) });
-                if (res.ok) {
-                    backendAvailable = true;
-                    document.getElementById('ai-banner').style.display = 'none';
-                    document.getElementById('war-banner').style.display = 'none';
-                    return true;
+                const modelsRes = await fetch(`${API_BASE}/api/models`, { signal: AbortSignal.timeout(45000) });
+                if (modelsRes.ok) { hasFullBackend = true; break; }
+            } catch {}
+            try {
+                const curateRes = await fetch(`${API_BASE}/curate?term=ping&country=US`, { signal: AbortSignal.timeout(45000) });
+                if (curateRes.ok) {
+                    const data = await curateRes.json();
+                    if (data.status === 'ok') hasCurate = true;
                 }
             } catch {}
+            if (hasFullBackend || hasCurate) break;
             if (attempt < 2) await new Promise(r => setTimeout(r, 5000));
         }
-        backendAvailable = false;
-        document.getElementById('ai-banner').style.display = 'block';
-        document.getElementById('war-banner').style.display = 'block';
-        return false;
+
+        backendAvailable = hasFullBackend || hasCurate;
+        document.getElementById('ai-banner').style.display = hasCurate || hasFullBackend ? 'none' : 'block';
+        document.getElementById('war-banner').style.display = hasFullBackend ? 'none' : 'block';
+        return backendAvailable;
     }
 
     function switchModule(name) {
