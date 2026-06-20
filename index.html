@@ -268,7 +268,7 @@
             </div>
 
             <div id="ai-banner" class="api-banner" style="display:none">
-                ⚠️ AI features require the Flask backend. Run <code>python app.py</code> or deploy to Render/Railway.
+                ⚠️ AI features connect to the Render backend. First request may take ~30s while the server wakes up.
             </div>
 
             <div class="panel">
@@ -313,7 +313,7 @@
             </div>
 
             <div id="war-banner" class="api-banner" style="display:none">
-                ⚠️ War Room AI features require the Flask backend. Run <code>python app.py</code> or deploy to Render/Railway.
+                ⚠️ War Room connects to the Render backend. First request may take ~30s while the server wakes up.
             </div>
 
             <div class="filter-row">
@@ -356,7 +356,10 @@
 </div>
 
 <script>
-    const API_BASE = window.location.origin;
+    const BACKEND_URL = 'https://slang-dictionary-p04y.onrender.com';
+    const API_BASE = window.location.hostname.includes('github.io')
+        ? BACKEND_URL
+        : window.location.origin;
     let allRiskData = [];
     let currentRiskGroup = 'person';
     let allSlangData = [];
@@ -398,15 +401,22 @@
 
     async function checkBackend() {
         if (backendAvailable !== null) return backendAvailable;
-        try {
-            const res = await fetch(`${API_BASE}/api/models`, { signal: AbortSignal.timeout(3000) });
-            backendAvailable = res.ok;
-        } catch {
-            backendAvailable = false;
+        for (let attempt = 0; attempt < 3; attempt++) {
+            try {
+                const res = await fetch(`${API_BASE}/api/models`, { signal: AbortSignal.timeout(45000) });
+                if (res.ok) {
+                    backendAvailable = true;
+                    document.getElementById('ai-banner').style.display = 'none';
+                    document.getElementById('war-banner').style.display = 'none';
+                    return true;
+                }
+            } catch {}
+            if (attempt < 2) await new Promise(r => setTimeout(r, 5000));
         }
-        document.getElementById('ai-banner').style.display = backendAvailable ? 'none' : 'block';
-        document.getElementById('war-banner').style.display = backendAvailable ? 'none' : 'block';
-        return backendAvailable;
+        backendAvailable = false;
+        document.getElementById('ai-banner').style.display = 'block';
+        document.getElementById('war-banner').style.display = 'block';
+        return false;
     }
 
     function switchModule(name) {

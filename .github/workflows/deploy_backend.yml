@@ -1,0 +1,102 @@
+name: Verify Groq & Deploy Backend
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'app.py'
+      - 'modules/**'
+      - 'requirements.txt'
+      - 'Procfile'
+      - 'render.yaml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  verify-groq:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Verify Groq API key
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          python3 -c "
+          import os, requests
+          key = os.environ.get('GROQ_API_KEY', '')
+          assert key, 'GROQ_API_KEY secret is missing'
+          r = requests.post(
+              'https://api.groq.com/openai/v1/chat/completions',
+              headers={'Authorization': f'Bearer {key}', 'Content-Type': 'application/json'},
+              json={'model': 'llama-3.1-8b-instant', 'messages': [{'role': 'user', 'content': 'ping'}], 'max_tokens': 5},
+              timeout=30,
+          )
+          print(f'Groq API status: {r.status_code}')
+          assert r.status_code == 200, f'Groq API failed: {r.text}'
+          print('Groq API key verified successfully')
+          "
+
+  deploy-render:
+    needs: verify-groq
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync backend to Render-connected repo
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "GH_PAT not set — skipping slang_dictionary sync"
+            exit 0
+          fi
+
+          git config --global user.name "Deploy Bot"
+          git config --global user.email "bot@global-culture-risk.dev"
+
+          git clone "https://x-access-token:${GH_TOKEN}@github.com/Benjamin5607/slang_dictionary.git" /tmp/render-deploy
+          cd /tmp/render-deploy
+
+          cp "$GITHUB_WORKSPACE/app.py" .
+          cp "$GITHUB_WORKSPACE/requirements.txt" .
+          cp "$GITHUB_WORKSPACE/Procfile" .
+          rm -rf modules
+          cp -r "$GITHUB_WORKSPACE/modules" .
+
+          git add app.py requirements.txt Procfile modules/
+          git diff --staged --quiet || git commit -m "Sync unified backend from global_culture_risk_dashboard [auto]"
+          git push origin main
+          echo "Backend synced to slang_dictionary — Render will auto-deploy"
+
+      - name: Trigger Render deploy hook
+        env:
+          DEPLOY_HOOK: ${{ secrets.RENDER_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -n "$DEPLOY_HOOK" ]; then
+            curl -sf "$DEPLOY_HOOK"
+            echo "Render deploy triggered"
+          else
+            echo "RENDER_DEPLOY_HOOK_URL not set — Render will deploy via GitHub auto-deploy if connected"
+          fi
+
+      - name: Wake Render service
+        run: |
+          for i in 1 2 3 4 5; do
+            if curl -sf https://slang-dictionary-p04y.onrender.com/api/models; then
+              echo "Backend is live"
+              exit 0
+            fi
+            echo "Waiting for Render cold start ($i/5)..."
+            sleep 15
+          done
+          echo "Backend not yet responding — may need first deploy"

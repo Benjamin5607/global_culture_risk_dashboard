@@ -23,24 +23,30 @@ Country-aware slang analysis powered by Groq AI with multilingual UI (EN, KR, JP
 ### 4. Risk War Room
 Real-time strategic risk intelligence: Top 3 urgent signals, forensic incident analysis (STAR framework), and country dashboards.
 
-## Quick Start
+## Deployment
 
-### Static Dashboard (GitHub Pages)
-The dashboard is deployed automatically to GitHub Pages. Modules 1 and 2 work without a backend.
+| Component | URL | Status |
+|---|---|---|
+| Dashboard (GitHub Pages) | https://benjamin5607.github.io/global_culture_risk_dashboard/ | Auto-deploy on push |
+| API Backend (Render) | https://slang-dictionary-p04y.onrender.com | Groq-powered AI endpoints |
 
-### Full Platform (with AI features)
+The dashboard automatically connects to the Render backend for AI features (Slang Curator, Risk War Room).
+
+### Environment Variables (GitHub Secrets)
+
+| Secret | Used By |
+|---|---|
+| `GROQ_API_KEY` | brain.py, seed.py, Render backend, deploy workflow |
+| `GH_PAT` | Sync backend to Render-connected repo |
+| `RENDER_DEPLOY_HOOK_URL` | Optional manual Render deploy trigger |
+
+### Local Development
+
 ```bash
 pip install -r requirements.txt
 export GROQ_API_KEY=your_key_here
 python app.py
 ```
-Open http://localhost:8080 for all four modules including AI features.
-
-### Deploy Backend (Render / Railway)
-```bash
-gunicorn app:app --bind 0.0.0.0:$PORT
-```
-Set `GROQ_API_KEY` as an environment variable.
 
 ## Data Pipelines
 
