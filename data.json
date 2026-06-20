@@ -1,5 +1,21 @@
 [
     {
+        "term": "Goblin Mode",
+        "group": "Gen Z Slang",
+        "country": "USA",
+        "category": "Appearance",
+        "risk_level": "Low",
+        "trend_score": 8,
+        "status": "Verified",
+        "first_detected": "2022",
+        "last_updated": "2023-02-20",
+        "context": {
+            "en": "A mood or attitude where one prioritizes comfort and appearance over grooming and socialization.",
+            "ko": "어떤人的心态或态度,优先考虑舒适度而不是美观或社交",
+            "ja": "快くして自分らしくない服装や髪型、メイクをしており、あまり外出しようともしない態度"
+        }
+    },
+    {
         "term": "SavagesDance",
         "group": "Dance Craze",
         "country": "Global",
