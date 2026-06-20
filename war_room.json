@@ -2,7 +2,72 @@
     "updated": "2026-06-20",
     "scopes": {
         "Global (All)": [
-            {"title": "Scanning...", "risk_level": "Low", "summary": "Data will be updated by the next scheduled Groq scan."}
+            {
+                "title": "North Korea Test-Fires Missile Amid Tensions",
+                "risk_level": "High",
+                "summary": "North Korea launched an intercontinental ballistic missile (ICBM) on Friday, according to South Korea's military. The move comes as tensions between North Korea and the US remain high."
+            },
+            {
+                "title": "Ransomware Attack Disrupts US Fuel Supply",
+                "risk_level": "High",
+                "summary": "A recent ransomware attack has disrupted fuel supplies in the US, with several major oil refineries and pipelines affected. The attack is believed to be linked to a cybercrime group."
+            },
+            {
+                "title": "Protests Erupt in China Over COVID-19 Lockdowns",
+                "risk_level": "Medium",
+                "summary": "Protests have erupted in several cities in China over the country's strict COVID-19 lockdowns. The protests have been met with a heavy police presence and some reports of clashes between protesters and authorities."
+            }
+        ],
+        "United States": [
+            {
+                "title": "Supreme Court Leak Controversy Escalates",
+                "risk_level": "High",
+                "summary": "Tensions between the judiciary and the White House rise as the leaked draft of a potential abortion ruling sparks heated debates in the US."
+            },
+            {
+                "title": "Gun Rights Activists Protest in Washington D.C.",
+                "risk_level": "Medium",
+                "summary": " Thousands gather in the nation's capital to demonstrate against stricter gun control measures, amid ongoing debates on gun rights and legislation."
+            },
+            {
+                "title": "Biden Administration Faces Criticism Over Border Policy",
+                "risk_level": "Medium",
+                "summary": "The White House comes under scrutiny as reports emerge of overcrowding and poor conditions at migrant facilities, sparking concerns about the effectiveness of its border security policies."
+            }
+        ],
+        "South Korea": [
+            {
+                "title": "North Korea fires ballistic missile, South Korea scrambles jets in response",
+                "risk_level": "High",
+                "summary": "On 2023-12-08, North Korea fired a ballistic missile into the ocean, prompting South Korea to scramble its F-35 fighter jets in response."
+            },
+            {
+                "title": "South Korea and US conduct joint military drills amid North Korea tensions",
+                "risk_level": "High",
+                "summary": "On 2023-12-05, South Korea and the United States conducted joint military drills in response to North Korea's ongoing nuclear and missile tests, which heightened tensions in the region."
+            },
+            {
+                "title": "Thousands take to streets in South Korea's capital to protest economic inequality",
+                "risk_level": "Medium",
+                "summary": "On 2023-12-07, thousands of protesters gathered in central Seoul to express their discontent with the country's growing economic inequality and the government's policies, which they claim are exacerbating the issue."
+            }
+        ],
+        "Japan": [
+            {
+                "title": "North Korea launches multiple ballistic missiles: Japan PM Kishida urges calm",
+                "risk_level": "High",
+                "summary": "North Korea has launched multiple ballistic missiles, prompting warnings from Japan's government. Japanese Prime Minister Fumio Kishida has urged citizens to remain calm, but the launches have heightened tensions in the region."
+            },
+            {
+                "title": "Japan's PM Kishida calls for 'caution' over North Korea 'provocation'",
+                "risk_level": "High",
+                "summary": "Japanese Prime Minister Fumio Kishida has called for caution over North Korea's recent actions, which he described as a provocation. The comments come after North Korea launched multiple ballistic missiles."
+            },
+            {
+                "title": "Japanese PM Kishida to visit US in May, amid tensions with North Korea",
+                "risk_level": "Medium",
+                "summary": "Japanese Prime Minister Fumio Kishida is set to visit the United States in May, amid rising tensions with North Korea. The visit will focus on strengthening bilateral ties and addressing regional security concerns."
+            }
         ]
     }
 }
