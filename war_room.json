@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "North Korea Sanctions: Risk of Global Economic Consequences",
+                "title": "",
+                "risk_level": "Unknown",
+                "summary": ""
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Cybersecurity breaches at major corporations could have global implications"
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "The international community has imposed fresh sanctions on North Korea over its ballistic missile launches, which could exacerbate tensions with the West and hinder trade."
-            },
-            {
-                "title": "US-China Trade Tensions Intensify",
-                "risk_level": "Medium",
-                "summary": "US President Biden's visit to Asia has highlighted growing tensions with China, which may lead to trade restrictions and market instability."
-            },
-            {
-                "title": "Global Cybersecurity Threats on the Rise",
-                "risk_level": "Medium",
-                "summary": "Cyberattacks have increased in frequency and severity over the past week, posing a significant threat to businesses and governments worldwide."
+                "summary": "Ongoing conflict between rival nations escalates, with multiple fatalities reported"
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court overturns Roe v. Wade",
+                "title": "US-Russia Condemn Ukraine grain exports deal",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has overturned the landmark Roe v. Wade decision, allowing individual states to ban abortion."
+                "summary": "The deal allowing Ukraine to export grain through the Black Sea has been condemned by both US and Russia. This has raised concerns about global food security and the potential for further escalation in the conflict."
             },
             {
-                "title": "Texas synagogue hostage crisis",
+                "title": "US Supreme Court rules on major voting rights case",
                 "risk_level": "High",
-                "summary": "A gunman took four people hostage at a Texas synagogue, demanding the release of a convicted terrorist. The standoff ended with the hostage-taker's death."
+                "summary": "The US Supreme Court has ruled in a major voting rights case, with potential implications for election laws and access to the ballot across the country."
             },
             {
-                "title": "US Senate votes to avert rail strike",
+                "title": "US government shutdown averted, but debt ceiling looms",
                 "risk_level": "Medium",
-                "summary": "The US Senate voted to impose a cooling-off period on railroad workers, averting a potentially devastating strike."
+                "summary": "The US government has averted a shutdown, but the debt ceiling remains a pressing issue, with the potential for a default in the near future."
             }
         ],
         "South Korea": [
             {
-                "title": "N. Korea says it tested nuclear-capable cruise missiles",
+                "title": "South Korea's COVID-19 cases surge as omicron variant spreads",
                 "risk_level": "High",
-                "summary": "North Korea said it successfully tested nuclear-capable cruise missiles earlier this month, a move that could escalate regional tensions and raise concerns about its military capabilities."
+                "summary": "The South Korean government announced a tightened COVID-19 response plan on May 27, 2022, amid rising cases driven by omicron variants."
             },
             {
-                "title": "South Korea reports 6,000 new cases of COVID-19 as omicron spreads",
-                "risk_level": "Medium",
-                "summary": "South Korea reported nearly 6,000 new cases of COVID-19 on Wednesday, further fueling concerns about the spread of the highly infectious omicron variant."
+                "title": "Nord Stream 2 and South Korea tensions: US warns allies to watch China’s military expansion plans",
+                "risk_level": "High",
+                "summary": "Nord Stream 2, the European gas pipeline, has become a point of contention between South Korea and the United States in the context of growing relations with China."
             },
             {
-                "title": "Thousands of South Korean students protest for better working conditions",
-                "risk_level": "Medium",
-                "summary": "Thousands of university students in South Korea protested in the streets of Seoul this week, calling for better working conditions and labor protections."
+                "title": "China’s PLA warns South Korea against US-led Quad cooperation",
+                "risk_level": "High",
+                "summary": "Tensions between South Korea and China escalated as a warning from China’s PLA regarding US-led Quad cooperation came amidst a South Korean presidential election."
             }
         ],
         "Japan": [
             {
-                "title": "LDP's Kishida wins Japan's election, sets sights on economic reform and national security",
-                "risk_level": "High",
-                "summary": "Fumio Kishida won Japan's general election, securing a parliamentary majority for his Liberal Democratic Party (LDP) but falling short of the supermajority needed to push through contentious legislation such as constitutional reform."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Japanese opposition parties unite to challenge LDP's bid for re-run election",
-                "risk_level": "Medium",
-                "summary": "Japan's main opposition parties agreed to form a united front to challenge the Liberal Democratic Party (LDP)'s bid for a re-run election in 2025."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Japan to hold 2024 election despite Kishida's warning of 'instability'",
-                "risk_level": "High",
-                "summary": "Prime Minister Fumio Kishida's Liberal Democratic Party (LDP) is set to hold the election in July 2024, despite a warning from the PM of possible \"instability\" resulting from the polls."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
