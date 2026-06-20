@@ -712,32 +712,40 @@
         const grid = document.getElementById('top-risks-grid');
         grid.innerHTML = '<div class="loading-text"><span class="spinner">📡</span> Scanning...</div>';
 
+        let events = [];
         try {
             const res = await fetch(`${API_BASE}/api/risk/top3?scope=${encodeURIComponent(scope)}`);
-            if (!res.ok) throw new Error('Server unavailable');
-            const json = await res.json();
-            const events = json.events || [];
-
-            grid.innerHTML = '';
-            if (events.length === 0) {
-                grid.innerHTML = '<div class="loading-text">No events found.</div>';
-                return;
+            if (res.ok) {
+                const json = await res.json();
+                events = json.events || [];
             }
+        } catch {}
 
-            events.slice(0, 3).forEach(event => {
-                const level = (event.risk_level || 'Low').toLowerCase();
-                const riskClass = level.includes('high') ? 'risk-high' : (level.includes('medium') ? 'risk-medium' : 'risk-low');
-                const card = document.createElement('div');
-                card.className = 'card';
-                card.innerHTML = `
-                    <span class="badge ${riskClass}">${escapeHtml(event.risk_level || 'Unknown')}</span>
-                    <div class="card-title">${escapeHtml(event.title || '')}</div>
-                    <div class="card-summary">${escapeHtml(event.summary || '')}</div>`;
-                grid.appendChild(card);
-            });
-        } catch (e) {
-            grid.innerHTML = '<div class="loading-text">Failed to scan. Start backend with `python app.py`.</div>';
+        if (events.length === 0) {
+            try {
+                const staticRes = await fetch('war_room.json?v=' + Date.now());
+                const staticData = await staticRes.json();
+                events = (staticData.scopes && staticData.scopes[scope]) || [];
+            } catch {}
         }
+
+        grid.innerHTML = '';
+        if (events.length === 0) {
+            grid.innerHTML = '<div class="loading-text">No events found. Data updates every 4 hours via Groq AI.</div>';
+            return;
+        }
+
+        events.slice(0, 3).forEach(event => {
+            const level = (event.risk_level || 'Low').toLowerCase();
+            const riskClass = level.includes('high') ? 'risk-high' : (level.includes('medium') ? 'risk-medium' : 'risk-low');
+            const card = document.createElement('div');
+            card.className = 'card';
+            card.innerHTML = `
+                <span class="badge ${riskClass}">${escapeHtml(event.risk_level || 'Unknown')}</span>
+                <div class="card-title">${escapeHtml(event.title || '')}</div>
+                <div class="card-summary">${escapeHtml(event.summary || '')}</div>`;
+            grid.appendChild(card);
+        });
     }
 
     async function runForensicAnalysis() {

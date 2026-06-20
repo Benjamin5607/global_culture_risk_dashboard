@@ -48,7 +48,7 @@ jobs:
 
       - name: 6. 데이터 저장 및 업로드
         run: |
-          git add data.json
+          git add data.json war_room.json
           git commit -m "Auto Update: New Risk Data" || echo "No changes to commit"
           git push origin main
 
