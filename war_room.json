@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Ukraine conflict continues, potential for increased instability in Eastern Europe",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Ongoing fighting in eastern Ukraine poses a significant risk of instability in the region, which could have broader implications for global security and geopolitics."
+                "summary": "Conflict escalates in eastern Ukraine as Russian shelling kills civilians and damages infrastructure | Source: Ukraine news 1"
             },
             {
-                "title": "Rising inflation poses risks to global economic stability",
-                "risk_level": "Medium",
-                "summary": "Rising inflation worldwide could lead to decreased consumer spending, increased borrowing costs, and a potential economic slowdown."
+                "title": "",
+                "risk_level": "High",
+                "summary": "Protesters in Iran clash with security forces over rising prices and economic hardship | Source: Iran protests"
             },
             {
-                "title": "Global healthcare system under strain due to COVID-19 variants",
-                "risk_level": "Medium",
-                "summary": "The emergence of new COVID-19 variants continues to put pressure on global healthcare systems, particularly in countries with under-equipped healthcare infrastructure."
+                "title": "",
+                "risk_level": "High",
+                "summary": "Tensions between India and Pakistan rise as Pakistan test fires a ballistic missile | Source: Pakistan-India relations"
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Upholds Abortion Rights in Historic Ruling",
-                "risk_level": "High",
-                "summary": "US Supreme Court rules in favor of Roe v. Wade, upholding abortion rights in a historic 6-3 decision. The ruling is a significant victory for reproductive rights activists and a blow to anti-abortion groups."
-            },
-            {
-                "title": "Biden Administration Announces Plan to Reduce Gun Violence",
+                "title": "Tensions rise between US and Iran over recent protests.",
                 "risk_level": "Medium",
-                "summary": "The Biden administration unveils a comprehensive plan to reduce gun violence in the US, including executive actions and legislative proposals. The plan aims to address the root causes of gun violence and prevent future tragedies."
+                "summary": "Protests in Iran have led to an escalation of tensions between the US and Iran, posing a threat to regional stability."
             },
             {
-                "title": "Twitter CEO Elon Musk Announces New Content Moderation Policy",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "Elon Musk announces a new content moderation policy for Twitter, which aims to balance free speech with the need to protect users from harm. The policy is seen as a move to reduce censorship and increase transparency."
+                "summary": "The US Supreme Court ruled in a case related to campaign finance laws, sparking controversy."
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "A ransomware attack hit a major US healthcare system, compromising patient data."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea reports 13,000+ cyber attacks in past 7 days",
+                "title": "North Korea Launches Missile Over Japan",
                 "risk_level": "High",
-                "summary": "South Korea has reported over 13,000 cyber attacks in the past 7 days, with most of them targeting government institutions and critical infrastructure."
+                "summary": "North Korea has launched a missile over Japan, heightening tensions in the region. South Korea has vowed to strengthen its military presence in response."
             },
             {
-                "title": "Protests erupt in Seoul over military conscription policy",
+                "title": "South Korean President's approval ratings hit new low",
+                "risk_level": "Low",
+                "summary": "South Korean President Yoon Suk-yeol's approval ratings have hit a new low due to criticism over his handling of the economy and other issues."
+            },
+            {
+                "title": "Thousands protest in South Korea over planned military reform",
                 "risk_level": "Medium",
-                "summary": "Thousands of protesters gathered in Seoul to demonstrate against the government's military conscription policy, leading to clashes with police."
-            },
-            {
-                "title": "Tensions rise between North and South Korea over maritime border",
-                "risk_level": "High",
-                "summary": "The International Maritime Bureau (IMB) has reported an increase in tensions between North and South Korea over the disputed maritime border, with both sides trading accusations of aggression."
+                "summary": "Thousands of protesters have taken to the streets in South Korea to express their opposition to a planned military reform. The reform aims to merge the country's air and ground forces, but critics argue it will make the military weaker."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea accuses Japan of 'reckless' remarks over ballistic missiles ",
-                "risk_level": "Medium",
-                "summary": "The Japanese government expressed 'grave concerns' over a missile launch by North Korea that put the southern island of Kyushu at risk."
-            },
-            {
-                "title": "Protests against military exercises in Okinawa's Henoko district grow ",
-                "risk_level": "Low",
-                "summary": "Protesters in Okinawa, Japan, are opposing planned military exercises in the Henoko district, with concerns about noise and disruption."
-            },
-            {
-                "title": "Japan's opposition party demands resignation of justice minister over pension scandal ",
+                "title": "Protests against nuclear power in Japan escalate",
                 "risk_level": "High",
-                "summary": "Japan's opposition party is demanding the resignation of the justice minister due to a pension scandal, which has caused public outcry."
+                "summary": "Protests have been ongoing in Japan against the country's nuclear power plants, with demonstrators calling for the shutdown of the plants. The situation has escalated in recent days, with some protesters blocking access to the plants. This has raised concerns about the potential for violence and disruption to the country's energy supply."
+            },
+            {
+                "title": "Japan's cabinet approves bill to boost national security",
+                "risk_level": "Medium",
+                "summary": "Japan's cabinet has approved a bill aimed at boosting the country's national security. The bill includes measures to increase military spending and enhance cybersecurity. While the bill is seen as a positive step, some critics have expressed concerns about its potential impact on civil liberties."
+            },
+            {
+                "title": "Demonstrations against Japan's LGBTQ+ laws continue",
+                "risk_level": "Low",
+                "summary": "Demonstrations have been taking place in Japan against the country's laws restricting LGBTQ+ rights. While the protests have been largely peaceful, they have raised concerns about the treatment of LGBTQ+ individuals in Japan."
             }
         ]
     }
