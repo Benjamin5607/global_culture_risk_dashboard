@@ -3,69 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Taiwan Warns Of Chinese Military Activities",
-                "risk_level": "High",
-                "summary": "Taiwan's defense ministry has warned of a significant increase in Chinese military activities near the country's borders, sparking concerns over a potential invasion."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "China expresses concern over Taiwan\\u2019s participation in US-led summit"
             },
             {
-                "title": "G7 Nations Impose New Russia Sanctions Over Ukraine",
+                "title": "",
                 "risk_level": "High",
-                "summary": "G7 nations have imposed new sanctions on Russia over its ongoing invasion of Ukraine, targeting key sectors and individuals involved in the conflict."
+                "summary": "Russia\\u2019s Gazprom confirms cuts in gas deliveries to Europe"
             },
             {
-                "title": "US-China Tensions Escalate Over Taiwan",
-                "risk_level": "High",
-                "summary": "US-China tensions have escalated over Taiwan, with Beijing warning Washington against meddling in its internal affairs and the US reaffirming its commitment to the island's democratic government."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Taliban ban on girls\\u2019 education sparks international criticism, protests"
             }
         ],
         "United States": [
             {
-                "title": "Rising Tensions Between US and China Over Taiwan",
+                "title": "US Federal Reserve Hikes Interest Rates Amid Inflation Concerns",
                 "risk_level": "High",
-                "summary": "There has been a rise in tensions between the US and China over Taiwan, with the US sending a high-level delegation to the island and China responding with military drills."
+                "summary": "The US Federal Reserve raised interest rates by 0.75% in an effort to combat inflation, sparking concerns about the impact on the economy."
             },
             {
-                "title": "Protests Against Anti-Abortion Law in the US",
-                "risk_level": "High",
-                "summary": "Protests have broken out across the US against a new anti-abortion law, with many calling for the law to be overturned and others rallying in support of it."
+                "title": "Gun Violence Escalates in US with Multiple Shootings",
+                "risk_level": "Medium",
+                "summary": "A series of shootings across the US has left several dead and injured, highlighting the ongoing issue of gun violence and its impact on society."
             },
             {
-                "title": "Ransomware Attack Hits Major US Healthcare Provider",
+                "title": "US Supreme Court Ruling on Abortion Sparks Protests",
                 "risk_level": "High",
-                "summary": "A major US healthcare provider has fallen victim to a ransomware attack, with hackers demanding payment in exchange for restoring access to patient data."
+                "summary": "The US Supreme Court's decision to overturn Roe v. Wade has sparked widespread protests and concerns about the erosion of reproductive rights."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea warns of \"deadly consequences\" if it feels threatened",
+                "title": "North Korea Fires Cruise Missiles into Sea Off Eastern Coast",
                 "risk_level": "High",
-                "summary": "South Korea's President Yoon Suk-yeol met with US Defence Secretary Lloyd Austin on Sunday to discuss North Korea's nuclear programme, prompting Pyongyang to issue a stern warning."
+                "summary": "North Korea test-fired cruise missiles into the sea off its eastern coast, a move seen as a challenge to South Korea's new government and a potential provocation to the US."
             },
             {
-                "title": "South Korea's president calls for more efforts to end wartime comfort women dispute with Japan",
+                "title": "South Korean Unions Call for General Strike Ahead of Government Economic Reforms",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol called for more efforts to end the long-standing dispute over wartime comfort women between South Korea and Japan."
+                "summary": "South Korean labor unions have called for a general strike against the government's economic reforms, which they claim will exacerbate income inequality and hurt workers' livelihoods."
             },
             {
-                "title": "South Korean President Yoon says North Korea's missile test is a clear violation of UN resolutions",
-                "risk_level": "Low"
+                "title": "South Korean President Yoon Suk-yeol Warns North Korea Could Cause a 'Catastrophic War'",
+                "risk_level": "High",
+                "summary": "South Korea's President Yoon Suk-yeol has warned that North Korea's nuclear threats could lead to a 'catastrophic war' that could spread globally."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Defense Minister Resigns Amid Scandal",
+                "title": "Protests against planned nuclear facilities in Japan",
                 "risk_level": "High",
-                "summary": "Japan's defense minister has resigned amid a scandal involving the handling of classified documents. The resignation is seen as a significant development, as it comes during a time of heightened tensions in the region."
+                "summary": "Residents in the city of Omaezaki were protesting against the planned construction of new nuclear facilities, citing concerns about safety and environmental impact. The protests have been ongoing for several days and have received significant media attention. Japan's nuclear industry has faced intense scrutiny since the 2011 Fukushima Daiichi nuclear disaster, and any new developments are likely to be met with resistance."
             },
             {
-                "title": "Rising Tensions Between Japan and South Korea Over Historical Issues",
-                "risk_level": "High",
-                "summary": "Tensions have been rising between Japan and South Korea over historical issues, including a dispute over the treatment of Korean workers during World War II. The issue is seen as a major concern, as it could have a significant impact on regional stability."
-            },
-            {
-                "title": "Japan Faces Growing Concerns Over Cybersecurity Threats",
+                "title": "Japan's inflation rate reaches 8-year high",
                 "risk_level": "Medium",
-                "summary": "Japan is facing growing concerns over cybersecurity threats, as the country has seen a significant increase in hacking incidents in recent days. The government is urging citizens to take precautions to protect themselves against these threats."
+                "summary": "Japan's inflation rate has surged to an 8-year high, with prices rising 3.8% year-over-year in May. The inflation rate has been driven by increasing costs for food, housing, and transportation. This has led to concerns about the impact on consumers and the broader economy, with some economists warning of a potential 'death spiral' of rising prices and stagnant wages."
+            },
+            {
+                "title": "Former Japanese diplomat arrested on terrorism charges",
+                "risk_level": "Low",
+                "summary": "A former Japanese diplomat was arrested in Tokyo on charges of providing funds to a terrorist organization. The diplomat, who was stationed in the Middle East, is accused of transferring money to a group linked to extremism. The arrest has sparked concerns about the potential for terrorism financing and the need for increased security measures."
             }
         ]
     }
