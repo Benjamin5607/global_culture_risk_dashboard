@@ -1,72 +1,71 @@
 {
-    "updated": "2026-06-20",
+    "updated": "2026-06-21",
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "Unknown",
-                "summary": ""
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Cybersecurity breaches at major corporations could have global implications"
-            },
-            {
-                "title": "",
+                "title": "Taiwan Warns Of Chinese Military Activities",
                 "risk_level": "High",
-                "summary": "Ongoing conflict between rival nations escalates, with multiple fatalities reported"
+                "summary": "Taiwan's defense ministry has warned of a significant increase in Chinese military activities near the country's borders, sparking concerns over a potential invasion."
+            },
+            {
+                "title": "G7 Nations Impose New Russia Sanctions Over Ukraine",
+                "risk_level": "High",
+                "summary": "G7 nations have imposed new sanctions on Russia over its ongoing invasion of Ukraine, targeting key sectors and individuals involved in the conflict."
+            },
+            {
+                "title": "US-China Tensions Escalate Over Taiwan",
+                "risk_level": "High",
+                "summary": "US-China tensions have escalated over Taiwan, with Beijing warning Washington against meddling in its internal affairs and the US reaffirming its commitment to the island's democratic government."
             }
         ],
         "United States": [
             {
-                "title": "US-Russia Condemn Ukraine grain exports deal",
+                "title": "Rising Tensions Between US and China Over Taiwan",
                 "risk_level": "High",
-                "summary": "The deal allowing Ukraine to export grain through the Black Sea has been condemned by both US and Russia. This has raised concerns about global food security and the potential for further escalation in the conflict."
+                "summary": "There has been a rise in tensions between the US and China over Taiwan, with the US sending a high-level delegation to the island and China responding with military drills."
             },
             {
-                "title": "US Supreme Court rules on major voting rights case",
+                "title": "Protests Against Anti-Abortion Law in the US",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has ruled in a major voting rights case, with potential implications for election laws and access to the ballot across the country."
+                "summary": "Protests have broken out across the US against a new anti-abortion law, with many calling for the law to be overturned and others rallying in support of it."
             },
             {
-                "title": "US government shutdown averted, but debt ceiling looms",
-                "risk_level": "Medium",
-                "summary": "The US government has averted a shutdown, but the debt ceiling remains a pressing issue, with the potential for a default in the near future."
+                "title": "Ransomware Attack Hits Major US Healthcare Provider",
+                "risk_level": "High",
+                "summary": "A major US healthcare provider has fallen victim to a ransomware attack, with hackers demanding payment in exchange for restoring access to patient data."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea's COVID-19 cases surge as omicron variant spreads",
+                "title": "North Korea warns of \"deadly consequences\" if it feels threatened",
                 "risk_level": "High",
-                "summary": "The South Korean government announced a tightened COVID-19 response plan on May 27, 2022, amid rising cases driven by omicron variants."
+                "summary": "South Korea's President Yoon Suk-yeol met with US Defence Secretary Lloyd Austin on Sunday to discuss North Korea's nuclear programme, prompting Pyongyang to issue a stern warning."
             },
             {
-                "title": "Nord Stream 2 and South Korea tensions: US warns allies to watch China’s military expansion plans",
-                "risk_level": "High",
-                "summary": "Nord Stream 2, the European gas pipeline, has become a point of contention between South Korea and the United States in the context of growing relations with China."
+                "title": "South Korea's president calls for more efforts to end wartime comfort women dispute with Japan",
+                "risk_level": "Medium",
+                "summary": "South Korean President Yoon Suk-yeol called for more efforts to end the long-standing dispute over wartime comfort women between South Korea and Japan."
             },
             {
-                "title": "China’s PLA warns South Korea against US-led Quad cooperation",
-                "risk_level": "High",
-                "summary": "Tensions between South Korea and China escalated as a warning from China’s PLA regarding US-led Quad cooperation came amidst a South Korean presidential election."
+                "title": "South Korean President Yoon says North Korea's missile test is a clear violation of UN resolutions",
+                "risk_level": "Low"
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Japan's Defense Minister Resigns Amid Scandal",
+                "risk_level": "High",
+                "summary": "Japan's defense minister has resigned amid a scandal involving the handling of classified documents. The resignation is seen as a significant development, as it comes during a time of heightened tensions in the region."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Rising Tensions Between Japan and South Korea Over Historical Issues",
+                "risk_level": "High",
+                "summary": "Tensions have been rising between Japan and South Korea over historical issues, including a dispute over the treatment of Korean workers during World War II. The issue is seen as a major concern, as it could have a significant impact on regional stability."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Japan Faces Growing Concerns Over Cybersecurity Threats",
+                "risk_level": "Medium",
+                "summary": "Japan is facing growing concerns over cybersecurity threats, as the country has seen a significant increase in hacking incidents in recent days. The government is urging citizens to take precautions to protect themselves against these threats."
             }
         ]
     }
