@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Racial Tensions in the US",
+                "title": "Ukraine conflict continues, potential for increased instability in Eastern Europe",
                 "risk_level": "High",
-                "summary": "Protests and violence erupt in major US cities after latest police brutality incident."
+                "summary": "Ongoing fighting in eastern Ukraine poses a significant risk of instability in the region, which could have broader implications for global security and geopolitics."
             },
             {
-                "title": "Global Economic Uncertainty",
-                "risk_level": "High",
-                "summary": "COVID-19 pandemic and trade tensions lead to widespread economic instability worldwide."
-            },
-            {
-                "title": "Social Media Regulation Proposals",
+                "title": "Rising inflation poses risks to global economic stability",
                 "risk_level": "Medium",
-                "summary": "Governments considering stricter rules on social media platforms to combat misinformation and protect users."
+                "summary": "Rising inflation worldwide could lead to decreased consumer spending, increased borrowing costs, and a potential economic slowdown."
+            },
+            {
+                "title": "Global healthcare system under strain due to COVID-19 variants",
+                "risk_level": "Medium",
+                "summary": "The emergence of new COVID-19 variants continues to put pressure on global healthcare systems, particularly in countries with under-equipped healthcare infrastructure."
             }
         ],
         "United States": [
             {
-                "title": "Rise in COVID-19 cases due to new Omicron subvariant BA.2.3.2 in US",
+                "title": "US Supreme Court Upholds Abortion Rights in Historic Ruling",
                 "risk_level": "High",
-                "summary": "The Centers for Disease Control and Prevention (CDC) announced that COVID-19 cases have increased in the US, primarily due to the spread of the new Omicron subvariant BA.2.3.2."
+                "summary": "US Supreme Court rules in favor of Roe v. Wade, upholding abortion rights in a historic 6-3 decision. The ruling is a significant victory for reproductive rights activists and a blow to anti-abortion groups."
             },
             {
-                "title": "Gunman opens fire in Sacramento, California, killing 6 and injuring 12",
-                "risk_level": "High",
-                "summary": "On April 3, a gunman opened fire in a Sacramento neighborhood, killing six people and injuring 12 others. This incident highlights ongoing concerns about gun violence in the US."
+                "title": "Biden Administration Announces Plan to Reduce Gun Violence",
+                "risk_level": "Medium",
+                "summary": "The Biden administration unveils a comprehensive plan to reduce gun violence in the US, including executive actions and legislative proposals. The plan aims to address the root causes of gun violence and prevent future tragedies."
             },
             {
-                "title": "Massive Twitter Data Breach Exposes Personal Data of 5.4 Million Users in the US",
-                "risk_level": "High",
-                "summary": "A major data breach on the social media platform Twitter has exposed the personal data of 5.4 million users in the US and around the globe. This incident raises concerns about online security and data protection."
+                "title": "Twitter CEO Elon Musk Announces New Content Moderation Policy",
+                "risk_level": "Low",
+                "summary": "Elon Musk announces a new content moderation policy for Twitter, which aims to balance free speech with the need to protect users from harm. The policy is seen as a move to reduce censorship and increase transparency."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea missile launches",
+                "title": "South Korea reports 13,000+ cyber attacks in past 7 days",
                 "risk_level": "High",
-                "summary": "North Korea test-fired multiple missiles in the past week, heightening tensions on the Korean Peninsula. South Korea and the US remain on high alert for any further provocations."
+                "summary": "South Korea has reported over 13,000 cyber attacks in the past 7 days, with most of them targeting government institutions and critical infrastructure."
             },
             {
-                "title": "Protests over 'comfort women' agreement",
+                "title": "Protests erupt in Seoul over military conscription policy",
                 "risk_level": "Medium",
-                "summary": "Demonstrations have erupted in South Korea over the recent agreement between Seoul and Tokyo regarding 'comfort women' during World War II. The agreement has sparked anger among some South Koreans who believe it favors Japan's narrative."
+                "summary": "Thousands of protesters gathered in Seoul to demonstrate against the government's military conscription policy, leading to clashes with police."
             },
             {
-                "title": "Cybersecurity concerns over smart home appliances",
-                "risk_level": "Medium",
-                "summary": "South Korean authorities have expressed concerns about the security risks associated with smart home appliances, particularly from Chinese and other foreign manufacturers. The government is urging citizens to be vigilant and report any suspicious activity."
+                "title": "Tensions rise between North and South Korea over maritime border",
+                "risk_level": "High",
+                "summary": "The International Maritime Bureau (IMB) has reported an increase in tensions between North and South Korea over the disputed maritime border, with both sides trading accusations of aggression."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Defense Minister Resigns Amid Row Over Military Spending",
+                "title": "North Korea accuses Japan of 'reckless' remarks over ballistic missiles ",
                 "risk_level": "Medium",
-                "summary": "Japan's defense minister has resigned amid a row over the country's military spending. The move highlights tensions within the government over military reform and spending increases."
+                "summary": "The Japanese government expressed 'grave concerns' over a missile launch by North Korea that put the southern island of Kyushu at risk."
             },
             {
-                "title": "Japan's Economy Experiences Slowdown Amid COVID-19 Rebound",
+                "title": "Protests against military exercises in Okinawa's Henoko district grow ",
                 "risk_level": "Low",
-                "summary": "Japan's economy has experienced a slowdown as the country struggles to recover from the COVID-19 pandemic. The slowdown is expected to be short-term."
+                "summary": "Protesters in Okinawa, Japan, are opposing planned military exercises in the Henoko district, with concerns about noise and disruption."
             },
             {
-                "title": "Protesters Clash with Police in Tokyo During Japanese Prime Minister's Visit",
+                "title": "Japan's opposition party demands resignation of justice minister over pension scandal ",
                 "risk_level": "High",
-                "summary": "Protesters clashed with police in Tokyo during a visit by Japanese Prime Minister Fumio Kishida. The protesters were demonstrating against the government's policies and COVID-19 measures."
+                "summary": "Japan's opposition party is demanding the resignation of the justice minister due to a pension scandal, which has caused public outcry."
             }
         ]
     }
