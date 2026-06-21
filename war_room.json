@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "China expresses concern over Taiwan\\u2019s participation in US-led summit"
-            },
-            {
-                "title": "",
+                "title": "Racial Tensions in the US",
                 "risk_level": "High",
-                "summary": "Russia\\u2019s Gazprom confirms cuts in gas deliveries to Europe"
+                "summary": "Protests and violence erupt in major US cities after latest police brutality incident."
             },
             {
-                "title": "",
+                "title": "Global Economic Uncertainty",
+                "risk_level": "High",
+                "summary": "COVID-19 pandemic and trade tensions lead to widespread economic instability worldwide."
+            },
+            {
+                "title": "Social Media Regulation Proposals",
                 "risk_level": "Medium",
-                "summary": "Taliban ban on girls\\u2019 education sparks international criticism, protests"
+                "summary": "Governments considering stricter rules on social media platforms to combat misinformation and protect users."
             }
         ],
         "United States": [
             {
-                "title": "US Federal Reserve Hikes Interest Rates Amid Inflation Concerns",
+                "title": "Rise in COVID-19 cases due to new Omicron subvariant BA.2.3.2 in US",
                 "risk_level": "High",
-                "summary": "The US Federal Reserve raised interest rates by 0.75% in an effort to combat inflation, sparking concerns about the impact on the economy."
+                "summary": "The Centers for Disease Control and Prevention (CDC) announced that COVID-19 cases have increased in the US, primarily due to the spread of the new Omicron subvariant BA.2.3.2."
             },
             {
-                "title": "Gun Violence Escalates in US with Multiple Shootings",
-                "risk_level": "Medium",
-                "summary": "A series of shootings across the US has left several dead and injured, highlighting the ongoing issue of gun violence and its impact on society."
+                "title": "Gunman opens fire in Sacramento, California, killing 6 and injuring 12",
+                "risk_level": "High",
+                "summary": "On April 3, a gunman opened fire in a Sacramento neighborhood, killing six people and injuring 12 others. This incident highlights ongoing concerns about gun violence in the US."
             },
             {
-                "title": "US Supreme Court Ruling on Abortion Sparks Protests",
+                "title": "Massive Twitter Data Breach Exposes Personal Data of 5.4 Million Users in the US",
                 "risk_level": "High",
-                "summary": "The US Supreme Court's decision to overturn Roe v. Wade has sparked widespread protests and concerns about the erosion of reproductive rights."
+                "summary": "A major data breach on the social media platform Twitter has exposed the personal data of 5.4 million users in the US and around the globe. This incident raises concerns about online security and data protection."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Fires Cruise Missiles into Sea Off Eastern Coast",
+                "title": "North Korea missile launches",
                 "risk_level": "High",
-                "summary": "North Korea test-fired cruise missiles into the sea off its eastern coast, a move seen as a challenge to South Korea's new government and a potential provocation to the US."
+                "summary": "North Korea test-fired multiple missiles in the past week, heightening tensions on the Korean Peninsula. South Korea and the US remain on high alert for any further provocations."
             },
             {
-                "title": "South Korean Unions Call for General Strike Ahead of Government Economic Reforms",
+                "title": "Protests over 'comfort women' agreement",
                 "risk_level": "Medium",
-                "summary": "South Korean labor unions have called for a general strike against the government's economic reforms, which they claim will exacerbate income inequality and hurt workers' livelihoods."
+                "summary": "Demonstrations have erupted in South Korea over the recent agreement between Seoul and Tokyo regarding 'comfort women' during World War II. The agreement has sparked anger among some South Koreans who believe it favors Japan's narrative."
             },
             {
-                "title": "South Korean President Yoon Suk-yeol Warns North Korea Could Cause a 'Catastrophic War'",
-                "risk_level": "High",
-                "summary": "South Korea's President Yoon Suk-yeol has warned that North Korea's nuclear threats could lead to a 'catastrophic war' that could spread globally."
+                "title": "Cybersecurity concerns over smart home appliances",
+                "risk_level": "Medium",
+                "summary": "South Korean authorities have expressed concerns about the security risks associated with smart home appliances, particularly from Chinese and other foreign manufacturers. The government is urging citizens to be vigilant and report any suspicious activity."
             }
         ],
         "Japan": [
             {
-                "title": "Protests against planned nuclear facilities in Japan",
-                "risk_level": "High",
-                "summary": "Residents in the city of Omaezaki were protesting against the planned construction of new nuclear facilities, citing concerns about safety and environmental impact. The protests have been ongoing for several days and have received significant media attention. Japan's nuclear industry has faced intense scrutiny since the 2011 Fukushima Daiichi nuclear disaster, and any new developments are likely to be met with resistance."
-            },
-            {
-                "title": "Japan's inflation rate reaches 8-year high",
+                "title": "Japan's Defense Minister Resigns Amid Row Over Military Spending",
                 "risk_level": "Medium",
-                "summary": "Japan's inflation rate has surged to an 8-year high, with prices rising 3.8% year-over-year in May. The inflation rate has been driven by increasing costs for food, housing, and transportation. This has led to concerns about the impact on consumers and the broader economy, with some economists warning of a potential 'death spiral' of rising prices and stagnant wages."
+                "summary": "Japan's defense minister has resigned amid a row over the country's military spending. The move highlights tensions within the government over military reform and spending increases."
             },
             {
-                "title": "Former Japanese diplomat arrested on terrorism charges",
+                "title": "Japan's Economy Experiences Slowdown Amid COVID-19 Rebound",
                 "risk_level": "Low",
-                "summary": "A former Japanese diplomat was arrested in Tokyo on charges of providing funds to a terrorist organization. The diplomat, who was stationed in the Middle East, is accused of transferring money to a group linked to extremism. The arrest has sparked concerns about the potential for terrorism financing and the need for increased security measures."
+                "summary": "Japan's economy has experienced a slowdown as the country struggles to recover from the COVID-19 pandemic. The slowdown is expected to be short-term."
+            },
+            {
+                "title": "Protesters Clash with Police in Tokyo During Japanese Prime Minister's Visit",
+                "risk_level": "High",
+                "summary": "Protesters clashed with police in Tokyo during a visit by Japanese Prime Minister Fumio Kishida. The protesters were demonstrating against the government's policies and COVID-19 measures."
             }
         ]
     }
