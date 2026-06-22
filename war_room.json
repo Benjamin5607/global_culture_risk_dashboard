@@ -1,72 +1,72 @@
 {
-    "updated": "2026-06-21",
+    "updated": "2026-06-22",
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Global economic instability due to rising tensions between major world powers",
                 "risk_level": "High",
-                "summary": "Conflict escalates in eastern Ukraine as Russian shelling kills civilians and damages infrastructure | Source: Ukraine news 1"
+                "summary": "Major world powers are increasingly at odds, leading to economic instability and potential trade wars which may impact global economic stability."
             },
             {
-                "title": "",
+                "title": "Surge in cyber attacks on critical infrastructure",
                 "risk_level": "High",
-                "summary": "Protesters in Iran clash with security forces over rising prices and economic hardship | Source: Iran protests"
+                "summary": "A recent uptick in cyber attacks on critical infrastructure has raised concerns about the vulnerability of key systems to hacking and data breaches."
             },
             {
-                "title": "",
-                "risk_level": "High",
-                "summary": "Tensions between India and Pakistan rise as Pakistan test fires a ballistic missile | Source: Pakistan-India relations"
+                "title": "Rise in social unrest due to widening income inequality",
+                "risk_level": "Medium",
+                "summary": "As the wealth gap continues to grow, social unrest has begun to rise, with protests and demonstrations becoming more frequent and intense."
             }
         ],
         "United States": [
             {
-                "title": "Tensions rise between US and Iran over recent protests.",
-                "risk_level": "Medium",
-                "summary": "Protests in Iran have led to an escalation of tensions between the US and Iran, posing a threat to regional stability."
-            },
-            {
-                "title": "",
+                "title": "US Supreme Court Upholds Right to Same-Sex Marriage in Florida",
                 "risk_level": "Low",
-                "summary": "The US Supreme Court ruled in a case related to campaign finance laws, sparking controversy."
+                "summary": "Florida voters overwhelmingly passed a ballot measure in 2008 to ban same-sex marriage, but today, the US Supreme Court ruled that it was unconstitutional to ban same-sex marriage in the state. This decision is a significant victory for the LGBTQ+ community."
             },
             {
-                "title": "",
+                "title": "US Inflation Rate Hits 40-Year High, Raising Concerns About Economy",
                 "risk_level": "High",
-                "summary": "A ransomware attack hit a major US healthcare system, compromising patient data."
+                "summary": "The US inflation rate has reached a 40-year high, with the Labor Department's Consumer Price Index (CPI) increasing by 9.1% in May from a year earlier. This surge in inflation is raising concerns about the health of the US economy and the potential for a recession."
+            },
+            {
+                "title": "US Senate Passes Bill to Strengthen Cybersecurity",
+                "risk_level": "Medium",
+                "summary": "The US Senate has passed a bill to strengthen cybersecurity, which would provide funding for a range of initiatives, including the development of new cybersecurity technologies and the training of cybersecurity professionals. The bill now goes to the House of Representatives for consideration."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Launches Missile Over Japan",
+                "title": "",
                 "risk_level": "High",
-                "summary": "North Korea has launched a missile over Japan, heightening tensions in the region. South Korea has vowed to strengthen its military presence in response."
+                "summary": "South Korea reports record COVID-19 cases amid rising Omicron variant concerns, prompting calls for tightened social distancing measures to prevent hospital overload, but with some concerns about the impact on the economy. "
             },
             {
-                "title": "South Korean President's approval ratings hit new low",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "South Korean President Yoon Suk-yeol's approval ratings have hit a new low due to criticism over his handling of the economy and other issues."
+                "summary": "US imposes travel ban to and from South Korea due to COVID-19, citing public health concerns as a result of a surge in cases there, though the decision has sparked concerns that it could be interpreted as an overreaction. "
             },
             {
-                "title": "Thousands protest in South Korea over planned military reform",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Thousands of protesters have taken to the streets in South Korea to express their opposition to a planned military reform. The reform aims to merge the country's air and ground forces, but critics argue it will make the military weaker."
+                "summary": "South Korean prosecutors issue arrest warrants for former President Park Geun-hye and Samsung heir Lee Jae-yong in two separate cases, dealing a major blow to the country's business and political elites and highlighting ongoing issues with corruption and inequality."
             }
         ],
         "Japan": [
             {
-                "title": "Protests against nuclear power in Japan escalate",
+                "title": "Japan to strengthen military to counter China's growing threat ",
                 "risk_level": "High",
-                "summary": "Protests have been ongoing in Japan against the country's nuclear power plants, with demonstrators calling for the shutdown of the plants. The situation has escalated in recent days, with some protesters blocking access to the plants. This has raised concerns about the potential for violence and disruption to the country's energy supply."
+                "summary": "The Japanese government plans to increase its military presence in the East China Sea to counter China's growing military presence, following a recent incident involving a Chinese submarine entering Japanese waters."
             },
             {
-                "title": "Japan's cabinet approves bill to boost national security",
+                "title": "Japan to impose new sanctions on Russia over Ukraine invasion ",
+                "risk_level": "High",
+                "summary": "Japan's Prime Minister Fumio Kishida announced plans to impose new sanctions on Russia over its invasion of Ukraine, including economic penalties and travel restrictions."
+            },
+            {
+                "title": "Tokyo heatwave: Temperatures soar to record highs as Japan experiences extreme heat ",
                 "risk_level": "Medium",
-                "summary": "Japan's cabinet has approved a bill aimed at boosting the country's national security. The bill includes measures to increase military spending and enhance cybersecurity. While the bill is seen as a positive step, some critics have expressed concerns about its potential impact on civil liberties."
-            },
-            {
-                "title": "Demonstrations against Japan's LGBTQ+ laws continue",
-                "risk_level": "Low",
-                "summary": "Demonstrations have been taking place in Japan against the country's laws restricting LGBTQ+ rights. While the protests have been largely peaceful, they have raised concerns about the treatment of LGBTQ+ individuals in Japan."
+                "summary": "A severe heatwave is gripping Tokyo, with temperatures soaring to record highs, prompting concerns over public health and safety."
             }
         ]
     }

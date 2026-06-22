@@ -1,5 +1,21 @@
 [
     {
+        "term": "OKBOY",
+        "group": "White supremacy",
+        "country": "USA",
+        "category": "Symbol",
+        "risk_level": "High",
+        "trend_score": 70,
+        "status": "Approved",
+        "first_detected": "2018",
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "A reference to the internet meme 'Feels Good Man', repurposed as a white nationalist symbol by the 'Groyper' movement",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Goblin Mode",
         "group": "Gen Z Slang",
         "country": "USA",
