@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global economic instability due to rising tensions between major world powers",
+                "title": "Risk of Cyber Attack on Critical Infrastructure",
                 "risk_level": "High",
-                "summary": "Major world powers are increasingly at odds, leading to economic instability and potential trade wars which may impact global economic stability."
+                "summary": "Multiple reports of potential cyber attacks on critical infrastructure in various countries."
             },
             {
-                "title": "Surge in cyber attacks on critical infrastructure",
+                "title": "Escalating Tensions Between World Powers",
                 "risk_level": "High",
-                "summary": "A recent uptick in cyber attacks on critical infrastructure has raised concerns about the vulnerability of key systems to hacking and data breaches."
+                "summary": "Increased military build-up and diplomatic tensions between major world powers, raising concerns of a potential conflict."
             },
             {
-                "title": "Rise in social unrest due to widening income inequality",
+                "title": "Outbreak of Disease in Asia",
                 "risk_level": "Medium",
-                "summary": "As the wealth gap continues to grow, social unrest has begun to rise, with protests and demonstrations becoming more frequent and intense."
+                "summary": "Cases of a new disease reported in several Asian countries, sparking concerns of a public health crisis."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Upholds Right to Same-Sex Marriage in Florida",
-                "risk_level": "Low",
-                "summary": "Florida voters overwhelmingly passed a ballot measure in 2008 to ban same-sex marriage, but today, the US Supreme Court ruled that it was unconstitutional to ban same-sex marriage in the state. This decision is a significant victory for the LGBTQ+ community."
-            },
-            {
-                "title": "US Inflation Rate Hits 40-Year High, Raising Concerns About Economy",
+                "title": "US Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
                 "risk_level": "High",
-                "summary": "The US inflation rate has reached a 40-year high, with the Labor Department's Consumer Price Index (CPI) increasing by 9.1% in May from a year earlier. This surge in inflation is raising concerns about the health of the US economy and the potential for a recession."
+                "summary": "On June 30, the US Supreme Court blocked President Biden's student loan forgiveness plan, affecting millions of borrowers"
             },
             {
-                "title": "US Senate Passes Bill to Strengthen Cybersecurity",
-                "risk_level": "Medium",
-                "summary": "The US Senate has passed a bill to strengthen cybersecurity, which would provide funding for a range of initiatives, including the development of new cybersecurity technologies and the training of cybersecurity professionals. The bill now goes to the House of Representatives for consideration."
+                "title": "Mass Shootings in Uvalde and Highland Park",
+                "risk_level": "High",
+                "summary": "Tragedies struck in Uvalde and Highland Park, Illinois, resulting in numerous fatalities and leaving the community shaken"
+            },
+            {
+                "title": "Inflation Surges in the US, Hits 40-Year High",
+                "risk_level": "High",
+                "summary": "The US inflation rate reached a 40-year high, causing economic concerns and impacting household budgets"
             }
         ],
         "South Korea": [
             {
-                "title": "",
+                "title": "North Korea Launches Missile Test-Ballistic Missile Lands Off Japan's Coast",
                 "risk_level": "High",
-                "summary": "South Korea reports record COVID-19 cases amid rising Omicron variant concerns, prompting calls for tightened social distancing measures to prevent hospital overload, but with some concerns about the impact on the economy. "
+                "summary": "North Korea fired an ICBM (intercontinental ballistic missile) that flew over Japan, prompting an emergency alert in the country. Japan's military said the missile appeared to have landed in the Pacific Ocean, roughly 1,000 miles east of the Japanese city of Aomori."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "US imposes travel ban to and from South Korea due to COVID-19, citing public health concerns as a result of a surge in cases there, though the decision has sparked concerns that it could be interpreted as an overreaction. "
-            },
-            {
-                "title": "",
+                "title": "South Korea Sees Rise in COVID-19 Cases Amid Fourth Wave",
                 "risk_level": "Medium",
-                "summary": "South Korean prosecutors issue arrest warrants for former President Park Geun-hye and Samsung heir Lee Jae-yong in two separate cases, dealing a major blow to the country's business and political elites and highlighting ongoing issues with corruption and inequality."
+                "summary": "South Korea reported a surge in COVID-19 cases in the past week, with 2,000 new infections recorded, bringing the total number of cases to 19,200."
+            },
+            {
+                "title": "South Korea’s President Yoon to Strengthen Ties with US, Japan",
+                "risk_level": "Medium",
+                "summary": "South Korean President Yoon Suk-yeol has vowed to strengthen ties with the US and Japan, amid ongoing tensions with North Korea, and has emphasized the importance of building a strong alliance with Washington and Tokyo."
             }
         ],
         "Japan": [
             {
-                "title": "Japan to strengthen military to counter China's growing threat ",
-                "risk_level": "High",
-                "summary": "The Japanese government plans to increase its military presence in the East China Sea to counter China's growing military presence, following a recent incident involving a Chinese submarine entering Japanese waters."
+                "title": "Protests held in Tokyo over proposed nuclear power policy reforms",
+                "risk_level": "Low",
+                "summary": "Small protests were held in Tokyo over the proposed nuclear power policy reforms, highlighting opposition to the plans."
             },
             {
-                "title": "Japan to impose new sanctions on Russia over Ukraine invasion ",
+                "title": "China-Japan relations strained as Tokyo and Beijing trade barbs over Taiwan",
                 "risk_level": "High",
-                "summary": "Japan's Prime Minister Fumio Kishida announced plans to impose new sanctions on Russia over its invasion of Ukraine, including economic penalties and travel restrictions."
+                "summary": "Tensions between China and Japan remain high after Tokyo's defense minister visited Taiwan, leading to a sharp rebuke from Beijing."
             },
             {
-                "title": "Tokyo heatwave: Temperatures soar to record highs as Japan experiences extreme heat ",
+                "title": "Japan's government mulls introducing new internet regulations to combat 'hate speech'",
                 "risk_level": "Medium",
-                "summary": "A severe heatwave is gripping Tokyo, with temperatures soaring to record highs, prompting concerns over public health and safety."
+                "summary": "Japan's government is considering introducing new regulations to combat 'hate speech' online, amid growing concerns about the impact of social media on public discourse."
             }
         ]
     }
