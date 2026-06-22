@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Relations: Tensions Escalate Over Taiwan",
+                "title": "Global economic instability due to geopolitical tensions",
                 "risk_level": "High",
-                "summary": "Recent military exercises by the US and China have heightened tensions over Taiwan, leading to concerns about the potential for conflict."
+                "summary": "Recent conflicts in Ukraine and rising global inflation have led to fears of an impending economic downturn."
             },
             {
-                "title": "Global Food Crisis: Prices Soar Due to Supply Chain Disruptions",
+                "title": "Rise of authoritarian regimes in Eastern Europe",
                 "risk_level": "High",
-                "summary": "Global food prices have skyrocketed due to supply chain disruptions, trade restrictions, and adverse weather conditions, sparking food shortages and social unrest."
+                "summary": "Several countries in Eastern Europe have recently experienced a surge in authoritarian tendencies, raising concerns for democracy and human rights."
             },
             {
-                "title": "AI Regulation: Governments Struggle to Keep Pace with Advancing Technology",
+                "title": "Cybersecurity threats to global supply chains",
                 "risk_level": "Medium",
-                "summary": "The rapid development of artificial intelligence (AI) has left governments scrambling to regulate its use, leading to concerns about data privacy, job displacement, and national security."
+                "summary": "Rising concerns about cyberattacks on major corporations and government agencies have led to increased focus on securing global supply chains."
             }
         ],
         "United States": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Supreme Court overturns Roe v. Wade, sparking protests"
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Texas school shooting: 19 children and 2 adults killed in Uvalde"
-            },
-            {
-                "title": "",
+                "title": "Gunman killed in shootout with police in New York after killing four people",
                 "risk_level": "High",
-                "summary": "US Capitol riot: FBI identifies key suspect, Timothy Hale-Cusanelli, in storming of Senate Chamber"
+                "summary": "A gunman killed four people in New York, including two police officers, before being shot dead by police. The attack highlights the ongoing threat of gun violence in the United States."
+            },
+            {
+                "title": "Tornado outbreak slams US Midwest, causing widespread damage",
+                "risk_level": "Medium",
+                "summary": "A tornado outbreak has caused widespread damage and destruction in the US Midwest, with numerous reports of injuries and fatalities. The severe weather system is expected to continue causing disruptions in the region."
+            },
+            {
+                "title": "US Senate passes Bill to restrict TikTok and other foreign apps",
+                "risk_level": "Medium",
+                "summary": "The US Senate has passed a Bill to restrict the use of TikTok and other foreign apps, citing national security concerns. The move is seen as a response to the growing influence of Chinese technology companies in the US."
             }
         ],
         "South Korea": [
             {
-                "title": "Rallies in South Korea Protest Military Conscription",
-                "risk_level": "High",
-                "summary": "Thousands of South Koreans took to the streets in Seoul and other cities to protest the country's military conscription system and the government's plans to extend the service period. The protests were largely peaceful, but some turned violent, with police using tear gas to disperse the crowds."
+                "title": "South Korean court convicts ex-President Park Geun-hye over bribery, corruption",
+                "risk_level": "Low",
+                "summary": "A South Korean court has found former President Park Geun-hye guilty of bribery and corruption, in a major corruption scandal that has gripped the country."
             },
             {
-                "title": "South Korea's President Embroiled in Corruption Scandal",
+                "title": "North Korea's Kim Visits Frontlines to Urge War Readiness Against South",
                 "risk_level": "High",
-                "summary": "South Korea's President Yoon Suk-yeol is facing growing calls for his resignation after his daughter was implicated in a corruption scandal involving a lucrative business deal. The scandal has sparked widespread outrage and protests across the country."
+                "summary": "North Korean leader Kim Jong Un has visited the frontlines with the South, urging war readiness against its rival, in a move that has heightened tensions in the region."
             },
             {
-                "title": "Anti-Thunder-700 Missile System Protests Continue in South Korea",
+                "title": "South Korea to Impose Curbs on China's ByteDance After Data Breach",
                 "risk_level": "Medium",
-                "summary": "Protests against the deployment of the US-made THAAD (Terminal High Altitude Area Defense) missile defense system have continued in several South Korean cities, despite the government's reassurances that the system is necessary to protect the country from North Korean threats."
+                "summary": "South Korea plans to restrict the operations of ByteDance, owner of TikTok, after a data breach exposed millions of users' personal information."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "COVID-19 cases surge as Japan reports over 20,000 new cases in a single day",
+                "risk_level": "High",
+                "summary": "Japan's COVID-19 situation is worsening with over 20,000 new cases reported in a single day, putting further strain on the country's healthcare system. This surge in cases has raised concerns about the potential for widespread illness and the need for increased precautions."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Protests erupt in Japan over new education reform",
+                "risk_level": "Medium",
+                "summary": "A controversy surrounding changes to Japan's education system has sparked protests in the country, with demonstrators calling for reversal of the reforms. The protests have resulted in clashes with police and raised concerns about social unrest."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "North Korea's Kim Jong Un says Japan is a 'big enemy', threatening military action",
+                "risk_level": "High",
+                "summary": "In a recent statement, North Korea's leader Kim Jong Un labeled Japan as a 'big enemy' and threatened military action, escalating tensions in the region. This has raised concerns about the potential for conflict between the two nations."
             }
         ]
     }
