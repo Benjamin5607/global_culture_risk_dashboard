@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Risk of Cyber Attack on Critical Infrastructure",
+                "title": "US-China Relations: Tensions Escalate Over Taiwan",
                 "risk_level": "High",
-                "summary": "Multiple reports of potential cyber attacks on critical infrastructure in various countries."
+                "summary": "Recent military exercises by the US and China have heightened tensions over Taiwan, leading to concerns about the potential for conflict."
             },
             {
-                "title": "Escalating Tensions Between World Powers",
+                "title": "Global Food Crisis: Prices Soar Due to Supply Chain Disruptions",
                 "risk_level": "High",
-                "summary": "Increased military build-up and diplomatic tensions between major world powers, raising concerns of a potential conflict."
+                "summary": "Global food prices have skyrocketed due to supply chain disruptions, trade restrictions, and adverse weather conditions, sparking food shortages and social unrest."
             },
             {
-                "title": "Outbreak of Disease in Asia",
+                "title": "AI Regulation: Governments Struggle to Keep Pace with Advancing Technology",
                 "risk_level": "Medium",
-                "summary": "Cases of a new disease reported in several Asian countries, sparking concerns of a public health crisis."
+                "summary": "The rapid development of artificial intelligence (AI) has left governments scrambling to regulate its use, leading to concerns about data privacy, job displacement, and national security."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
-                "risk_level": "High",
-                "summary": "On June 30, the US Supreme Court blocked President Biden's student loan forgiveness plan, affecting millions of borrowers"
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Supreme Court overturns Roe v. Wade, sparking protests"
             },
             {
-                "title": "Mass Shootings in Uvalde and Highland Park",
-                "risk_level": "High",
-                "summary": "Tragedies struck in Uvalde and Highland Park, Illinois, resulting in numerous fatalities and leaving the community shaken"
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Texas school shooting: 19 children and 2 adults killed in Uvalde"
             },
             {
-                "title": "Inflation Surges in the US, Hits 40-Year High",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US inflation rate reached a 40-year high, causing economic concerns and impacting household budgets"
+                "summary": "US Capitol riot: FBI identifies key suspect, Timothy Hale-Cusanelli, in storming of Senate Chamber"
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Launches Missile Test-Ballistic Missile Lands Off Japan's Coast",
+                "title": "Rallies in South Korea Protest Military Conscription",
                 "risk_level": "High",
-                "summary": "North Korea fired an ICBM (intercontinental ballistic missile) that flew over Japan, prompting an emergency alert in the country. Japan's military said the missile appeared to have landed in the Pacific Ocean, roughly 1,000 miles east of the Japanese city of Aomori."
+                "summary": "Thousands of South Koreans took to the streets in Seoul and other cities to protest the country's military conscription system and the government's plans to extend the service period. The protests were largely peaceful, but some turned violent, with police using tear gas to disperse the crowds."
             },
             {
-                "title": "South Korea Sees Rise in COVID-19 Cases Amid Fourth Wave",
-                "risk_level": "Medium",
-                "summary": "South Korea reported a surge in COVID-19 cases in the past week, with 2,000 new infections recorded, bringing the total number of cases to 19,200."
+                "title": "South Korea's President Embroiled in Corruption Scandal",
+                "risk_level": "High",
+                "summary": "South Korea's President Yoon Suk-yeol is facing growing calls for his resignation after his daughter was implicated in a corruption scandal involving a lucrative business deal. The scandal has sparked widespread outrage and protests across the country."
             },
             {
-                "title": "South Korea’s President Yoon to Strengthen Ties with US, Japan",
+                "title": "Anti-Thunder-700 Missile System Protests Continue in South Korea",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol has vowed to strengthen ties with the US and Japan, amid ongoing tensions with North Korea, and has emphasized the importance of building a strong alliance with Washington and Tokyo."
+                "summary": "Protests against the deployment of the US-made THAAD (Terminal High Altitude Area Defense) missile defense system have continued in several South Korean cities, despite the government's reassurances that the system is necessary to protect the country from North Korean threats."
             }
         ],
         "Japan": [
             {
-                "title": "Protests held in Tokyo over proposed nuclear power policy reforms",
-                "risk_level": "Low",
-                "summary": "Small protests were held in Tokyo over the proposed nuclear power policy reforms, highlighting opposition to the plans."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "China-Japan relations strained as Tokyo and Beijing trade barbs over Taiwan",
-                "risk_level": "High",
-                "summary": "Tensions between China and Japan remain high after Tokyo's defense minister visited Taiwan, leading to a sharp rebuke from Beijing."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Japan's government mulls introducing new internet regulations to combat 'hate speech'",
-                "risk_level": "Medium",
-                "summary": "Japan's government is considering introducing new regulations to combat 'hate speech' online, amid growing concerns about the impact of social media on public discourse."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
