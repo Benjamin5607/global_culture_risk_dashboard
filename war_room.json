@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US Senate Votes to Ban TikTok from Federal Devices Over Security Concerns",
+                "title": "China Imposes Travel Ban on Taiwanese Official",
                 "risk_level": "High",
-                "summary": "The US Senate has voted to ban TikTok from all federal devices due to security concerns."
+                "summary": "China has imposed a travel ban on a Taiwanese official, escalating tensions between the two nations."
             },
             {
-                "title": "Russian Hacker Arrested in Poland Over Colonial Pipeline Attack",
+                "title": "Iran's Supreme Leader Threatens US and Its Allies",
                 "risk_level": "High",
-                "summary": "A Russian hacker was arrested in Poland in connection with the 2021 Colonial Pipeline attack."
+                "summary": "Iran's Supreme Leader has warned the US and its allies of severe consequences if they continue to interfere in Iranian affairs."
             },
             {
-                "title": "US Imposes Sanctions on Chinese Officials Over Human Rights Abuses",
+                "title": "Russia Accused of Cyberattack on Ukrainian Government",
                 "risk_level": "High",
-                "summary": "The US has imposed sanctions on Chinese officials over human rights abuses in Xinjiang."
+                "summary": "Russia has been accused of carrying out a cyberattack on the Ukrainian government, highlighting ongoing tensions between the two nations."
             }
         ],
         "United States": [
             {
-                "title": "Rise in COVID-19 cases due to new variants threatens healthcare system",
+                "title": "Jan. 6 panel subpoenas Trump associate's testimony",
                 "risk_level": "High",
-                "summary": "The recent surge in COVID-19 cases in parts of the US poses a significant threat to the country's healthcare system, with hospitals in some areas reaching capacity."
+                "summary": "The January 6 House panel issued a subpoena to a Trump associate demanding his testimony, amid increasing scrutiny of the 2020 presidential election's outcome."
             },
             {
-                "title": "Tensions escalates between US and China over Taiwan relations",
+                "title": "US Supreme Court rejects challenge to Biden's vaccine mandate",
                 "risk_level": "High",
-                "summary": "The US and China have increased their military presence near Taiwan, heightening tensions between the two nations and sparking concerns about a potential conflict."
+                "summary": "The Supreme Court dismissed legal challenges to Biden's COVID-19 vaccination regulation for large employers, which may lead to more widespread vaccination."
             },
             {
-                "title": "Gun violence continues to plague US cities, with multiple shootings reported",
+                "title": "New York lawmakers pass bill to limit concealed carry of guns",
                 "risk_level": "Medium",
-                "summary": "A series of shootings in major US cities over the past week have resulted in multiple fatalities, highlighting the ongoing issue of gun violence in the country."
+                "summary": "The New York state legislature has passed a bill aiming to limit the concealed carry of firearms after the US Supreme Court struck down a New York concealed carry law last year."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul's Yongsan District Cancels 4th Korea-Friendly Festival Due to Public Backlash Over Participation from US Army",
-                "risk_level": "Medium",
-                "summary": "A festival was canceled after the participation of the US Army sparked outrage in South Korea."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "South Korea to Introduce Law Requiring Crypto Exchanges to Store User Data",
-                "risk_level": "Medium",
-                "summary": "South Korea will introduce a law requiring crypto exchanges to store user data, amidst growing scrutiny of the industry."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "South Korea Imposes 10% Tariff on US Steel Amid Trade Dispute",
-                "risk_level": "High",
-                "summary": "South Korea has imposed a 10% tariff on US steel as trade tensions between the two countries escalate."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Typhoon warnings in place for eastern Japan as of June 12, 2024,  with no reported injuries or damage reported as of yet"
-            },
-            {
-                "title": "",
+                "title": "US Secretary of State Antony Blinken meets Japan’s top officials to discuss security concerns",
                 "risk_level": "Medium",
-                "summary": "June 17, 2024: Protests against the ongoing Japanese government's handling of the economy continued in cities across Japan. The situation remained relatively peaceful, with the main incidents being arrests of protesters in Tokyo for breaching local regulations. However, the protests had no major impact on the economy or the general public."
+                "summary": "The meeting aims to reinforce the United States’ commitment to Japan’s defense, amidst ongoing tensions with China and North Korea."
             },
             {
-                "title": "",
+                "title": "Tokyo reports highest number of new COVID-19 cases in 7 months",
                 "risk_level": "Low",
-                "summary": "June 18, 2024: North Korea test-fired an intercontinental ballistic missile towards Japan and the US Pacific territory of Guam but no missile damage reported over either areas as of yet"
+                "summary": "The Japanese capital's surge in new cases is attributed to a new variant of the virus, prompting concerns about a potential new wave of infections."
+            },
+            {
+                "title": "Japanese Prime Minister Fumio Kishida’s approval ratings hit record low amid economic concerns",
+                "risk_level": "High",
+                "summary": "Kishida's ratings have plummeted due to Japan's stagnant economy and rising prices, creating a potential threat to his leadership."
             }
         ]
     }
