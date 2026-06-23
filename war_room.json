@@ -1,72 +1,72 @@
 {
-    "updated": "2026-06-22",
+    "updated": "2026-06-23",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global economic instability due to geopolitical tensions",
+                "title": "Russia-Ukraine Conflict Intensifies Amid Economic Sanctions",
                 "risk_level": "High",
-                "summary": "Recent conflicts in Ukraine and rising global inflation have led to fears of an impending economic downturn."
+                "summary": "Tensions between Russia and Ukraine continue to escalate as both sides trade blows over economic sanctions and diplomatic maneuvers."
             },
             {
-                "title": "Rise of authoritarian regimes in Eastern Europe",
+                "title": "Cyber Attack Hits US Healthcare System",
                 "risk_level": "High",
-                "summary": "Several countries in Eastern Europe have recently experienced a surge in authoritarian tendencies, raising concerns for democracy and human rights."
+                "summary": "A sophisticated cyber attack has compromised sensitive patient data and brought operations to a grinding halt at a major US healthcare provider."
             },
             {
-                "title": "Cybersecurity threats to global supply chains",
+                "title": "Protests Erupt in China Over Human Rights Abuses",
                 "risk_level": "Medium",
-                "summary": "Rising concerns about cyberattacks on major corporations and government agencies have led to increased focus on securing global supply chains."
+                "summary": "Anti-government demonstrations break out in Beijing and other major cities, driven by growing discontent over human rights abuses and economic inequality."
             }
         ],
         "United States": [
             {
-                "title": "Gunman killed in shootout with police in New York after killing four people",
+                "title": "Protests Erupt in Los Angeles Amid Police Shooting",
                 "risk_level": "High",
-                "summary": "A gunman killed four people in New York, including two police officers, before being shot dead by police. The attack highlights the ongoing threat of gun violence in the United States."
+                "summary": "Protests and demonstrations took place in Los Angeles after a police shooting of a 38-year-old black man, sparking widespread outrage and demands for police reform."
             },
             {
-                "title": "Tornado outbreak slams US Midwest, causing widespread damage",
-                "risk_level": "Medium",
-                "summary": "A tornado outbreak has caused widespread damage and destruction in the US Midwest, with numerous reports of injuries and fatalities. The severe weather system is expected to continue causing disruptions in the region."
+                "title": "Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
+                "risk_level": "High",
+                "summary": "The Supreme Court blocked President Biden's plan to forgive student loans, a decision that could have significant implications for millions of Americans and the country's economy."
             },
             {
-                "title": "US Senate passes Bill to restrict TikTok and other foreign apps",
-                "risk_level": "Medium",
-                "summary": "The US Senate has passed a Bill to restrict the use of TikTok and other foreign apps, citing national security concerns. The move is seen as a response to the growing influence of Chinese technology companies in the US."
+                "title": "US Senate Passes Bill to Prevent Rail Strike",
+                "risk_level": "Low",
+                "summary": "The US Senate passed a bill to prevent a nationwide rail strike, a move that aims to avoid disruptions to the US economy and ensure the continued flow of goods and services."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korean court convicts ex-President Park Geun-hye over bribery, corruption",
-                "risk_level": "Low",
-                "summary": "A South Korean court has found former President Park Geun-hye guilty of bribery and corruption, in a major corruption scandal that has gripped the country."
-            },
-            {
-                "title": "North Korea's Kim Visits Frontlines to Urge War Readiness Against South",
+                "title": "North Korea fires ballistic missile, South Korea says",
                 "risk_level": "High",
-                "summary": "North Korean leader Kim Jong Un has visited the frontlines with the South, urging war readiness against its rival, in a move that has heightened tensions in the region."
+                "summary": "South Korea's military says North Korea fired a ballistic missile on Tuesday into the sea, a move that drew swift condemnation from the US and its allies."
             },
             {
-                "title": "South Korea to Impose Curbs on China's ByteDance After Data Breach",
+                "title": "South Korean court finds Samsung chief guilty of bribery charges",
                 "risk_level": "Medium",
-                "summary": "South Korea plans to restrict the operations of ByteDance, owner of TikTok, after a data breach exposed millions of users' personal information."
+                "summary": "A South Korean court has found Samsung Electronics vice chairman Lee Jae-yong guilty of bribery charges related to a corruption scandal involving former President Park Geun-hye."
+            },
+            {
+                "title": "South Korea seeks to reassure allies amid North Korea tensions",
+                "risk_level": "Low",
+                "summary": "South Korea's top diplomat sought to reassure Seoul's allies about the country's ability to address North Korea's nuclear threat, as tensions flared between Pyongyang and Washington."
             }
         ],
         "Japan": [
             {
-                "title": "COVID-19 cases surge as Japan reports over 20,000 new cases in a single day",
+                "title": "North Korea tests new ICBM, Japan on high alert",
                 "risk_level": "High",
-                "summary": "Japan's COVID-19 situation is worsening with over 20,000 new cases reported in a single day, putting further strain on the country's healthcare system. This surge in cases has raised concerns about the potential for widespread illness and the need for increased precautions."
+                "summary": "North Korea has conducted a successful test of a new intercontinental ballistic missile (ICBM) that could potentially reach Japan, sparking concerns about the country's security."
             },
             {
-                "title": "Protests erupt in Japan over new education reform",
+                "title": "Protests erupt in Japan against nuclear plant construction",
                 "risk_level": "Medium",
-                "summary": "A controversy surrounding changes to Japan's education system has sparked protests in the country, with demonstrators calling for reversal of the reforms. The protests have resulted in clashes with police and raised concerns about social unrest."
+                "summary": "Thousands of protesters have taken to the streets in Japan to express their opposition to the construction of new nuclear power plants, citing concerns about safety and the environment."
             },
             {
-                "title": "North Korea's Kim Jong Un says Japan is a 'big enemy', threatening military action",
-                "risk_level": "High",
-                "summary": "In a recent statement, North Korea's leader Kim Jong Un labeled Japan as a 'big enemy' and threatened military action, escalating tensions in the region. This has raised concerns about the potential for conflict between the two nations."
+                "title": " Japan's COVID-19 cases surge due to new variant",
+                "risk_level": "Medium",
+                "summary": "Japan has reported a significant increase in COVID-19 cases, with health officials attributing the surge to a new variant of the virus."
             }
         ]
     }
