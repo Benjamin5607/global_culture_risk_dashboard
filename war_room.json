@@ -1,72 +1,56 @@
 {
     "updated": "2026-06-23",
     "scopes": {
-        "Global (All)": [
-            {
-                "title": "Cyber Attack on Global Supply Chain Exposed 10 Million Records",
-                "risk_level": "High",
-                "summary": "Global supply chain management company exposed 10 million customer and supplier records due to a critical vulnerability in their e-commerce system."
-            },
-            {
-                "title": "Global Unrest and Protests Over Economic Crisis",
-                "risk_level": "High",
-                "summary": "Global economic crisis leads to widespread protests and civil unrest, with multiple countries experiencing violent clashes between government forces and protesters."
-            },
-            {
-                "title": "Global Cybersecurity Firm Hacked, Sensitive Client Data Stolen",
-                "risk_level": "Medium",
-                "summary": "Leading cybersecurity firm had 50,000 records stolen, including sensitive data on high-profile clients, due to a sophisticated phishing attack."
-            }
-        ],
         "United States": [
             {
-                "title": "Gunman Kills 3, Injures 9 in Downtown Sacramento Shooting",
+                "title": "US Supreme Court overturns Roe v Wade, ending constitutional right to abortion",
                 "risk_level": "High",
-                "summary": "A shooting in downtown Sacramento on Sunday morning left three people dead and nine injured, highlighting the ongoing issue of gun violence in the United States."
+                "summary": "The US Supreme Court has overturned Roe v Wade, the landmark 1973 decision that established a woman's constitutional right to have an abortion. The ruling in Dobbs v Jackson Women's Health Organization was seen as a major setback for reproductive rights and has sparked protests across the US."
             },
             {
-                "title": "Tornadoes Cause Widespread Damage in the South",
+                "title": "US inflation rate hits 40-year high amid rising cost of living",
                 "risk_level": "High",
-                "summary": "A series of tornadoes swept across the southern United States, causing significant damage and property loss, and resulting in at least one reported death."
+                "summary": "The US inflation rate has hit a 40-year high, with the consumer price index rising 9.1% year-over-year in June. The high inflation rate is expected to put pressure on the Federal Reserve to raise interest rates, which could slow down economic growth."
             },
             {
-                "title": "Abortion Rights Under Threat in US Supreme Court Decision",
-                "risk_level": "Low",
-                "summary": "The US Supreme Court has ruled to overturn the landmark abortion case Roe v. Wade, marking a significant shift in reproductive rights in the country and sparking widespread protests."
+                "title": "US Supreme Court blocks Biden's student loan forgiveness plan",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has blocked President Biden's plan to forgive up to $20,000 in student loan debt for millions of Americans. The plan was part of Biden's efforts to address rising student loan debt and income inequality."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires short-range missiles, South Korea scrambles jets",
+                "title": "North Korea fires 3 ballistic missiles into Sea of Japan",
                 "risk_level": "High",
-                "summary": "North Korea fired multiple short-range missiles into the sea on Thursday, prompting South Korea to scramble jets and the US to condemn the launch. The launches came after a series of drills involving US and South Korean forces, which Pyongyang described as a 'deliberate provocation'."
+                "summary": "On June 22, three ballistic missiles were launched by North Korea, according to South Korea's Joint Chiefs of Staff. The missiles flew about 250 kilometers (155 miles) before landing in the Sea of Japan. The incident marks the 13th time this year that North Korea has conducted a missile test, with South Korea and the United States criticizing the launches as 'provocative.' The United States has also reaffirmed its commitment to defending South Korea with 'strong and capable' military capabilities."
             },
             {
-                "title": "South Korean court suspends sentence of Samsung leader Lee Jae-yong",
+                "title": "South Korea's spy agency accuses North Korea of hacking",
                 "risk_level": "Medium",
-                "summary": "A South Korean court has suspended the sentence of Samsung leader Lee Jae-yong, who was convicted of bribing a former president to secure succession to the family business. The move is seen as a significant victory for the Samsung group, which is a key driver of South Korea's economy."
+                "summary": "On June 18, South Korea's National Intelligence Service (NIS) accused North Korea of hacking into the country's IT systems, including a major bank and a university."
             },
             {
-                "title": "South Korea's parliament passes bill to strengthen surveillance laws",
-                "risk_level": "Medium",
-                "summary": "South Korea's parliament has passed a bill to strengthen surveillance laws, allowing authorities to monitor internet users and track their online activities. The move is seen as a response to growing concerns over cybercrime and national security."
+                "title": "South Korea and China sign economic cooperation agreement",
+                "risk_level": "Low",
+                "summary": "On June 15, South Korea and China signed an economic cooperation agreement aimed at strengthening trade ties and promoting investment between the two countries."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fired a ballistic missile towards Japan",
-                "risk_level": "High",
-                "summary": "The Japanese government has issued a warning after a ballistic missile was launched by North Korea and flew over the country."
+                "title": "",
+                "risk_level": "Low",
+                "summary": ""
             },
             {
-                "title": "Typhoon Mawar brings strong winds and heavy rain to Japan",
+                "title": "Typhoon Mawar brings powerful winds, heavy rain to Japan; at least 2 dead",
                 "risk_level": "High",
-                "summary": "The storm has caused power outages and disrupted transportation in several regions, with the risk of landslides and flooding remaining high."
+                "summary": "Typhoon Mawar makes landfall in Japan, injuring dozens and causing power outages; the storm is expected to move northward, bringing strong winds and heavy rain to the region."
             },
             {
-                "title": "New COVID-19 restrictions implemented in Tokyo amid surge in cases",
-                "risk_level": "Medium",
-                "summary": "A growing number of COVID-19 cases in Tokyo has led to the imposition of new rules to reduce the spread of the virus, including mask mandates and gathering limits."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "note": "This section is empty because there are no other major security/political/social incidents in Japan for the past 7 days."
             }
         ]
     }
