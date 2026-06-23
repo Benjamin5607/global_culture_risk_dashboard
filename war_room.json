@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia-Ukraine Conflict Intensifies Amid Economic Sanctions",
+                "title": "US Senate Votes to Ban TikTok from Federal Devices Over Security Concerns",
                 "risk_level": "High",
-                "summary": "Tensions between Russia and Ukraine continue to escalate as both sides trade blows over economic sanctions and diplomatic maneuvers."
+                "summary": "The US Senate has voted to ban TikTok from all federal devices due to security concerns."
             },
             {
-                "title": "Cyber Attack Hits US Healthcare System",
+                "title": "Russian Hacker Arrested in Poland Over Colonial Pipeline Attack",
                 "risk_level": "High",
-                "summary": "A sophisticated cyber attack has compromised sensitive patient data and brought operations to a grinding halt at a major US healthcare provider."
+                "summary": "A Russian hacker was arrested in Poland in connection with the 2021 Colonial Pipeline attack."
             },
             {
-                "title": "Protests Erupt in China Over Human Rights Abuses",
-                "risk_level": "Medium",
-                "summary": "Anti-government demonstrations break out in Beijing and other major cities, driven by growing discontent over human rights abuses and economic inequality."
+                "title": "US Imposes Sanctions on Chinese Officials Over Human Rights Abuses",
+                "risk_level": "High",
+                "summary": "The US has imposed sanctions on Chinese officials over human rights abuses in Xinjiang."
             }
         ],
         "United States": [
             {
-                "title": "Protests Erupt in Los Angeles Amid Police Shooting",
+                "title": "Rise in COVID-19 cases due to new variants threatens healthcare system",
                 "risk_level": "High",
-                "summary": "Protests and demonstrations took place in Los Angeles after a police shooting of a 38-year-old black man, sparking widespread outrage and demands for police reform."
+                "summary": "The recent surge in COVID-19 cases in parts of the US poses a significant threat to the country's healthcare system, with hospitals in some areas reaching capacity."
             },
             {
-                "title": "Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
+                "title": "Tensions escalates between US and China over Taiwan relations",
                 "risk_level": "High",
-                "summary": "The Supreme Court blocked President Biden's plan to forgive student loans, a decision that could have significant implications for millions of Americans and the country's economy."
+                "summary": "The US and China have increased their military presence near Taiwan, heightening tensions between the two nations and sparking concerns about a potential conflict."
             },
             {
-                "title": "US Senate Passes Bill to Prevent Rail Strike",
-                "risk_level": "Low",
-                "summary": "The US Senate passed a bill to prevent a nationwide rail strike, a move that aims to avoid disruptions to the US economy and ensure the continued flow of goods and services."
+                "title": "Gun violence continues to plague US cities, with multiple shootings reported",
+                "risk_level": "Medium",
+                "summary": "A series of shootings in major US cities over the past week have resulted in multiple fatalities, highlighting the ongoing issue of gun violence in the country."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires ballistic missile, South Korea says",
-                "risk_level": "High",
-                "summary": "South Korea's military says North Korea fired a ballistic missile on Tuesday into the sea, a move that drew swift condemnation from the US and its allies."
-            },
-            {
-                "title": "South Korean court finds Samsung chief guilty of bribery charges",
+                "title": "Seoul's Yongsan District Cancels 4th Korea-Friendly Festival Due to Public Backlash Over Participation from US Army",
                 "risk_level": "Medium",
-                "summary": "A South Korean court has found Samsung Electronics vice chairman Lee Jae-yong guilty of bribery charges related to a corruption scandal involving former President Park Geun-hye."
+                "summary": "A festival was canceled after the participation of the US Army sparked outrage in South Korea."
             },
             {
-                "title": "South Korea seeks to reassure allies amid North Korea tensions",
-                "risk_level": "Low",
-                "summary": "South Korea's top diplomat sought to reassure Seoul's allies about the country's ability to address North Korea's nuclear threat, as tensions flared between Pyongyang and Washington."
+                "title": "South Korea to Introduce Law Requiring Crypto Exchanges to Store User Data",
+                "risk_level": "Medium",
+                "summary": "South Korea will introduce a law requiring crypto exchanges to store user data, amidst growing scrutiny of the industry."
+            },
+            {
+                "title": "South Korea Imposes 10% Tariff on US Steel Amid Trade Dispute",
+                "risk_level": "High",
+                "summary": "South Korea has imposed a 10% tariff on US steel as trade tensions between the two countries escalate."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea tests new ICBM, Japan on high alert",
-                "risk_level": "High",
-                "summary": "North Korea has conducted a successful test of a new intercontinental ballistic missile (ICBM) that could potentially reach Japan, sparking concerns about the country's security."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Typhoon warnings in place for eastern Japan as of June 12, 2024,  with no reported injuries or damage reported as of yet"
             },
             {
-                "title": "Protests erupt in Japan against nuclear plant construction",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Thousands of protesters have taken to the streets in Japan to express their opposition to the construction of new nuclear power plants, citing concerns about safety and the environment."
+                "summary": "June 17, 2024: Protests against the ongoing Japanese government's handling of the economy continued in cities across Japan. The situation remained relatively peaceful, with the main incidents being arrests of protesters in Tokyo for breaching local regulations. However, the protests had no major impact on the economy or the general public."
             },
             {
-                "title": " Japan's COVID-19 cases surge due to new variant",
-                "risk_level": "Medium",
-                "summary": "Japan has reported a significant increase in COVID-19 cases, with health officials attributing the surge to a new variant of the virus."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "June 18, 2024: North Korea test-fired an intercontinental ballistic missile towards Japan and the US Pacific territory of Guam but no missile damage reported over either areas as of yet"
             }
         ]
     }
