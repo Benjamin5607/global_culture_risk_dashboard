@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "China Imposes Travel Ban on Taiwanese Official",
+                "title": "Rise in Global Cyberattacks",
                 "risk_level": "High",
-                "summary": "China has imposed a travel ban on a Taiwanese official, escalating tensions between the two nations."
+                "summary": "Major cybersecurity firms report a surge in global cyberattacks over the past 7 days"
             },
             {
-                "title": "Iran's Supreme Leader Threatens US and Its Allies",
+                "title": "Middle East Tensions Escalate",
                 "risk_level": "High",
-                "summary": "Iran's Supreme Leader has warned the US and its allies of severe consequences if they continue to interfere in Iranian affairs."
+                "summary": "Tensions between regional powers in the Middle East have escalated, leading to concerns of potential conflict"
             },
             {
-                "title": "Russia Accused of Cyberattack on Ukrainian Government",
-                "risk_level": "High",
-                "summary": "Russia has been accused of carrying out a cyberattack on the Ukrainian government, highlighting ongoing tensions between the two nations."
+                "title": "Global Pandemic Concerns",
+                "risk_level": "Medium",
+                "summary": "The global pandemic continues to pose risks, with new variants emerging and vaccination efforts underway"
             }
         ],
         "United States": [
             {
-                "title": "Jan. 6 panel subpoenas Trump associate's testimony",
-                "risk_level": "High",
-                "summary": "The January 6 House panel issued a subpoena to a Trump associate demanding his testimony, amid increasing scrutiny of the 2020 presidential election's outcome."
-            },
-            {
-                "title": "US Supreme Court rejects challenge to Biden's vaccine mandate",
-                "risk_level": "High",
-                "summary": "The Supreme Court dismissed legal challenges to Biden's COVID-19 vaccination regulation for large employers, which may lead to more widespread vaccination."
-            },
-            {
-                "title": "New York lawmakers pass bill to limit concealed carry of guns",
+                "title": "US Supreme Court blocks Biden's student loan forgiveness plan",
                 "risk_level": "Medium",
-                "summary": "The New York state legislature has passed a bill aiming to limit the concealed carry of firearms after the US Supreme Court struck down a New York concealed carry law last year."
+                "summary": "The US Supreme Court blocked President Joe Biden's plan to forgive student loans, dealing a major setback to his campaign promise and affecting millions of borrowers."
+            },
+            {
+                "title": "US and Russia hold nuclear talks in Geneva",
+                "risk_level": "High",
+                "summary": "US and Russian officials held nuclear talks in Geneva, with the US pushing for a new arms control deal and Russia seeking reassurances on its security concerns."
+            },
+            {
+                "title": "New York City subway attack: Man charged with federal terrorism offenses",
+                "risk_level": "Low",
+                "summary": "A man was charged with federal terrorism offenses after a violent attack on a New York City subway train, which left several people injured."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "South Korean Presidential Hopefuls Vow to Confront North Korea at Davos Dialogue",
+                "risk_level": "High",
+                "summary": "In remarks delivered during a high-profile Davos dialogue, two prominent presidential candidates pledged to confront North Korea using a variety of tools, including diplomacy and military force."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "South Korea Arrests Dozens of Protesters Who Stormed U.S. Ambassador's Residence",
+                "risk_level": "Medium",
+                "summary": "Dozens of people were detained in the aftermath of protests at the U.S. ambassador's residence in South Korea's presidential district, with police accusing a group of activists of inciting the crowds."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "South Korea and US Begin Largest-Ever Joint Military Exercise Amid Rising Tensions with North Korea",
+                "risk_level": "High",
+                "summary": "In a move aimed at deterring potential North Korean aggression, the South Korea and United States began their largest-ever combined military drills, despite Beijing's protests."
             }
         ],
         "Japan": [
             {
-                "title": "US Secretary of State Antony Blinken meets Japan’s top officials to discuss security concerns",
-                "risk_level": "Medium",
-                "summary": "The meeting aims to reinforce the United States’ commitment to Japan’s defense, amidst ongoing tensions with China and North Korea."
-            },
-            {
-                "title": "Tokyo reports highest number of new COVID-19 cases in 7 months",
-                "risk_level": "Low",
-                "summary": "The Japanese capital's surge in new cases is attributed to a new variant of the virus, prompting concerns about a potential new wave of infections."
-            },
-            {
-                "title": "Japanese Prime Minister Fumio Kishida’s approval ratings hit record low amid economic concerns",
+                "title": "North Korea says it fired ballistic missiles",
                 "risk_level": "High",
-                "summary": "Kishida's ratings have plummeted due to Japan's stagnant economy and rising prices, creating a potential threat to his leadership."
+                "summary": "North Korea said it test-fired ballistic missiles on June 20, 2024, sparking alarm in the region and prompting condemnation from the United States. The launches, which Seoul said fired short-range ballistic missiles, came after Pyongyang earlier this week criticized a US anti-missile system test in Hawaii that involved a rocket interceptor."
+            },
+            {
+                "title": "Tokyo police detain 2 in alleged plot to kill Abe's assassin",
+                "risk_level": "High",
+                "summary": "Tokyo police have arrested two men suspected of conspiring to kill the man who assassinated former Japanese Prime Minister Shinzo Abe in 2022. The suspects were detained on June 15, 2024, on suspicion of planning to harm Tetsuya Yamagami, who shot Abe at a campaign event in Nara Prefecture."
+            },
+            {
+                "title": "Japan's defense minister visits South Korea, sparking protests",
+                "risk_level": "Medium",
+                "summary": "Japan's Defense Minister Yasukazu Hamada visited South Korea on June 18, 2024, sparking protests from both Japanese and South Korean nationalists. The visit aimed to strengthen ties between the two nations, but it was met with opposition from those who oppose any attempts to improve relations between the two countries."
             }
         ]
     }
