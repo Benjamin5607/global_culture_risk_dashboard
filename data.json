@@ -1,21 +1,5 @@
 [
     {
-        "term": "Ren renov",
-        "group": "Viral Video Challenge",
-        "country": "South Korea",
-        "category": "Entertainment",
-        "risk_level": "Low",
-        "trend_score": 8.5,
-        "status": "Active",
-        "first_detected": "2023-03-01",
-        "last_updated": "2023-05-15",
-        "context": {
-            "en": "The 'Ren renov' trend on TikTok features users showcasing their home renovation projects, often highlighting creative and affordable ideas.",
-            "ko": "틱톡에서 '렌노바'라는 트레ンド가 등장했습니다. 사용자는 저렴하고 창의적인 집 리폼 아이디어를 보여주었습니다.",
-            "ja": "TikTokでは、「Ren Renov」というトレンドが出现しました。その中でユーザーは、費用がかからずか creativeness が高い家のリフォームアイデアを披露しました"
-        }
-    },
-    {
         "term": "OKBOY",
         "group": "White supremacy",
         "country": "USA",
@@ -2397,6 +2381,22 @@
             "en": "A popular TikTok dance that was originated in Australia and became a global hit.",
             "ko": "",
             "ja": ""
+        }
+    },
+    {
+        "term": "Ren renov",
+        "group": "Viral Video Challenge",
+        "country": "South Korea",
+        "category": "Entertainment",
+        "risk_level": "Low",
+        "trend_score": 8.5,
+        "status": "Archived",
+        "first_detected": "2023-03-01",
+        "last_updated": "2023-05-15",
+        "context": {
+            "en": "The 'Ren renov' trend on TikTok features users showcasing their home renovation projects, often highlighting creative and affordable ideas.",
+            "ko": "틱톡에서 '렌노바'라는 트레ンド가 등장했습니다. 사용자는 저렴하고 창의적인 집 리폼 아이디어를 보여주었습니다.",
+            "ja": "TikTokでは、「Ren Renov」というトレンドが出现しました。その中でユーザーは、費用がかからずか creativeness が高い家のリフォームアイデアを披露しました"
         }
     },
     {

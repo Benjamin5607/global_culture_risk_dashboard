@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rise in Global Cyberattacks",
+                "title": "Cyber Attack on Global Supply Chain Exposed 10 Million Records",
                 "risk_level": "High",
-                "summary": "Major cybersecurity firms report a surge in global cyberattacks over the past 7 days"
+                "summary": "Global supply chain management company exposed 10 million customer and supplier records due to a critical vulnerability in their e-commerce system."
             },
             {
-                "title": "Middle East Tensions Escalate",
+                "title": "Global Unrest and Protests Over Economic Crisis",
                 "risk_level": "High",
-                "summary": "Tensions between regional powers in the Middle East have escalated, leading to concerns of potential conflict"
+                "summary": "Global economic crisis leads to widespread protests and civil unrest, with multiple countries experiencing violent clashes between government forces and protesters."
             },
             {
-                "title": "Global Pandemic Concerns",
+                "title": "Global Cybersecurity Firm Hacked, Sensitive Client Data Stolen",
                 "risk_level": "Medium",
-                "summary": "The global pandemic continues to pose risks, with new variants emerging and vaccination efforts underway"
+                "summary": "Leading cybersecurity firm had 50,000 records stolen, including sensitive data on high-profile clients, due to a sophisticated phishing attack."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court blocks Biden's student loan forgiveness plan",
-                "risk_level": "Medium",
-                "summary": "The US Supreme Court blocked President Joe Biden's plan to forgive student loans, dealing a major setback to his campaign promise and affecting millions of borrowers."
-            },
-            {
-                "title": "US and Russia hold nuclear talks in Geneva",
+                "title": "Gunman Kills 3, Injures 9 in Downtown Sacramento Shooting",
                 "risk_level": "High",
-                "summary": "US and Russian officials held nuclear talks in Geneva, with the US pushing for a new arms control deal and Russia seeking reassurances on its security concerns."
+                "summary": "A shooting in downtown Sacramento on Sunday morning left three people dead and nine injured, highlighting the ongoing issue of gun violence in the United States."
             },
             {
-                "title": "New York City subway attack: Man charged with federal terrorism offenses",
+                "title": "Tornadoes Cause Widespread Damage in the South",
+                "risk_level": "High",
+                "summary": "A series of tornadoes swept across the southern United States, causing significant damage and property loss, and resulting in at least one reported death."
+            },
+            {
+                "title": "Abortion Rights Under Threat in US Supreme Court Decision",
                 "risk_level": "Low",
-                "summary": "A man was charged with federal terrorism offenses after a violent attack on a New York City subway train, which left several people injured."
+                "summary": "The US Supreme Court has ruled to overturn the landmark abortion case Roe v. Wade, marking a significant shift in reproductive rights in the country and sparking widespread protests."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korean Presidential Hopefuls Vow to Confront North Korea at Davos Dialogue",
+                "title": "North Korea fires short-range missiles, South Korea scrambles jets",
                 "risk_level": "High",
-                "summary": "In remarks delivered during a high-profile Davos dialogue, two prominent presidential candidates pledged to confront North Korea using a variety of tools, including diplomacy and military force."
+                "summary": "North Korea fired multiple short-range missiles into the sea on Thursday, prompting South Korea to scramble jets and the US to condemn the launch. The launches came after a series of drills involving US and South Korean forces, which Pyongyang described as a 'deliberate provocation'."
             },
             {
-                "title": "South Korea Arrests Dozens of Protesters Who Stormed U.S. Ambassador's Residence",
+                "title": "South Korean court suspends sentence of Samsung leader Lee Jae-yong",
                 "risk_level": "Medium",
-                "summary": "Dozens of people were detained in the aftermath of protests at the U.S. ambassador's residence in South Korea's presidential district, with police accusing a group of activists of inciting the crowds."
+                "summary": "A South Korean court has suspended the sentence of Samsung leader Lee Jae-yong, who was convicted of bribing a former president to secure succession to the family business. The move is seen as a significant victory for the Samsung group, which is a key driver of South Korea's economy."
             },
             {
-                "title": "South Korea and US Begin Largest-Ever Joint Military Exercise Amid Rising Tensions with North Korea",
-                "risk_level": "High",
-                "summary": "In a move aimed at deterring potential North Korean aggression, the South Korea and United States began their largest-ever combined military drills, despite Beijing's protests."
+                "title": "South Korea's parliament passes bill to strengthen surveillance laws",
+                "risk_level": "Medium",
+                "summary": "South Korea's parliament has passed a bill to strengthen surveillance laws, allowing authorities to monitor internet users and track their online activities. The move is seen as a response to growing concerns over cybercrime and national security."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea says it fired ballistic missiles",
+                "title": "North Korea fired a ballistic missile towards Japan",
                 "risk_level": "High",
-                "summary": "North Korea said it test-fired ballistic missiles on June 20, 2024, sparking alarm in the region and prompting condemnation from the United States. The launches, which Seoul said fired short-range ballistic missiles, came after Pyongyang earlier this week criticized a US anti-missile system test in Hawaii that involved a rocket interceptor."
+                "summary": "The Japanese government has issued a warning after a ballistic missile was launched by North Korea and flew over the country."
             },
             {
-                "title": "Tokyo police detain 2 in alleged plot to kill Abe's assassin",
+                "title": "Typhoon Mawar brings strong winds and heavy rain to Japan",
                 "risk_level": "High",
-                "summary": "Tokyo police have arrested two men suspected of conspiring to kill the man who assassinated former Japanese Prime Minister Shinzo Abe in 2022. The suspects were detained on June 15, 2024, on suspicion of planning to harm Tetsuya Yamagami, who shot Abe at a campaign event in Nara Prefecture."
+                "summary": "The storm has caused power outages and disrupted transportation in several regions, with the risk of landslides and flooding remaining high."
             },
             {
-                "title": "Japan's defense minister visits South Korea, sparking protests",
+                "title": "New COVID-19 restrictions implemented in Tokyo amid surge in cases",
                 "risk_level": "Medium",
-                "summary": "Japan's Defense Minister Yasukazu Hamada visited South Korea on June 18, 2024, sparking protests from both Japanese and South Korean nationalists. The visit aimed to strengthen ties between the two nations, but it was met with opposition from those who oppose any attempts to improve relations between the two countries."
+                "summary": "A growing number of COVID-19 cases in Tokyo has led to the imposition of new rules to reduce the spread of the virus, including mask mandates and gathering limits."
             }
         ]
     }
