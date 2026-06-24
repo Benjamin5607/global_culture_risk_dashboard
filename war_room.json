@@ -3,76 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Conflict escalates in Eastern Ukraine with reports of artillery strikes.",
-                "risk_level": "High",
-                "summary": "Clashes between Ukrainian forces and Russian-backed separatists have intensified in recent days, with reports of shelling and small-arms fire in eastern Ukraine."
+                "title": "Global Economic Slowdown",
+                "risk_level": "Medium",
+                "summary": "The global economic slowdown continues to pose a threat to businesses and economies worldwide."
             },
             {
-                "title": "China conducts joint naval drills with Pakistan, raising tensions in the region.",
+                "title": "Cyber Attacks on Critical Infrastructure",
                 "risk_level": "High",
-                "summary": "The Chinese and Pakistani navies conducted joint drills in the Arabian Sea, with observers warning of the potential for increased tensions in the region."
+                "summary": "Recent cyber attacks on critical infrastructure have raised concerns about the vulnerability of these systems."
             },
             {
-                "title": "North Korea conducts a new missile test, sparking international condemnation.",
-                "risk_level": "High",
-                "summary": "North Korea's latest missile test has been widely condemned by the international community, with many calling for increased sanctions and diplomatic pressure on the regime."
+                "title": "Social Unrest and Protests",
+                "risk_level": "Medium",
+                "summary": "Increasing social unrest and protests across the globe pose a risk to stability and economic growth."
             }
         ],
         "United States": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "US Senate Passes Historic Gun Control Bill: The US Senate has passed a landmark bipartisan gun control bill, aiming to curtail gun violence nationwide. The bill faces a tense battle in the House of Representatives, where Democrats' support may be waning."
-            },
-            {
-                "title": "",
+                "title": "US Supreme Court Declines to Block Abortion Ban in Idaho",
                 "risk_level": "High",
-                "summary": "Tensions Rise Between US, EU Over Global Economic Governance: Tensions have escalated between the US and EU over the global economic governance, with the EU accusing the US of attempting to undermine international cooperation. The situation remains volatile."
+                "summary": "The US Supreme Court on Thursday declined to block an abortion ban in Idaho, allowing the law to remain in effect for the time being."
             },
             {
-                "title": "",
+                "title": "US Senate Advances Bill to Ban TikTok in the Country",
                 "risk_level": "Medium",
-                "summary": "Major US Cities Prepare for Potential Migrant Caravan: Cities along the US-Mexico border are bracing for the potential arrival of a large migrant caravan, sparking concerns about border security and social unrest."
+                "summary": "A bill that seeks to ban TikTok, a Chinese-owned video-sharing app, in the US has advanced in the Senate, with lawmakers citing national security concerns."
+            },
+            {
+                "title": "Major Cyber Attack Hits US Government Agencies",
+                "risk_level": "High",
+                "summary": "A major cyber attack has hit several US government agencies, with officials saying it was likely carried out by a sophisticated hacking group."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires multiple cruise missiles amid heightened tensions with South Korea",
+                "title": "North Korea fires unidentified 'projectiles' into the sea - South Korea",
                 "risk_level": "High",
-                "summary": "North Korea fired multiple cruise missiles on June 22, 2022, sparking concerns about a potential escalation of tensions with South Korea.."
+                "summary": "South Korea says North Korea has fired unidentified projectiles into the sea. There was no immediate comment from North Korea. The launches were detected on June 22nd by the South Korean military. The projectiles flew 350 kilometers into the sea before landing in the Exclusive Economic Zone of South Korea. No casualties or damage were reported."
             },
             {
-                "title": "South Korea's parliament impeaches President Park Geun-hye",
+                "title": "South Korea's President Yoon meets with Joe Biden in Tokyo for Quad summit",
                 "risk_level": "Medium",
-                "summary": "President Park Geun-hye was impeached by South Korea's parliament on December 9, 2016, following a corruption scandal. The move marked a major political upheaval in the country."
+                "summary": "South Korea's President Yoon Suk-yeol met with US President Joe Biden in Tokyo for the Quad summit, a meeting of foreign leaders from the US, Japan, Australia, and India. They discussed trade, security, and climate issues. The summit was seen as an opportunity for the leaders to strengthen economic and security ties between their countries."
             },
             {
-                "title": "Anti-government protests erupt in South Korea over labor laws",
+                "title": "South Korean police clash with protesters amidst COVID-19 rules",
                 "risk_level": "Low",
-                "summary": "Thousands of protesters took to the streets in South Korea on November 13, 2018, to demonstrate against the government's plans to change labor laws."
+                "summary": "Hundreds of protesters gathered in Seoul's Myeong-dong shopping district to protest against the South Korean government's COVID-19 rules. The protesters, who were mostly unmasked, clashed with police officers who were trying to disperse them. Several people were arrested."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "",
-                "description": "June 12: Tokyo holds its first Pride Parade in the last 11 years, a sign of growing support for the LGBTQ+ community despite some conservative opposition and traditionalism within Japanese society.",
-                "risk_type": "Social"
-            },
-            {
-                "title": "",
-                "risk_level": "Moderate",
-                "summary": "",
-                "description": "June 20: Japan's lower house approves a bill to create a new law that will punish individuals and institutions who have 'obstructed' a person's right to abortion. Abortion will become criminalized after 22 weeks.",
-                "risk_type": "Political"
-            },
-            {
-                "title": "",
+                "title": "Japanese government to implement new security law to counter North Korean threats",
                 "risk_level": "High",
-                "summary": "",
-                "description": "June 14: Japan's trade minister Yasutoshi Nishimura, and 8 other ministers face resignation requests from Prime Minister Fumio Kishida due to an ongoing scandal involving their involvement in a corruption scheme in the country's renewable energy program, which was found by the Japanese parliament.",
-                "risk_type": "Political"
+                "summary": "The Japanese government has announced plans to implement a new security law to counter North Korean threats, which includes increased military funding and a more assertive foreign policy. This move is expected to further strain relations with China and other neighboring countries."
+            },
+            {
+                "title": "Japan's ruling party to push for constitutional reform",
+                "risk_level": "Medium",
+                "summary": "Japan's ruling party, the Liberal Democratic Party, has announced plans to push for constitutional reform, including changes to Article 9, which limits the country's military capabilities. This move is expected to face opposition from opponents and has potential implications for Japan's domestic politics."
+            },
+            {
+                "title": "Rising tensions between Japan and South Korea over historical issues",
+                "risk_level": "High",
+                "summary": "Tensions have risen between Japan and South Korea over historical issues, including Japan's wartime forced labor and sex slavery policies. The dispute has potential implications for bilateral trade and security cooperation between the two countries."
             }
         ]
     }
