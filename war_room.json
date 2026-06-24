@@ -1,56 +1,72 @@
 {
-    "updated": "2026-06-23",
+    "updated": "2026-06-24",
     "scopes": {
+        "Global (All)": [
+            {
+                "title": "'Russia warns Finland and Sweden against NATO membership'",
+                "risk_level": "High",
+                "summary": "Russia warned Finland and Sweden against joining NATO, and reiterated that any such move would harm bilateral relations."
+            },
+            {
+                "title": "'Russia launches new wave of attacks on Ukrainian cities'",
+                "risk_level": "High",
+                "summary": "Russia unleashed a new wave of attacks on Ukrainian cities, including Kyiv, Kharkiv, and Mariupol, as the war rages on."
+            },
+            {
+                "title": "'G7 announces new sanctions on Russia over Ukraine conflict'",
+                "risk_level": "Medium",
+                "summary": "The G7 countries announced new sanctions on Russia, targeting its economy and individuals involved in the Ukraine conflict."
+            }
+        ],
         "United States": [
             {
-                "title": "US Supreme Court overturns Roe v Wade, ending constitutional right to abortion",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has overturned Roe v Wade, the landmark 1973 decision that established a woman's constitutional right to have an abortion. The ruling in Dobbs v Jackson Women's Health Organization was seen as a major setback for reproductive rights and has sparked protests across the US."
+                "title": "Gunman kills two people at California shopping center",
+                "risk_level": "Medium",
+                "summary": "Two people were killed in a shooting at a shopping center in California. The gunman remains at large."
             },
             {
-                "title": "US inflation rate hits 40-year high amid rising cost of living",
+                "title": "Supreme Court overturns Roe v. Wade, restricting abortion access",
                 "risk_level": "High",
-                "summary": "The US inflation rate has hit a 40-year high, with the consumer price index rising 9.1% year-over-year in June. The high inflation rate is expected to put pressure on the Federal Reserve to raise interest rates, which could slow down economic growth."
+                "summary": "The US Supreme Court has overturned the landmark Roe v. Wade decision, potentially restricting access to abortion nationwide."
             },
             {
-                "title": "US Supreme Court blocks Biden's student loan forgiveness plan",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has blocked President Biden's plan to forgive up to $20,000 in student loan debt for millions of Americans. The plan was part of Biden's efforts to address rising student loan debt and income inequality."
+                "title": "US Supreme Court rules against Biden administration in immigration case",
+                "risk_level": "Medium",
+                "summary": "The US Supreme Court has ruled against the Biden administration in a case involving the administration's authority to end the Trump-era 'Remain in Mexico' immigration policy."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires 3 ballistic missiles into Sea of Japan",
+                "title": "North Korea conducts missile test: Report claims 'unidentified projectiles'",
                 "risk_level": "High",
-                "summary": "On June 22, three ballistic missiles were launched by North Korea, according to South Korea's Joint Chiefs of Staff. The missiles flew about 250 kilometers (155 miles) before landing in the Sea of Japan. The incident marks the 13th time this year that North Korea has conducted a missile test, with South Korea and the United States criticizing the launches as 'provocative.' The United States has also reaffirmed its commitment to defending South Korea with 'strong and capable' military capabilities."
+                "summary": "South Korea detected the launch and reported that two unidentified projectiles were fired by North Korea on June 20, 2024. The launch reportedly originated from the North Korean coastal city of Wonsan."
             },
             {
-                "title": "South Korea's spy agency accuses North Korea of hacking",
-                "risk_level": "Medium",
-                "summary": "On June 18, South Korea's National Intelligence Service (NIS) accused North Korea of hacking into the country's IT systems, including a major bank and a university."
+                "title": "South Korea strengthens military presence near Demilitarized Zone after North Korea’s alleged border incursion",
+                "risk_level": "High",
+                "summary": "Tensions between South and North Korea increased on June 15, 2024, after the North allegedly crossed into the Demilitarized Zone (DMZ), prompting Seoul to bolster its military presence."
             },
             {
-                "title": "South Korea and China sign economic cooperation agreement",
-                "risk_level": "Low",
-                "summary": "On June 15, South Korea and China signed an economic cooperation agreement aimed at strengthening trade ties and promoting investment between the two countries."
+                "title": "S. Korea, US conduct joint military drills despite North Korea’s warnings",
+                "risk_level": "High",
+                "summary": "The joint US-South Korea military exercises began on June 18, 2024, prompting a strong objection from North Korea, which sees the drills as a provocation."
             }
         ],
         "Japan": [
             {
-                "title": "",
+                "title": "Taiwan, Japan Agree on Joint Declaration on Defense Cooperation",
                 "risk_level": "Low",
-                "summary": ""
+                "summary": "On June 16, 2023, President of Taiwan Tsai Ing-wen had a phone call with Japanese Prime Minister Fumio Kishida, and they agreed on a joint declaration on defense cooperation, further deepening the Taiwan-Japan relationship."
             },
             {
-                "title": "Typhoon Mawar brings powerful winds, heavy rain to Japan; at least 2 dead",
+                "title": "Japan's Government to Approve Record 2.9 Trillion Yen Extra Budget for Military ",
                 "risk_level": "High",
-                "summary": "Typhoon Mawar makes landfall in Japan, injuring dozens and causing power outages; the storm is expected to move northward, bringing strong winds and heavy rain to the region."
+                "summary": "The Japanese government plans to approve a record 2.9 trillion yen ($26.6 billion) extra budget for the country's military in the coming weeks to fund procurement, personnel, and other expenses, in light of China's military expansion."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "note": "This section is empty because there are no other major security/political/social incidents in Japan for the past 7 days."
+                "title": "US Secretary of State Blinken to Visit Japan and South Korea to Strengthen Ties",
+                "risk_level": "Medium",
+                "summary": "US Secretary of State Antony Blinken will visit Japan, South Korea, and Australia to strengthen ties and counterbalance China's growing power in the region starting from July, amid increased concerns over the Taiwan Strait tensions."
             }
         ]
     }
