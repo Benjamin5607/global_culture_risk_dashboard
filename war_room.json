@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "'Russia warns Finland and Sweden against NATO membership'",
+                "title": "US-China Tensions Escalate Amid Trade Dispute",
                 "risk_level": "High",
-                "summary": "Russia warned Finland and Sweden against joining NATO, and reiterated that any such move would harm bilateral relations."
+                "summary": "The ongoing trade dispute between the US and China has led to increased tensions, with both sides imposing tariffs on each other's goods."
             },
             {
-                "title": "'Russia launches new wave of attacks on Ukrainian cities'",
+                "title": "Global Cyberattacks on the Rise",
                 "risk_level": "High",
-                "summary": "Russia unleashed a new wave of attacks on Ukrainian cities, including Kyiv, Kharkiv, and Mariupol, as the war rages on."
+                "summary": "There has been a significant increase in global cyberattacks in the past week, with many high-profile companies and governments being targeted."
             },
             {
-                "title": "'G7 announces new sanctions on Russia over Ukraine conflict'",
+                "title": "Climate Change Protests Spread Worldwide",
                 "risk_level": "Medium",
-                "summary": "The G7 countries announced new sanctions on Russia, targeting its economy and individuals involved in the Ukraine conflict."
+                "summary": "Protests and demonstrations against climate change are taking place in many countries around the world, causing disruptions and uncertainty."
             }
         ],
         "United States": [
             {
-                "title": "Gunman kills two people at California shopping center",
-                "risk_level": "Medium",
-                "summary": "Two people were killed in a shooting at a shopping center in California. The gunman remains at large."
-            },
-            {
-                "title": "Supreme Court overturns Roe v. Wade, restricting abortion access",
+                "title": "Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has overturned the landmark Roe v. Wade decision, potentially restricting access to abortion nationwide."
+                "summary": "The US Supreme Court has blocked President Joe Biden's plan to forgive student loans, dealing a blow to the Biden administration's efforts to address the issue."
             },
             {
-                "title": "US Supreme Court rules against Biden administration in immigration case",
+                "title": "Gunman kills 4 in Brooklyn subway shooting",
+                "risk_level": "High",
+                "summary": "A gunman opened fire on a subway train in Brooklyn, New York, killing 4 people and wounding several others in a shocking and tragic incident."
+            },
+            {
+                "title": "US Treasury Department sanctioned Russian officials and entities",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court has ruled against the Biden administration in a case involving the administration's authority to end the Trump-era 'Remain in Mexico' immigration policy."
+                "summary": "The US Treasury Department has imposed sanctions on several Russian officials and entities in response to Russia's ongoing invasion of Ukraine."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea conducts missile test: Report claims 'unidentified projectiles'",
+                "title": "North Korea warns US over military drills",
                 "risk_level": "High",
-                "summary": "South Korea detected the launch and reported that two unidentified projectiles were fired by North Korea on June 20, 2024. The launch reportedly originated from the North Korean coastal city of Wonsan."
+                "summary": "North Korea has threatened to take action against the US over joint military drills being held with South Korea, describing them as an \"intolerable provocation\"."
             },
             {
-                "title": "South Korea strengthens military presence near Demilitarized Zone after North Korea’s alleged border incursion",
-                "risk_level": "High",
-                "summary": "Tensions between South and North Korea increased on June 15, 2024, after the North allegedly crossed into the Demilitarized Zone (DMZ), prompting Seoul to bolster its military presence."
+                "title": "S.Korea's economy at risk of recession due to weak exports",
+                "risk_level": "Medium",
+                "summary": "South Korea's economy is at risk of recession due to weak exports, according to the country's finance minister."
             },
             {
-                "title": "S. Korea, US conduct joint military drills despite North Korea’s warnings",
-                "risk_level": "High",
-                "summary": "The joint US-South Korea military exercises began on June 18, 2024, prompting a strong objection from North Korea, which sees the drills as a provocation."
+                "title": "S.Korea police arrest hundreds of protesters at anti-government rally",
+                "risk_level": "Medium",
+                "summary": "Police in South Korea have arrested hundreds of protesters at an anti-government rally in the capital, Seoul."
             }
         ],
         "Japan": [
             {
-                "title": "Taiwan, Japan Agree on Joint Declaration on Defense Cooperation",
-                "risk_level": "Low",
-                "summary": "On June 16, 2023, President of Taiwan Tsai Ing-wen had a phone call with Japanese Prime Minister Fumio Kishida, and they agreed on a joint declaration on defense cooperation, further deepening the Taiwan-Japan relationship."
-            },
-            {
-                "title": "Japan's Government to Approve Record 2.9 Trillion Yen Extra Budget for Military ",
-                "risk_level": "High",
-                "summary": "The Japanese government plans to approve a record 2.9 trillion yen ($26.6 billion) extra budget for the country's military in the coming weeks to fund procurement, personnel, and other expenses, in light of China's military expansion."
-            },
-            {
-                "title": "US Secretary of State Blinken to Visit Japan and South Korea to Strengthen Ties",
+                "title": "US and Japan Conduct Anti-Submarine Warfare Exercises in South China Sea",
                 "risk_level": "Medium",
-                "summary": "US Secretary of State Antony Blinken will visit Japan, South Korea, and Australia to strengthen ties and counterbalance China's growing power in the region starting from July, amid increased concerns over the Taiwan Strait tensions."
+                "summary": "The US and Japan have conducted joint anti-submarine warfare exercises in the South China Sea in a bid to enhance regional cooperation and counter China's expanding military presence."
+            },
+            {
+                "title": "Japan's Lower House Approves Budget for Defense Spending",
+                "risk_level": "Low",
+                "summary": "Japan's lower house of parliament has approved a budget for defense spending, including a record 5.3 trillion yen ($38.6 billion) allocation for the fiscal year."
+            },
+            {
+                "title": "Japan and Taiwan Discuss Defense Cooperation Amid China Tensions",
+                "risk_level": "High",
+                "summary": "Japan and Taiwan have discussed defense cooperation amid rising tensions with China, with Tokyo and Taipei agreeing to enhance their military alliance in the face of Beijing's growing presence in the South China Sea."
             }
         ]
     }
