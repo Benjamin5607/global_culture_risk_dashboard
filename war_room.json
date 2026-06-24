@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Riots in Iran amid growing tensions with Israel",
+                "title": "North Korea's leader Kim Jong Un orders new nuclear tests despite economic woes",
                 "risk_level": "High",
-                "summary": "Riots have broken out in Iran's capital city of Tehran, amid growing tensions with Israel. The protests are led by opposition groups who are calling for the government to intervene in the escalating standoff with Israel."
+                "summary": "North Korea's leader Kim Jong Un has ordered a new nuclear test, despite the country's economic woes, raising concerns about regional instability."
             },
             {
-                "title": "US-China trade tensions escalate",
+                "title": "Russia's economic growth slows down due to Western sanctions",
                 "risk_level": "High",
-                "summary": "The US and China have announced new trade measures, escalating tensions between the two countries. The US has imposed new tariffs on Chinese goods, and China has retaliated with its own set of tariffs."
+                "summary": "Russia's economic growth has slowed down due to Western sanctions imposed after its invasion of Ukraine, increasing the risk of a financial crisis."
             },
             {
-                "title": "Cyber attack hits major US hospital",
-                "risk_level": "High",
-                "summary": "A major US hospital has been hit by a cyber attack, which has resulted in the theft of sensitive patient data. The attack is believed to have been carried out by a sophisticated hacking group."
+                "title": "Global protests against vaccine mandates",
+                "risk_level": "Medium",
+                "summary": "Global protests against vaccine mandates have been reported, leading to concerns about public health and safety."
             }
         ],
         "United States": [
             {
-                "title": "",
+                "title": "US Shootings on the Rise Amid Debate Over Gun Control | CNN Politics",
                 "risk_level": "High",
-                "summary": "Mass shootings have increased over the past week in the United States, sparking renewed debate over gun control."
+                "summary": "There were at least 18 mass shootings in the US in June, leaving 12 people dead and dozens more injured. The uptick in violence has sparked renewed calls for stricter gun control laws, with some lawmakers pushing for a ban on assault weapons and others advocating for mental health reform."
             },
             {
-                "title": "",
+                "title": "US-China tensions escalate as US House passes bill aimed at Beijing | CNN Politics",
+                "risk_level": "High",
+                "summary": "The US House of Representatives voted on a bill that aims to increase scrutiny of foreign companies' ties to the Chinese military and restrict US investment in China's semiconductor industry. The move marks the latest escalation in US-China tensions, which have been fueled by concerns over Taiwan, espionage, and trade."
+            },
+            {
+                "title": "Biden administration faces backlash over border surge | CNN Politics",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court's recent decision to limit Environmental Protection Agency (EPA) authority has raised concerns about environmental policy and its impact on public health."
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "A recent survey suggests a slight rise in anti-vaccination sentiment among Americans, potentially threatening public health initiatives."
+                "summary": "The Biden administration is facing criticism over the surge in migrants at the US-Mexico border, with some lawmakers calling for stricter border controls and others advocating for a more humane approach to immigration policy."
             }
         ],
         "South Korea": [
             {
-                "title": "N. Korea fires projectiles in suspected missile tests",
-                "risk_level": "High",
-                "summary": "South Korea's military says North Korea fired projectiles into its eastern waters, with the exact type and range still unclear, amid a recent flurry of missile tests. The South's Joint Chiefs of Staff reported the launches, describing them as 'suspected missile tests.' "
-            },
-            {
-                "title": "US imposes sanctions on Chinese companies for North Korea ties",
+                "title": "Suspected North Korean Drone spotted near border area",
                 "risk_level": "Medium",
-                "summary": "The US Treasury has imposed sanctions on several Chinese companies and individuals for allegedly doing business with North Korea in defiance of international restrictions. The US sees China as key to pressuring North Korea to give up its nuclear arsenal."
+                "summary": "South Korea's military detected a suspected North Korean drone near the border area on June 17, raising concerns about the potential for increased tensions between the two countries."
             },
             {
-                "title": "Japan, South Korea to discuss disputed isles",
-                "risk_level": "Low",
-                "summary": "A Japanese defense official says Tokyo and Seoul will have a meeting soon to discuss their long-standing dispute over a group of islets in the Korea Strait. The dispute has strained ties between the US allies."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo reports first COVID-19 cases in over two weeks",
+                "title": "Japan's PM Fumio Kishida tests positive for COVID-19",
                 "risk_level": "Low",
-                "summary": "Tokyo reported 23 new COVID-19 cases on Sunday, its first cases in over two weeks, as Japan sees a resurgence in virus cases."
+                "summary": "Japanese Prime Minister Fumio Kishida has tested positive for COVID-19, forcing him to cancel a few engagements. The positive test comes at a time when COVID-19 cases are surging in Japan."
             },
             {
-                "title": "Japan's ruling party to propose constitutional revision bills ",
+                "title": "Japan's Nikkei hits record high as yen surges",
                 "risk_level": "Medium",
-                "summary": "Japan's ruling Liberal Democratic Party will propose bills to revise the country's post-war pacifist constitution, a long-held goal, on Friday."
+                "summary": "The Nikkei index in Japan has surged to a 22 year record high as the yen appreciated to an 8-month high, driven by investors seeking safe-haven assets due to geopolitical tensions."
             },
             {
-                "title": "Typhoon Hinnamor makes landfall in Japan",
+                "title": "Japan's economy shrinks 1.8% in Q1, sparking fears of recession",
                 "risk_level": "High",
-                "summary": "Typhoon Hinnamor made landfall in Japan on Wednesday, bringing strong winds and heavy rain, with the country's weather agency issuing a rare warning for a typhoon's 'violent windstorms'."
+                "summary": "Japan's economy contracted at a rate of 1.8% in the first quarter of this year, sparking fears of recession and prompting warnings from the government and central bank to take action to boost economic growth."
             }
         ]
     }
