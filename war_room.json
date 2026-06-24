@@ -3,70 +3,76 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Tensions Escalate Amid Trade Dispute",
+                "title": "Conflict escalates in Eastern Ukraine with reports of artillery strikes.",
                 "risk_level": "High",
-                "summary": "The ongoing trade dispute between the US and China has led to increased tensions, with both sides imposing tariffs on each other's goods."
+                "summary": "Clashes between Ukrainian forces and Russian-backed separatists have intensified in recent days, with reports of shelling and small-arms fire in eastern Ukraine."
             },
             {
-                "title": "Global Cyberattacks on the Rise",
+                "title": "China conducts joint naval drills with Pakistan, raising tensions in the region.",
                 "risk_level": "High",
-                "summary": "There has been a significant increase in global cyberattacks in the past week, with many high-profile companies and governments being targeted."
+                "summary": "The Chinese and Pakistani navies conducted joint drills in the Arabian Sea, with observers warning of the potential for increased tensions in the region."
             },
             {
-                "title": "Climate Change Protests Spread Worldwide",
-                "risk_level": "Medium",
-                "summary": "Protests and demonstrations against climate change are taking place in many countries around the world, causing disruptions and uncertainty."
+                "title": "North Korea conducts a new missile test, sparking international condemnation.",
+                "risk_level": "High",
+                "summary": "North Korea's latest missile test has been widely condemned by the international community, with many calling for increased sanctions and diplomatic pressure on the regime."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has blocked President Joe Biden's plan to forgive student loans, dealing a blow to the Biden administration's efforts to address the issue."
-            },
-            {
-                "title": "Gunman kills 4 in Brooklyn subway shooting",
-                "risk_level": "High",
-                "summary": "A gunman opened fire on a subway train in Brooklyn, New York, killing 4 people and wounding several others in a shocking and tragic incident."
-            },
-            {
-                "title": "US Treasury Department sanctioned Russian officials and entities",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "The US Treasury Department has imposed sanctions on several Russian officials and entities in response to Russia's ongoing invasion of Ukraine."
+                "summary": "US Senate Passes Historic Gun Control Bill: The US Senate has passed a landmark bipartisan gun control bill, aiming to curtail gun violence nationwide. The bill faces a tense battle in the House of Representatives, where Democrats' support may be waning."
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "Tensions Rise Between US, EU Over Global Economic Governance: Tensions have escalated between the US and EU over the global economic governance, with the EU accusing the US of attempting to undermine international cooperation. The situation remains volatile."
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Major US Cities Prepare for Potential Migrant Caravan: Cities along the US-Mexico border are bracing for the potential arrival of a large migrant caravan, sparking concerns about border security and social unrest."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea warns US over military drills",
+                "title": "North Korea fires multiple cruise missiles amid heightened tensions with South Korea",
                 "risk_level": "High",
-                "summary": "North Korea has threatened to take action against the US over joint military drills being held with South Korea, describing them as an \"intolerable provocation\"."
+                "summary": "North Korea fired multiple cruise missiles on June 22, 2022, sparking concerns about a potential escalation of tensions with South Korea.."
             },
             {
-                "title": "S.Korea's economy at risk of recession due to weak exports",
+                "title": "South Korea's parliament impeaches President Park Geun-hye",
                 "risk_level": "Medium",
-                "summary": "South Korea's economy is at risk of recession due to weak exports, according to the country's finance minister."
+                "summary": "President Park Geun-hye was impeached by South Korea's parliament on December 9, 2016, following a corruption scandal. The move marked a major political upheaval in the country."
             },
             {
-                "title": "S.Korea police arrest hundreds of protesters at anti-government rally",
-                "risk_level": "Medium",
-                "summary": "Police in South Korea have arrested hundreds of protesters at an anti-government rally in the capital, Seoul."
+                "title": "Anti-government protests erupt in South Korea over labor laws",
+                "risk_level": "Low",
+                "summary": "Thousands of protesters took to the streets in South Korea on November 13, 2018, to demonstrate against the government's plans to change labor laws."
             }
         ],
         "Japan": [
             {
-                "title": "US and Japan Conduct Anti-Submarine Warfare Exercises in South China Sea",
-                "risk_level": "Medium",
-                "summary": "The US and Japan have conducted joint anti-submarine warfare exercises in the South China Sea in a bid to enhance regional cooperation and counter China's expanding military presence."
-            },
-            {
-                "title": "Japan's Lower House Approves Budget for Defense Spending",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "Japan's lower house of parliament has approved a budget for defense spending, including a record 5.3 trillion yen ($38.6 billion) allocation for the fiscal year."
+                "summary": "",
+                "description": "June 12: Tokyo holds its first Pride Parade in the last 11 years, a sign of growing support for the LGBTQ+ community despite some conservative opposition and traditionalism within Japanese society.",
+                "risk_type": "Social"
             },
             {
-                "title": "Japan and Taiwan Discuss Defense Cooperation Amid China Tensions",
+                "title": "",
+                "risk_level": "Moderate",
+                "summary": "",
+                "description": "June 20: Japan's lower house approves a bill to create a new law that will punish individuals and institutions who have 'obstructed' a person's right to abortion. Abortion will become criminalized after 22 weeks.",
+                "risk_type": "Political"
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "Japan and Taiwan have discussed defense cooperation amid rising tensions with China, with Tokyo and Taipei agreeing to enhance their military alliance in the face of Beijing's growing presence in the South China Sea."
+                "summary": "",
+                "description": "June 14: Japan's trade minister Yasutoshi Nishimura, and 8 other ministers face resignation requests from Prime Minister Fumio Kishida due to an ongoing scandal involving their involvement in a corruption scheme in the country's renewable energy program, which was found by the Japanese parliament.",
+                "risk_type": "Political"
             }
         ]
     }
