@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Slowdown",
-                "risk_level": "Medium",
-                "summary": "The global economic slowdown continues to pose a threat to businesses and economies worldwide."
-            },
-            {
-                "title": "Cyber Attacks on Critical Infrastructure",
+                "title": "Riots in Iran amid growing tensions with Israel",
                 "risk_level": "High",
-                "summary": "Recent cyber attacks on critical infrastructure have raised concerns about the vulnerability of these systems."
+                "summary": "Riots have broken out in Iran's capital city of Tehran, amid growing tensions with Israel. The protests are led by opposition groups who are calling for the government to intervene in the escalating standoff with Israel."
             },
             {
-                "title": "Social Unrest and Protests",
-                "risk_level": "Medium",
-                "summary": "Increasing social unrest and protests across the globe pose a risk to stability and economic growth."
+                "title": "US-China trade tensions escalate",
+                "risk_level": "High",
+                "summary": "The US and China have announced new trade measures, escalating tensions between the two countries. The US has imposed new tariffs on Chinese goods, and China has retaliated with its own set of tariffs."
+            },
+            {
+                "title": "Cyber attack hits major US hospital",
+                "risk_level": "High",
+                "summary": "A major US hospital has been hit by a cyber attack, which has resulted in the theft of sensitive patient data. The attack is believed to have been carried out by a sophisticated hacking group."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Declines to Block Abortion Ban in Idaho",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US Supreme Court on Thursday declined to block an abortion ban in Idaho, allowing the law to remain in effect for the time being."
+                "summary": "Mass shootings have increased over the past week in the United States, sparking renewed debate over gun control."
             },
             {
-                "title": "US Senate Advances Bill to Ban TikTok in the Country",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "A bill that seeks to ban TikTok, a Chinese-owned video-sharing app, in the US has advanced in the Senate, with lawmakers citing national security concerns."
+                "summary": "The US Supreme Court's recent decision to limit Environmental Protection Agency (EPA) authority has raised concerns about environmental policy and its impact on public health."
             },
             {
-                "title": "Major Cyber Attack Hits US Government Agencies",
-                "risk_level": "High",
-                "summary": "A major cyber attack has hit several US government agencies, with officials saying it was likely carried out by a sophisticated hacking group."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "A recent survey suggests a slight rise in anti-vaccination sentiment among Americans, potentially threatening public health initiatives."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires unidentified 'projectiles' into the sea - South Korea",
+                "title": "N. Korea fires projectiles in suspected missile tests",
                 "risk_level": "High",
-                "summary": "South Korea says North Korea has fired unidentified projectiles into the sea. There was no immediate comment from North Korea. The launches were detected on June 22nd by the South Korean military. The projectiles flew 350 kilometers into the sea before landing in the Exclusive Economic Zone of South Korea. No casualties or damage were reported."
+                "summary": "South Korea's military says North Korea fired projectiles into its eastern waters, with the exact type and range still unclear, amid a recent flurry of missile tests. The South's Joint Chiefs of Staff reported the launches, describing them as 'suspected missile tests.' "
             },
             {
-                "title": "South Korea's President Yoon meets with Joe Biden in Tokyo for Quad summit",
+                "title": "US imposes sanctions on Chinese companies for North Korea ties",
                 "risk_level": "Medium",
-                "summary": "South Korea's President Yoon Suk-yeol met with US President Joe Biden in Tokyo for the Quad summit, a meeting of foreign leaders from the US, Japan, Australia, and India. They discussed trade, security, and climate issues. The summit was seen as an opportunity for the leaders to strengthen economic and security ties between their countries."
+                "summary": "The US Treasury has imposed sanctions on several Chinese companies and individuals for allegedly doing business with North Korea in defiance of international restrictions. The US sees China as key to pressuring North Korea to give up its nuclear arsenal."
             },
             {
-                "title": "South Korean police clash with protesters amidst COVID-19 rules",
+                "title": "Japan, South Korea to discuss disputed isles",
                 "risk_level": "Low",
-                "summary": "Hundreds of protesters gathered in Seoul's Myeong-dong shopping district to protest against the South Korean government's COVID-19 rules. The protesters, who were mostly unmasked, clashed with police officers who were trying to disperse them. Several people were arrested."
+                "summary": "A Japanese defense official says Tokyo and Seoul will have a meeting soon to discuss their long-standing dispute over a group of islets in the Korea Strait. The dispute has strained ties between the US allies."
             }
         ],
         "Japan": [
             {
-                "title": "Japanese government to implement new security law to counter North Korean threats",
-                "risk_level": "High",
-                "summary": "The Japanese government has announced plans to implement a new security law to counter North Korean threats, which includes increased military funding and a more assertive foreign policy. This move is expected to further strain relations with China and other neighboring countries."
+                "title": "Tokyo reports first COVID-19 cases in over two weeks",
+                "risk_level": "Low",
+                "summary": "Tokyo reported 23 new COVID-19 cases on Sunday, its first cases in over two weeks, as Japan sees a resurgence in virus cases."
             },
             {
-                "title": "Japan's ruling party to push for constitutional reform",
+                "title": "Japan's ruling party to propose constitutional revision bills ",
                 "risk_level": "Medium",
-                "summary": "Japan's ruling party, the Liberal Democratic Party, has announced plans to push for constitutional reform, including changes to Article 9, which limits the country's military capabilities. This move is expected to face opposition from opponents and has potential implications for Japan's domestic politics."
+                "summary": "Japan's ruling Liberal Democratic Party will propose bills to revise the country's post-war pacifist constitution, a long-held goal, on Friday."
             },
             {
-                "title": "Rising tensions between Japan and South Korea over historical issues",
+                "title": "Typhoon Hinnamor makes landfall in Japan",
                 "risk_level": "High",
-                "summary": "Tensions have risen between Japan and South Korea over historical issues, including Japan's wartime forced labor and sex slavery policies. The dispute has potential implications for bilateral trade and security cooperation between the two countries."
+                "summary": "Typhoon Hinnamor made landfall in Japan on Wednesday, bringing strong winds and heavy rain, with the country's weather agency issuing a rare warning for a typhoon's 'violent windstorms'."
             }
         ]
     }
