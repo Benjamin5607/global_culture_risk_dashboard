@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Supply Chain Disruption Risks Rise Amid Russian-Ukraine Conflict",
-                "risk_level": "High",
-                "summary": "Escalating tensions and sanctions are impacting global supply chains, with some industries seeing significant disruptions."
-            },
-            {
-                "title": "Cyberattacks on Critical Infrastructure Continue to Rise Globally",
-                "risk_level": "High",
-                "summary": "Recent incidents highlight the increasing vulnerability of critical infrastructure to cyber threats, with potential far-reaching consequences."
-            },
-            {
-                "title": "Omicron Subvariant Fuels Global Health System Concerns",
-                "risk_level": "Medium",
-                "summary": "The emergence of a new subvariant of Omicron is causing concerns about the potential for renewed health crises and subsequent economic impacts."
-            }
-        ],
-        "United States": [
-            {
-                "title": "Biden says US will not engage in negotiations with Russia over Ukraine until Russia stops its aggression",
-                "risk_level": "High",
-                "summary": "US says it will not engage in negotiations with Russia over Ukraine until Russia stops its aggression. The US and its allies have imposed severe sanctions on Russia over its invasion of Ukraine."
-            },
-            {
-                "title": "US and UK to impose export control on advanced AI and chip technologies",
-                "risk_level": "High",
-                "summary": "The US and UK will impose export controls on advanced AI and chip technologies to prevent their proliferation to China and other countries of concern."
-            },
-            {
-                "title": "US and EU to impose price caps on Russian oil, as part of efforts to further isolate Russia over Ukraine",
-                "risk_level": "High",
-                "summary": "The US and EU are set to impose price caps on Russian oil, as part of efforts to further isolate Russia over Ukraine. The move aims to limit Russia's ability to earn revenue from oil exports."
-            }
-        ],
-        "South Korea": [
-            {
-                "title": "South Korea's Moon says North Korea behind COVID-19 outbreak in the South",
-                "risk_level": "Medium",
-                "summary": "South Korean President Moon Jae-in said on June 18 that North Korea is likely behind the COVID-19 outbreak in the South, but added that there's no evidence to prove it. The comments sparked a heated debate among Korean citizens and experts about whether the virus came from the North."
-            },
-            {
-                "title": "US and South Korea agree to expand their military drills despite North Korea's warnings",
-                "risk_level": "High",
-                "summary": "The United States and South Korea have agreed to expand their joint exercises, in reaction to North Korea's recent ballistic missile tests. The move has drawn criticism from the North, which claimed the drills increase tensions on the Korean Peninsula."
-            },
-            {
-                "title": "South Korea's government extends COVID-19 restrictions for another week amid concerns over omicron",
-                "risk_level": "Medium",
-                "summary": "South Korea's government announced on June 19 that it will extend COVID-19 social distancing curbs for another week due to concerns over the spread of the omicron variant. The decision was made after a meeting of the government's COVID-19 response team, which warned that the virus could continue to spread in the coming weeks."
-            }
-        ],
-        "Japan": [
-            {
-                "title": "Protests erupt in Tokyo over pension reforms",
-                "risk_level": "Medium",
-                "summary": "Thousands of protesters gathered in Tokyo, Japan, on June 18 to protest the government's proposal to raise the retirement age and make other changes to the pension system."
-            },
-            {
-                "title": "Japan's ruling party suffers major defeat in upper house election",
-                "risk_level": "High",
-                "summary": "In a significant setback for Japanese Prime Minister Kishida Fumio, his ruling Liberal Democratic Party (LDP) lost control of the upper house of parliament in a national election held on July 10, 2022 (note: within the 7 day cutoff this election impact has yet to conclude), with implications for the government's agenda and stability."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
                 "title": "",
                 "risk_level": "",
                 "summary": ""
+            },
+            {
+                "title": "Russian-Ukrainian Conflict: Escalation Threat",
+                "risk_level": "High",
+                "summary": "The conflict in Ukraine has entered a new phase, with increased fighting and a rising risk of escalation, which could have significant global implications."
+            }
+        ],
+        "United States": [
+            {
+                "title": "US Supreme Court Overturns Roe v. Wade, Ending Federal Abortion Rights",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has overturned Roe v. Wade, ending federal protections for abortion rights. The ruling has sparked widespread protests and concerns about access to reproductive healthcare."
+            },
+            {
+                "title": "Federal Reserve Raises Interest Rates to Combat Inflation",
+                "risk_level": "Medium",
+                "summary": "The Federal Reserve has raised interest rates to combat inflation, which has been rising due to supply chain disruptions and economic growth."
+            },
+            {
+                "title": "US-China Trade Tensions Escalate Amid Military Build-Up",
+                "risk_level": "High",
+                "summary": "US-China trade tensions have escalated amid China's military build-up in the South China Sea. The US has expressed concerns about China's expansionist policies in the region."
+            }
+        ],
+        "South Korea": [
+            {
+                "title": "Protests against COVID-19 response laws in South Korea",
+                "risk_level": "Low",
+                "summary": "South Korean citizens are protesting the government's new laws, aimed at addressing the pandemic, citing civil liberties concerns."
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": ""
+            },
+            {
+                "title": "North Korean ICBM test sparks concern in South Korea",
+                "risk_level": "High",
+                "summary": "North Korea's test of an intercontinental ballistic missile (ICBM) has raised concerns about regional stability and sparked a response from South Korea."
+            }
+        ],
+        "Japan": [
+            {
+                "title": "Protests against Japan's new state secrets law",
+                "risk_level": "Medium",
+                "summary": "Anti-government protesters in Tokyo clashed with police on Friday over the passage of a new state secrets law, which critics say will make it easier for the government to cover up corruption and scandals."
+            },
+            {
+                "title": "Typhoon Mawar hits northern Japan, leaving 2 dead",
+                "risk_level": "Medium",
+                "summary": "Typhoon Mawar has made landfall in northern Japan, leaving at least two people dead and causing widespread power outages and flooding. The storm is expected to bring heavy rain and strong winds to the region over the next few days."
+            },
+            {
+                "title": "COVID-19 cases rise in Japan as Olympics approach",
+                "risk_level": "Low",
+                "summary": "Japan has seen a rise in COVID-19 cases in recent days, prompting concerns about the impact on the upcoming Olympics. The government has warned of a potential surge in cases and is urging people to get vaccinated."
             }
         ]
     }
