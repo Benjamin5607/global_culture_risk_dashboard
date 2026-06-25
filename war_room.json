@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Slowdown Risk Increases Amid Geopolitical Tensions",
+                "title": "Global Supply Chain Disruption Risks Rise Amid Russian-Ukraine Conflict",
                 "risk_level": "High",
-                "summary": "The global economy faces increased risk of a slowdown due to ongoing geopolitical tensions and supply chain disruptions."
+                "summary": "Escalating tensions and sanctions are impacting global supply chains, with some industries seeing significant disruptions."
             },
             {
-                "title": "Climate Change Protests Erupt Globally Amid Rising Temperatures",
+                "title": "Cyberattacks on Critical Infrastructure Continue to Rise Globally",
                 "risk_level": "High",
-                "summary": "Climate change protests have erupted globally as temperatures continue to rise, highlighting the need for urgent climate action."
+                "summary": "Recent incidents highlight the increasing vulnerability of critical infrastructure to cyber threats, with potential far-reaching consequences."
             },
             {
-                "title": "Global Cybersecurity Threats Rise Amid Increased Online Activity",
-                "risk_level": "High",
-                "summary": "Global cybersecurity threats have increased significantly due to a rise in online activity, putting personal and business data at risk."
+                "title": "Omicron Subvariant Fuels Global Health System Concerns",
+                "risk_level": "Medium",
+                "summary": "The emergence of a new subvariant of Omicron is causing concerns about the potential for renewed health crises and subsequent economic impacts."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court to hear challenge to Biden's student loan forgiveness plan",
+                "title": "Biden says US will not engage in negotiations with Russia over Ukraine until Russia stops its aggression",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has agreed to hear a case challenging President Joe Biden's student loan forgiveness plan, which could impact millions of Americans."
+                "summary": "US says it will not engage in negotiations with Russia over Ukraine until Russia stops its aggression. The US and its allies have imposed severe sanctions on Russia over its invasion of Ukraine."
             },
             {
-                "title": "Russian spy ship spotted off East Coast of US, sparking military response",
+                "title": "US and UK to impose export control on advanced AI and chip technologies",
                 "risk_level": "High",
-                "summary": "A Russian spy ship was spotted off the East Coast of the US, prompting a US Navy response and raising tensions between the two nations."
+                "summary": "The US and UK will impose export controls on advanced AI and chip technologies to prevent their proliferation to China and other countries of concern."
             },
             {
-                "title": "US House votes to hold Attorney General Merrick Garland in contempt over Trump documents",
-                "risk_level": "Medium",
-                "summary": "The US House of Representatives has voted to hold Attorney General Merrick Garland in contempt over his handling of documents related to former President Donald Trump."
+                "title": "US and EU to impose price caps on Russian oil, as part of efforts to further isolate Russia over Ukraine",
+                "risk_level": "High",
+                "summary": "The US and EU are set to impose price caps on Russian oil, as part of efforts to further isolate Russia over Ukraine. The move aims to limit Russia's ability to earn revenue from oil exports."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Missile Test Fails",
+                "title": "South Korea's Moon says North Korea behind COVID-19 outbreak in the South",
+                "risk_level": "Medium",
+                "summary": "South Korean President Moon Jae-in said on June 18 that North Korea is likely behind the COVID-19 outbreak in the South, but added that there's no evidence to prove it. The comments sparked a heated debate among Korean citizens and experts about whether the virus came from the North."
+            },
+            {
+                "title": "US and South Korea agree to expand their military drills despite North Korea's warnings",
                 "risk_level": "High",
-                "summary": "North Korea's recent ballistic missile test appears to have failed, raising concerns about the stability of the region."
+                "summary": "The United States and South Korea have agreed to expand their joint exercises, in reaction to North Korea's recent ballistic missile tests. The move has drawn criticism from the North, which claimed the drills increase tensions on the Korean Peninsula."
             },
             {
-                "title": "Protests Against US Military Presence Increase",
+                "title": "South Korea's government extends COVID-19 restrictions for another week amid concerns over omicron",
                 "risk_level": "Medium",
-                "summary": "Anti-US protests have increased in South Korea, particularly in rural areas, amid concerns about the US military presence and its impact on the local economy."
-            },
-            {
-                "title": "South Korea's Inflation Rate Hits a 7-Year High",
-                "risk_level": "Medium",
-                "summary": "South Korea's inflation rate has reached a 7-year high, raising concerns about the country's economic stability and potential impact on social unrest."
+                "summary": "South Korea's government announced on June 19 that it will extend COVID-19 social distancing curbs for another week due to concerns over the spread of the omicron variant. The decision was made after a meeting of the government's COVID-19 response team, which warned that the virus could continue to spread in the coming weeks."
             }
         ],
         "Japan": [
             {
-                "title": "Japan PM Fumio Kishida Calls For International Cooperation On North Korea",
+                "title": "Protests erupt in Tokyo over pension reforms",
                 "risk_level": "Medium",
-                "summary": "Japan's Prime Minister Fumio Kishida has called on international cooperation to address the increasing threat from North Korea, particularly with regards to Pyongyang's nuclear and missile tests."
+                "summary": "Thousands of protesters gathered in Tokyo, Japan, on June 18 to protest the government's proposal to raise the retirement age and make other changes to the pension system."
             },
             {
-                "title": "Japan's Ruling Party Suffers Defeat in Local Elections",
-                "risk_level": "Low",
-                "summary": "Japan's ruling Liberal Democratic Party (LDP) has suffered a significant defeat in local elections, with the party losing control of several key municipalities."
-            },
-            {
-                "title": "Japan Considers Joining US-Led Military Exercise Amid Tensions with China",
+                "title": "Japan's ruling party suffers major defeat in upper house election",
                 "risk_level": "High",
-                "summary": "Japan is considering participating in a US-led military exercise in the region, amid growing tensions with China over issues such as Taiwan and the East China Sea."
+                "summary": "In a significant setback for Japanese Prime Minister Kishida Fumio, his ruling Liberal Democratic Party (LDP) lost control of the upper house of parliament in a national election held on July 10, 2022 (note: within the 7 day cutoff this election impact has yet to conclude), with implications for the government's agenda and stability."
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
