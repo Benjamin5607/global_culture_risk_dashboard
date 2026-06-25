@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia-Ukraine Conflict Intensifies Amid Diplomatic Efforts",
+                "title": "Global Economic Slowdown Risk Increases Amid Geopolitical Tensions",
                 "risk_level": "High",
-                "summary": "The situation in Eastern Europe remains tense, with no signs of an imminent resolution to the conflict."
+                "summary": "The global economy faces increased risk of a slowdown due to ongoing geopolitical tensions and supply chain disruptions."
             },
             {
-                "title": "Cybersecurity Threats on the Rise in the US",
-                "risk_level": "Medium",
-                "summary": "Hackers continue to target US businesses with phishing and ransomware attacks, exposing sensitive data."
+                "title": "Climate Change Protests Erupt Globally Amid Rising Temperatures",
+                "risk_level": "High",
+                "summary": "Climate change protests have erupted globally as temperatures continue to rise, highlighting the need for urgent climate action."
             },
             {
-                "title": "Global Economic Slowdown Worsens",
-                "risk_level": "Low",
-                "summary": "Trade tensions and economic uncertainty are leading to a slowdown in global economic growth, with implications for business and trade."
+                "title": "Global Cybersecurity Threats Rise Amid Increased Online Activity",
+                "risk_level": "High",
+                "summary": "Global cybersecurity threats have increased significantly due to a rise in online activity, putting personal and business data at risk."
             }
         ],
         "United States": [
             {
-                "title": "Gun Safety Debate Rages on Amid Multiple Shootings in US",
+                "title": "US Supreme Court to hear challenge to Biden's student loan forgiveness plan",
                 "risk_level": "High",
-                "summary": "Multiple mass shootings in the US have reignited the debate on gun safety, sparking concerns over the need for stricter gun control laws. The recent shootings have left several people dead and injured, prompting calls for immediate action from lawmakers and advocacy groups."
+                "summary": "The US Supreme Court has agreed to hear a case challenging President Joe Biden's student loan forgiveness plan, which could impact millions of Americans."
             },
             {
-                "title": "US-China Trade Relations Remain Tense Amid New Tariff Threats",
+                "title": "Russian spy ship spotted off East Coast of US, sparking military response",
                 "risk_level": "High",
-                "summary": "Tensions between the US and China remain high as the two nations continue to trade blows over trade policies and tariffs. The US has threatened to imposes new tariffs on Chinese goods, which could further escalate the trade war and impact global markets."
+                "summary": "A Russian spy ship was spotted off the East Coast of the US, prompting a US Navy response and raising tensions between the two nations."
             },
             {
-                "title": "Supreme Court Ruling on Abortion Rights Sparks Nationwide Protests",
+                "title": "US House votes to hold Attorney General Merrick Garland in contempt over Trump documents",
                 "risk_level": "Medium",
-                "summary": "The Supreme Court's recent ruling on abortion rights has sparked widespread protests across the US, with both supporters and opponents of the decision taking to the streets to express their views. The ruling has also raised concerns over the potential impact on women's health and reproductive rights."
+                "summary": "The US House of Representatives has voted to hold Attorney General Merrick Garland in contempt over his handling of documents related to former President Donald Trump."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea says it fired intercontinental ballistic missile into sea",
+                "title": "North Korea Missile Test Fails",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile Saturday into the sea, in its seventh round of weapons tests this month, as the country continues to expand its military capabilities and threaten the security of its neighbors and the United States."
+                "summary": "North Korea's recent ballistic missile test appears to have failed, raising concerns about the stability of the region."
             },
             {
-                "title": "South Korean government to ban cryptocurrency trading",
+                "title": "Protests Against US Military Presence Increase",
                 "risk_level": "Medium",
-                "summary": "The South Korean government has announced plans to ban cryptocurrency trading, citing concerns over market volatility and investor protection."
+                "summary": "Anti-US protests have increased in South Korea, particularly in rural areas, amid concerns about the US military presence and its impact on the local economy."
             },
             {
-                "title": "South Korea's parliament passes bill to limit US beef imports",
-                "risk_level": "Low",
-                "summary": "South Korea's parliament has passed a bill that requires stricter regulations on imports of US beef, amid concerns over mad cow disease."
+                "title": "South Korea's Inflation Rate Hits a 7-Year High",
+                "risk_level": "Medium",
+                "summary": "South Korea's inflation rate has reached a 7-year high, raising concerns about the country's economic stability and potential impact on social unrest."
             }
         ],
         "Japan": [
             {
-                "title": "Protests erupt in Japan over new security legislation",
-                "risk_level": "High",
-                "summary": "Tens of thousands of people took part in anti-war protests in Tokyo and other cities across Japan on June 23, 2024, as the country's parliament passed a bill that will allow it to invoke the right to collective self-defence in certain circumstances."
-            },
-            {
-                "title": "Earthquake strikes southern Japan, causing damage and landslides",
-                "risk_level": "High",
-                "summary": "A powerful earthquake hit southern Japan on June 20, 2024, causing widespread damage, landslides, and killing at least 5 people."
-            },
-            {
-                "title": "Japan's PM Suga faces calls to resign over COVID-19 pandemic response",
+                "title": "Japan PM Fumio Kishida Calls For International Cooperation On North Korea",
                 "risk_level": "Medium",
-                "summary": "Japanese PM Yoshihide Suga faces growing criticism over his government's handling of the COVID-19 pandemic, as the country continues to struggle with a surge in cases and hospitalisations."
+                "summary": "Japan's Prime Minister Fumio Kishida has called on international cooperation to address the increasing threat from North Korea, particularly with regards to Pyongyang's nuclear and missile tests."
+            },
+            {
+                "title": "Japan's Ruling Party Suffers Defeat in Local Elections",
+                "risk_level": "Low",
+                "summary": "Japan's ruling Liberal Democratic Party (LDP) has suffered a significant defeat in local elections, with the party losing control of several key municipalities."
+            },
+            {
+                "title": "Japan Considers Joining US-Led Military Exercise Amid Tensions with China",
+                "risk_level": "High",
+                "summary": "Japan is considering participating in a US-led military exercise in the region, amid growing tensions with China over issues such as Taiwan and the East China Sea."
             }
         ]
     }
