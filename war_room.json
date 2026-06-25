@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global economic recovery faces risks due to inflation and interest rates.",
+                "title": "Russia-Ukraine Conflict Intensifies Amid Diplomatic Efforts",
+                "risk_level": "High",
+                "summary": "The situation in Eastern Europe remains tense, with no signs of an imminent resolution to the conflict."
+            },
+            {
+                "title": "Cybersecurity Threats on the Rise in the US",
                 "risk_level": "Medium",
-                "summary": "The ongoing economic recovery globally faces risks due to inflation and higher interest rates. The increase in interest rates and inflation could lead to a recession, affecting economies worldwide."
+                "summary": "Hackers continue to target US businesses with phishing and ransomware attacks, exposing sensitive data."
             },
             {
-                "title": "Cyber attack on a US government agency highlights the increasing threat of cyber warfare.",
-                "risk_level": "High",
-                "summary": "A recent cyber attack on a US government agency has highlighted the increasing threat of cyber warfare. The attack, which affected multiple government agencies, demonstrates the sophistication and scale of cyber threats facing the US government and its citizens."
-            },
-            {
-                "title": "Social unrest and protests escalate in response to economic inequality and social justice concerns.",
-                "risk_level": "High",
-                "summary": "Social unrest and protests have escalated globally in response to economic inequality and social justice concerns. The widespread protests and civil unrest highlight the increasing frustration and anger among citizens towards the current economic and social systems."
+                "title": "Global Economic Slowdown Worsens",
+                "risk_level": "Low",
+                "summary": "Trade tensions and economic uncertainty are leading to a slowdown in global economic growth, with implications for business and trade."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Leaks Investigation: FBI Seeks Public's Help",
+                "title": "Gun Safety Debate Rages on Amid Multiple Shootings in US",
                 "risk_level": "High",
-                "summary": "The FBI is seeking the public's help in the investigation into the leak of a draft Supreme Court opinion that would overturn Roe v. Wade. The leak has sparked widespread protests and debates across the country."
+                "summary": "Multiple mass shootings in the US have reignited the debate on gun safety, sparking concerns over the need for stricter gun control laws. The recent shootings have left several people dead and injured, prompting calls for immediate action from lawmakers and advocacy groups."
             },
             {
-                "title": "US-Afghanistan Security Talks Stalled: Taliban Seeks Direct Talks with Biden",
+                "title": "US-China Trade Relations Remain Tense Amid New Tariff Threats",
                 "risk_level": "High",
-                "summary": "Security talks between the US and Afghanistan have stalled, with the Taliban seeking direct talks with President Biden. The Taliban has accused the US of being uncooperative and has increased its attacks on Afghan forces."
+                "summary": "Tensions between the US and China remain high as the two nations continue to trade blows over trade policies and tariffs. The US has threatened to imposes new tariffs on Chinese goods, which could further escalate the trade war and impact global markets."
             },
             {
-                "title": "US-Russia Tensions Escalate Over Ukraine: Biden Warns Russia of Economic Sanctions",
-                "risk_level": "High",
-                "summary": "Tensions between the US and Russia have escalated over Ukraine, with President Biden warning Russia of economic sanctions if it continues to support separatist groups in eastern Ukraine. The US has imposed new sanctions on Russian officials and entities."
+                "title": "Supreme Court Ruling on Abortion Rights Sparks Nationwide Protests",
+                "risk_level": "Medium",
+                "summary": "The Supreme Court's recent ruling on abortion rights has sparked widespread protests across the US, with both supporters and opponents of the decision taking to the streets to express their views. The ruling has also raised concerns over the potential impact on women's health and reproductive rights."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires ballistic missile; South Korea urges calm",
+                "title": "North Korea says it fired intercontinental ballistic missile into sea",
                 "risk_level": "High",
-                "summary": "North Korea has fired a ballistic missile into the sea, prompting South Korea to call for calm and for nations to unite in the face of what it calls a 'grave' threat."
+                "summary": "North Korea fired a ballistic missile Saturday into the sea, in its seventh round of weapons tests this month, as the country continues to expand its military capabilities and threaten the security of its neighbors and the United States."
             },
             {
-                "title": "South Korea's presidential election: what to expect",
+                "title": "South Korean government to ban cryptocurrency trading",
                 "risk_level": "Medium",
-                "summary": "South Korea's presidential election is scheduled for March 9, with a field of 16 candidates vying for the top spot. Here's what to expect."
+                "summary": "The South Korean government has announced plans to ban cryptocurrency trading, citing concerns over market volatility and investor protection."
             },
             {
-                "title": "South Korea and US stage major military drills, sparking tensions with North Korea",
-                "risk_level": "Medium",
-                "summary": "South Korea and the United States have staged major military drills, sparking tensions with North Korea, which has denounced the exercises as a 'provocation'"
+                "title": "South Korea's parliament passes bill to limit US beef imports",
+                "risk_level": "Low",
+                "summary": "South Korea's parliament has passed a bill that requires stricter regulations on imports of US beef, amid concerns over mad cow disease."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo Sees Highest Number of COVID-19 Cases Since 2021",
+                "title": "Protests erupt in Japan over new security legislation",
+                "risk_level": "High",
+                "summary": "Tens of thousands of people took part in anti-war protests in Tokyo and other cities across Japan on June 23, 2024, as the country's parliament passed a bill that will allow it to invoke the right to collective self-defence in certain circumstances."
+            },
+            {
+                "title": "Earthquake strikes southern Japan, causing damage and landslides",
+                "risk_level": "High",
+                "summary": "A powerful earthquake hit southern Japan on June 20, 2024, causing widespread damage, landslides, and killing at least 5 people."
+            },
+            {
+                "title": "Japan's PM Suga faces calls to resign over COVID-19 pandemic response",
                 "risk_level": "Medium",
-                "summary": "Japan has seen a surge in COVID-19 cases, with Tokyo recording the highest number of cases since 2021. The increase in cases is attributed to the Omicron variant. The government has implemented measures to curb the spread of the virus."
-            },
-            {
-                "title": "Demonstrations Held in Tokyo Over Government's Nuclear Policy",
-                "risk_level": "High",
-                "summary": "Thousands of demonstrators have held protests in Tokyo against the government's nuclear policy. The protesters are calling for the government to adopt a more nuclear-free policy and to increase its reliance on renewable energy."
-            },
-            {
-                "title": "Japan's Economy Contracts for the First Time in Two Years Due to Global Economic Slowdown",
-                "risk_level": "High",
-                "summary": "Japan's economy has contracted for the first time in two years due to a global economic slowdown. The country is heavily reliant on exports, and the decline in global demand has had a significant impact on its economy."
+                "summary": "Japanese PM Yoshihide Suga faces growing criticism over his government's handling of the COVID-19 pandemic, as the country continues to struggle with a surge in cases and hospitalisations."
             }
         ]
     }
