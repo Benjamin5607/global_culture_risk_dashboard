@@ -1,72 +1,72 @@
 {
-    "updated": "2026-06-24",
+    "updated": "2026-06-25",
     "scopes": {
         "Global (All)": [
             {
-                "title": "North Korea's leader Kim Jong Un orders new nuclear tests despite economic woes",
-                "risk_level": "High",
-                "summary": "North Korea's leader Kim Jong Un has ordered a new nuclear test, despite the country's economic woes, raising concerns about regional instability."
-            },
-            {
-                "title": "Russia's economic growth slows down due to Western sanctions",
-                "risk_level": "High",
-                "summary": "Russia's economic growth has slowed down due to Western sanctions imposed after its invasion of Ukraine, increasing the risk of a financial crisis."
-            },
-            {
-                "title": "Global protests against vaccine mandates",
+                "title": "Global economic recovery faces risks due to inflation and interest rates.",
                 "risk_level": "Medium",
-                "summary": "Global protests against vaccine mandates have been reported, leading to concerns about public health and safety."
+                "summary": "The ongoing economic recovery globally faces risks due to inflation and higher interest rates. The increase in interest rates and inflation could lead to a recession, affecting economies worldwide."
+            },
+            {
+                "title": "Cyber attack on a US government agency highlights the increasing threat of cyber warfare.",
+                "risk_level": "High",
+                "summary": "A recent cyber attack on a US government agency has highlighted the increasing threat of cyber warfare. The attack, which affected multiple government agencies, demonstrates the sophistication and scale of cyber threats facing the US government and its citizens."
+            },
+            {
+                "title": "Social unrest and protests escalate in response to economic inequality and social justice concerns.",
+                "risk_level": "High",
+                "summary": "Social unrest and protests have escalated globally in response to economic inequality and social justice concerns. The widespread protests and civil unrest highlight the increasing frustration and anger among citizens towards the current economic and social systems."
             }
         ],
         "United States": [
             {
-                "title": "US Shootings on the Rise Amid Debate Over Gun Control | CNN Politics",
+                "title": "Supreme Court Leaks Investigation: FBI Seeks Public's Help",
                 "risk_level": "High",
-                "summary": "There were at least 18 mass shootings in the US in June, leaving 12 people dead and dozens more injured. The uptick in violence has sparked renewed calls for stricter gun control laws, with some lawmakers pushing for a ban on assault weapons and others advocating for mental health reform."
+                "summary": "The FBI is seeking the public's help in the investigation into the leak of a draft Supreme Court opinion that would overturn Roe v. Wade. The leak has sparked widespread protests and debates across the country."
             },
             {
-                "title": "US-China tensions escalate as US House passes bill aimed at Beijing | CNN Politics",
+                "title": "US-Afghanistan Security Talks Stalled: Taliban Seeks Direct Talks with Biden",
                 "risk_level": "High",
-                "summary": "The US House of Representatives voted on a bill that aims to increase scrutiny of foreign companies' ties to the Chinese military and restrict US investment in China's semiconductor industry. The move marks the latest escalation in US-China tensions, which have been fueled by concerns over Taiwan, espionage, and trade."
+                "summary": "Security talks between the US and Afghanistan have stalled, with the Taliban seeking direct talks with President Biden. The Taliban has accused the US of being uncooperative and has increased its attacks on Afghan forces."
             },
             {
-                "title": "Biden administration faces backlash over border surge | CNN Politics",
-                "risk_level": "Medium",
-                "summary": "The Biden administration is facing criticism over the surge in migrants at the US-Mexico border, with some lawmakers calling for stricter border controls and others advocating for a more humane approach to immigration policy."
+                "title": "US-Russia Tensions Escalate Over Ukraine: Biden Warns Russia of Economic Sanctions",
+                "risk_level": "High",
+                "summary": "Tensions between the US and Russia have escalated over Ukraine, with President Biden warning Russia of economic sanctions if it continues to support separatist groups in eastern Ukraine. The US has imposed new sanctions on Russian officials and entities."
             }
         ],
         "South Korea": [
             {
-                "title": "Suspected North Korean Drone spotted near border area",
+                "title": "North Korea fires ballistic missile; South Korea urges calm",
+                "risk_level": "High",
+                "summary": "North Korea has fired a ballistic missile into the sea, prompting South Korea to call for calm and for nations to unite in the face of what it calls a 'grave' threat."
+            },
+            {
+                "title": "South Korea's presidential election: what to expect",
                 "risk_level": "Medium",
-                "summary": "South Korea's military detected a suspected North Korean drone near the border area on June 17, raising concerns about the potential for increased tensions between the two countries."
+                "summary": "South Korea's presidential election is scheduled for March 9, with a field of 16 candidates vying for the top spot. Here's what to expect."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "South Korea and US stage major military drills, sparking tensions with North Korea",
+                "risk_level": "Medium",
+                "summary": "South Korea and the United States have staged major military drills, sparking tensions with North Korea, which has denounced the exercises as a 'provocation'"
             }
         ],
         "Japan": [
             {
-                "title": "Japan's PM Fumio Kishida tests positive for COVID-19",
-                "risk_level": "Low",
-                "summary": "Japanese Prime Minister Fumio Kishida has tested positive for COVID-19, forcing him to cancel a few engagements. The positive test comes at a time when COVID-19 cases are surging in Japan."
-            },
-            {
-                "title": "Japan's Nikkei hits record high as yen surges",
+                "title": "Tokyo Sees Highest Number of COVID-19 Cases Since 2021",
                 "risk_level": "Medium",
-                "summary": "The Nikkei index in Japan has surged to a 22 year record high as the yen appreciated to an 8-month high, driven by investors seeking safe-haven assets due to geopolitical tensions."
+                "summary": "Japan has seen a surge in COVID-19 cases, with Tokyo recording the highest number of cases since 2021. The increase in cases is attributed to the Omicron variant. The government has implemented measures to curb the spread of the virus."
             },
             {
-                "title": "Japan's economy shrinks 1.8% in Q1, sparking fears of recession",
+                "title": "Demonstrations Held in Tokyo Over Government's Nuclear Policy",
                 "risk_level": "High",
-                "summary": "Japan's economy contracted at a rate of 1.8% in the first quarter of this year, sparking fears of recession and prompting warnings from the government and central bank to take action to boost economic growth."
+                "summary": "Thousands of demonstrators have held protests in Tokyo against the government's nuclear policy. The protesters are calling for the government to adopt a more nuclear-free policy and to increase its reliance on renewable energy."
+            },
+            {
+                "title": "Japan's Economy Contracts for the First Time in Two Years Due to Global Economic Slowdown",
+                "risk_level": "High",
+                "summary": "Japan's economy has contracted for the first time in two years due to a global economic slowdown. The country is heavily reliant on exports, and the decline in global demand has had a significant impact on its economy."
             }
         ]
     }
