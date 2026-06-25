@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "Russian-Ukrainian Conflict: Escalation Threat",
+                "title": "Conflict between Ukraine and Russia escalates; concerns over global food security",
                 "risk_level": "High",
-                "summary": "The conflict in Ukraine has entered a new phase, with increased fighting and a rising risk of escalation, which could have significant global implications."
+                "summary": "The conflict between Ukraine and Russia has resulted in significant disruptions to global food supplies, leading to food shortages and price increases."
+            },
+            {
+                "title": "Mass protests erupt in Peru amid fuel price hike and economic instability",
+                "risk_level": "High",
+                "summary": "Protests in Peru have turned violent as citizens express discontent with the government's decision to hike fuel prices, leading to economic instability and social unrest."
+            },
+            {
+                "title": "COVID-19 variant XBB sparks concerns of potential new wave in multiple countries",
+                "risk_level": "Medium",
+                "summary": "The emergence of a new COVID-19 variant, XBB, has raised concerns of a potential new wave of infections, particularly in regions with low vaccination rates and high case numbers."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Overturns Roe v. Wade, Ending Federal Abortion Rights",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has overturned Roe v. Wade, ending federal protections for abortion rights. The ruling has sparked widespread protests and concerns about access to reproductive healthcare."
+                "title": "Ukraine war: White House says Russia's missile strikes on Poland were 'unacceptable'.",
+                "summary": "",
+                "risk_level": "High"
             },
             {
-                "title": "Federal Reserve Raises Interest Rates to Combat Inflation",
-                "risk_level": "Medium",
-                "summary": "The Federal Reserve has raised interest rates to combat inflation, which has been rising due to supply chain disruptions and economic growth."
+                "title": "Biden to visit the US-Mexico border as part of trip to focus on migration.",
+                "summary": "",
+                "risk_level": "Medium"
             },
             {
-                "title": "US-China Trade Tensions Escalate Amid Military Build-Up",
-                "risk_level": "High",
-                "summary": "US-China trade tensions have escalated amid China's military build-up in the South China Sea. The US has expressed concerns about China's expansionist policies in the region."
+                "title": "US to host 'diplomatic meetings' with Chinese officials, Blinken to return for Asia tour.",
+                "summary": "",
+                "risk_level": "Low"
             }
         ],
         "South Korea": [
             {
-                "title": "Protests against COVID-19 response laws in South Korea",
-                "risk_level": "Low",
-                "summary": "South Korean citizens are protesting the government's new laws, aimed at addressing the pandemic, citing civil liberties concerns."
+                "title": "Seoul Seeks to Curb Crypto Activity Amidst Market Plunge",
+                "risk_level": "Medium",
+                "summary": "South Korea's government has announced plans to tighten regulations on cryptocurrency trading, citing concerns over market volatility and potential risks to investors."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "North Korean ICBM test sparks concern in South Korea",
+                "title": "NKorea Condemns S Korea-US Joint Military Drill",
                 "risk_level": "High",
-                "summary": "North Korea's test of an intercontinental ballistic missile (ICBM) has raised concerns about regional stability and sparked a response from South Korea."
+                "summary": "North Korea has condemned the joint military drill between South Korea and the United States, calling it a 'provocative' move that could escalate tensions on the Korean Peninsula."
+            },
+            {
+                "title": "S Korea's Ex-President Park Geun-Hye Sentenced to Extra 4 Years",
+                "risk_level": "Low",
+                "summary": "South Korea's former President Park Geun-hye has been sentenced to an additional 4 years in prison for corruption and abuse of power, bringing her total sentence to 22 years."
             }
         ],
         "Japan": [
             {
-                "title": "Protests against Japan's new state secrets law",
-                "risk_level": "Medium",
-                "summary": "Anti-government protesters in Tokyo clashed with police on Friday over the passage of a new state secrets law, which critics say will make it easier for the government to cover up corruption and scandals."
+                "title": "Rising tensions between Japan and South Korea over historic grievances",
+                "risk_level": "High",
+                "summary": "Recent statements from Japanese and South Korean leaders have heightened tensions over historical issues, increasing the risk of diplomatic fallout and economic repercussions."
             },
             {
-                "title": "Typhoon Mawar hits northern Japan, leaving 2 dead",
+                "title": "Cybersecurity concerns regarding the use of Chinese-made surveillance cameras in Japan",
                 "risk_level": "Medium",
-                "summary": "Typhoon Mawar has made landfall in northern Japan, leaving at least two people dead and causing widespread power outages and flooding. The storm is expected to bring heavy rain and strong winds to the region over the next few days."
+                "summary": "Japanese authorities have expressed concerns over the potential use of Chinese-made surveillance cameras to collect sensitive information, raising fears of data breaches and cyberespionage."
             },
             {
-                "title": "COVID-19 cases rise in Japan as Olympics approach",
+                "title": "Protests against government's handling of COVID-19 response continue",
                 "risk_level": "Low",
-                "summary": "Japan has seen a rise in COVID-19 cases in recent days, prompting concerns about the impact on the upcoming Olympics. The government has warned of a potential surge in cases and is urging people to get vaccinated."
+                "summary": "Small protests have taken place in Tokyo and other cities, with participants voicing frustration over the government's handling of the pandemic, including mask mandates and vaccination requirements."
             }
         ]
     }
