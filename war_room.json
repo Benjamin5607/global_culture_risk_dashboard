@@ -3,53 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Cybersecurity Alert: Ransomware Attacks on the Rise",
+                "title": "North Korea tests new ICBM variant, sparking global alarm.",
                 "risk_level": "High",
-                "summary": "A recent surge in ransomware attacks has left several major corporations vulnerable, highlighting the need for robust cybersecurity measures."
+                "summary": "Tensions rise between North Korea and South Korea amidst the nuclear test."
             },
             {
-                "title": "Escalating Global Tensions: US-China Trade War Intensifies",
+                "title": "Cyber threats from state-sponsored actors increase sharply, experts warn.",
                 "risk_level": "High",
-                "summary": "Tensions between the US and China have escalated in the past week, with escalating trade tariffs and diplomatic rows sparking concerns about a potential trade war."
+                "summary": "Recent cyberattacks on US government and corporate targets raise concern about nation-state involvement."
             },
             {
-                "title": "Social Media Chaos: Twitter Hack Exposes User Data",
+                "title": "Protests and anti-government sentiments escalate in France after Macron's reforms.",
                 "risk_level": "Medium",
-                "summary": "A recent hack of Twitter exposed the personal data of thousands of users, highlighting the risks of social media breaches and the need for stronger security measures."
+                "summary": "Demonstrations across France intensify, testing the government's response and social cohesion."
             }
         ],
         "United States": [
             {
-                "title": "Gun violence remains a persistent threat in the US, with multiple shootings reported over the past week.",
+                "title": "Protests in response to abortion ban in Idaho",
                 "risk_level": "High",
-                "summary": "The US continues to grapple with high levels of gun violence, with multiple shootings occurring in various states over the past week, resulting in casualties and heightened community tensions."
+                "summary": "A ban on abortions after six weeks of pregnancy was implemented in Idaho, leading to protests in multiple cities. The ban has sparked controversy and raised concerns about reproductive rights."
             },
             {
-                "title": "Growing concerns over election integrity and voter suppression in the US lead to protests and calls for reform.",
+                "title": "Rise in antisemitic incidents amid Israel-Gaza conflict",
                 "risk_level": "High",
-                "summary": "The US has witnessed a surge in protests and calls for reform in response to growing concerns over election integrity and voter suppression, with many advocating for strengthened voting rights and protections against election interference."
+                "summary": "The ongoing Israel-Gaza conflict has led to a spike in antisemitic incidents across the United States, with multiple reports of vandalism, harassment, and other forms of hate speech."
             },
             {
-                "title": "Tensions rise between the US and China over Taiwan, with potential implications for global trade and security.",
+                "title": "Tensions escalate between police and activists in Philadelphia",
                 "risk_level": "High",
-                "summary": "The US has expressed increased concerns over China's military activities near Taiwan, leading to heightened tensions between the two nations and potential implications for global trade, security, and stability."
+                "summary": "Protests and tensions have been escalating in Philadelphia between police and activists, with multiple arrests and reports of violence. The situation remains sensitive andvolatile."
             }
         ],
         "South Korea": [
             {
-                "title": "US, Japan and South Korea Condemn North Korea's Missile Tests",
+                "title": "Seoul's COVID-19 Outbreak Worsens Amid Omicron Surge",
                 "risk_level": "High",
-                "summary": "The three countries issued a joint statement condemning North Korea's recent missile tests, which they said were a threat to regional and global security."
+                "summary": "South Korea has reported a surge in COVID-19 cases, especially in the capital city of Seoul, forcing authorities to implement stricter measures to curb the spread of the virus."
             },
             {
-                "title": "South Korea's President Yoon Seok-youl Visits US, Discusses North Korea Nuclear Threat",
+                "title": "North Korea's Kim Jong Un Vows to 'Deal a Severe Blow' to South Korea",
                 "risk_level": "High",
-                "summary": "South Korea's President Yoon Seok-youl visited the US and met with President Biden to discuss the growing North Korea nuclear threat, and the need for coordinated international action to address it."
+                "summary": "Kim Jong Un, the leader of North Korea, has warned that his country will take action against South Korea for its alleged hostility, raising tensions between the two nations."
             },
             {
-                "title": "Demonstrations in South Korea Over Labor and Economic Issues",
+                "title": "Korean Government to Implement Stricter Social Distancing Measures",
                 "risk_level": "Medium",
-                "summary": "Protests and demonstrations have taken place in cities across South Korea in response to labor and economic issues, including demands for higher wages, better working conditions and greater economic equality."
+                "summary": "The South Korean government has announced plans to implement stricter social distancing measures to curb the spread of COVID-19, including limiting gatherings and restricting business hours."
+            }
+        ],
+        "Japan": [
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "June 22: Japan's defense officials have said that a recent missile launch by North Korea did not violate Japanese territory, but they are still on high alert. The officials emphasized that the situation is serious and require close monitoring."
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "June 20: Tokyo confirmed a record 31,505 cases, pushing the capital's total to over 1.6 million. Osaka and Aichi have also tightened restrictions in response to the spread of the virus."
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "June 18: Japan's parliament has given the green light for its military to shoot down drones that may pose a threat to its national security, amid rising concerns over North Korea's drone development."
             }
         ]
     }
