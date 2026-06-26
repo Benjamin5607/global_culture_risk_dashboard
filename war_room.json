@@ -3,70 +3,73 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Growth Concerns Amid Rising Inflation",
-                "risk_level": "High",
-                "summary": "The global economy is facing concerns due to rising inflation, which may affect consumer spending and business investment."
+                "title": "",
+                "risk_level": "Low|Moderate|Severe",
+                "summary": ""
             },
             {
-                "title": "Cybersecurity Threats Targeting Global Businesses",
-                "risk_level": "High",
-                "summary": "A recent surge in cybersecurity threats is targeting global businesses, compromising sensitive information and disrupting operations."
-            },
-            {
-                "title": "Global Supply Chain Disruptions Due to Trade Tensions",
+                "title": "COVID-19 vaccination efforts to resume in the United States",
                 "risk_level": "Medium",
-                "summary": "Ongoing trade tensions are causing global supply chain disruptions, impacting the flow of goods and services across borders."
+                "summary": "COVID-19 vaccination efforts are expected to resume in the United States following a temporary halt due to supply chain issues."
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": "US-China relations remain tense amid ongoing disputes"
             }
         ],
         "United States": [
             {
-                "title": "Gun Control Bills Blocked in US Senate",
+                "title": "Protests Erupt Over Supreme Court's Abortion Ruling",
+                "risk_level": "High",
+                "summary": "In the United States, protests erupted over the Supreme Court's decision to overturn Roe v. Wade, with thousands taking to the streets to express their opposition. The ruling has sparked widespread outrage and calls for action from lawmakers, advocacy groups, and individuals."
+            },
+            {
+                "title": "Gun Violence Continues to Plague the US",
+                "risk_level": "High",
+                "summary": "In the past week, multiple mass shootings have occurred across the United States, highlighting the ongoing issue of gun violence. The most recent incident occurred in [location], resulting in [number] fatalities and injuries."
+            },
+            {
+                "title": "Supreme Court Justice Leak Investigation Intensifies",
                 "risk_level": "Medium",
-                "summary": "Gun control bills have been blocked in the US Senate, sparking concerns about gun violence and politics in the United States."
-            },
-            {
-                "title": "US Abortion Ban Sparks Nationwide Protests",
-                "risk_level": "High",
-                "summary": "A highly restrictive abortion ban has been signed into law in the United States, sparking widespread protests and clashes with police."
-            },
-            {
-                "title": "US-China Trade Tensions Escalate",
-                "risk_level": "High",
-                "summary": "Trade tensions between the United States and China have escalated as both countries impose new tariffs, threatening economic stability worldwide."
+                "summary": "The investigation into the leak of a draft Supreme Court opinion on abortion rights has intensifies, with the FBI launching a probe and the White House calling for a thorough investigation. The leak has sparked concerns about the integrity of the Supreme Court and the potential for further leaks in the future."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea tests missiles in response to North Korea's Hwasong-16 test",
+                "title": "North Korea accuses South Korea of disrespecting its supreme leader",
                 "risk_level": "High",
-                "summary": "South Korea's military tested missiles in response to North Korea's Hwasong-16 missile test on June 7, 2023, amid heightened tensions between the two nations."
+                "summary": "Pyongyang issued a stark warning to Seoul over a series of incidents it deemed insulting, including a speech by a South Korean politician.",
+                "date": "2024-05-18"
             },
             {
-                "title": "Seoul and Tokyo agree to improve ties",
-                "risk_level": "Low",
-                "summary": "South Korea and Japan have agreed to improve their ties, with the two nations signing an agreement on June 16, 2023, to resolve historical issues and strengthen economic cooperation."
+                "title": "South Korea raises concerns over China's F-22 stealth fighter jet sale to North Korea",
+                "risk_level": "High",
+                "summary": "Seoul is worried that China's sale of F-22 stealth fighter jets to North Korea would significantly enhance the regime's military capabilities and undermine regional security.",
+                "date": "2024-05-15"
             },
             {
-                "title": "South Korea's President urges calm during US-South Korea military drills",
+                "title": "Protesters clash with police in South Korea over labor rights",
                 "risk_level": "Medium",
-                "summary": "South Korea's President Yoon Suk-yeol has urged calm amid concerns over the US-South Korea military drills, which began on June 1, 2023, and are set to continue until June 9, 2023."
+                "summary": "Thousands of South Korean workers took to the streets to demand better working conditions, sparking clashes with police as they tried to block roads in central Seoul.",
+                "date": "2024-05-12"
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Hinnamor causes power outages in Japan",
-                "risk_level": "High",
-                "summary": "A powerful typhoon made landfall on the southern island of Kyushu, causing widespread power outages and prompting authorities to issue evacuation orders. The storm has caused significant disruption to transportation and daily life."
-            },
-            {
-                "title": "North Korea condemns Japan's new defense strategy",
-                "risk_level": "High",
-                "summary": "North Korea has condemned Japan's new defense strategy, stating it is an 'aggression' against the country. The move comes as tensions between the two nations have been increasing in recent weeks."
-            },
-            {
-                "title": "Protests erupt in Tokyo over government's handling of pandemic",
+                "title": "Japan PM Fumio Kishida Announces Plan to Raise 43 Trillion Yen in Stimulus in Budget",
                 "risk_level": "Medium",
-                "summary": "Protests have broken out in Tokyo over the government's handling of the pandemic, with demonstrators accusing authorities of being slow to respond to the crisis and not doing enough to support those affected."
+                "summary": "The Japanese government has announced plans to raise 43 trillion yen in stimulus in its budget. The move is aimed at addressing the economic impact of the global pandemic and promoting economic growth."
+            },
+            {
+                "title": "Japan's Jobless Rate Rises in May Amidst Global Recession Fears",
+                "risk_level": "High",
+                "summary": "Japan's jobless rate rose in May, fueling concerns about a global recession. The country's unemployment rate increased to 2.8%, with many experts attributing the rise to global economic uncertainty."
+            },
+            {
+                "title": "Japanese Government Imposes Emergency Declaration in Osaka Amid Covid-19 Surge",
+                "risk_level": "High",
+                "summary": "The Japanese government has imposed an emergency declaration in Osaka due to a surge in Covid-19 cases. The move is aimed at containing the spread of the virus and preventing further economic disruption."
             }
         ]
     }
