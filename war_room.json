@@ -3,73 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "Low|Moderate|Severe",
-                "summary": ""
+                "title": "US-China Tensions Escalate Over Taiwan",
+                "risk_level": "High",
+                "summary": "The US and China have increased military presence in the Taiwan Strait amid heightened tensions between the two nations."
             },
             {
-                "title": "COVID-19 vaccination efforts to resume in the United States",
+                "title": "Ransomware Attack Disrupts Global Supply Chain",
+                "risk_level": "High",
+                "summary": "A sophisticated ransomware attack has crippled several major companies, disrupting global supply chains and causing widespread economic disruption."
+            },
+            {
+                "title": "Global Food Prices Hit Record High Amid Drought and War",
                 "risk_level": "Medium",
-                "summary": "COVID-19 vaccination efforts are expected to resume in the United States following a temporary halt due to supply chain issues."
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": "US-China relations remain tense amid ongoing disputes"
+                "summary": "A combination of drought, conflict, and economic sanctions has pushed global food prices to record highs, threatening food security and social stability."
             }
         ],
         "United States": [
             {
-                "title": "Protests Erupt Over Supreme Court's Abortion Ruling",
+                "title": "'US Supreme Court to block student loan forgiveness': Experts",
                 "risk_level": "High",
-                "summary": "In the United States, protests erupted over the Supreme Court's decision to overturn Roe v. Wade, with thousands taking to the streets to express their opposition. The ruling has sparked widespread outrage and calls for action from lawmakers, advocacy groups, and individuals."
+                "summary": "The US Supreme Court is expected to block President Biden's student loan forgiveness plan, which would have erased up to $20,000 in debt for millions of borrowers."
             },
             {
-                "title": "Gun Violence Continues to Plague the US",
+                "title": "'Major crisis': US faces worst drought in 1,000 years amid severe weather",
                 "risk_level": "High",
-                "summary": "In the past week, multiple mass shootings have occurred across the United States, highlighting the ongoing issue of gun violence. The most recent incident occurred in [location], resulting in [number] fatalities and injuries."
+                "summary": "The US is experiencing its worst drought in 1,000 years, with severe weather conditions affecting millions of people and causing widespread crop losses."
             },
             {
-                "title": "Supreme Court Justice Leak Investigation Intensifies",
-                "risk_level": "Medium",
-                "summary": "The investigation into the leak of a draft Supreme Court opinion on abortion rights has intensifies, with the FBI launching a probe and the White House calling for a thorough investigation. The leak has sparked concerns about the integrity of the Supreme Court and the potential for further leaks in the future."
+                "title": "'We're at a tipping point': US faces rising gun violence",
+                "risk_level": "High",
+                "summary": "The US is experiencing a surge in gun violence, with a record number of mass shootings occurring in recent weeks, leaving many to wonder if the country is reaching a tipping point."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea accuses South Korea of disrespecting its supreme leader",
+                "title": "N. Korea conducts ICBM test as Seoul, Washington conduct joint drills",
                 "risk_level": "High",
-                "summary": "Pyongyang issued a stark warning to Seoul over a series of incidents it deemed insulting, including a speech by a South Korean politician.",
-                "date": "2024-05-18"
+                "summary": "North Korea fired an intercontinental ballistic missile (ICBM) on the same day it condemned South Korea and the United States for conducting joint military drills, in the latest sign of escalating tensions between the two. The ICBM was fired from the North Korean province of North Hwanghae."
             },
             {
-                "title": "South Korea raises concerns over China's F-22 stealth fighter jet sale to North Korea",
-                "risk_level": "High",
-                "summary": "Seoul is worried that China's sale of F-22 stealth fighter jets to North Korea would significantly enhance the regime's military capabilities and undermine regional security.",
-                "date": "2024-05-15"
-            },
-            {
-                "title": "Protesters clash with police in South Korea over labor rights",
+                "title": "South Korea confirms 5th death related to COVID-19 vaccination, probe launched",
                 "risk_level": "Medium",
-                "summary": "Thousands of South Korean workers took to the streets to demand better working conditions, sparking clashes with police as they tried to block roads in central Seoul.",
-                "date": "2024-05-12"
+                "summary": "South Korea confirmed a fifth death linked to the COVID-19 vaccination, prompting an investigation into the cause of death."
+            },
+            {
+                "title": "South Korea's president meets with families of Itaewon crowd crush victims",
+                "risk_level": "Medium",
+                "summary": "South Korea's President Yoon Suk-yeol met with families of the victims of the Itaewon crowd crush incident, and apologized for any shortcomings in the government's response."
             }
         ],
         "Japan": [
             {
-                "title": "Japan PM Fumio Kishida Announces Plan to Raise 43 Trillion Yen in Stimulus in Budget",
+                "title": "Japanese Yen Plunges to Record Low, Raising Fears of Currency Crisis",
+                "risk_level": "High",
+                "summary": "The Japanese yen hit a record low against the US dollar, sparking concerns about a currency crisis in Japan."
+            },
+            {
+                "title": "Tokyo Stocks Suffer Heavy Losses Amid Global Market Turmoil",
                 "risk_level": "Medium",
-                "summary": "The Japanese government has announced plans to raise 43 trillion yen in stimulus in its budget. The move is aimed at addressing the economic impact of the global pandemic and promoting economic growth."
+                "summary": "The Tokyo Stock Exchange experienced significant losses due to increased market volatility and a decline in investor confidence."
             },
             {
-                "title": "Japan's Jobless Rate Rises in May Amidst Global Recession Fears",
-                "risk_level": "High",
-                "summary": "Japan's jobless rate rose in May, fueling concerns about a global recession. The country's unemployment rate increased to 2.8%, with many experts attributing the rise to global economic uncertainty."
-            },
-            {
-                "title": "Japanese Government Imposes Emergency Declaration in Osaka Amid Covid-19 Surge",
-                "risk_level": "High",
-                "summary": "The Japanese government has imposed an emergency declaration in Osaka due to a surge in Covid-19 cases. The move is aimed at containing the spread of the virus and preventing further economic disruption."
+                "title": "Protests Erupt in Japan Over Controversial Nuclear Plans",
+                "risk_level": "Medium",
+                "summary": "Anti-nuclear activists staged protests in Tokyo and other cities to express their opposition to a plan to restart a nuclear power plant."
             }
         ]
     }
