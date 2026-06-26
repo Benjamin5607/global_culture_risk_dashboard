@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Tensions Escalate Over Taiwan",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US and China have increased military presence in the Taiwan Strait amid heightened tensions between the two nations."
+                "summary": "Rise in global temperatures accelerating ice sheet melting in the Arctic, increasing flood risk and geopolitical tensions."
             },
             {
-                "title": "Ransomware Attack Disrupts Global Supply Chain",
-                "risk_level": "High",
-                "summary": "A sophisticated ransomware attack has crippled several major companies, disrupting global supply chains and causing widespread economic disruption."
-            },
-            {
-                "title": "Global Food Prices Hit Record High Amid Drought and War",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "A combination of drought, conflict, and economic sanctions has pushed global food prices to record highs, threatening food security and social stability."
+                "summary": "Reports of a possible cyberattack on a major financial institution, raising concerns about data security and economic instability."
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "Escalating tensions between two major world powers over a disputed territory, increasing the risk of military conflict and global economic disruption."
             }
         ],
         "United States": [
             {
-                "title": "'US Supreme Court to block student loan forgiveness': Experts",
+                "title": "Supreme Court Blocks Biden’s Student Loan Forgiveness Plan",
                 "risk_level": "High",
-                "summary": "The US Supreme Court is expected to block President Biden's student loan forgiveness plan, which would have erased up to $20,000 in debt for millions of borrowers."
+                "summary": "The Supreme Court has blocked President Biden’s plan to forgive up to $20,000 in student loans, dealing a major blow to a key policy promise.  The ruling is a significant setback for the president and a victory for Republican lawmakers who have long opposed the plan."
             },
             {
-                "title": "'Major crisis': US faces worst drought in 1,000 years amid severe weather",
+                "title": "US Warns of Possible Al-Qaeda Attack in Middle East",
                 "risk_level": "High",
-                "summary": "The US is experiencing its worst drought in 1,000 years, with severe weather conditions affecting millions of people and causing widespread crop losses."
+                "summary": "The US government has warned of a possible Al-Qaeda attack in the Middle East, particularly in countries such as Syria and Iraq.  The alert was issued by the State Department, which advised American citizens to be vigilant and take necessary precautions."
             },
             {
-                "title": "'We're at a tipping point': US faces rising gun violence",
-                "risk_level": "High",
-                "summary": "The US is experiencing a surge in gun violence, with a record number of mass shootings occurring in recent weeks, leaving many to wonder if the country is reaching a tipping point."
+                "title": "California Man Sentenced to 5 Years in Prison for Plotting to Join ISIS",
+                "risk_level": "Low",
+                "summary": "A California man has been sentenced to 5 years in prison for plotting to join the Islamic State (ISIS).  The man, who was arrested in 2019, had been in contact with ISIS operatives and had planned to travel to Syria to join the group."
             }
         ],
         "South Korea": [
             {
-                "title": "N. Korea conducts ICBM test as Seoul, Washington conduct joint drills",
+                "title": "North Korea conducts missile tests: Report",
                 "risk_level": "High",
-                "summary": "North Korea fired an intercontinental ballistic missile (ICBM) on the same day it condemned South Korea and the United States for conducting joint military drills, in the latest sign of escalating tensions between the two. The ICBM was fired from the North Korean province of North Hwanghae."
+                "summary": "South Korea's military says North Korea has conducted a test of a missile system, a move that is likely to raise tensions in the region."
             },
             {
-                "title": "South Korea confirms 5th death related to COVID-19 vaccination, probe launched",
+                "title": "Protests erupt in South Korea over economic crisis",
                 "risk_level": "Medium",
-                "summary": "South Korea confirmed a fifth death linked to the COVID-19 vaccination, prompting an investigation into the cause of death."
+                "summary": "Thousands of protesters have taken to the streets in South Korea to express their anger over the country's deepening economic crisis."
             },
             {
-                "title": "South Korea's president meets with families of Itaewon crowd crush victims",
-                "risk_level": "Medium",
-                "summary": "South Korea's President Yoon Suk-yeol met with families of the victims of the Itaewon crowd crush incident, and apologized for any shortcomings in the government's response."
+                "title": "South Korea's spy agency detects increased North Korean military activity",
+                "risk_level": "High",
+                "summary": "South Korea's National Intelligence Service (NIS) has detected increased military activity from North Korea, which is raising concerns about a potential threat."
             }
         ],
         "Japan": [
             {
-                "title": "Japanese Yen Plunges to Record Low, Raising Fears of Currency Crisis",
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Tokyo Olympics Organizers Face Pressure over COVID-19 Measures"
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Japan Logs 13,000 COVID-19 Cases Over the Past Week"
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "The Japanese yen hit a record low against the US dollar, sparking concerns about a currency crisis in Japan."
-            },
-            {
-                "title": "Tokyo Stocks Suffer Heavy Losses Amid Global Market Turmoil",
-                "risk_level": "Medium",
-                "summary": "The Tokyo Stock Exchange experienced significant losses due to increased market volatility and a decline in investor confidence."
-            },
-            {
-                "title": "Protests Erupt in Japan Over Controversial Nuclear Plans",
-                "risk_level": "Medium",
-                "summary": "Anti-nuclear activists staged protests in Tokyo and other cities to express their opposition to a plan to restart a nuclear power plant."
+                "summary": "North Korea Fires Missile Towards Japan for Second Time This Month"
             }
         ]
     }
