@@ -1,72 +1,55 @@
 {
-    "updated": "2026-06-25",
+    "updated": "2026-06-26",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Conflict between Ukraine and Russia escalates; concerns over global food security",
+                "title": "Global Cybersecurity Alert: Ransomware Attacks on the Rise",
                 "risk_level": "High",
-                "summary": "The conflict between Ukraine and Russia has resulted in significant disruptions to global food supplies, leading to food shortages and price increases."
+                "summary": "A recent surge in ransomware attacks has left several major corporations vulnerable, highlighting the need for robust cybersecurity measures."
             },
             {
-                "title": "Mass protests erupt in Peru amid fuel price hike and economic instability",
+                "title": "Escalating Global Tensions: US-China Trade War Intensifies",
                 "risk_level": "High",
-                "summary": "Protests in Peru have turned violent as citizens express discontent with the government's decision to hike fuel prices, leading to economic instability and social unrest."
+                "summary": "Tensions between the US and China have escalated in the past week, with escalating trade tariffs and diplomatic rows sparking concerns about a potential trade war."
             },
             {
-                "title": "COVID-19 variant XBB sparks concerns of potential new wave in multiple countries",
+                "title": "Social Media Chaos: Twitter Hack Exposes User Data",
                 "risk_level": "Medium",
-                "summary": "The emergence of a new COVID-19 variant, XBB, has raised concerns of a potential new wave of infections, particularly in regions with low vaccination rates and high case numbers."
+                "summary": "A recent hack of Twitter exposed the personal data of thousands of users, highlighting the risks of social media breaches and the need for stronger security measures."
             }
         ],
         "United States": [
             {
-                "title": "Ukraine war: White House says Russia's missile strikes on Poland were 'unacceptable'.",
-                "summary": "",
-                "risk_level": "High"
+                "title": "Gun violence remains a persistent threat in the US, with multiple shootings reported over the past week.",
+                "risk_level": "High",
+                "summary": "The US continues to grapple with high levels of gun violence, with multiple shootings occurring in various states over the past week, resulting in casualties and heightened community tensions."
             },
             {
-                "title": "Biden to visit the US-Mexico border as part of trip to focus on migration.",
-                "summary": "",
-                "risk_level": "Medium"
+                "title": "Growing concerns over election integrity and voter suppression in the US lead to protests and calls for reform.",
+                "risk_level": "High",
+                "summary": "The US has witnessed a surge in protests and calls for reform in response to growing concerns over election integrity and voter suppression, with many advocating for strengthened voting rights and protections against election interference."
             },
             {
-                "title": "US to host 'diplomatic meetings' with Chinese officials, Blinken to return for Asia tour.",
-                "summary": "",
-                "risk_level": "Low"
+                "title": "Tensions rise between the US and China over Taiwan, with potential implications for global trade and security.",
+                "risk_level": "High",
+                "summary": "The US has expressed increased concerns over China's military activities near Taiwan, leading to heightened tensions between the two nations and potential implications for global trade, security, and stability."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul Seeks to Curb Crypto Activity Amidst Market Plunge",
-                "risk_level": "Medium",
-                "summary": "South Korea's government has announced plans to tighten regulations on cryptocurrency trading, citing concerns over market volatility and potential risks to investors."
-            },
-            {
-                "title": "NKorea Condemns S Korea-US Joint Military Drill",
+                "title": "US, Japan and South Korea Condemn North Korea's Missile Tests",
                 "risk_level": "High",
-                "summary": "North Korea has condemned the joint military drill between South Korea and the United States, calling it a 'provocative' move that could escalate tensions on the Korean Peninsula."
+                "summary": "The three countries issued a joint statement condemning North Korea's recent missile tests, which they said were a threat to regional and global security."
             },
             {
-                "title": "S Korea's Ex-President Park Geun-Hye Sentenced to Extra 4 Years",
-                "risk_level": "Low",
-                "summary": "South Korea's former President Park Geun-hye has been sentenced to an additional 4 years in prison for corruption and abuse of power, bringing her total sentence to 22 years."
-            }
-        ],
-        "Japan": [
-            {
-                "title": "Rising tensions between Japan and South Korea over historic grievances",
+                "title": "South Korea's President Yoon Seok-youl Visits US, Discusses North Korea Nuclear Threat",
                 "risk_level": "High",
-                "summary": "Recent statements from Japanese and South Korean leaders have heightened tensions over historical issues, increasing the risk of diplomatic fallout and economic repercussions."
+                "summary": "South Korea's President Yoon Seok-youl visited the US and met with President Biden to discuss the growing North Korea nuclear threat, and the need for coordinated international action to address it."
             },
             {
-                "title": "Cybersecurity concerns regarding the use of Chinese-made surveillance cameras in Japan",
+                "title": "Demonstrations in South Korea Over Labor and Economic Issues",
                 "risk_level": "Medium",
-                "summary": "Japanese authorities have expressed concerns over the potential use of Chinese-made surveillance cameras to collect sensitive information, raising fears of data breaches and cyberespionage."
-            },
-            {
-                "title": "Protests against government's handling of COVID-19 response continue",
-                "risk_level": "Low",
-                "summary": "Small protests have taken place in Tokyo and other cities, with participants voicing frustration over the government's handling of the pandemic, including mask mandates and vaccination requirements."
+                "summary": "Protests and demonstrations have taken place in cities across South Korea in response to labor and economic issues, including demands for higher wages, better working conditions and greater economic equality."
             }
         ]
     }
