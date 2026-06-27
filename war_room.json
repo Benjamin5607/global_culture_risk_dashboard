@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Tensions Escalate",
+                "title": "Iran protests: Violence and unrest reported in several cities",
                 "risk_level": "High",
-                "summary": "The US and China have imposed new trade restrictions on each other, escalating tensions between the two global powers."
+                "summary": "Demonstrations against the government have turned violent in several cities across Iran"
             },
             {
-                "title": "Global Cyber Attack on Major Corporations",
+                "title": "North Korea conducts missile test: South Korea",
                 "risk_level": "High",
-                "summary": "A major cyber attack has been reported on several major corporations, exposing sensitive data and causing significant disruption."
+                "summary": "North Korea has fired a ballistic missile, South Korea's military says"
             },
             {
-                "title": "COVID-19 Outbreak in Asia Reaches Critical Levels",
+                "title": "Israel-Gaza conflict: Gaza militants, Israel exchange fire",
                 "risk_level": "High",
-                "summary": "The COVID-19 outbreak in Asia has reached critical levels, with hospitals overwhelmed and economic activity severely impacted."
+                "summary": "Rocket fire and artillery exchanges have been reported in the Israel-Gaza border region"
             }
         ],
         "United States": [
             {
-                "title": "US-China Relations Remain Tense After House Speaker's Taiwan Visit",
+                "title": "Supreme Court Leak Fuels Abortion Debate",
                 "risk_level": "High",
-                "summary": "The visit by US House Speaker Nancy Pelosi to Taiwan has escalated tensions between the US and China, leading to potential military conflicts and economic disruptions."
+                "summary": "The leaked draft of a Supreme Court opinion that would overturn Roe v. Wade has sparked intense debate in the US, with many fearing for the future of abortion rights."
             },
             {
-                "title": "Gun Control Debate Intensifies After Recent Mass Shootings",
-                "risk_level": "High",
-                "summary": "A series of mass shootings in the US has reignited the debate over gun control, with some lawmakers pushing for stricter gun laws and others resisting any new regulations."
+                "title": "Twitter Hacker Exposes Private Data",
+                "risk_level": "Medium",
+                "summary": "A hacker gained access to Twitter's internal tools and exposed private data of several high-profile users, highlighting concerns about the platform's security and vulnerability."
             },
             {
-                "title": "Supreme Court Ruling on Abortion Rights Sparks Protests",
-                "risk_level": "High",
-                "summary": "The Supreme Court's decision to overturn Roe v. Wade has sparked widespread protests and demonstrations across the US, with many people expressing outrage and disappointment over the ruling."
+                "title": "Protests Erupt in Response to Police Killing",
+                "risk_level": "Medium",
+                "summary": "Protesters took to the streets in multiple cities across the US after a police shooting left a young black man dead, highlighting ongoing tensions between law enforcement and communities of color."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "North Korea fires an ICBM into the Sea of Japan, prompting South Korea and the US to conduct a joint air defense exercise."
+                "title": "Protests Against Government COVID-19 Response",
+                "risk_level": "Medium",
+                "summary": ""
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "South Korea's presidential office says North Korea has fired multiple ballistic missiles, with some landing in the country's territorial waters."
+                "title": "North Korea Launches Missile Test",
+                "risk_level": "High",
+                "summary": ""
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "South Korea's military says North Korea has fired a rocket from its eastern coast, but it likely failed in its attempt to reach space."
+                "title": "Government Crackdown on Labor Union Demands",
+                "risk_level": "High",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "Japan's government to increase defense budget by 7.2% in 2024",
-                "risk_level": "High",
-                "summary": "Japan's government has announced plans to increase its defense budget by 7.2% in 2024, amid ongoing tensions with China and North Korea. This move is seen as a response to growing regional security concerns and a desire to strengthen Japan's defense capabilities."
-            },
-            {
-                "title": "Japan's economy contracts for second straight quarter",
+                "title": "Japan's PM Fumio Kishida Faces Pressure Over Handling of COVID-19",
                 "risk_level": "Medium",
-                "summary": "Japan's economy has contracted for the second straight quarter, according to government data, raising concerns about the country's economic recovery. The contraction is attributed to weaker exports and domestic demand, which are likely to slow down the country's economic growth."
+                "summary": "The pressure mounts on Japan's PM to resign over his handling of COVID-19, following a surge in cases and the resignation of several senior ministers."
             },
             {
-                "title": "Protests erupt in Japan over government's handling of Fukushima nuclear cleanup",
+                "title": "China, Japan to Hold Security Talks Amid Rising Tensions",
                 "risk_level": "High",
-                "summary": "Protests broke out in Japan over the government's handling of the Fukushima nuclear cleanup, with demonstrators calling for greater transparency and accountability in the process. The protests reflect growing public discontent with the government's response to the nuclear disaster and its impact on local communities."
+                "summary": "China and Japan have agreed to hold high-level security talks amid rising tensions over the South China Sea and North Korea's nuclear program."
+            },
+            {
+                "title": "Japan's Economy Suffers Slowest Quarterly Growth in Over 2 Years, Fueling Fears of Recession",
+                "risk_level": "Low",
+                "summary": "Japan's economy has suffered its slowest quarterly growth in over 2 years, fueling fears of recession and putting pressure on the government to implement more economic stimulus measures."
             }
         ]
     }

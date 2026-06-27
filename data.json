@@ -1,5 +1,21 @@
 [
     {
+        "term": "Gadaffi",
+        "group": "Politician",
+        "country": "Libya",
+        "category": "Controversial Leader",
+        "risk_level": "High",
+        "trend_score": 5.0,
+        "status": "Dead",
+        "first_detected": "1973",
+        "last_updated": "2020-11-15",
+        "context": {
+            "en": "Muammar Gaddafi, also known as Muammar Mohammed Abu Minyar al-Gaddafi, was the sixth head of state of Libya, ruling from 1969 until his death in 2011. He was killed during the Libyan Civil War.",
+            "ko": "무마르 가다피, 무마르 무하마드 압둘 아집 카다피는 리비아의 6번째 국가 주석을 역임했다. 1969년부터 2011년까지 지배하고 existed 가다피는 리비아 내전 당시 살해되었다. ",
+            "ja": "ムアンマル・アル＝ガッダフィ（Muammar al-Gaddafi、ムアンマル・ガッダフィ）は、リビアの6代目国家元首。1969年から2011年まで治世し、2011年のリビア内戦当時に殺害された政治家。"
+        }
+    },
+    {
         "term": "OKBOY",
         "group": "White supremacy",
         "country": "USA",
