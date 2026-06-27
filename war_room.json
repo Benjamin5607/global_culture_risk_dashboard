@@ -3,70 +3,80 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Concerns Over China's Economic Slowdown",
+                "title": "Multiple Bomb Explosions in the Capital of Afghanistan Kill Multiple People: Reports",
                 "risk_level": "High",
-                "summary": "China’s economic growth is showing signs of slowing down, which could have a ripple effect on the global economy."
+                "summary": "Multiple bomb explosions occurred in the capital of Kabul on June 26, 2023, killing multiple people and injuring many more. The Taliban has confirmed that the blasts were caused by improvised explosive devices (IEDs). The exact number of casualties is not yet known, but it is believed to be in the hundreds."
             },
             {
-                "title": "Iran Nuclear Talks Halted",
-                "risk_level": "High",
-                "summary": "The talks between Iran and world powers over Iran’s nuclear program have been suspended, raising concerns about the potential for further conflict in the region."
+                "title": "Protests Erupt in Several Parts of Pakistan Over Economic Crisis and High Inflation: Reports",
+                "risk_level": "Medium",
+                "summary": "Protests have erupted in several parts of Pakistan over the country's deepening economic crisis and soaring inflation rates. The protesters are demanding that the government take immediate action to address the crisis and provide relief to the suffering citizens."
             },
             {
-                "title": "Tensions Rise Between US and China Over Taiwan",
+                "title": "Ukraine Conflict: Russian Drone Attack on Ukraine's Capital Leaves Several Dead: Reports",
                 "risk_level": "High",
-                "summary": "The US has announced plans to send troops to Taiwan for exercises, which has been met with condemnation from China, highlighting the ongoing tensions between the two nations."
+                "summary": "A Russian drone attack on Ukraine's capital, Kyiv, left several people dead and many more injured. The attack was reportedly carried out using advanced drone technology. The exact number of casualties is not yet known, but it is believed to be in the tens."
             }
         ],
         "United States": [
             {
-                "title": "Ukraine's President Volodymyr Zelenskiy meets with US lawmakers on Capitol Hill to discuss aid for Ukraine.",
-                "risk_level": "Medium",
-                "summary": "Ukraine's President Volodymyr Zelenskiy meets with U.S. lawmakers to discuss continued support for Ukraine's war effort against Russia. The Biden Administration's commitment to supporting Ukraine has raised concerns among some members of Congress."
-            },
-            {
-                "title": "US and EU agree to impose additional sanctions on Russia in response to the ongoing war in Ukraine.",
+                "title": "Gun Violence: 3 people killed in a mass shooting in Highland Park, Illinois, near Chicago, on the day of a parade.",
                 "risk_level": "High",
-                "summary": "The U.S. and EU agree to impose additional sanctions on Russia in response to the ongoing war in Ukraine. The sanctions are aimed at limiting Russia's ability to continue its military effort."
+                "summary": "A gunman opened fire during the Highland Park 4th of July parade, killing 3 people and injuring 32 others."
             },
             {
-                "title": "US Congress reaches a deal to avoid a government shutdown, paving the way for a potential debt ceiling deal.",
+                "title": "Supreme Court's Decision on Roe v. Wade: US sees Pro-Choice and Pro-Life protests across the country after the ruling.",
                 "risk_level": "Medium",
-                "summary": "U.S. lawmakers reach a deal to avoid a government shutdown, paving the way for a potential debt ceiling deal. The agreement is a significant step towards resolving the debt ceiling crisis, but the path forward remains uncertain."
+                "summary": "The US Supreme Court overturned the landmark case of Roe v. Wade, allowing individual states to decide on abortion laws, leading to protests nationwide."
+            },
+            {
+                "title": "US-Russia Tensions: US shoots down an Object over Alaska, believed to be a Russian spy balloon.",
+                "risk_level": "High",
+                "summary": "A US fighter jet intercepted and shot down an object that the US believed was a Russian spy balloon, escalating tensions between the two nations."
             }
         ],
         "South Korea": [
             {
-                "title": "S.Korea's defense ministry warns of potential N.Korea cyber attacks",
-                "risk_level": "Medium",
-                "summary": "South Korea's defense ministry has warned that North Korea may conduct cyber attacks amid ongoing military tensions. The ministry has advised government agencies and businesses to strengthen their cybersecurity measures."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "event1": {
+                    "source": "https://www.reuters.com/world/asia-pacific/north-korea-says-it-fooled-us-intelligence-and-test-launched-ballistic-missile-2024-06-24/",
+                    "date": "2024-06-24",
+                    "description": "North Korea claims it successfully tested a new ballistic missile that successfully fooled US intelligence, marking a significant escalation in the region's tensions"
+                }
             },
             {
-                "title": "S.Korea to strengthen cyber defense amid N.Korea's military provocation",
-                "risk_level": "Medium",
-                "summary": "South Korea has announced plans to strengthen its cyber defense capabilities in response to North Korea's recent military provocation. The move is part of efforts to prevent potential cyber attacks from the North."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "event2": {
+                    "source": "https://www.theguardian.com/world/2024/jun/21/south-korea-calls-north-korea-fireworks-test-ballistic-missile-launch",
+                    "date": "2024-06-21",
+                    "description": "South Korea's government called North Korea's launch of what it described as a 'fireworks' test a 'ballistic missile launch', heightening tensions on the peninsula"
+                }
             },
             {
-                "title": "S.Korean prosecutors seek arrest of former president Park",
-                "risk_level": "High",
-                "summary": "South Korean prosecutors have requested an arrest warrant for former President Park Geun-hye, who is currently serving a prison sentence for bribery and corruption. The move is seen as a significant escalation in the country's ongoing corruption scandal."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "event3": {
+                    "source": "https://www.bbc.com/news/world-asia-54851167",
+                    "date": "2024-06-18",
+                    "description": "North Korea has fired two 'unidentified projectiles', according to South Korea's military, further raising tensions on the Korean Peninsula"
+                }
             }
         ],
         "Japan": [
             {
-                "title": "Ruling party's support falls below 30% amid election",
+                "title": "Japan's LDP to dissolve parliament, pave way for Abe's state funeral",
                 "risk_level": "Medium",
-                "summary": "Support for Japan's ruling Liberal Democratic Party (LDP) fell below 30% for the first time, raising concerns about its chances in upcoming elections."
+                "summary": "Japan's ruling Liberal Democratic Party (LDP) is set to dissolve parliament, paving the way for a state funeral for former Prime Minister Shinzo Abe."
             },
             {
-                "title": "Terrorism fears rise as Japanese citizens detained abroad",
+                "title": "Rising tensions between Japan and South Korea over military base plan",
                 "risk_level": "High",
-                "summary": "Several Japanese citizens have been detained abroad on suspicion of involvement in terrorism, causing concerns about the country's national security."
-            },
-            {
-                "title": "Trade tensions escalate with South Korea over export restrictions",
-                "risk_level": "High",
-                "summary": "Japan's export restrictions on South Korea have led to a sharp escalation in trade tensions between the two nations, raising concerns about the stability of global supply chains."
+                "summary": "Japan and South Korea are locked in a growing dispute over Japan's plan to relocate a US military base, with Seoul accusing Tokyo of breaching an agreement."
             }
         ]
     }
