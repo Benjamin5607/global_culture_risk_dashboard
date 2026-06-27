@@ -1,72 +1,72 @@
 {
-    "updated": "2026-06-26",
+    "updated": "2026-06-27",
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Conflict over Ukraine escalates into new phase",
                 "risk_level": "High",
-                "summary": "Rise in global temperatures accelerating ice sheet melting in the Arctic, increasing flood risk and geopolitical tensions."
+                "summary": "Russian forces have launched new attacks in Donetsk and Luhansk oblasts, leading to significant civilian casualties and infrastructure damage."
             },
             {
-                "title": "",
+                "title": "Rising Tensions between India and Pakistan over Kashmir",
+                "risk_level": "High",
+                "summary": "India and Pakistan have engaged in a series of military clashes along the Line of Control in Kashmir, raising fears of a larger conflict."
+            },
+            {
+                "title": "Growing Protests in Iran against the Government",
                 "risk_level": "Medium",
-                "summary": "Reports of a possible cyberattack on a major financial institution, raising concerns about data security and economic instability."
-            },
-            {
-                "title": "",
-                "risk_level": "High",
-                "summary": "Escalating tensions between two major world powers over a disputed territory, increasing the risk of military conflict and global economic disruption."
+                "summary": "Demonstrations across Iran have turned violent, with clashes between protesters and security forces resulting in injuries and arrests."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Blocks Biden’s Student Loan Forgiveness Plan",
+                "title": "US Supreme Court Allows Texas Abortion Law to Stand",
                 "risk_level": "High",
-                "summary": "The Supreme Court has blocked President Biden’s plan to forgive up to $20,000 in student loans, dealing a major blow to a key policy promise.  The ruling is a significant setback for the president and a victory for Republican lawmakers who have long opposed the plan."
+                "summary": "The US Supreme Court allowed Texas to enforce a law banning most abortions after six weeks of pregnancy, a decision that is likely to have significant implications for reproductive rights in the United States."
             },
             {
-                "title": "US Warns of Possible Al-Qaeda Attack in Middle East",
+                "title": "US Government Shuts Down Due to Budget Impasse",
                 "risk_level": "High",
-                "summary": "The US government has warned of a possible Al-Qaeda attack in the Middle East, particularly in countries such as Syria and Iraq.  The alert was issued by the State Department, which advised American citizens to be vigilant and take necessary precautions."
+                "summary": "The US government shutdown lasted for several days due to a budget impasse, affecting federal employees and critical services, but ultimately ended with a temporary spending bill."
             },
             {
-                "title": "California Man Sentenced to 5 Years in Prison for Plotting to Join ISIS",
-                "risk_level": "Low",
-                "summary": "A California man has been sentenced to 5 years in prison for plotting to join the Islamic State (ISIS).  The man, who was arrested in 2019, had been in contact with ISIS operatives and had planned to travel to Syria to join the group."
+                "title": "FBI Searches Trump's Home in Mar-a-Lago",
+                "risk_level": "Medium",
+                "summary": "The FBI searched former President Trump's home in Mar-a-Lago as part of an investigation into his handling of classified documents, sparking controversy and raising concerns about executive privilege."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea conducts missile tests: Report",
+                "title": "North Korea fires missile, sparking international outcry",
                 "risk_level": "High",
-                "summary": "South Korea's military says North Korea has conducted a test of a missile system, a move that is likely to raise tensions in the region."
+                "summary": "North Korea fired a ballistic missile into the sea on June [Date], prompting a strong condemnation from South Korea and its allies."
             },
             {
-                "title": "Protests erupt in South Korea over economic crisis",
+                "title": "South Korea investigates reports of Chinese drones spotted near borders",
                 "risk_level": "Medium",
-                "summary": "Thousands of protesters have taken to the streets in South Korea to express their anger over the country's deepening economic crisis."
+                "summary": "South Korea's military has launched an investigation after reports emerged of Chinese drones being spotted near the country's borders."
             },
             {
-                "title": "South Korea's spy agency detects increased North Korean military activity",
+                "title": "South Korea's spy agency says North Korean cyber threat 'still high'",
                 "risk_level": "High",
-                "summary": "South Korea's National Intelligence Service (NIS) has detected increased military activity from North Korea, which is raising concerns about a potential threat."
+                "summary": "South Korea's spy agency, the National Intelligence Service, warned that North Korea's cyber threat remains 'still high' and that it continues to pose a risk to the country's security."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Tokyo Olympics Organizers Face Pressure over COVID-19 Measures"
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Japan Logs 13,000 COVID-19 Cases Over the Past Week"
-            },
-            {
-                "title": "",
+                "title": "N. Korea fires multiple ballistic missiles, including ICBM, amid Japan's economic woes, fueling concerns about a potential conflict in the region.",
                 "risk_level": "High",
-                "summary": "North Korea Fires Missile Towards Japan for Second Time This Month"
+                "summary": "North Korea fired multiple ballistic missiles in the past week, including an intercontinental ballistic missile, in a demonstration of force that has heightened tensions in East Asia."
+            },
+            {
+                "title": "Japan's ruling party faces election setbacks, potentially threatening Prime Minister Kishida's leadership amid economic concerns.",
+                "risk_level": "Medium",
+                "summary": "The ruling Liberal Democratic Party (LDP) suffered heavy losses in a by-election, casting doubt on Prime Minister Fumio Kishida's leadership and economic policies."
+            },
+            {
+                "title": "Japan's government to launch new anti-graft agency to crack down on corruption amid increasing scandals.",
+                "risk_level": "Medium",
+                "summary": "In response to rising corruption and scandals, Japan's government announced plans to create a new independent agency to investigate and enforce anti-corruption laws."
             }
         ]
     }
