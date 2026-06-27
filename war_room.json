@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Conflict over Ukraine escalates into new phase",
+                "title": "US-China Tensions Escalate",
                 "risk_level": "High",
-                "summary": "Russian forces have launched new attacks in Donetsk and Luhansk oblasts, leading to significant civilian casualties and infrastructure damage."
+                "summary": "The US and China have imposed new trade restrictions on each other, escalating tensions between the two global powers."
             },
             {
-                "title": "Rising Tensions between India and Pakistan over Kashmir",
+                "title": "Global Cyber Attack on Major Corporations",
                 "risk_level": "High",
-                "summary": "India and Pakistan have engaged in a series of military clashes along the Line of Control in Kashmir, raising fears of a larger conflict."
+                "summary": "A major cyber attack has been reported on several major corporations, exposing sensitive data and causing significant disruption."
             },
             {
-                "title": "Growing Protests in Iran against the Government",
-                "risk_level": "Medium",
-                "summary": "Demonstrations across Iran have turned violent, with clashes between protesters and security forces resulting in injuries and arrests."
+                "title": "COVID-19 Outbreak in Asia Reaches Critical Levels",
+                "risk_level": "High",
+                "summary": "The COVID-19 outbreak in Asia has reached critical levels, with hospitals overwhelmed and economic activity severely impacted."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Allows Texas Abortion Law to Stand",
+                "title": "US-China Relations Remain Tense After House Speaker's Taiwan Visit",
                 "risk_level": "High",
-                "summary": "The US Supreme Court allowed Texas to enforce a law banning most abortions after six weeks of pregnancy, a decision that is likely to have significant implications for reproductive rights in the United States."
+                "summary": "The visit by US House Speaker Nancy Pelosi to Taiwan has escalated tensions between the US and China, leading to potential military conflicts and economic disruptions."
             },
             {
-                "title": "US Government Shuts Down Due to Budget Impasse",
+                "title": "Gun Control Debate Intensifies After Recent Mass Shootings",
                 "risk_level": "High",
-                "summary": "The US government shutdown lasted for several days due to a budget impasse, affecting federal employees and critical services, but ultimately ended with a temporary spending bill."
+                "summary": "A series of mass shootings in the US has reignited the debate over gun control, with some lawmakers pushing for stricter gun laws and others resisting any new regulations."
             },
             {
-                "title": "FBI Searches Trump's Home in Mar-a-Lago",
-                "risk_level": "Medium",
-                "summary": "The FBI searched former President Trump's home in Mar-a-Lago as part of an investigation into his handling of classified documents, sparking controversy and raising concerns about executive privilege."
+                "title": "Supreme Court Ruling on Abortion Rights Sparks Protests",
+                "risk_level": "High",
+                "summary": "The Supreme Court's decision to overturn Roe v. Wade has sparked widespread protests and demonstrations across the US, with many people expressing outrage and disappointment over the ruling."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires missile, sparking international outcry",
-                "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile into the sea on June [Date], prompting a strong condemnation from South Korea and its allies."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "North Korea fires an ICBM into the Sea of Japan, prompting South Korea and the US to conduct a joint air defense exercise."
             },
             {
-                "title": "South Korea investigates reports of Chinese drones spotted near borders",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "South Korea's military has launched an investigation after reports emerged of Chinese drones being spotted near the country's borders."
+                "summary": "South Korea's presidential office says North Korea has fired multiple ballistic missiles, with some landing in the country's territorial waters."
             },
             {
-                "title": "South Korea's spy agency says North Korean cyber threat 'still high'",
-                "risk_level": "High",
-                "summary": "South Korea's spy agency, the National Intelligence Service, warned that North Korea's cyber threat remains 'still high' and that it continues to pose a risk to the country's security."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "South Korea's military says North Korea has fired a rocket from its eastern coast, but it likely failed in its attempt to reach space."
             }
         ],
         "Japan": [
             {
-                "title": "N. Korea fires multiple ballistic missiles, including ICBM, amid Japan's economic woes, fueling concerns about a potential conflict in the region.",
+                "title": "Japan's government to increase defense budget by 7.2% in 2024",
                 "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles in the past week, including an intercontinental ballistic missile, in a demonstration of force that has heightened tensions in East Asia."
+                "summary": "Japan's government has announced plans to increase its defense budget by 7.2% in 2024, amid ongoing tensions with China and North Korea. This move is seen as a response to growing regional security concerns and a desire to strengthen Japan's defense capabilities."
             },
             {
-                "title": "Japan's ruling party faces election setbacks, potentially threatening Prime Minister Kishida's leadership amid economic concerns.",
+                "title": "Japan's economy contracts for second straight quarter",
                 "risk_level": "Medium",
-                "summary": "The ruling Liberal Democratic Party (LDP) suffered heavy losses in a by-election, casting doubt on Prime Minister Fumio Kishida's leadership and economic policies."
+                "summary": "Japan's economy has contracted for the second straight quarter, according to government data, raising concerns about the country's economic recovery. The contraction is attributed to weaker exports and domestic demand, which are likely to slow down the country's economic growth."
             },
             {
-                "title": "Japan's government to launch new anti-graft agency to crack down on corruption amid increasing scandals.",
-                "risk_level": "Medium",
-                "summary": "In response to rising corruption and scandals, Japan's government announced plans to create a new independent agency to investigate and enforce anti-corruption laws."
+                "title": "Protests erupt in Japan over government's handling of Fukushima nuclear cleanup",
+                "risk_level": "High",
+                "summary": "Protests broke out in Japan over the government's handling of the Fukushima nuclear cleanup, with demonstrators calling for greater transparency and accountability in the process. The protests reflect growing public discontent with the government's response to the nuclear disaster and its impact on local communities."
             }
         ]
     }
