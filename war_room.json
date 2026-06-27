@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Iran protests: Violence and unrest reported in several cities",
+                "title": "Concerns Over China's Economic Slowdown",
                 "risk_level": "High",
-                "summary": "Demonstrations against the government have turned violent in several cities across Iran"
+                "summary": "China’s economic growth is showing signs of slowing down, which could have a ripple effect on the global economy."
             },
             {
-                "title": "North Korea conducts missile test: South Korea",
+                "title": "Iran Nuclear Talks Halted",
                 "risk_level": "High",
-                "summary": "North Korea has fired a ballistic missile, South Korea's military says"
+                "summary": "The talks between Iran and world powers over Iran’s nuclear program have been suspended, raising concerns about the potential for further conflict in the region."
             },
             {
-                "title": "Israel-Gaza conflict: Gaza militants, Israel exchange fire",
+                "title": "Tensions Rise Between US and China Over Taiwan",
                 "risk_level": "High",
-                "summary": "Rocket fire and artillery exchanges have been reported in the Israel-Gaza border region"
+                "summary": "The US has announced plans to send troops to Taiwan for exercises, which has been met with condemnation from China, highlighting the ongoing tensions between the two nations."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Leak Fuels Abortion Debate",
+                "title": "Ukraine's President Volodymyr Zelenskiy meets with US lawmakers on Capitol Hill to discuss aid for Ukraine.",
+                "risk_level": "Medium",
+                "summary": "Ukraine's President Volodymyr Zelenskiy meets with U.S. lawmakers to discuss continued support for Ukraine's war effort against Russia. The Biden Administration's commitment to supporting Ukraine has raised concerns among some members of Congress."
+            },
+            {
+                "title": "US and EU agree to impose additional sanctions on Russia in response to the ongoing war in Ukraine.",
                 "risk_level": "High",
-                "summary": "The leaked draft of a Supreme Court opinion that would overturn Roe v. Wade has sparked intense debate in the US, with many fearing for the future of abortion rights."
+                "summary": "The U.S. and EU agree to impose additional sanctions on Russia in response to the ongoing war in Ukraine. The sanctions are aimed at limiting Russia's ability to continue its military effort."
             },
             {
-                "title": "Twitter Hacker Exposes Private Data",
+                "title": "US Congress reaches a deal to avoid a government shutdown, paving the way for a potential debt ceiling deal.",
                 "risk_level": "Medium",
-                "summary": "A hacker gained access to Twitter's internal tools and exposed private data of several high-profile users, highlighting concerns about the platform's security and vulnerability."
-            },
-            {
-                "title": "Protests Erupt in Response to Police Killing",
-                "risk_level": "Medium",
-                "summary": "Protesters took to the streets in multiple cities across the US after a police shooting left a young black man dead, highlighting ongoing tensions between law enforcement and communities of color."
+                "summary": "U.S. lawmakers reach a deal to avoid a government shutdown, paving the way for a potential debt ceiling deal. The agreement is a significant step towards resolving the debt ceiling crisis, but the path forward remains uncertain."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests Against Government COVID-19 Response",
+                "title": "S.Korea's defense ministry warns of potential N.Korea cyber attacks",
                 "risk_level": "Medium",
-                "summary": ""
+                "summary": "South Korea's defense ministry has warned that North Korea may conduct cyber attacks amid ongoing military tensions. The ministry has advised government agencies and businesses to strengthen their cybersecurity measures."
             },
             {
-                "title": "North Korea Launches Missile Test",
-                "risk_level": "High",
-                "summary": ""
+                "title": "S.Korea to strengthen cyber defense amid N.Korea's military provocation",
+                "risk_level": "Medium",
+                "summary": "South Korea has announced plans to strengthen its cyber defense capabilities in response to North Korea's recent military provocation. The move is part of efforts to prevent potential cyber attacks from the North."
             },
             {
-                "title": "Government Crackdown on Labor Union Demands",
+                "title": "S.Korean prosecutors seek arrest of former president Park",
                 "risk_level": "High",
-                "summary": ""
+                "summary": "South Korean prosecutors have requested an arrest warrant for former President Park Geun-hye, who is currently serving a prison sentence for bribery and corruption. The move is seen as a significant escalation in the country's ongoing corruption scandal."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's PM Fumio Kishida Faces Pressure Over Handling of COVID-19",
+                "title": "Ruling party's support falls below 30% amid election",
                 "risk_level": "Medium",
-                "summary": "The pressure mounts on Japan's PM to resign over his handling of COVID-19, following a surge in cases and the resignation of several senior ministers."
+                "summary": "Support for Japan's ruling Liberal Democratic Party (LDP) fell below 30% for the first time, raising concerns about its chances in upcoming elections."
             },
             {
-                "title": "China, Japan to Hold Security Talks Amid Rising Tensions",
+                "title": "Terrorism fears rise as Japanese citizens detained abroad",
                 "risk_level": "High",
-                "summary": "China and Japan have agreed to hold high-level security talks amid rising tensions over the South China Sea and North Korea's nuclear program."
+                "summary": "Several Japanese citizens have been detained abroad on suspicion of involvement in terrorism, causing concerns about the country's national security."
             },
             {
-                "title": "Japan's Economy Suffers Slowest Quarterly Growth in Over 2 Years, Fueling Fears of Recession",
-                "risk_level": "Low",
-                "summary": "Japan's economy has suffered its slowest quarterly growth in over 2 years, fueling fears of recession and putting pressure on the government to implement more economic stimulus measures."
+                "title": "Trade tensions escalate with South Korea over export restrictions",
+                "risk_level": "High",
+                "summary": "Japan's export restrictions on South Korea have led to a sharp escalation in trade tensions between the two nations, raising concerns about the stability of global supply chains."
             }
         ]
     }
