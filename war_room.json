@@ -3,80 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Multiple Bomb Explosions in the Capital of Afghanistan Kill Multiple People: Reports",
+                "title": "Cyber Attack on Global Supply Chain",
                 "risk_level": "High",
-                "summary": "Multiple bomb explosions occurred in the capital of Kabul on June 26, 2023, killing multiple people and injuring many more. The Taliban has confirmed that the blasts were caused by improvised explosive devices (IEDs). The exact number of casualties is not yet known, but it is believed to be in the hundreds."
+                "summary": "A coordinated cyber attack on a global logistics company has disrupted supply chains worldwide, highlighting the need for companies to invest in robust cyber security measures."
             },
             {
-                "title": "Protests Erupt in Several Parts of Pakistan Over Economic Crisis and High Inflation: Reports",
+                "title": "Global Protests Against Government Policies",
+                "risk_level": "High",
+                "summary": "Widespread protests have erupted in multiple countries against government policies, highlighting the need for governments to engage with citizens and address growing social unrest."
+            },
+            {
+                "title": "Increase in Global Terrorism Activity",
                 "risk_level": "Medium",
-                "summary": "Protests have erupted in several parts of Pakistan over the country's deepening economic crisis and soaring inflation rates. The protesters are demanding that the government take immediate action to address the crisis and provide relief to the suffering citizens."
-            },
-            {
-                "title": "Ukraine Conflict: Russian Drone Attack on Ukraine's Capital Leaves Several Dead: Reports",
-                "risk_level": "High",
-                "summary": "A Russian drone attack on Ukraine's capital, Kyiv, left several people dead and many more injured. The attack was reportedly carried out using advanced drone technology. The exact number of casualties is not yet known, but it is believed to be in the tens."
+                "summary": "There has been an increase in global terrorism activity over the past week, with multiple attacks reported in various regions, highlighting the ongoing threat posed by terrorist groups."
             }
         ],
         "United States": [
             {
-                "title": "Gun Violence: 3 people killed in a mass shooting in Highland Park, Illinois, near Chicago, on the day of a parade.",
+                "title": "Gun Violence in US Reaches Crisis Levels",
                 "risk_level": "High",
-                "summary": "A gunman opened fire during the Highland Park 4th of July parade, killing 3 people and injuring 32 others."
+                "summary": "Recent mass shootings in US cities have reignited the debate on gun control laws and led to renewed calls for stricter regulations."
             },
             {
-                "title": "Supreme Court's Decision on Roe v. Wade: US sees Pro-Choice and Pro-Life protests across the country after the ruling.",
-                "risk_level": "Medium",
-                "summary": "The US Supreme Court overturned the landmark case of Roe v. Wade, allowing individual states to decide on abortion laws, leading to protests nationwide."
+                "title": "Tensions Rise Between US and China Over Taiwan",
+                "risk_level": "High",
+                "summary": "The US has increased defense aid to Taiwan, escalating tensions with China, which has responded with military exercises in the Taiwan Strait."
             },
             {
-                "title": "US-Russia Tensions: US shoots down an Object over Alaska, believed to be a Russian spy balloon.",
+                "title": "Supreme Court Abortion Ruling Sparks Protests",
                 "risk_level": "High",
-                "summary": "A US fighter jet intercepted and shot down an object that the US believed was a Russian spy balloon, escalating tensions between the two nations."
+                "summary": "The US Supreme Court's decision to overturn Roe v. Wade has sparked widespread protests across the country, with opponents of the ruling clashing with supporters."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "event1": {
-                    "source": "https://www.reuters.com/world/asia-pacific/north-korea-says-it-fooled-us-intelligence-and-test-launched-ballistic-missile-2024-06-24/",
-                    "date": "2024-06-24",
-                    "description": "North Korea claims it successfully tested a new ballistic missile that successfully fooled US intelligence, marking a significant escalation in the region's tensions"
-                }
+                "title": "RPT-Arrests made in South Korea over alleged plot to kill President Yoon",
+                "risk_level": "High",
+                "summary": "South Korean authorities made at least six arrests on Thursday on suspicion of plotting to kill President Yoon Suk-yeol, with police describing the alleged plot as one of the most serious cases of its kind in recent history."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "event2": {
-                    "source": "https://www.theguardian.com/world/2024/jun/21/south-korea-calls-north-korea-fireworks-test-ballistic-missile-launch",
-                    "date": "2024-06-21",
-                    "description": "South Korea's government called North Korea's launch of what it described as a 'fireworks' test a 'ballistic missile launch', heightening tensions on the peninsula"
-                }
+                "title": "South Korea's spy agency chief apologizes for handling of spy ship case",
+                "risk_level": "Medium",
+                "summary": "The head of South Korea's National Intelligence Service apologized on Wednesday for the agency's handling of a spy ship incident that has sparked outrage and calls for reform, after a court jailed two of the agency's staff members for corruption and abuse of power."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "event3": {
-                    "source": "https://www.bbc.com/news/world-asia-54851167",
-                    "date": "2024-06-18",
-                    "description": "North Korea has fired two 'unidentified projectiles', according to South Korea's military, further raising tensions on the Korean Peninsula"
-                }
+                "title": "South Korea warns North Korea of 'strong' response if it fires ballistic missiles",
+                "risk_level": "High",
+                "summary": "South Korea's presidential office on Tuesday warned North Korea of a 'strong' response if it launches ballistic missiles, amid rising tensions between the two countries in the wake of a recent series of missile tests by Pyongyang."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's LDP to dissolve parliament, pave way for Abe's state funeral",
-                "risk_level": "Medium",
-                "summary": "Japan's ruling Liberal Democratic Party (LDP) is set to dissolve parliament, paving the way for a state funeral for former Prime Minister Shinzo Abe."
+                "title": "Tokyo sees uptick in COVID-19 cases",
+                "risk_level": "Low",
+                "summary": "According to a report from Japanese health officials, Tokyo has seen a rise in COVID-19 infections over the past week."
             },
             {
-                "title": "Rising tensions between Japan and South Korea over military base plan",
+                "title": "Japan sees tensions rise in East China Sea",
                 "risk_level": "High",
-                "summary": "Japan and South Korea are locked in a growing dispute over Japan's plan to relocate a US military base, with Seoul accusing Tokyo of breaching an agreement."
+                "summary": "Japan has seen tensions rise with China over a recent military exercise in the East China Sea, which some officials say could be an aggressive move towards Japanese territory."
+            },
+            {
+                "title": "Protests erupt in Japan over new economic policies",
+                "risk_level": "Medium",
+                "summary": "Small protests have erupted in several major cities across Japan over new economic policies announced by the government, which many see as favoring large corporations over small businesses."
             }
         ]
     }
