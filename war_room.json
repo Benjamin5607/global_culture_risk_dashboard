@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyberattack on Global Banking System",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A global hacking collective launched a cyberattack on major banks worldwide, compromising sensitive customer information and disrupting financial transactions."
+                "summary": "Cyberattack on major global bank exposes sensitive customer data, causing widespread financial disruption"
             },
             {
-                "title": "Global Protests Against Rising Food Prices",
+                "title": "",
+                "risk_level": "High",
+                "summary": "Global supply chain disrupted due to labor unrest in key manufacturing hubs, impacting delivery times"
+            },
+            {
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Protesters gathered in cities worldwide to express their discontent with increasing food prices and the economic policies perceived as exacerbating the issue."
-            },
-            {
-                "title": "UN Summit to Address Growing Social Inequality",
-                "risk_level": "Low",
-                "summary": "The United Nations held an emergency summit to discuss and tackle the issue of growing social inequality globally, with representatives from member states sharing their perspectives and proposed solutions."
+                "summary": "Increased tensions between global powers over trade policies lead to economic instability"
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court's climate change decision sparks concerns",
+                "title": "Supreme Court Leaks Raise Concerns Over Judicial Secrecy",
                 "risk_level": "High",
-                "summary": "The Supreme Court's decision to limit the Environmental Protection Agency's authority to regulate greenhouse gas emissions has raised concerns about climate change mitigation efforts in the United States."
+                "summary": "The recent leaks of draft Supreme Court opinions have raised concerns over judicial secrecy and the potential impact on the legitimacy of the Court."
             },
             {
-                "title": "US-China tensions escalate over Taiwan",
+                "title": "US-China Relations Deteriorate Amidst Escalating Tensions",
                 "risk_level": "High",
-                "summary": "Tensions between the United States and China have escalated over the situation in Taiwan, with the US sending a delegation to Taipei and China conducting military drills in the Taiwan Strait."
+                "summary": "The US and China have engaged in a heated exchange of rhetoric, with the US imposing new sanctions and China accusing the US of \"Cold War mentality\"."
             },
             {
-                "title": "Gun violence concerns grow after mass shooting in Uvalde",
-                "risk_level": "High",
-                "summary": "A mass shooting in Uvalde, Texas, has sparked renewed concerns about gun violence in the United States, with President Biden calling for stricter gun control laws."
+                "title": "Rise in Mass Shootings Sparks Debate Over Gun Control Laws",
+                "risk_level": "Medium",
+                "summary": "The recent spate of mass shootings in the US has sparked a renewed debate over gun control laws, with some lawmakers pushing for stricter regulations."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests against President Yoon Suk Yeol's economic policies escalate",
+                "title": "North Korea fires ballistic missile off eastern coast, South Korea says",
                 "risk_level": "High",
-                "summary": "Thousands of protesters gathered in Seoul demanding that President Yoon Suk Yeol resign over his economic policies, which protesters believe have worsened the country's economic crisis."
+                "summary": "South Korea's military said Wednesday that North Korea launched a ballistic missile from its eastern coast, with analysts suggesting it could be a new type of intercontinental-range missile."
             },
             {
-                "title": "Nuclear plant safety concerns arise after discovery of unauthorized personnel",
+                "title": "South Korea says North Korea fires short-range missile",
                 "risk_level": "High",
-                "summary": "The Korea Hydro & Nuclear Power Co. revealed that an unauthorized individual had accessed a nuclear plant in Gyeongju, raising concerns about the facility's safety."
+                "summary": "South Korea's military said Tuesday that North Korea had fired a short-range missile into the sea, in its latest provocation."
             },
             {
-                "title": "North Korea's missile tests spark regional tension",
-                "risk_level": "High",
-                "summary": "North Korea conducted a series of missile tests over the past week, prompting condemnation from the international community and increasing regional tensions."
+                "title": "Seoul warns of potential North Korean provocation during Biden's Asia trip",
+                "risk_level": "Medium",
+                "summary": "South Korea's government said it was monitoring North Korea's movements during U.S. President Joe Biden's Asia trip, warning of any potential provocation."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea launches ballistic missiles",
+                "title": "TOKYO: Japan’s population drops by 240,000 people in a year to 128 million",
+                "risk_level": "Medium",
+                "summary": "Japan's population has decreased by 240,000 people in the past year, reaching 128 million, according to the country's internal affairs ministry. "
+            },
+            {
+                "title": "Japan to introduce new measures to increase birth rate",
                 "risk_level": "High",
-                "summary": "North Korea has launched ballistic missiles, sparking concern among regional nations. This act of aggression could lead to a heightened state of alertness in the Asia-Pacific region, particularly for Japan, given its proximity to North Korea."
+                "summary": "The Japanese government is set to introduce new measures to increase the birth rate, including increasing child benefits and introducing a cash bonus for couples who have a third child."
             },
             {
-                "title": "Rising COVID-19 cases in Tokyo",
+                "title": "Japan’s economy contracts for first time in two years",
                 "risk_level": "Medium",
-                "summary": "The Tokyo metropolitan area has seen a surge in COVID-19 cases, raising concerns about the potential impact on public health and the local economy. The Japanese government has implemented measures to contain the spread of the virus."
-            },
-            {
-                "title": "Protesters march against government policies in Tokyo",
-                "risk_level": "Medium",
-                "summary": "Anti-government protesters marched through the streets of Tokyo, expressing dissent over various policies and laws. The demonstrations remained largely peaceful, but raised concerns about potential social unrest and divisions within Japanese society."
+                "summary": "Japan’s economy has contracted for the first time in two years, growing at an annual rate of 0.4% in the first quarter, down from 0.8% in the previous quarter."
             }
         ]
     }
