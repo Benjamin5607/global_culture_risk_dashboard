@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia-Ukraine conflict: Kyiv rejects Moscow's prisoner swap demand",
+                "title": "Cyberattack on Global Banking System",
                 "risk_level": "High",
-                "summary": "Russia has demanded that Ukraine release 67 prisoners, but Kyiv has refused, citing the prisoners' rights."
+                "summary": "A global hacking collective launched a cyberattack on major banks worldwide, compromising sensitive customer information and disrupting financial transactions."
             },
             {
-                "title": "Global Economic Slowdown: World Trade Sees Slight Rise Amid Ongoing Uncertainty",
+                "title": "Global Protests Against Rising Food Prices",
                 "risk_level": "Medium",
-                "summary": "The World Trade Organization has reported a slight increase in global trade, but economists warn that it may be a temporary reprieve before another downturn."
+                "summary": "Protesters gathered in cities worldwide to express their discontent with increasing food prices and the economic policies perceived as exacerbating the issue."
             },
             {
-                "title": "North Korea Nuclear Test Concerns Soar as IAEA Reports Increased Activity",
-                "risk_level": "High",
-                "summary": "The International Atomic Energy Agency has detected increased activity at North Korea's nuclear test site, sparking concerns about a potential sixth nuclear test."
+                "title": "UN Summit to Address Growing Social Inequality",
+                "risk_level": "Low",
+                "summary": "The United Nations held an emergency summit to discuss and tackle the issue of growing social inequality globally, with representatives from member states sharing their perspectives and proposed solutions."
             }
         ],
         "United States": [
             {
-                "title": "Florida Manatee Deaths Reach Record High Amid Red Tide Outbreak",
-                "risk_level": "Medium",
-                "summary": "A record 284 manatee deaths in Florida have been linked to a red tide outbreak."
+                "title": "Supreme Court's climate change decision sparks concerns",
+                "risk_level": "High",
+                "summary": "The Supreme Court's decision to limit the Environmental Protection Agency's authority to regulate greenhouse gas emissions has raised concerns about climate change mitigation efforts in the United States."
             },
             {
-                "title": "US Supreme Court Declines to Block Texas's Near-Total Abortion Ban",
+                "title": "US-China tensions escalate over Taiwan",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has declined to block Texas's near-total abortion ban, effectively imposing a six-week abortion ban nationwide."
+                "summary": "Tensions between the United States and China have escalated over the situation in Taiwan, with the US sending a delegation to Taipei and China conducting military drills in the Taiwan Strait."
             },
             {
-                "title": "US Federal Employee Dies by Apparent Suicide at US Capitol Visitor Center",
+                "title": "Gun violence concerns grow after mass shooting in Uvalde",
                 "risk_level": "High",
-                "summary": "A US federal employee died by apparent suicide at the US Capitol Visitor Center, the latest in a string of Capitol Hill deaths and incidents."
+                "summary": "A mass shooting in Uvalde, Texas, has sparked renewed concerns about gun violence in the United States, with President Biden calling for stricter gun control laws."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's Kim Un Chol Promoted to Senior Position in Army",
-                "risk_level": "Medium",
-                "summary": "North Korean state media announced that Kim Un Chol has been promoted to a senior position in the army, citing sources. This move could indicate a growing emphasis on military development and potentially heightened tensions on the Korean Peninsula."
-            },
-            {
-                "title": "South Korean Government Proposes New Crypto Regulations",
+                "title": "Protests against President Yoon Suk Yeol's economic policies escalate",
                 "risk_level": "High",
-                "summary": "The South Korean government has introduced a new bill aimed at regulating the country's cryptocurrency market. The proposed regulations include stricter know-your-customer (KYC) and anti-money-laundering (AML) requirements, which could have a significant impact on the industry."
+                "summary": "Thousands of protesters gathered in Seoul demanding that President Yoon Suk Yeol resign over his economic policies, which protesters believe have worsened the country's economic crisis."
             },
             {
-                "title": "Protests Erupt in South Korea Over Government's Economic Policies",
-                "risk_level": "Low",
-                "summary": "Demonstrations took place in major cities across South Korea as protesters voiced their discontent with the government's economic policies. While the protests were largely peaceful, they highlighted ongoing concerns about inequality and social justice."
+                "title": "Nuclear plant safety concerns arise after discovery of unauthorized personnel",
+                "risk_level": "High",
+                "summary": "The Korea Hydro & Nuclear Power Co. revealed that an unauthorized individual had accessed a nuclear plant in Gyeongju, raising concerns about the facility's safety."
+            },
+            {
+                "title": "North Korea's missile tests spark regional tension",
+                "risk_level": "High",
+                "summary": "North Korea conducted a series of missile tests over the past week, prompting condemnation from the international community and increasing regional tensions."
             }
         ],
         "Japan": [
             {
-                "title": "Ruling LDP party to hold leadership election on September 29, 2023.",
-                "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida will step down as leader of the ruling Liberal Democratic Party (LDP) on September 29, 2023, ahead of a general election. This move is seen as a bid to strengthen the party's chances in the election, but it also raises concerns about the stability of the Japanese government."
-            },
-            {
-                "title": "Japan to hold state funeral for former PM Abe on September 27, 2023.",
+                "title": "North Korea launches ballistic missiles",
                 "risk_level": "High",
-                "summary": "Japan will hold a state funeral for former Prime Minister Shinzo Abe on September 27. Abe's assassination has sparked a national debate on security, and the funeral is expected to be a large-scale event."
+                "summary": "North Korea has launched ballistic missiles, sparking concern among regional nations. This act of aggression could lead to a heightened state of alertness in the Asia-Pacific region, particularly for Japan, given its proximity to North Korea."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Rising COVID-19 cases in Tokyo",
+                "risk_level": "Medium",
+                "summary": "The Tokyo metropolitan area has seen a surge in COVID-19 cases, raising concerns about the potential impact on public health and the local economy. The Japanese government has implemented measures to contain the spread of the virus."
+            },
+            {
+                "title": "Protesters march against government policies in Tokyo",
+                "risk_level": "Medium",
+                "summary": "Anti-government protesters marched through the streets of Tokyo, expressing dissent over various policies and laws. The demonstrations remained largely peaceful, but raised concerns about potential social unrest and divisions within Japanese society."
             }
         ]
     }
