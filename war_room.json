@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Uncertainty Spikes, Stocks Plummet",
+                "title": "Russia and the West trade accusations over Ukraine attacks",
                 "risk_level": "High",
-                "summary": "Global economic uncertainty has reached new heights, with stocks plummeting in response to trade wars and recession fears."
+                "summary": "Russia and the West trade accusations after Ukraine accuses Russia's forces of firing on a grain ship"
             },
             {
-                "title": "Cyber Attack Hits Major Tech Company, Exposing User Data",
+                "title": "Turkey to Buy Russian Missile Defence System",
                 "risk_level": "High",
-                "summary": "A major tech company has suffered a devastating cyber attack, exposing sensitive user data and sparking concerns over cybersecurity."
+                "summary": "Turkey confirms it will buy Russia's S-400 missile defence system"
             },
             {
-                "title": "Protests Erupt in Global Cities Over Climate Change",
+                "title": "UK inflation rises to 9% as food prices soar",
                 "risk_level": "Medium",
-                "summary": "Protests have broken out in major cities around the world over growing concerns about climate change and the need for urgent action to address the issue."
+                "summary": "The UK's inflation rate has surged to 9% in annual terms, driven by food prices"
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Justice Clarence Thomas faces ethics investigation",
-                "risk_level": "Medium",
-                "summary": "The Supreme Court has opened an ethics investigation into Justice Clarence Thomas's purchase of a $600,000 vacation home from a conservative nonprofit group, raising concerns about his impartiality."
-            },
-            {
-                "title": "White House announces new sanctions on Russia after drone incident",
+                "title": "Rally Against Abortion Decision",
                 "risk_level": "High",
-                "summary": "The US has imposed new sanctions on Russia in response to the downing of a US drone over the Black Sea, marking a significant escalation of tensions between the two countries."
+                "summary": "Protests and marches in response to the US Supreme Court's decision to overturn Roe v. Wade have been taking place across the country, with some turning violent and resulting in arrests."
             },
             {
-                "title": "US inflation rate slows down but remains near 40-year high",
-                "risk_level": "Medium",
-                "summary": "The US inflation rate has slowed down to 4.7% in May, down from 5% in April, but remains near a 40-year high, raising concerns about economic stability and potential interest rate hikes."
+                "title": "US-China Tensions Escalate over Taiwan",
+                "risk_level": "High",
+                "summary": "The US has strengthened its ties with Taiwan in recent days, prompting a response from China, which has been conducting military drills near the island. The situation remains tense and unpredictable."
+            },
+            {
+                "title": "Mass Shooting in Buffalo, NY",
+                "risk_level": "High",
+                "summary": "A mass shooting occurred at a Tops Friendly Markets grocery store in Buffalo, NY, resulting in the deaths of multiple people and widespread injuries."
             }
         ],
         "South Korea": [
             {
-                "title": "Ransomware Attack Hits South Korean Crypto Exchange",
+                "title": "North Korea's Kim Jong-un warns of 'fiercer' response to South Korean military drills",
                 "risk_level": "High",
-                "summary": "On June 23, a South Korean cryptocurrency exchange was targeted by a ransomware attack, disrupting services and potentially exposing user data. The incident highlights the need for robust cybersecurity measures in the face of increasing threats."
+                "summary": "North Korean leader Kim Jong-un on Monday, June 26, warned of a 'fiercer' response to South Korean military drills, in a statement carried by the Korean Central News Agency."
             },
             {
-                "title": "South Korea's 'Decommissioning Day' Raises Concerns Over Nuclear Waste",
-                "risk_level": "Medium",
-                "summary": "South Korea's 'Decommissioning Day' has sparked concerns over the handling of nuclear waste, with some experts warning of potential environmental risks. The decommissioning process is expected to be completed by 2036."
+                "title": "South Korea's presidential office hit by ransomware attack",
+                "risk_level": "High",
+                "summary": "South Korea's presidential office said it was hit by a ransomware attack on June 23, but did not say whether any sensitive information was compromised."
             },
             {
-                "title": "Protests Erupt Over South Korea's Military Budget",
-                "risk_level": "Low",
-                "summary": "Protests broke out in South Korea over the country's military budget, with demonstrators calling for increased spending on social welfare programs. The protests were largely peaceful, but highlighted tensions between the government and opposition groups."
+                "title": "North Korea's state media warns of 'unprecedented' military action if US sends aid to South Korea",
+                "risk_level": "High",
+                "summary": "North Korea's state media on June 22 warned of 'unprecedented' military action if the United States sends aid to South Korea without Pyongyang's consent."
             }
         ],
         "Japan": [
             {
-                "title": "Japan’s Kishida says China’s assertiveness poses \"substantial risk\"",
-                "risk_level": "High",
-                "summary": "Japan’s Prime Minister Fumio Kishida warns that China’s assertiveness in the region poses a \"substantial risk\" to the country’s national security."
-            },
-            {
-                "title": "Japan’s Nikkei rises, yen weakens as investors bet on BOJ’s stimulus",
-                "risk_level": "Low",
-                "summary": "Japan’s Nikkei stock index rises despite the yen weakening, as investors expect the Bank of Japan (BOJ) to continue its stimulus measures to boost the economy."
-            },
-            {
-                "title": "Japan’s PM Kishida faces backlash over COVID-19 vaccination plans",
+                "title": "Protest against Japan's involvement in Ukraine conflict",
                 "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida faces criticism over the country’s COVID-19 vaccination plans, with some lawmakers calling for a more aggressive approach to tackle the pandemic."
+                "summary": "Anti-war activists in Japan have been protesting against the country's involvement in the Ukraine conflict, with some calling for an end to all Japanese military aid to Ukraine."
+            },
+            {
+                "title": "Increase in COVID-19 cases in Japan's elderly population",
+                "risk_level": "High",
+                "summary": "Japan has seen an increase in COVID-19 cases among its elderly population, raising concerns about the country's healthcare system and the economic impact of extended lockdowns."
+            },
+            {
+                "title": "Japan's cabinet approves new cyber security bill",
+                "risk_level": "Medium",
+                "summary": "Japan's cabinet has approved a new cyber security bill aimed at improving the country's defenses against cyber attacks, but some critics have expressed concerns about its potential impact on civil liberties."
             }
         ]
     }
