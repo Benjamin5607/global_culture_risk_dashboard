@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia and the West trade accusations over Ukraine attacks",
+                "title": "Russia-Ukraine conflict: Kyiv rejects Moscow's prisoner swap demand",
                 "risk_level": "High",
-                "summary": "Russia and the West trade accusations after Ukraine accuses Russia's forces of firing on a grain ship"
+                "summary": "Russia has demanded that Ukraine release 67 prisoners, but Kyiv has refused, citing the prisoners' rights."
             },
             {
-                "title": "Turkey to Buy Russian Missile Defence System",
-                "risk_level": "High",
-                "summary": "Turkey confirms it will buy Russia's S-400 missile defence system"
-            },
-            {
-                "title": "UK inflation rises to 9% as food prices soar",
+                "title": "Global Economic Slowdown: World Trade Sees Slight Rise Amid Ongoing Uncertainty",
                 "risk_level": "Medium",
-                "summary": "The UK's inflation rate has surged to 9% in annual terms, driven by food prices"
+                "summary": "The World Trade Organization has reported a slight increase in global trade, but economists warn that it may be a temporary reprieve before another downturn."
+            },
+            {
+                "title": "North Korea Nuclear Test Concerns Soar as IAEA Reports Increased Activity",
+                "risk_level": "High",
+                "summary": "The International Atomic Energy Agency has detected increased activity at North Korea's nuclear test site, sparking concerns about a potential sixth nuclear test."
             }
         ],
         "United States": [
             {
-                "title": "Rally Against Abortion Decision",
-                "risk_level": "High",
-                "summary": "Protests and marches in response to the US Supreme Court's decision to overturn Roe v. Wade have been taking place across the country, with some turning violent and resulting in arrests."
+                "title": "Florida Manatee Deaths Reach Record High Amid Red Tide Outbreak",
+                "risk_level": "Medium",
+                "summary": "A record 284 manatee deaths in Florida have been linked to a red tide outbreak."
             },
             {
-                "title": "US-China Tensions Escalate over Taiwan",
+                "title": "US Supreme Court Declines to Block Texas's Near-Total Abortion Ban",
                 "risk_level": "High",
-                "summary": "The US has strengthened its ties with Taiwan in recent days, prompting a response from China, which has been conducting military drills near the island. The situation remains tense and unpredictable."
+                "summary": "The US Supreme Court has declined to block Texas's near-total abortion ban, effectively imposing a six-week abortion ban nationwide."
             },
             {
-                "title": "Mass Shooting in Buffalo, NY",
+                "title": "US Federal Employee Dies by Apparent Suicide at US Capitol Visitor Center",
                 "risk_level": "High",
-                "summary": "A mass shooting occurred at a Tops Friendly Markets grocery store in Buffalo, NY, resulting in the deaths of multiple people and widespread injuries."
+                "summary": "A US federal employee died by apparent suicide at the US Capitol Visitor Center, the latest in a string of Capitol Hill deaths and incidents."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's Kim Jong-un warns of 'fiercer' response to South Korean military drills",
-                "risk_level": "High",
-                "summary": "North Korean leader Kim Jong-un on Monday, June 26, warned of a 'fiercer' response to South Korean military drills, in a statement carried by the Korean Central News Agency."
+                "title": "North Korea's Kim Un Chol Promoted to Senior Position in Army",
+                "risk_level": "Medium",
+                "summary": "North Korean state media announced that Kim Un Chol has been promoted to a senior position in the army, citing sources. This move could indicate a growing emphasis on military development and potentially heightened tensions on the Korean Peninsula."
             },
             {
-                "title": "South Korea's presidential office hit by ransomware attack",
+                "title": "South Korean Government Proposes New Crypto Regulations",
                 "risk_level": "High",
-                "summary": "South Korea's presidential office said it was hit by a ransomware attack on June 23, but did not say whether any sensitive information was compromised."
+                "summary": "The South Korean government has introduced a new bill aimed at regulating the country's cryptocurrency market. The proposed regulations include stricter know-your-customer (KYC) and anti-money-laundering (AML) requirements, which could have a significant impact on the industry."
             },
             {
-                "title": "North Korea's state media warns of 'unprecedented' military action if US sends aid to South Korea",
-                "risk_level": "High",
-                "summary": "North Korea's state media on June 22 warned of 'unprecedented' military action if the United States sends aid to South Korea without Pyongyang's consent."
+                "title": "Protests Erupt in South Korea Over Government's Economic Policies",
+                "risk_level": "Low",
+                "summary": "Demonstrations took place in major cities across South Korea as protesters voiced their discontent with the government's economic policies. While the protests were largely peaceful, they highlighted ongoing concerns about inequality and social justice."
             }
         ],
         "Japan": [
             {
-                "title": "Protest against Japan's involvement in Ukraine conflict",
+                "title": "Ruling LDP party to hold leadership election on September 29, 2023.",
                 "risk_level": "Medium",
-                "summary": "Anti-war activists in Japan have been protesting against the country's involvement in the Ukraine conflict, with some calling for an end to all Japanese military aid to Ukraine."
+                "summary": "Japanese Prime Minister Fumio Kishida will step down as leader of the ruling Liberal Democratic Party (LDP) on September 29, 2023, ahead of a general election. This move is seen as a bid to strengthen the party's chances in the election, but it also raises concerns about the stability of the Japanese government."
             },
             {
-                "title": "Increase in COVID-19 cases in Japan's elderly population",
+                "title": "Japan to hold state funeral for former PM Abe on September 27, 2023.",
                 "risk_level": "High",
-                "summary": "Japan has seen an increase in COVID-19 cases among its elderly population, raising concerns about the country's healthcare system and the economic impact of extended lockdowns."
+                "summary": "Japan will hold a state funeral for former Prime Minister Shinzo Abe on September 27. Abe's assassination has sparked a national debate on security, and the funeral is expected to be a large-scale event."
             },
             {
-                "title": "Japan's cabinet approves new cyber security bill",
-                "risk_level": "Medium",
-                "summary": "Japan's cabinet has approved a new cyber security bill aimed at improving the country's defenses against cyber attacks, but some critics have expressed concerns about its potential impact on civil liberties."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
