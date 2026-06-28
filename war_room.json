@@ -1,72 +1,72 @@
 {
-    "updated": "2026-06-27",
+    "updated": "2026-06-28",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber Attack on Global Supply Chain",
+                "title": "Global Economic Uncertainty Spikes, Stocks Plummet",
                 "risk_level": "High",
-                "summary": "A coordinated cyber attack on a global logistics company has disrupted supply chains worldwide, highlighting the need for companies to invest in robust cyber security measures."
+                "summary": "Global economic uncertainty has reached new heights, with stocks plummeting in response to trade wars and recession fears."
             },
             {
-                "title": "Global Protests Against Government Policies",
+                "title": "Cyber Attack Hits Major Tech Company, Exposing User Data",
                 "risk_level": "High",
-                "summary": "Widespread protests have erupted in multiple countries against government policies, highlighting the need for governments to engage with citizens and address growing social unrest."
+                "summary": "A major tech company has suffered a devastating cyber attack, exposing sensitive user data and sparking concerns over cybersecurity."
             },
             {
-                "title": "Increase in Global Terrorism Activity",
+                "title": "Protests Erupt in Global Cities Over Climate Change",
                 "risk_level": "Medium",
-                "summary": "There has been an increase in global terrorism activity over the past week, with multiple attacks reported in various regions, highlighting the ongoing threat posed by terrorist groups."
+                "summary": "Protests have broken out in major cities around the world over growing concerns about climate change and the need for urgent action to address the issue."
             }
         ],
         "United States": [
             {
-                "title": "Gun Violence in US Reaches Crisis Levels",
-                "risk_level": "High",
-                "summary": "Recent mass shootings in US cities have reignited the debate on gun control laws and led to renewed calls for stricter regulations."
+                "title": "Supreme Court Justice Clarence Thomas faces ethics investigation",
+                "risk_level": "Medium",
+                "summary": "The Supreme Court has opened an ethics investigation into Justice Clarence Thomas's purchase of a $600,000 vacation home from a conservative nonprofit group, raising concerns about his impartiality."
             },
             {
-                "title": "Tensions Rise Between US and China Over Taiwan",
+                "title": "White House announces new sanctions on Russia after drone incident",
                 "risk_level": "High",
-                "summary": "The US has increased defense aid to Taiwan, escalating tensions with China, which has responded with military exercises in the Taiwan Strait."
+                "summary": "The US has imposed new sanctions on Russia in response to the downing of a US drone over the Black Sea, marking a significant escalation of tensions between the two countries."
             },
             {
-                "title": "Supreme Court Abortion Ruling Sparks Protests",
-                "risk_level": "High",
-                "summary": "The US Supreme Court's decision to overturn Roe v. Wade has sparked widespread protests across the country, with opponents of the ruling clashing with supporters."
+                "title": "US inflation rate slows down but remains near 40-year high",
+                "risk_level": "Medium",
+                "summary": "The US inflation rate has slowed down to 4.7% in May, down from 5% in April, but remains near a 40-year high, raising concerns about economic stability and potential interest rate hikes."
             }
         ],
         "South Korea": [
             {
-                "title": "RPT-Arrests made in South Korea over alleged plot to kill President Yoon",
+                "title": "Ransomware Attack Hits South Korean Crypto Exchange",
                 "risk_level": "High",
-                "summary": "South Korean authorities made at least six arrests on Thursday on suspicion of plotting to kill President Yoon Suk-yeol, with police describing the alleged plot as one of the most serious cases of its kind in recent history."
+                "summary": "On June 23, a South Korean cryptocurrency exchange was targeted by a ransomware attack, disrupting services and potentially exposing user data. The incident highlights the need for robust cybersecurity measures in the face of increasing threats."
             },
             {
-                "title": "South Korea's spy agency chief apologizes for handling of spy ship case",
+                "title": "South Korea's 'Decommissioning Day' Raises Concerns Over Nuclear Waste",
                 "risk_level": "Medium",
-                "summary": "The head of South Korea's National Intelligence Service apologized on Wednesday for the agency's handling of a spy ship incident that has sparked outrage and calls for reform, after a court jailed two of the agency's staff members for corruption and abuse of power."
+                "summary": "South Korea's 'Decommissioning Day' has sparked concerns over the handling of nuclear waste, with some experts warning of potential environmental risks. The decommissioning process is expected to be completed by 2036."
             },
             {
-                "title": "South Korea warns North Korea of 'strong' response if it fires ballistic missiles",
-                "risk_level": "High",
-                "summary": "South Korea's presidential office on Tuesday warned North Korea of a 'strong' response if it launches ballistic missiles, amid rising tensions between the two countries in the wake of a recent series of missile tests by Pyongyang."
+                "title": "Protests Erupt Over South Korea's Military Budget",
+                "risk_level": "Low",
+                "summary": "Protests broke out in South Korea over the country's military budget, with demonstrators calling for increased spending on social welfare programs. The protests were largely peaceful, but highlighted tensions between the government and opposition groups."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo sees uptick in COVID-19 cases",
-                "risk_level": "Low",
-                "summary": "According to a report from Japanese health officials, Tokyo has seen a rise in COVID-19 infections over the past week."
-            },
-            {
-                "title": "Japan sees tensions rise in East China Sea",
+                "title": "Japan’s Kishida says China’s assertiveness poses \"substantial risk\"",
                 "risk_level": "High",
-                "summary": "Japan has seen tensions rise with China over a recent military exercise in the East China Sea, which some officials say could be an aggressive move towards Japanese territory."
+                "summary": "Japan’s Prime Minister Fumio Kishida warns that China’s assertiveness in the region poses a \"substantial risk\" to the country’s national security."
             },
             {
-                "title": "Protests erupt in Japan over new economic policies",
+                "title": "Japan’s Nikkei rises, yen weakens as investors bet on BOJ’s stimulus",
+                "risk_level": "Low",
+                "summary": "Japan’s Nikkei stock index rises despite the yen weakening, as investors expect the Bank of Japan (BOJ) to continue its stimulus measures to boost the economy."
+            },
+            {
+                "title": "Japan’s PM Kishida faces backlash over COVID-19 vaccination plans",
                 "risk_level": "Medium",
-                "summary": "Small protests have erupted in several major cities across Japan over new economic policies announced by the government, which many see as favoring large corporations over small businesses."
+                "summary": "Japanese Prime Minister Fumio Kishida faces criticism over the country’s COVID-19 vaccination plans, with some lawmakers calling for a more aggressive approach to tackle the pandemic."
             }
         ]
     }
