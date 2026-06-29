@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "There were no High or Medium severity events identified in the Global (All) region over the past 7 days."
+                "title": "Rise in global cyber attacks",
+                "risk_level": "High",
+                "summary": "Increased reports of hacking and data breaches across major tech firms."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Example of Low severity event summary."
+                "title": "Protests erupt in multiple countries over economic inequality",
+                "risk_level": "High",
+                "summary": "Large-scale demonstrations in major cities worldwide."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Example of second Low severity event summary..."
+                "title": "New sanctions imposed on several nations",
+                "risk_level": "High",
+                "summary": "Escalating global tensions and economic uncertainty."
             }
         ],
         "United States": [
             {
-                "title": "Rise in Hate Crimes Against Asian Americans",
+                "title": "House Speaker McCarthy's Debt Ceiling Negotiations Stall",
                 "risk_level": "High",
-                "summary": "According to the FBI, hate crimes against Asian Americans have increased by 76% since 2020."
+                "summary": "House Speaker Kevin McCarthy's negotiations with President Joe Biden on the debt ceiling stalled, raising concerns about a potential default."
             },
             {
-                "title": "Gun Violence in Washington D.C.",
+                "title": "Supreme Court Justice Clarence Thomas Faces Ethics Scrutiny",
                 "risk_level": "High",
-                "summary": "A recent shooting in Washington D.C. has left multiple people injured, highlighting ongoing concerns about gun violence in the city."
+                "summary": "Justice Clarence Thomas faces ethics scrutiny after it was revealed that he failed to disclose his wife's involvement in a non-profit organization."
             },
             {
-                "title": "Tensions Rise in Texas Border Towns",
+                "title": "Gun Violence Continues to Plague the US",
                 "risk_level": "Medium",
-                "summary": "Residents in Texas border towns are protesting recent migrant influx, putting a strain on local resources and creating social unrest."
+                "summary": "A series of mass shootings across the US has sparked renewed debate over gun control laws and regulations."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea threatens to cancel military talks with South Korea over U.S.-South Korea joint military drill",
+                "title": "US, South Korea and Japan Conduct Joint Air Exercises",
                 "risk_level": "High",
-                "summary": "North Korea has threatened to cancel military talks with South Korea over U.S.-South Korea joint military drill. The talks were scheduled to take place in August."
+                "summary": "The joint military drills between the US, South Korea, and Japan have heightened tensions with North Korea, raising concerns about the potential for conflict in the region."
             },
             {
-                "title": "South Korea reports 1,000 new COVID-19 cases",
+                "title": "Rise in COVID-19 Cases in South Korea",
                 "risk_level": "Medium",
-                "summary": "South Korea has reported 1,000 new COVID-19 cases, a significant increase from the previous day."
+                "summary": "South Korea has reported a surge in COVID-19 cases, prompting concerns about the potential for a new wave of infections and the impact on the country's healthcare system."
             },
             {
-                "title": "Protesters clash with police in South Korea over pension reform",
+                "title": "Protests in South Korea Over Revised Labor Laws",
                 "risk_level": "High",
-                "summary": "Protesters have clashed with police in South Korea over pension reform, with thousands of people taking to the streets to demonstrate against the proposed changes."
+                "summary": "Protests have erupted in South Korea over revised labor laws that have been criticized for being overly restrictive and favoring employers, leading to concerns about social unrest and labor disputes."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's LDP Party Election Sparks Uncertainty Amid Economic Woes",
+                "title": "Tokyo Olympics COVID-19 cases spark concern",
                 "risk_level": "Medium",
-                "summary": "Japan's ruling Liberal Democratic Party held a leadership election on April 29, 2021, but results have left the nation's government on uncertain footing, sparking fears about the country's economic future."
+                "summary": "The Tokyo Olympics have recorded several COVID-19 cases, sparking concerns about the safety of athletes and attendees."
             },
             {
-                "title": "Japan's Prime Minister Kishida Faces Criticism Over Handling of COVID-19 Pandemic",
+                "title": "North Korea missile test 'failed'",
                 "risk_level": "High",
-                "summary": "Criticism mounts against Japanese PM Fumio Kishida over his government's response to the COVID-19 pandemic, as the country continues to struggle with high infection rates and vaccination efforts."
+                "summary": "North Korea's latest ballistic missile test appears to have failed, but experts warn the country may continue to develop its military capabilities."
             },
             {
-                "title": "Japan's Economy Suffers Amid Global Supply Chain Disruptions",
-                "risk_level": "Low",
-                "summary": "Japan's economy has taken a hit due to disruptions in the global supply chain, which have led to shortages of essential goods and a ripple effect throughout the country's manufacturing sector."
+                "title": "'Unprecedented' flooding in western Japan",
+                "risk_level": "High",
+                "summary": "Heavy rainfall has caused 'unprecedented' flooding in western Japan, with entire communities underwater and emergency services struggling to respond."
             }
         ]
     }
