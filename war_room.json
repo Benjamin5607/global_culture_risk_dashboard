@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyberattack on Major US Bank Exposes Customer Data",
+                "title": "Cyber attack on major retailer compromises customer data",
                 "risk_level": "High",
-                "summary": "A major US bank has suffered a cyberattack, exposing sensitive customer data. The bank has assured customers that their information is being protected, but the incident raises concerns about data security and potential identity theft."
+                "summary": "A leading international retailer disclosed a data breach affecting millions of customers worldwide, resulting in a massive security incident. This exposes customers to potential identity theft and financial loss."
             },
             {
-                "title": "Protests Erupt in Iran Over Economic Crisis",
+                "title": "Protest against government policies in major city turns violent",
                 "risk_level": "Medium",
-                "summary": "Protests have broken out in Iran over the country's economic crisis. Demonstrators are calling for improved living conditions and government action to address the crisis."
+                "summary": "Tensions between government and citizens escalated in a major metropolitan city, resulting in clashes between protesters and law enforcement. Several injuries and arrests were reported, posing a risk to local businesses and infrastructure."
             },
             {
-                "title": "US-China Trade Tensions Escalate",
+                "title": "Global pandemic alert as highly contagious strain spreads",
                 "risk_level": "High",
-                "summary": "The US and China have escalated their trade tensions, with both countries imposing new tariffs on each other's goods. The dispute has raised concerns about the impact on global trade and economic stability."
+                "summary": "A new, highly contagious COVID-19 strain has been identified, prompting global health authorities to raise alert levels and urge increased precautions to contain the spread."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Blocks Biden's Vaccine Mandate",
+                "title": "Racial Tensions Rise Amid Protests over Tyre Nichols' Death",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has blocked President Joe Biden’s COVID-19 vaccine mandate for large employers"
+                "summary": "Protests have been ongoing in Memphis, Tennessee after the death of Tyre Nichols, a black man who died after being beaten by police officers. The incident has sparked widespread outrage and calls for police reform, highlighting deep-seated racial tensions in the United States."
             },
             {
-                "title": "US Shootings: Multiple Fatalities in California and Tennessee",
-                "risk_level": "High",
-                "summary": "A mass shooting in the US, which took place in Half Moon Bay California has resulted in 7 deaths"
+                "title": "US Supreme Court Rules in Favor of Gun Rights in Major Decision",
+                "risk_level": "Medium",
+                "summary": "The US Supreme Court has ruled in a 6-3 decision that the Constitution guarantees the right to carry a firearm in public for self-defense. The ruling has significant implications for gun control laws across the country."
             },
             {
-                "title": "Gun Violence in US Continues to Rise with Recent Shootings",
+                "title": "US and China Engage in Heated Diplomatic Dispute Over Taiwan",
                 "risk_level": "High",
-                "summary": "The US continues to see an increase in gun violence with recent shootings reported in California and Tennessee"
+                "summary": "The US and China have engaged in a heated diplomatic dispute over Taiwan, with the US supporting the island nation's sovereignty and China viewing it as part of its territory. The dispute has raised tensions between the two nations."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea conducts a missile test, sparking concern over nuclear program",
+                "title": "North Korea's Kim Jong-un orders military to prepare for potential war with South Korea",
                 "risk_level": "High",
-                "summary": "North Korea launched an intermediate-range ballistic missile into the Sea of Japan, prompting a statement from the South Korean government urging restraint."
+                "summary": "North Korean leader Kim Jong-un ordered the country's military on June 23 to be prepared for potential war with the United States and South Korea, in response to joint military drills between the two countries."
             },
             {
-                "title": "South Korea and US engage in military exercises amidst heightened tensions with North Korea",
-                "risk_level": "High",
-                "summary": "The two countries conducted joint military exercises in the face of North Korean missile activity, raising concerns about a potential escalation."
-            },
-            {
-                "title": "Anti-government protests erupt in Seoul, highlighting rising discontent with President Yoon's policies",
+                "title": "South Korea's President-elect Yoon Suk-yeol vows to increase defense spending",
                 "risk_level": "Medium",
-                "summary": "Thousands of demonstrators took to the streets in the capital city, calling for greater economic and social reform in the face of stagnant growth and growing inequality."
+                "summary": "South Korea's president-elect Yoon Suk-yeol has vowed to increase defense spending and strengthen the country's military as he takes office in May, amid tensions with North Korea and China."
+            },
+            {
+                "title": "South Korean government announces new measures to address rising COVID-19 cases",
+                "risk_level": "Low",
+                "summary": "The South Korean government has announced new measures to address rising COVID-19 cases in the country, including tightening travel restrictions and increasing the number of vaccinations."
             }
         ],
         "Japan": [
             {
-                "title": "Concerns Over Japan's Aging Population and Healthcare System",
-                "risk_level": "Medium",
-                "summary": "Aging demographics in Japan have raised concerns about the country's future healthcare system, with a population of over one-third being above the age of 60. This has led to discussions on potential solutions, including increased immigration."
-            },
-            {
-                "title": "North Korea-Japan Tensions Escalate",
+                "title": "Japan to Strengthen Defense in Response to North Korea",
                 "risk_level": "High",
-                "summary": "Tensions between North Korea and Japan have increased, with Pyongyang conducting missile tests that have sparked concerns about national security. Japanese officials have taken a firm stance against North Korea's actions."
+                "summary": "Japan has announced plans to strengthen its defense systems in response to North Korea's recent missile launches. The move comes amid escalating tensions between the two nations."
             },
             {
-                "title": "Japanese Government Urges Calm Amidst Protests in the Country",
+                "title": "Japan's PM Fumio Kishida to Resign Amid Party Infighting",
+                "risk_level": "High",
+                "summary": "Japanese Prime Minister Fumio Kishida is expected to resign due to infighting within his party. This has led to speculation about the future of Japan's government and potential instability."
+            },
+            {
+                "title": "Protests Erupt in Japan Against New Labor Law",
                 "risk_level": "Medium",
-                "summary": "The Japanese government has called for calm amidst ongoing protests that have been sparked by various social issues, including labor rights and environmental concerns. The protests have resulted in clashes between demonstrators and police."
+                "summary": "Thousands of protesters have taken to the streets in Japan to protest a new labor law that has been deemed unfair by many workers. The law has sparked concerns about workers' rights and labor standards."
             }
         ]
     }
