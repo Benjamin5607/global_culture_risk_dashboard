@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rise in global cyber attacks",
+                "title": "Cyberattack on Major US Bank Exposes Customer Data",
                 "risk_level": "High",
-                "summary": "Increased reports of hacking and data breaches across major tech firms."
+                "summary": "A major US bank has suffered a cyberattack, exposing sensitive customer data. The bank has assured customers that their information is being protected, but the incident raises concerns about data security and potential identity theft."
             },
             {
-                "title": "Protests erupt in multiple countries over economic inequality",
-                "risk_level": "High",
-                "summary": "Large-scale demonstrations in major cities worldwide."
+                "title": "Protests Erupt in Iran Over Economic Crisis",
+                "risk_level": "Medium",
+                "summary": "Protests have broken out in Iran over the country's economic crisis. Demonstrators are calling for improved living conditions and government action to address the crisis."
             },
             {
-                "title": "New sanctions imposed on several nations",
+                "title": "US-China Trade Tensions Escalate",
                 "risk_level": "High",
-                "summary": "Escalating global tensions and economic uncertainty."
+                "summary": "The US and China have escalated their trade tensions, with both countries imposing new tariffs on each other's goods. The dispute has raised concerns about the impact on global trade and economic stability."
             }
         ],
         "United States": [
             {
-                "title": "House Speaker McCarthy's Debt Ceiling Negotiations Stall",
+                "title": "US Supreme Court Blocks Biden's Vaccine Mandate",
                 "risk_level": "High",
-                "summary": "House Speaker Kevin McCarthy's negotiations with President Joe Biden on the debt ceiling stalled, raising concerns about a potential default."
+                "summary": "The US Supreme Court has blocked President Joe Biden’s COVID-19 vaccine mandate for large employers"
             },
             {
-                "title": "Supreme Court Justice Clarence Thomas Faces Ethics Scrutiny",
+                "title": "US Shootings: Multiple Fatalities in California and Tennessee",
                 "risk_level": "High",
-                "summary": "Justice Clarence Thomas faces ethics scrutiny after it was revealed that he failed to disclose his wife's involvement in a non-profit organization."
+                "summary": "A mass shooting in the US, which took place in Half Moon Bay California has resulted in 7 deaths"
             },
             {
-                "title": "Gun Violence Continues to Plague the US",
-                "risk_level": "Medium",
-                "summary": "A series of mass shootings across the US has sparked renewed debate over gun control laws and regulations."
+                "title": "Gun Violence in US Continues to Rise with Recent Shootings",
+                "risk_level": "High",
+                "summary": "The US continues to see an increase in gun violence with recent shootings reported in California and Tennessee"
             }
         ],
         "South Korea": [
             {
-                "title": "US, South Korea and Japan Conduct Joint Air Exercises",
+                "title": "North Korea conducts a missile test, sparking concern over nuclear program",
                 "risk_level": "High",
-                "summary": "The joint military drills between the US, South Korea, and Japan have heightened tensions with North Korea, raising concerns about the potential for conflict in the region."
+                "summary": "North Korea launched an intermediate-range ballistic missile into the Sea of Japan, prompting a statement from the South Korean government urging restraint."
             },
             {
-                "title": "Rise in COVID-19 Cases in South Korea",
+                "title": "South Korea and US engage in military exercises amidst heightened tensions with North Korea",
+                "risk_level": "High",
+                "summary": "The two countries conducted joint military exercises in the face of North Korean missile activity, raising concerns about a potential escalation."
+            },
+            {
+                "title": "Anti-government protests erupt in Seoul, highlighting rising discontent with President Yoon's policies",
                 "risk_level": "Medium",
-                "summary": "South Korea has reported a surge in COVID-19 cases, prompting concerns about the potential for a new wave of infections and the impact on the country's healthcare system."
-            },
-            {
-                "title": "Protests in South Korea Over Revised Labor Laws",
-                "risk_level": "High",
-                "summary": "Protests have erupted in South Korea over revised labor laws that have been criticized for being overly restrictive and favoring employers, leading to concerns about social unrest and labor disputes."
+                "summary": "Thousands of demonstrators took to the streets in the capital city, calling for greater economic and social reform in the face of stagnant growth and growing inequality."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo Olympics COVID-19 cases spark concern",
+                "title": "Concerns Over Japan's Aging Population and Healthcare System",
                 "risk_level": "Medium",
-                "summary": "The Tokyo Olympics have recorded several COVID-19 cases, sparking concerns about the safety of athletes and attendees."
+                "summary": "Aging demographics in Japan have raised concerns about the country's future healthcare system, with a population of over one-third being above the age of 60. This has led to discussions on potential solutions, including increased immigration."
             },
             {
-                "title": "North Korea missile test 'failed'",
+                "title": "North Korea-Japan Tensions Escalate",
                 "risk_level": "High",
-                "summary": "North Korea's latest ballistic missile test appears to have failed, but experts warn the country may continue to develop its military capabilities."
+                "summary": "Tensions between North Korea and Japan have increased, with Pyongyang conducting missile tests that have sparked concerns about national security. Japanese officials have taken a firm stance against North Korea's actions."
             },
             {
-                "title": "'Unprecedented' flooding in western Japan",
-                "risk_level": "High",
-                "summary": "Heavy rainfall has caused 'unprecedented' flooding in western Japan, with entire communities underwater and emergency services struggling to respond."
+                "title": "Japanese Government Urges Calm Amidst Protests in the Country",
+                "risk_level": "Medium",
+                "summary": "The Japanese government has called for calm amidst ongoing protests that have been sparked by various social issues, including labor rights and environmental concerns. The protests have resulted in clashes between demonstrators and police."
             }
         ]
     }
