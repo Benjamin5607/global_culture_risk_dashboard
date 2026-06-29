@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US Congress Passes Bill to Increase Surveillance Powers",
-                "risk_level": "High",
-                "summary": "The US Congress has passed a bill that will increase the surveillance powers of law enforcement agencies, sparking concerns about privacy and civil liberties."
-            },
-            {
-                "title": "Global Cyber Attack Hits Major Companies",
-                "risk_level": "High",
-                "summary": "A global cyber attack has hit several major companies, causing significant disruptions and raising concerns about cybersecurity and data protection."
-            },
-            {
-                "title": "Protesters Clash with Police in Major City",
-                "risk_level": "Medium",
-                "summary": "Protesters clashed with police in a major city, leading to injuries and property damage, and highlighting tensions between law enforcement and marginalized communities."
-            }
-        ],
-        "United States": [
-            {
-                "title": "Tensions Rise Between US and China Over Pelosi's Taiwan Visit",
-                "risk_level": "High",
-                "summary": "US-House-Speaker-Nancy-Pelosi-visited-Taiwan-sparking-anger-from-China"
-            },
-            {
-                "title": "US Supreme Court Rules in Favor of Religious Rights in LGBTQ+ Cases",
-                "risk_level": "Medium",
-                "summary": "US-Supreme-Court-ruling-religious-rights-LGBTQ-rights-cases"
-            },
-            {
-                "title": "US Sees Increase in Racial Tensions Following High-Profile Shootings",
-                "risk_level": "High",
-                "summary": "US-increase-racial-tensions-high-profile-shootings-police-brutality"
-            }
-        ],
-        "South Korea": [
-            {
                 "title": "",
-                "risk_level": "High",
-                "summary": "No recent data available. "
+                "risk_level": "Low",
+                "summary": "There were no High or Medium severity events identified in the Global (All) region over the past 7 days."
             },
             {
                 "title": "",
                 "risk_level": "Low",
-                "summary": "'Protest Against Labor Law Changes' held in South Korea."
+                "summary": "Example of Low severity event summary."
             },
             {
                 "title": "",
+                "risk_level": "Low",
+                "summary": "Example of second Low severity event summary..."
+            }
+        ],
+        "United States": [
+            {
+                "title": "Rise in Hate Crimes Against Asian Americans",
+                "risk_level": "High",
+                "summary": "According to the FBI, hate crimes against Asian Americans have increased by 76% since 2020."
+            },
+            {
+                "title": "Gun Violence in Washington D.C.",
+                "risk_level": "High",
+                "summary": "A recent shooting in Washington D.C. has left multiple people injured, highlighting ongoing concerns about gun violence in the city."
+            },
+            {
+                "title": "Tensions Rise in Texas Border Towns",
                 "risk_level": "Medium",
-                "summary": "'Rising North Korea concerns after missile test' has raised concerns about regional security"
+                "summary": "Residents in Texas border towns are protesting recent migrant influx, putting a strain on local resources and creating social unrest."
+            }
+        ],
+        "South Korea": [
+            {
+                "title": "North Korea threatens to cancel military talks with South Korea over U.S.-South Korea joint military drill",
+                "risk_level": "High",
+                "summary": "North Korea has threatened to cancel military talks with South Korea over U.S.-South Korea joint military drill. The talks were scheduled to take place in August."
+            },
+            {
+                "title": "South Korea reports 1,000 new COVID-19 cases",
+                "risk_level": "Medium",
+                "summary": "South Korea has reported 1,000 new COVID-19 cases, a significant increase from the previous day."
+            },
+            {
+                "title": "Protesters clash with police in South Korea over pension reform",
+                "risk_level": "High",
+                "summary": "Protesters have clashed with police in South Korea over pension reform, with thousands of people taking to the streets to demonstrate against the proposed changes."
             }
         ],
         "Japan": [
             {
-                "title": "Mass protests erupt in Tokyo over COVID-19 measures",
-                "risk_level": "High",
-                "summary": "Thousands of people took to the streets in Tokyo to protest against the Japanese government's plans to implement stricter COVID-19 measures, including mandatory vaccinations for all residents. The protests are a reflection of the growing tensions between the government and the general public over the issue of individual freedoms and the role of the state in public health policy."
-            },
-            {
-                "title": "Japan's parliament passes controversial constitutional security bill",
-                "risk_level": "High",
-                "summary": "Japan's parliament has passed a contentious security bill that expands the role of the country's military and intelligence agencies. The bill has been criticized by opposition parties and human rights groups, who argue that it will erode civil liberties and give the government too much power."
-            },
-            {
-                "title": "Anti-Nuclear Protests Erupt in Japan",
+                "title": "Japan's LDP Party Election Sparks Uncertainty Amid Economic Woes",
                 "risk_level": "Medium",
-                "summary": "Protesters have taken to the streets in cities across Japan to demand an end to the country's use of nuclear power. The protests follow a series of scandals and accidents at Japan's nuclear power plants, which have raised concerns about the safety of the country's energy policy."
+                "summary": "Japan's ruling Liberal Democratic Party held a leadership election on April 29, 2021, but results have left the nation's government on uncertain footing, sparking fears about the country's economic future."
+            },
+            {
+                "title": "Japan's Prime Minister Kishida Faces Criticism Over Handling of COVID-19 Pandemic",
+                "risk_level": "High",
+                "summary": "Criticism mounts against Japanese PM Fumio Kishida over his government's response to the COVID-19 pandemic, as the country continues to struggle with high infection rates and vaccination efforts."
+            },
+            {
+                "title": "Japan's Economy Suffers Amid Global Supply Chain Disruptions",
+                "risk_level": "Low",
+                "summary": "Japan's economy has taken a hit due to disruptions in the global supply chain, which have led to shortages of essential goods and a ripple effect throughout the country's manufacturing sector."
             }
         ]
     }
