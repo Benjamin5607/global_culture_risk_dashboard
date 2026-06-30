@@ -1,72 +1,72 @@
 {
-    "updated": "2026-06-29",
+    "updated": "2026-06-30",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber attack on major retailer compromises customer data",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A leading international retailer disclosed a data breach affecting millions of customers worldwide, resulting in a massive security incident. This exposes customers to potential identity theft and financial loss."
+                "summary": "Global Cyberattack Targets US, UK, and Australia - Over 1,000 Companies Affected"
             },
             {
-                "title": "Protest against government policies in major city turns violent",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Tensions between government and citizens escalated in a major metropolitan city, resulting in clashes between protesters and law enforcement. Several injuries and arrests were reported, posing a risk to local businesses and infrastructure."
+                "summary": "Russia-Ukraine Tensions Escalate - Missile Strikes Hit Multiple Cities"
             },
             {
-                "title": "Global pandemic alert as highly contagious strain spreads",
-                "risk_level": "High",
-                "summary": "A new, highly contagious COVID-19 strain has been identified, prompting global health authorities to raise alert levels and urge increased precautions to contain the spread."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "New COVID-19 Variant Detection in China Sparks Global Concerns"
             }
         ],
         "United States": [
             {
-                "title": "Racial Tensions Rise Amid Protests over Tyre Nichols' Death",
+                "title": "Escalating Tensions with China over Taiwan",
                 "risk_level": "High",
-                "summary": "Protests have been ongoing in Memphis, Tennessee after the death of Tyre Nichols, a black man who died after being beaten by police officers. The incident has sparked widespread outrage and calls for police reform, highlighting deep-seated racial tensions in the United States."
+                "summary": "The United States and China have been engaged in a series of diplomatic and military tensions over Taiwan."
             },
             {
-                "title": "US Supreme Court Rules in Favor of Gun Rights in Major Decision",
-                "risk_level": "Medium",
-                "summary": "The US Supreme Court has ruled in a 6-3 decision that the Constitution guarantees the right to carry a firearm in public for self-defense. The ruling has significant implications for gun control laws across the country."
+                "title": "Supreme Court Ruling on Gun Rights",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has ruled in a major gun rights case, with implications for gun control laws."
             },
             {
-                "title": "US and China Engage in Heated Diplomatic Dispute Over Taiwan",
+                "title": "Federal Bureau of Investigation (FBI) Raids on Trump Properties",
                 "risk_level": "High",
-                "summary": "The US and China have engaged in a heated diplomatic dispute over Taiwan, with the US supporting the island nation's sovereignty and China viewing it as part of its territory. The dispute has raised tensions between the two nations."
+                "summary": "The FBI has raided several properties linked to former US President Donald Trump, sparking controversy and outrage."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's Kim Jong-un orders military to prepare for potential war with South Korea",
+                "title": "Protests against Yoon government escalate",
                 "risk_level": "High",
-                "summary": "North Korean leader Kim Jong-un ordered the country's military on June 23 to be prepared for potential war with the United States and South Korea, in response to joint military drills between the two countries."
+                "summary": "Anti-government protests continue in South Korea, with demonstrators calling for President Yoon Suk-yeol's resignation."
             },
             {
-                "title": "South Korea's President-elect Yoon Suk-yeol vows to increase defense spending",
+                "title": "South Korea raises alert level in North Korea",
+                "risk_level": "High",
+                "summary": "The South Korean military raises its alert level in response to North Korea's recent missile tests."
+            },
+            {
+                "title": "Corruption scandal hits government officials",
                 "risk_level": "Medium",
-                "summary": "South Korea's president-elect Yoon Suk-yeol has vowed to increase defense spending and strengthen the country's military as he takes office in May, amid tensions with North Korea and China."
-            },
-            {
-                "title": "South Korean government announces new measures to address rising COVID-19 cases",
-                "risk_level": "Low",
-                "summary": "The South Korean government has announced new measures to address rising COVID-19 cases in the country, including tightening travel restrictions and increasing the number of vaccinations."
+                "summary": "Two high-ranking government officials are implicated in a corruption scandal, sparking public outcry and calls for investigation."
             }
         ],
         "Japan": [
             {
-                "title": "Japan to Strengthen Defense in Response to North Korea",
-                "risk_level": "High",
-                "summary": "Japan has announced plans to strengthen its defense systems in response to North Korea's recent missile launches. The move comes amid escalating tensions between the two nations."
+                "title": "Tokyo reports 3,000 daily COVID-19 cases",
+                "risk_level": "Low",
+                "summary": "As of June 26, Tokyo reported a record high of 3,000 daily COVID-19 cases."
             },
             {
-                "title": "Japan's PM Fumio Kishida to Resign Amid Party Infighting",
-                "risk_level": "High",
-                "summary": "Japanese Prime Minister Fumio Kishida is expected to resign due to infighting within his party. This has led to speculation about the future of Japan's government and potential instability."
+                "title": "",
+                "risk_level": "",
+                "summary": "(No recent information available)"
             },
             {
-                "title": "Protests Erupt in Japan Against New Labor Law",
-                "risk_level": "Medium",
-                "summary": "Thousands of protesters have taken to the streets in Japan to protest a new labor law that has been deemed unfair by many workers. The law has sparked concerns about workers' rights and labor standards."
+                "title": "",
+                "risk_level": "",
+                "summary": "(No recent information available)"
             }
         ]
     }
