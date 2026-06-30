@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Rise in Global Inflation Rates, potential impact on economic stability"
-            },
-            {
-                "title": "",
+                "title": "Russia-Ukraine Conflict Intensifies",
                 "risk_level": "High",
-                "summary": "Increased Tensions between Major World Powers, potential for global conflict"
+                "summary": "Escalating tensions between Russia and Ukraine lead to increased military presence, raising concerns of potential global conflict."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Global Cyber Attack, potential risk to personal data and system crashes"
+                "title": "Global Economic Uncertainty Rises",
+                "risk_level": "High",
+                "summary": "Market volatility and trade tensions contribute to increased economic uncertainty, impacting global trade and investor confidence."
+            },
+            {
+                "title": "Climate Change Protests Spread",
+                "risk_level": "Medium",
+                "summary": "Global climate change protests continue to gain momentum, putting pressure on governments to take action and address growing climate concerns."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Decision Threatens Abortion Rights",
+                "title": "US Supreme Court overturns Roe v. Wade, ending constitutional right to abortion",
                 "risk_level": "High",
-                "summary": "The Supreme Court decision overturned Roe v. Wade, a landmark case that protected the right to an abortion. This decision has sparked widespread protests and concerns about the impact on women's rights."
+                "summary": "The US Supreme Court has overturned Roe v. Wade, the landmark 1973 decision that established a woman's constitutional right to an abortion. The ruling has sparked widespread protests and concerns about access to reproductive healthcare."
             },
             {
-                "title": "Mass Shooting in Buffalo Leaves 10 Dead",
+                "title": "Florida Governor signs bill allowing teachers to carry guns in classrooms",
                 "risk_level": "High",
-                "summary": "A mass shooting occurred at a supermarket in Buffalo, New York, leaving 10 people dead. The motive behind the shooting is still under investigation."
+                "summary": "Florida Governor Ron DeSantis has signed a bill allowing teachers to carry guns in classrooms, despite criticism from educators and gun control advocates."
             },
             {
-                "title": "Tensions Rise Over Gun Control Measures in Congress",
+                "title": "US Senate passes bill to protect same-sex and interracial marriages",
                 "risk_level": "Medium",
-                "summary": "Following the mass shooting in Buffalo, there has been a heightened debate over gun control measures in Congress. Lawmakers are struggling to find a consensus on stricter gun laws."
+                "summary": "The US Senate has passed a bill to protect same-sex and interracial marriages, but it still needs to be approved by the House of Representatives before becoming law."
             }
         ],
         "South Korea": [
             {
-                "title": "Concerns over North Korea's missile tests increase tensions with South Korea",
+                "title": "North Korea conducts missile test amid US-South Korea drills",
                 "risk_level": "High",
-                "summary": "North Korea's recent missile tests have heightened concerns over its military capabilities and prompted an increase in tensions with South Korea."
+                "summary": "North Korea fired an intercontinental ballistic missile into the Sea of Japan, prompting US and South Korean forces to conduct air drills. The US and South Korea had previously agreed to expand joint military drills in response to North Korea's escalating nuclear and missile threats."
             },
             {
-                "title": "South Korean president's approval ratings drop amid economic concerns",
+                "title": "South Korea's president visits DMZ, reaffirms commitment to peace",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol's approval ratings have dropped due to concerns over the country's economy and rising inflation."
+                "summary": "South Korean President Yoon Suk-yeol visited the Demilitarized Zone (DMZ), the border between North and South Korea, and reaffirmed his commitment to peace on the peninsula. The visit comes amid rising tensions between the two countries."
             },
             {
-                "title": "Anti-government protests continue in South Korea amid controversy over labor reforms",
-                "risk_level": "High",
-                "summary": "Anti-government protests have continued in South Korea amid controversy over labor reforms, which have been met with opposition from labor unions and workers."
+                "title": "South Korea to review use of US-made F-35 fighter jets",
+                "risk_level": "Low",
+                "summary": "South Korea's Defense Ministry said it will review the use of US-made F-35 fighter jets in the country's air force, citing maintenance and repair concerns. The move comes amid the US's plans to upgrade the jets with new stealth technology."
             }
         ],
         "Japan": [
             {
-                "title": "Rising tensions between Japan and China over disputed islands",
-                "risk_level": "Medium",
-                "summary": "Tensions between Japan and China have escalated over the East China Sea, with both sides conducting military drills around the disputed Senkaku/Diaoyu Islands."
-            },
-            {
-                "title": "North Korea missile tests pose threat to Japan",
+                "title": "North Korea fires missile over Japan",
                 "risk_level": "High",
-                "summary": "North Korea has conducted multiple missile tests in recent days, with some analysts suggesting that the launches could have implications for Japan's national security."
+                "summary": "North Korea fired a ballistic missile over Japan, prompting warnings to residents to seek shelter immediately."
             },
             {
-                "title": "Japan struggles with COVID-19 outbreaks amid rising cases",
-                "risk_level": "Low",
-                "summary": "Japan is experiencing a surge in COVID-19 cases, with new infections reported in multiple regions. The government has implemented measures to contain the spread of the virus."
+                "title": "Japan's COVID-19 cases surge as new variant spreads",
+                "risk_level": "Medium",
+                "summary": "Japan has reported a surge in COVID-19 cases as a new variant of the virus spreads across the country."
+            },
+            {
+                "title": "Thousands protest against Japanese government's COVID-19 policies",
+                "risk_level": "Medium",
+                "summary": "Thousands of protesters took to the streets in Japan to express their frustration with the government's COVID-19 policies."
             }
         ]
     }
