@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rise in Global Cyberattacks Threatens Financial Stability",
+                "title": "Global Economic Uncertainty Rises Amid US-China Trade Tensions",
                 "risk_level": "High",
-                "summary": "A recent surge in global cyberattacks has led to concerns over the potential disruption to financial markets and institutions."
+                "summary": "Rising trade tensions between the US and China have increased global economic uncertainty, potentially impacting markets and trade."
             },
             {
-                "title": "Escalating Tensions Between Nations Increase Risk of Military Conflict",
+                "title": "Cybersecurity Threats Grow as Ransomware Attacks Increase",
                 "risk_level": "High",
-                "summary": "Tensions between nations have been escalating in recent days, leading to increased concerns over the potential for military conflict."
+                "summary": "An uptick in ransomware attacks has led to increased cybersecurity threats, posing a risk to businesses and individuals."
             },
             {
-                "title": "Outbreak of Infectious Disease Affects Global Health",
+                "title": "Social Media Platforms Under Scrutiny for Disinformation Spread",
                 "risk_level": "Medium",
-                "summary": "A highly contagious and infectious disease has been spreading rapidly around the globe, posing significant risks to global health."
+                "summary": "Social media platforms are facing scrutiny for their role in spreading disinformation, which could influence public opinion and impact social cohesion."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Overturns Roe v. Wade, Ending 50-Year Abortion Rights Era",
+                "title": "Rising Tensions with North Korea over Missile Tests",
                 "risk_level": "High",
-                "summary": "The Supreme Court of the United States has issued a landmark decision that overrules its earlier ruling in Roe v. Wade, effectively reversing the constitutional right to abortion in the United States. The ruling has significant implications for women's rights and healthcare nationwide, with many states expected to ban abortion."
+                "summary": "The United States and its allies are on high alert as North Korea continues to conduct ballistic missile tests, raising concerns about a potential escalation in tensions."
             },
             {
-                "title": "Gunman Opens Fire in Chicago, 6 Killed, 24 Wounded in Shootout",
+                "title": "Protests Erupt over Abortion Rights in the US",
                 "risk_level": "High",
-                "summary": "A mass shooting occurred in Chicago on [insert date], leaving six people dead and 24 injured. The shooting is one of the deadliest in the city's recent history and has raised concerns about gun violence in the United States."
+                "summary": "Protests have taken place across the US as the Supreme Court's decision to overturn Roe v. Wade has sparked widespread outrage and calls for action on abortion rights."
             },
             {
-                "title": "US and Russia Agree to Hold Emergency Meeting on Ukraine Grain Exports",
+                "title": "Increased Tensions at the US-Mexico Border",
                 "risk_level": "Medium",
-                "summary": "The United States and Russia have agreed to hold an emergency meeting to discuss Ukraine's grain exports, which have been affected by the ongoing conflict between Russia and Ukraine. The meeting aims to address concerns about food security and global market stability."
+                "summary": "Tensions have escalated at the US-Mexico border as a surge in migrants and asylum seekers has led to increased security measures and criticism from human rights groups."
             }
         ],
         "South Korea": [
             {
-                "title": "China, US and South Korea hold trilateral meeting amid tensions over North Korea",
-                "risk_level": "Low",
-                "summary": "China, the US and South Korea held a trilateral meeting on Wednesday amid tensions over North Korea's nuclear programme."
-            },
-            {
-                "title": "North Korea launches a missile in direction of Japan",
+                "title": "North Korea fires multiple ballistic missiles",
                 "risk_level": "High",
-                "summary": "North Korea launched a missile in the direction of Japan, with the US confirming it as an intercontinental ballistic missile."
+                "summary": "North Korea fired multiple ballistic missiles into the Sea of Japan on June 24, sparking concerns about regional security. The launches were widely condemned by the international community, including the United States, Japan, and South Korea."
             },
             {
-                "title": "South Korean authorities launch investigation into spy camera scandal",
+                "title": "South Korea reports significant increase in COVID-19 cases",
                 "risk_level": "Medium",
-                "summary": "South Korean authorities have launched an investigation into a spy camera scandal that has seen hundreds of women come forward accusing men of secretly filming them."
+                "summary": "South Korea reported a significant increase in COVID-19 cases over the past week, with 10,000 new cases reported on June 26. The government imposed new restrictions on gatherings and public events to mitigate the spread of the virus."
+            },
+            {
+                "title": "Protests erupt in South Korea over economic inequality",
+                "risk_level": "Low",
+                "summary": "Protests erupted in major cities across South Korea on June 25 over economic inequality and rising living costs. The protests were largely peaceful, but some clashes broke out with police."
             }
         ],
         "Japan": [
             {
-                "title": "Japan Raises Flood Warnings as Heavy Rain Lashes Eastern Regions",
-                "risk_level": "High",
-                "summary": "Residents in eastern Japan were ordered to evacuate early yesterday (Thursday, June 29) as heavy rain and strong winds pounded the region, causing widespread flooding and landslides."
-            },
-            {
-                "title": "Japan's ruling party suffers biggest election setback in decades",
+                "title": "Tokyo reports highest number of COVID-19 cases in 2 weeks",
                 "risk_level": "Medium",
-                "summary": "The ruling Liberal Democratic Party (LDP) has suffered its biggest election setback in decades after a string of high-profile defeats, which has sparked concerns about its ability to maintain power in Japan."
+                "summary": "Tokyo has reported a significant rise in COVID-19 cases in the past week, raising concerns about the potential for a new wave."
             },
             {
-                "title": "Tokyo reports highest number of COVID-19 cases since February 2022",
+                "title": "Protest against government's COVID-19 measures in Tokyo",
+                "risk_level": "High",
+                "summary": "Thousands of protesters gathered in Tokyo's main streets to demonstrate against the government's COVID-19 measures, highlighting the country's divisions on the issue."
+            },
+            {
+                "title": "Magnitude 5.9 earthquake hits Japan, triggers alerts in Tokyo",
                 "risk_level": "Low",
-                "summary": "Tokyo on Tuesday announced its highest coronavirus caseload since February 2022, with 6,124 new cases reported, raising concern that the city's hospitals may become overwhelmed."
+                "summary": "A magnitude 5.9 earthquake struck Japan, causing minor damage and triggering alerts in Tokyo and surrounding areas."
             }
         ]
     }
