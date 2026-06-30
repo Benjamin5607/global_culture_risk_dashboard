@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia-Ukraine Conflict Intensifies",
+                "title": "Rise in Global Cyberattacks Threatens Financial Stability",
                 "risk_level": "High",
-                "summary": "Escalating tensions between Russia and Ukraine lead to increased military presence, raising concerns of potential global conflict."
+                "summary": "A recent surge in global cyberattacks has led to concerns over the potential disruption to financial markets and institutions."
             },
             {
-                "title": "Global Economic Uncertainty Rises",
+                "title": "Escalating Tensions Between Nations Increase Risk of Military Conflict",
                 "risk_level": "High",
-                "summary": "Market volatility and trade tensions contribute to increased economic uncertainty, impacting global trade and investor confidence."
+                "summary": "Tensions between nations have been escalating in recent days, leading to increased concerns over the potential for military conflict."
             },
             {
-                "title": "Climate Change Protests Spread",
+                "title": "Outbreak of Infectious Disease Affects Global Health",
                 "risk_level": "Medium",
-                "summary": "Global climate change protests continue to gain momentum, putting pressure on governments to take action and address growing climate concerns."
+                "summary": "A highly contagious and infectious disease has been spreading rapidly around the globe, posing significant risks to global health."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court overturns Roe v. Wade, ending constitutional right to abortion",
+                "title": "US Supreme Court Overturns Roe v. Wade, Ending 50-Year Abortion Rights Era",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has overturned Roe v. Wade, the landmark 1973 decision that established a woman's constitutional right to an abortion. The ruling has sparked widespread protests and concerns about access to reproductive healthcare."
+                "summary": "The Supreme Court of the United States has issued a landmark decision that overrules its earlier ruling in Roe v. Wade, effectively reversing the constitutional right to abortion in the United States. The ruling has significant implications for women's rights and healthcare nationwide, with many states expected to ban abortion."
             },
             {
-                "title": "Florida Governor signs bill allowing teachers to carry guns in classrooms",
+                "title": "Gunman Opens Fire in Chicago, 6 Killed, 24 Wounded in Shootout",
                 "risk_level": "High",
-                "summary": "Florida Governor Ron DeSantis has signed a bill allowing teachers to carry guns in classrooms, despite criticism from educators and gun control advocates."
+                "summary": "A mass shooting occurred in Chicago on [insert date], leaving six people dead and 24 injured. The shooting is one of the deadliest in the city's recent history and has raised concerns about gun violence in the United States."
             },
             {
-                "title": "US Senate passes bill to protect same-sex and interracial marriages",
+                "title": "US and Russia Agree to Hold Emergency Meeting on Ukraine Grain Exports",
                 "risk_level": "Medium",
-                "summary": "The US Senate has passed a bill to protect same-sex and interracial marriages, but it still needs to be approved by the House of Representatives before becoming law."
+                "summary": "The United States and Russia have agreed to hold an emergency meeting to discuss Ukraine's grain exports, which have been affected by the ongoing conflict between Russia and Ukraine. The meeting aims to address concerns about food security and global market stability."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea conducts missile test amid US-South Korea drills",
-                "risk_level": "High",
-                "summary": "North Korea fired an intercontinental ballistic missile into the Sea of Japan, prompting US and South Korean forces to conduct air drills. The US and South Korea had previously agreed to expand joint military drills in response to North Korea's escalating nuclear and missile threats."
-            },
-            {
-                "title": "South Korea's president visits DMZ, reaffirms commitment to peace",
-                "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol visited the Demilitarized Zone (DMZ), the border between North and South Korea, and reaffirmed his commitment to peace on the peninsula. The visit comes amid rising tensions between the two countries."
-            },
-            {
-                "title": "South Korea to review use of US-made F-35 fighter jets",
+                "title": "China, US and South Korea hold trilateral meeting amid tensions over North Korea",
                 "risk_level": "Low",
-                "summary": "South Korea's Defense Ministry said it will review the use of US-made F-35 fighter jets in the country's air force, citing maintenance and repair concerns. The move comes amid the US's plans to upgrade the jets with new stealth technology."
+                "summary": "China, the US and South Korea held a trilateral meeting on Wednesday amid tensions over North Korea's nuclear programme."
+            },
+            {
+                "title": "North Korea launches a missile in direction of Japan",
+                "risk_level": "High",
+                "summary": "North Korea launched a missile in the direction of Japan, with the US confirming it as an intercontinental ballistic missile."
+            },
+            {
+                "title": "South Korean authorities launch investigation into spy camera scandal",
+                "risk_level": "Medium",
+                "summary": "South Korean authorities have launched an investigation into a spy camera scandal that has seen hundreds of women come forward accusing men of secretly filming them."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires missile over Japan",
+                "title": "Japan Raises Flood Warnings as Heavy Rain Lashes Eastern Regions",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile over Japan, prompting warnings to residents to seek shelter immediately."
+                "summary": "Residents in eastern Japan were ordered to evacuate early yesterday (Thursday, June 29) as heavy rain and strong winds pounded the region, causing widespread flooding and landslides."
             },
             {
-                "title": "Japan's COVID-19 cases surge as new variant spreads",
+                "title": "Japan's ruling party suffers biggest election setback in decades",
                 "risk_level": "Medium",
-                "summary": "Japan has reported a surge in COVID-19 cases as a new variant of the virus spreads across the country."
+                "summary": "The ruling Liberal Democratic Party (LDP) has suffered its biggest election setback in decades after a string of high-profile defeats, which has sparked concerns about its ability to maintain power in Japan."
             },
             {
-                "title": "Thousands protest against Japanese government's COVID-19 policies",
-                "risk_level": "Medium",
-                "summary": "Thousands of protesters took to the streets in Japan to express their frustration with the government's COVID-19 policies."
+                "title": "Tokyo reports highest number of COVID-19 cases since February 2022",
+                "risk_level": "Low",
+                "summary": "Tokyo on Tuesday announced its highest coronavirus caseload since February 2022, with 6,124 new cases reported, raising concern that the city's hospitals may become overwhelmed."
             }
         ]
     }

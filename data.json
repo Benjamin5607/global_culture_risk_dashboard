@@ -1,5 +1,21 @@
 [
     {
+        "term": "SS Divisions",
+        "group": "Nazi Germany",
+        "country": "Germany",
+        "category": "Hate Symbol",
+        "risk_level": "Critical",
+        "trend_score": 3,
+        "status": "Verified",
+        "first_detected": 1923,
+        "last_updated": 2020,
+        "context": {
+            "en": "SS (Schutzstaffel) Divisions were a type of military division used by the Nazi Party in Germany during World War II. They were formed to carry out the party's policies and were involved in many atrocities, including the Holocaust.",
+            "ko": "나치 독일의 나치당(Nazi Party)이 사용했던 군대 부대의 하나이다. 나치당의 정책을 이행하는 데 사용되었으며, 홀로 코스트 및 기타 많은 학살에 관여했다.",
+            "ja": "ナチス・ドイツのナチ党(Nazi Party)により使用された軍隊部隊の1つ。ナチ党の政策を実施するために使用され、ホロコーストやその他の多数の虐殺に参加した。"
+        }
+    },
+    {
         "term": "Marie Curie",
         "group": "Scientist",
         "country": "Poland/United States",
