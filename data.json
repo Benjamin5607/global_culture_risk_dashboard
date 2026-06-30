@@ -1,5 +1,21 @@
 [
     {
+        "term": "Marie Curie",
+        "group": "Scientist",
+        "country": "Poland/United States",
+        "category": "Nuclear Physics",
+        "risk_level": "Low",
+        "trend_score": 0.5,
+        "status": "Inactive",
+        "first_detected": "1891",
+        "last_updated": "2022",
+        "context": {
+            "en": "Marie Curie was a Polish-born physicist and chemist who pioneered radioactivity research. However, her contributions were often overshadowed by her personal life and marital issues.",
+            "ko": "마리 퀴리는 폴란드계 물리학자이자 화학자로 방사선 연구를 선구했다. 그러나 그녀의 개인생활은 그녀의 학문적 업적을 지체시켰다.",
+            "ja": "マリー・キュリーは、放射線研究を先駆けてきたポーランド出身の物理学者、化学者。彼女の個人的な人生と結婚問題が学術的な業績を影に隠した"
+        }
+    },
+    {
         "term": "Gadaffi",
         "group": "Politician",
         "country": "Libya",

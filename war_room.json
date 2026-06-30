@@ -4,69 +4,69 @@
         "Global (All)": [
             {
                 "title": "",
-                "risk_level": "High",
-                "summary": "Global Cyberattack Targets US, UK, and Australia - Over 1,000 Companies Affected"
+                "risk_level": "Medium",
+                "summary": "Rise in Global Inflation Rates, potential impact on economic stability"
             },
             {
                 "title": "",
-                "risk_level": "Medium",
-                "summary": "Russia-Ukraine Tensions Escalate - Missile Strikes Hit Multiple Cities"
+                "risk_level": "High",
+                "summary": "Increased Tensions between Major World Powers, potential for global conflict"
             },
             {
                 "title": "",
                 "risk_level": "Low",
-                "summary": "New COVID-19 Variant Detection in China Sparks Global Concerns"
+                "summary": "Global Cyber Attack, potential risk to personal data and system crashes"
             }
         ],
         "United States": [
             {
-                "title": "Escalating Tensions with China over Taiwan",
+                "title": "Supreme Court Decision Threatens Abortion Rights",
                 "risk_level": "High",
-                "summary": "The United States and China have been engaged in a series of diplomatic and military tensions over Taiwan."
+                "summary": "The Supreme Court decision overturned Roe v. Wade, a landmark case that protected the right to an abortion. This decision has sparked widespread protests and concerns about the impact on women's rights."
             },
             {
-                "title": "Supreme Court Ruling on Gun Rights",
+                "title": "Mass Shooting in Buffalo Leaves 10 Dead",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has ruled in a major gun rights case, with implications for gun control laws."
+                "summary": "A mass shooting occurred at a supermarket in Buffalo, New York, leaving 10 people dead. The motive behind the shooting is still under investigation."
             },
             {
-                "title": "Federal Bureau of Investigation (FBI) Raids on Trump Properties",
-                "risk_level": "High",
-                "summary": "The FBI has raided several properties linked to former US President Donald Trump, sparking controversy and outrage."
+                "title": "Tensions Rise Over Gun Control Measures in Congress",
+                "risk_level": "Medium",
+                "summary": "Following the mass shooting in Buffalo, there has been a heightened debate over gun control measures in Congress. Lawmakers are struggling to find a consensus on stricter gun laws."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests against Yoon government escalate",
+                "title": "Concerns over North Korea's missile tests increase tensions with South Korea",
                 "risk_level": "High",
-                "summary": "Anti-government protests continue in South Korea, with demonstrators calling for President Yoon Suk-yeol's resignation."
+                "summary": "North Korea's recent missile tests have heightened concerns over its military capabilities and prompted an increase in tensions with South Korea."
             },
             {
-                "title": "South Korea raises alert level in North Korea",
-                "risk_level": "High",
-                "summary": "The South Korean military raises its alert level in response to North Korea's recent missile tests."
-            },
-            {
-                "title": "Corruption scandal hits government officials",
+                "title": "South Korean president's approval ratings drop amid economic concerns",
                 "risk_level": "Medium",
-                "summary": "Two high-ranking government officials are implicated in a corruption scandal, sparking public outcry and calls for investigation."
+                "summary": "South Korean President Yoon Suk-yeol's approval ratings have dropped due to concerns over the country's economy and rising inflation."
+            },
+            {
+                "title": "Anti-government protests continue in South Korea amid controversy over labor reforms",
+                "risk_level": "High",
+                "summary": "Anti-government protests have continued in South Korea amid controversy over labor reforms, which have been met with opposition from labor unions and workers."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo reports 3,000 daily COVID-19 cases",
+                "title": "Rising tensions between Japan and China over disputed islands",
+                "risk_level": "Medium",
+                "summary": "Tensions between Japan and China have escalated over the East China Sea, with both sides conducting military drills around the disputed Senkaku/Diaoyu Islands."
+            },
+            {
+                "title": "North Korea missile tests pose threat to Japan",
+                "risk_level": "High",
+                "summary": "North Korea has conducted multiple missile tests in recent days, with some analysts suggesting that the launches could have implications for Japan's national security."
+            },
+            {
+                "title": "Japan struggles with COVID-19 outbreaks amid rising cases",
                 "risk_level": "Low",
-                "summary": "As of June 26, Tokyo reported a record high of 3,000 daily COVID-19 cases."
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": "(No recent information available)"
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": "(No recent information available)"
+                "summary": "Japan is experiencing a surge in COVID-19 cases, with new infections reported in multiple regions. The government has implemented measures to contain the spread of the virus."
             }
         ]
     }
