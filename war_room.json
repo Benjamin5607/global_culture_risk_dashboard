@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Uncertainty Rises Amid US-China Trade Tensions",
+                "title": "China Condemned Russia's Annexation of Donetsk, Luhansk",
                 "risk_level": "High",
-                "summary": "Rising trade tensions between the US and China have increased global economic uncertainty, potentially impacting markets and trade."
+                "summary": "China has condemned Russia's annexation of Donetsk and Luhansk, amid escalating tensions in Ukraine"
             },
             {
-                "title": "Cybersecurity Threats Grow as Ransomware Attacks Increase",
+                "title": "Ukraine Recaptures Village in Luhansk",
                 "risk_level": "High",
-                "summary": "An uptick in ransomware attacks has led to increased cybersecurity threats, posing a risk to businesses and individuals."
+                "summary": "Ukrainian forces have recaptured a village in Luhansk, as Russia's annexation of the region continues to escalate tensions"
             },
             {
-                "title": "Social Media Platforms Under Scrutiny for Disinformation Spread",
+                "title": "Rise in Migrant Arrivals in Greece Amid EU-Morocco Deal",
                 "risk_level": "Medium",
-                "summary": "Social media platforms are facing scrutiny for their role in spreading disinformation, which could influence public opinion and impact social cohesion."
+                "summary": "The number of migrant arrivals in Greece has increased following an EU-Morocco deal aimed at reducing migration across the Mediterranean"
             }
         ],
         "United States": [
             {
-                "title": "Rising Tensions with North Korea over Missile Tests",
+                "title": "US Supreme Court rules in favor of gun rights in major decision",
                 "risk_level": "High",
-                "summary": "The United States and its allies are on high alert as North Korea continues to conduct ballistic missile tests, raising concerns about a potential escalation in tensions."
+                "summary": "\n         A divided US Supreme Court on Thursday handed down a major ruling that expands the ability of Americans to carry concealed handguns in public, ruling that the Constitution protects an individual's right to carry a gun outside the home in most circumstances.\n         "
             },
             {
-                "title": "Protests Erupt over Abortion Rights in the US",
+                "title": "Biden Administration announces new sanctions against Russian officials",
                 "risk_level": "High",
-                "summary": "Protests have taken place across the US as the Supreme Court's decision to overturn Roe v. Wade has sparked widespread outrage and calls for action on abortion rights."
+                "summary": "\n         The US Department of the Treasury's Office of Foreign Assets Control (OFAC) on Wednesday announced new sanctions against Russian officials and entities in response to Russia's alleged interference in the 2022 US midterm elections.\n         "
             },
             {
-                "title": "Increased Tensions at the US-Mexico Border",
+                "title": "US Congress holds hearing on January 6th Committee Report",
                 "risk_level": "Medium",
-                "summary": "Tensions have escalated at the US-Mexico border as a surge in migrants and asylum seekers has led to increased security measures and criticism from human rights groups."
+                "summary": "\n         The US House Committee on Oversight and Accountability held a hearing on Wednesday to discuss the findings of the January 6th Committee Report, which detailed the events leading up to the January 6, 2021, attack on the US Capitol.\n         "
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires multiple ballistic missiles",
+                "title": "South Korean military stages anti-submarine exercise near disputed islets after North Korea's naval provocation",
                 "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles into the Sea of Japan on June 24, sparking concerns about regional security. The launches were widely condemned by the international community, including the United States, Japan, and South Korea."
+                "summary": "South Korea's military staged an anti-submarine exercise near disputed islets on Sunday, days after North Korea conducted a naval provocation in the area. The operation involved naval vessels, helicopters, and divers conducting exercises near the islets, which are also claimed by Japan. Seoul's defense ministry said the exercises were aimed at enhancing interoperability and response capabilities in the event of a naval provocation by North Korea."
             },
             {
-                "title": "South Korea reports significant increase in COVID-19 cases",
+                "title": "Samsung Electronics faces potential data breach lawsuit in South Korea",
                 "risk_level": "Medium",
-                "summary": "South Korea reported a significant increase in COVID-19 cases over the past week, with 10,000 new cases reported on June 26. The government imposed new restrictions on gatherings and public events to mitigate the spread of the virus."
+                "summary": "Samsung Electronics faces the possibility of a lawsuit in South Korea over a potential data breach that may have compromised the sensitive information of over 20,000 customers. The electronics giant has acknowledged that a data leak occurred, but has yet to confirm the extent of the breach."
             },
             {
-                "title": "Protests erupt in South Korea over economic inequality",
+                "title": "South Korea reports 5,000 new COVID-19 cases as Omicron continues to spread",
                 "risk_level": "Low",
-                "summary": "Protests erupted in major cities across South Korea on June 25 over economic inequality and rising living costs. The protests were largely peaceful, but some clashes broke out with police."
+                "summary": "South Korea reported over 5,000 new COVID-19 cases on Friday, a slight increase from the previous day's tally. The country's government has reimposed some social distancing measures to mitigate the spread of the virus, but the economy has been affected by the ongoing pandemic."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo reports highest number of COVID-19 cases in 2 weeks",
+                "title": "Kyoto's mayor quits over funding probe,",
                 "risk_level": "Medium",
-                "summary": "Tokyo has reported a significant rise in COVID-19 cases in the past week, raising concerns about the potential for a new wave."
+                "summary": "The mayor of Kyoto has resigned after being investigated for possible breaches of election campaign finance laws. The probe is seen as emblematic of Japan’s ongoing struggles with transparency and accountability in politics."
             },
             {
-                "title": "Protest against government's COVID-19 measures in Tokyo",
+                "title": "Japanese government says it can't track 1,000 asylum seekers",
                 "risk_level": "High",
-                "summary": "Thousands of protesters gathered in Tokyo's main streets to demonstrate against the government's COVID-19 measures, highlighting the country's divisions on the issue."
+                "summary": "The Japanese government has admitted it cannot track the whereabouts of over 1,000 asylum seekers, sparking concerns about national security and the rule of law. The revelation has put a spotlight on Japan's asylum system and its handling of migrants."
             },
             {
-                "title": "Magnitude 5.9 earthquake hits Japan, triggers alerts in Tokyo",
-                "risk_level": "Low",
-                "summary": "A magnitude 5.9 earthquake struck Japan, causing minor damage and triggering alerts in Tokyo and surrounding areas."
+                "title": "North Korea claims to have test-fired hypersonic missile,",
+                "risk_level": "High",
+                "summary": "North Korea has claimed to have successfully tested a new hypersonic missile, which has been interpreted as a threat to regional security and a challenge to the United States' nuclear deterrence policies."
             }
         ]
     }
