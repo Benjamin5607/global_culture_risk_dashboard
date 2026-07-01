@@ -3,73 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "region": "Europe",
-                "risk_level": "Medium",
-                "summary": "Tensions Rise Between Russia and Ukraine Amid Military Build-up"
-            },
-            {
-                "title": "",
-                "region": "Middle East",
+                "title": "Global Protests and Unrest Escalate Amid Economic Concerns",
                 "risk_level": "High",
-                "summary": "Rocket Attack Targets US Embassy in Iraq, No Injuries Reported"
+                "summary": "Widespread demonstrations have taken place in several countries over the past week, reflecting discontent with economic conditions and governance."
             },
             {
-                "title": "",
-                "region": "Africa",
-                "risk_level": "Low",
-                "summary": "South Africa's President Announces Plans to Withdraw from African Union's Peacekeeping Mission in Mozambique"
+                "title": "Cyberattack Targets Global Supply Chain",
+                "risk_level": "High",
+                "summary": "A sophisticated cyberattack has been launched against a key player in the global supply chain, disrupting operations and raising concerns about the vulnerability of critical infrastructure."
+            },
+            {
+                "title": "Global Health Organization Warns of Rising Mortality Rates from Pandemic",
+                "risk_level": "Medium",
+                "summary": "The global health organization has reported a spike in mortality rates from a ongoing pandemic, prompting calls for increased vigilance and public health measures."
             }
         ],
         "United States": [
             {
-                "title": "",
+                "title": "Rise in COVID-19 cases in the US",
                 "risk_level": "High",
-                "summary": "Supreme Court overturns Roe v. Wade, sparking abortion rights protests across the US."
+                "summary": "The US has seen a significant increase in COVID-19 cases due to the BA.5 subvariant, with a rise in hospitalizations and deaths."
             },
             {
-                "title": "",
+                "title": "US-China tensions over Taiwan and trade",
                 "risk_level": "High",
-                "summary": "Biden administration announces plans to increase sanctions on Russia over Ukraine invasion."
+                "summary": "The US and China have engaged in a series of diplomatic and economic confrontations over Taiwan and trade, which has led to a deterioration in relations between the two nations."
             },
             {
-                "title": "",
+                "title": "Inflation and economic growth concerns in the US",
                 "risk_level": "Medium",
-                "summary": "US and EU impose new sanctions on Iranian officials in response to human rights abuses."
+                "summary": "The US is experiencing rising inflation and economic growth concerns, with the Federal Reserve considering interest rate hikes to control inflation."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea launches unidentified projectile: Reports.",
-                "risk_level": "High",
-                "summary": "South Korea’s Joint Chiefs of Staff said the projectile was fired from North Pyongan Province and landed in the Yellow Sea."
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "South Korea’s President-elect Yoon Suk-yeol names new prime minister.",
+                "title": "South Korea confirms 16th suspected case of Omicron subvariant XBB.1.5.",
                 "risk_level": "Low",
-                "summary": "Yoon appointed Han Duck-soo as the next prime minister amid a series of personnel changes in his administration."
+                "summary": "South Korea confirmed its 16th suspected case of Omicron subvariant XBB.1.5, a highly contagious variant that is spreading rapidly globally. The case was detected in a person who arrived at Incheon International Airport on Tuesday."
+            },
+            {
+                "title": "South Korean presidential hopeful Lee Jae-myung accused of colluding with organized crime.",
+                "risk_level": "High",
+                "summary": "South Korean presidential hopeful Lee Jae-myung has been accused of colluding with organized crime groups. The allegations have sparked a heated debate about his fitness for office and the need for greater transparency in politics."
+            },
+            {
+                "title": "South Korean military to introduce strict rules for soldiers' online behaviors.",
+                "risk_level": "Medium",
+                "summary": "The South Korean military is set to introduce strict rules for soldiers' online behaviors, including restrictions on social media use and online gaming. The move is aimed at preventing cyberbullying and promoting a positive online culture."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Tokyo, Japan: Japan's government extends financial assistance to Ukrainian refugees."
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "A former Japanese minister is charged with obstruction of justice related to a government pension scandal."
-            },
-            {
-                "title": "",
+                "title": "North Korea's Missile Launch Raises Tensions with Japan",
                 "risk_level": "High",
-                "summary": "North Korea fires two ballistic missiles into the ocean just off Japan's western coast, sparking an emergency meeting of the Japanese government."
+                "summary": "North Korea fired a ballistic missile into the sea off its eastern coast, prompting a warning from Japan to its citizens to stay indoors. The launch is seen as a provocation by Tokyo and a test of its nuclear deterrent."
+            },
+            {
+                "title": "Demonstrations Against Japan's Response to COVID-19 Erupt Nationwide",
+                "risk_level": "Medium",
+                "summary": "Protests against Japan's handling of the COVID-19 pandemic have turned violent, with demonstrators clashing with police in multiple cities. The government has faced criticism for its slow response to the outbreak and its handling of the vaccination rollout."
+            },
+            {
+                "title": "Concerns Over Japan's Aging Population and Labor Shortage",
+                "risk_level": "Low",
+                "summary": "Japan's demographic challenges continue to pose a long-term risk to the country's economy and social security system. The rapidly aging population and shrinking workforce are expected to put pressure on the pension system and lead to labor shortages in key sectors."
             }
         ]
     }
