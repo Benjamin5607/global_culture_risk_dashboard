@@ -3,70 +3,73 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Trade Tensions Escalate",
+                "title": "Cyber Attack on Microsoft Exposes User Data, Global (All)",
                 "risk_level": "High",
-                "summary": "Recent developments in US-China trade relations have heightened tensions between the two nations."
+                "summary": "Microsoft has disclosed a recent security incident that exposed user data due to a cyber attack."
             },
             {
-                "title": "Protester Injuries in Peru",
-                "risk_level": "Medium",
-                "summary": "Peruvian authorities have reported several protester injuries after clashes with security forces."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Global Oil Prices Reach 6-Month High",
-                "risk_level": "High",
-                "summary": "Crude oil prices have surged to a 6-month high following disruptions in major oil-producing regions."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Abortion Decision Fallout",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The Supreme Court's decision to overturn Roe v. Wade has sparked protests and debates across the United States."
+                "summary": "Mass Shooting in Highland Park, IL: A gunman opened fire on a parade in Highland Park, Illinois, killing 6 people and injuring over 24. The shooter, identified as Robert E. Crimo III, was taken into custody. This event highlights the ongoing threat of gun violence in the United States."
             },
             {
-                "title": "Cyber Attack on US Government Agency",
-                "risk_level": "High",
-                "summary": "A US government agency has been targeted by a massive cyber attack, compromising sensitive information."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Supreme Court Reverses Roe v. Wade: In a landmark decision, the US Supreme Court overturned Roe v. Wade, the landmark 1973 ruling that established a woman's right to abortion. The decision has sparked widespread protests and controversy across the country."
             },
             {
-                "title": "Mass Shooting in Gun-Debate State",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A mass shooting has occurred in a state with lenient gun laws, raising concerns about gun control and public safety."
+                "summary": "Heatwave in the West: A severe heatwave has gripped the Western United States, with temperatures soaring to record highs in multiple states. The heatwave has led to widespread power outages, water shortages, and heat-related illnesses."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires two ballistic missiles into the sea off Japan, sparking a protest from Tokyo",
+                "title": "Pro-Democracy Protests Escalate in South Korea",
                 "risk_level": "High",
-                "summary": "North Korea conducted a missile test on June 26, prompting a strong protest from Japan. The incident heightened tensions on the Korean Peninsula."
+                "summary": "South Korean President Yoon Suk-yeol's approval rating has hit an all-time low, with protests intensifying against him, as the country grapples with rising inflation, a struggling economy, and the president's handling of the COVID-19 pandemic."
             },
             {
-                "title": "South Korea's opposition party calls for a vote of no confidence in the government over corruption scandal",
-                "risk_level": "Medium",
-                "summary": "South Korea's main opposition party, the Democratic Party of Korea, called for a vote of no confidence in the government due to a corruption scandal involving a former justice minister."
+                "title": "North Korea Conducts a Ballistic Missile Test",
+                "risk_level": "High",
+                "summary": "North Korea has tested a ballistic missile, prompting condemnation from the international community and concerns about regional security, as the US and its allies prepare for a potential North Korean ICBM test and increased tensions in the region."
             },
             {
-                "title": "South Korean President Yoon Suk-yeol's approval ratings plummet due to criticism over COVID-19 response",
+                "title": "Rising Tensions Between South Korea and Japan Over Historical Issues",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol's approval ratings have fallen due to criticism over the government's response to the COVID-19 pandemic, with many Koreans dissatisfied with the handling of the crisis."
+                "summary": "The rift between South Korea and Japan has widened, with Seoul and Tokyo at odds over compensation for wartime forced labor, and a recent dispute over a Japanese politician's visit to a shrine dedicated to Japan's war dead, highlighting the complexities of historical reconciliation between the two nations."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea Fires Unidentified Projectile",
-                "risk_level": "Medium",
-                "summary": "Japanese officials are on high alert as North Korea launches an unidentified projectile into the Sea of Japan, sparking concerns about regional security."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "location": "Japan"
             },
             {
-                "title": "Typhoon Mawar Threatens Japan",
-                "risk_level": "High",
-                "summary": "A powerful typhoon is forecasted to hit Japan, posing a significant threat to life and property, with evacuation orders issued for several areas."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "location": "Japan"
             },
             {
-                "title": "New Covid-19 Variant Spreads in Japan",
-                "risk_level": "Low",
-                "summary": "A new Covid-19 variant has been detected in Japan, raising concerns about the potential for another wave of infections, despite low hospitalization rates."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "location": "Japan"
             }
         ]
     }
