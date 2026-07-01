@@ -3,45 +3,73 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyberattacks on Ukrainian Government and Critical Infrastructure",
-                "risk_level": "High",
-                "summary": "Ukraine has reported a significant uptick in cyberattacks targeting government agencies and critical infrastructure, including the energy sector, in the past week."
-            },
-            {
-                "title": "Global Economic Uncertainty amid US-China Trade Tensions",
+                "title": "",
+                "region": "Europe",
                 "risk_level": "Medium",
-                "summary": "Heightened US-China trade tensions have fueled global economic uncertainty, with concerns about potential retaliatory measures and their impact on international trade."
+                "summary": "Tensions Rise Between Russia and Ukraine Amid Military Build-up"
             },
             {
-                "title": "Humanitarian Crisis in Ethiopia's Tigray Region Continues",
+                "title": "",
+                "region": "Middle East",
                 "risk_level": "High",
-                "summary": "The ongoing conflict in Ethiopia's Tigray region has led to a severe humanitarian crisis, with thousands of civilians facing food shortages, displacement, and human rights abuses."
+                "summary": "Rocket Attack Targets US Embassy in Iraq, No Injuries Reported"
+            },
+            {
+                "title": "",
+                "region": "Africa",
+                "risk_level": "Low",
+                "summary": "South Africa's President Announces Plans to Withdraw from African Union's Peacekeeping Mission in Mozambique"
             }
         ],
         "United States": [
             {
-                "title": "US Capitol Police Officer Charged with Lying to Investigators Over Jan. 6 Attack",
-                "risk_level": "Medium",
-                "summary": "A US Capitol Police officer has been charged with lying to investigators about his actions on January 6, 2021, when a mob of Donald Trump supporters stormed the Capitol building."
-            },
-            {
-                "title": "Biden Faces Heat for Using Executive Power in Jan 6 Probe",
+                "title": "",
                 "risk_level": "High",
-                "summary": "US President Joe Biden is under scrutiny for using executive power to obtain documents related to the January 6, 2021, attack on the Capitol, which has sparked concerns about potential abuse of authority."
+                "summary": "Supreme Court overturns Roe v. Wade, sparking abortion rights protests across the US."
             },
             {
-                "title": "Twitter Data Shows Rise of Misinformation",
+                "title": "",
+                "risk_level": "High",
+                "summary": "Biden administration announces plans to increase sanctions on Russia over Ukraine invasion."
+            },
+            {
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Data from Twitter reveals a surge in the spread of misinformation and conspiracy theories on the platform, highlighting the ongoing challenges in combating disinformation and fake news."
+                "summary": "US and EU impose new sanctions on Iranian officials in response to human rights abuses."
             }
         ],
         "South Korea": [
             {
+                "title": "North Korea launches unidentified projectile: Reports.",
+                "risk_level": "High",
+                "summary": "South Korea’s Joint Chiefs of Staff said the projectile was fired from North Pyongan Province and landed in the Yellow Sea."
+            },
+            {
                 "title": "",
                 "risk_level": "",
-                "summary": "",
-                "date": "",
-                "source": ""
+                "summary": ""
+            },
+            {
+                "title": "South Korea’s President-elect Yoon Suk-yeol names new prime minister.",
+                "risk_level": "Low",
+                "summary": "Yoon appointed Han Duck-soo as the next prime minister amid a series of personnel changes in his administration."
+            }
+        ],
+        "Japan": [
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Tokyo, Japan: Japan's government extends financial assistance to Ukrainian refugees."
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "A former Japanese minister is charged with obstruction of justice related to a government pension scandal."
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "North Korea fires two ballistic missiles into the ocean just off Japan's western coast, sparking an emergency meeting of the Japanese government."
             }
         ]
     }
