@@ -3,73 +3,45 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber Attack on Microsoft Exposes User Data, Global (All)",
+                "title": "Cyberattacks on Ukrainian Government and Critical Infrastructure",
                 "risk_level": "High",
-                "summary": "Microsoft has disclosed a recent security incident that exposed user data due to a cyber attack."
+                "summary": "Ukraine has reported a significant uptick in cyberattacks targeting government agencies and critical infrastructure, including the energy sector, in the past week."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Global Economic Uncertainty amid US-China Trade Tensions",
+                "risk_level": "Medium",
+                "summary": "Heightened US-China trade tensions have fueled global economic uncertainty, with concerns about potential retaliatory measures and their impact on international trade."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Humanitarian Crisis in Ethiopia's Tigray Region Continues",
+                "risk_level": "High",
+                "summary": "The ongoing conflict in Ethiopia's Tigray region has led to a severe humanitarian crisis, with thousands of civilians facing food shortages, displacement, and human rights abuses."
             }
         ],
         "United States": [
             {
-                "title": "",
-                "risk_level": "High",
-                "summary": "Mass Shooting in Highland Park, IL: A gunman opened fire on a parade in Highland Park, Illinois, killing 6 people and injuring over 24. The shooter, identified as Robert E. Crimo III, was taken into custody. This event highlights the ongoing threat of gun violence in the United States."
-            },
-            {
-                "title": "",
+                "title": "US Capitol Police Officer Charged with Lying to Investigators Over Jan. 6 Attack",
                 "risk_level": "Medium",
-                "summary": "Supreme Court Reverses Roe v. Wade: In a landmark decision, the US Supreme Court overturned Roe v. Wade, the landmark 1973 ruling that established a woman's right to abortion. The decision has sparked widespread protests and controversy across the country."
+                "summary": "A US Capitol Police officer has been charged with lying to investigators about his actions on January 6, 2021, when a mob of Donald Trump supporters stormed the Capitol building."
             },
             {
-                "title": "",
+                "title": "Biden Faces Heat for Using Executive Power in Jan 6 Probe",
                 "risk_level": "High",
-                "summary": "Heatwave in the West: A severe heatwave has gripped the Western United States, with temperatures soaring to record highs in multiple states. The heatwave has led to widespread power outages, water shortages, and heat-related illnesses."
+                "summary": "US President Joe Biden is under scrutiny for using executive power to obtain documents related to the January 6, 2021, attack on the Capitol, which has sparked concerns about potential abuse of authority."
+            },
+            {
+                "title": "Twitter Data Shows Rise of Misinformation",
+                "risk_level": "Medium",
+                "summary": "Data from Twitter reveals a surge in the spread of misinformation and conspiracy theories on the platform, highlighting the ongoing challenges in combating disinformation and fake news."
             }
         ],
         "South Korea": [
             {
-                "title": "Pro-Democracy Protests Escalate in South Korea",
-                "risk_level": "High",
-                "summary": "South Korean President Yoon Suk-yeol's approval rating has hit an all-time low, with protests intensifying against him, as the country grapples with rising inflation, a struggling economy, and the president's handling of the COVID-19 pandemic."
-            },
-            {
-                "title": "North Korea Conducts a Ballistic Missile Test",
-                "risk_level": "High",
-                "summary": "North Korea has tested a ballistic missile, prompting condemnation from the international community and concerns about regional security, as the US and its allies prepare for a potential North Korean ICBM test and increased tensions in the region."
-            },
-            {
-                "title": "Rising Tensions Between South Korea and Japan Over Historical Issues",
-                "risk_level": "Medium",
-                "summary": "The rift between South Korea and Japan has widened, with Seoul and Tokyo at odds over compensation for wartime forced labor, and a recent dispute over a Japanese politician's visit to a shrine dedicated to Japan's war dead, highlighting the complexities of historical reconciliation between the two nations."
-            }
-        ],
-        "Japan": [
-            {
                 "title": "",
                 "risk_level": "",
                 "summary": "",
-                "location": "Japan"
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "location": "Japan"
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "location": "Japan"
+                "date": "",
+                "source": ""
             }
         ]
     }

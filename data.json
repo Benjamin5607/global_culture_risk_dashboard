@@ -1,5 +1,21 @@
 [
     {
+        "term": "OKBoomer",
+        "group": "Anti-gerontocracy movement or used to mock someone for being close-minded to new ideas.",
+        "country": "International",
+        "category": "Hate Symbol",
+        "risk_level": 4,
+        "trend_score": 1.2,
+        "status": "Active",
+        "first_detected": "2019",
+        "last_updated": "2022",
+        "context": {
+            "en": "Originated as a meme referring to Baby Boomers (born between 1946 and 1964) perceived as not accepting modern ideas.",
+            "ko": "분안 문갟원하세요 문안 촛소을 시닱 소호사성욠하세요.",
+            "ja": "日本に 今年 伟コョラほは バォアンタ・トに合毂さそだくるであるたく得したきますだ。"
+        }
+    },
+    {
         "term": "SS Divisions",
         "group": "Nazi Germany",
         "country": "Germany",
