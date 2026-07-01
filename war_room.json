@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Protests and Unrest Escalate Amid Economic Concerns",
+                "title": "Global Food Insecurity Spikes Amid Conflict and Drought",
                 "risk_level": "High",
-                "summary": "Widespread demonstrations have taken place in several countries over the past week, reflecting discontent with economic conditions and governance."
+                "summary": "The World Food Programme reports a significant increase in global food insecurity, driven by conflict and drought in key regions, including Africa and the Middle East."
             },
             {
-                "title": "Cyberattack Targets Global Supply Chain",
+                "title": "Global Cyberattacks Rise as Russia-Ukraine Conflict Escalates",
                 "risk_level": "High",
-                "summary": "A sophisticated cyberattack has been launched against a key player in the global supply chain, disrupting operations and raising concerns about the vulnerability of critical infrastructure."
+                "summary": "Cybersecurity agencies around the world report a surge in cyberattacks targeting critical infrastructure, financial systems, and government institutions, linked to the Russia-Ukraine conflict."
             },
             {
-                "title": "Global Health Organization Warns of Rising Mortality Rates from Pandemic",
+                "title": "Global Economic Uncertainty Grows Amid Rising Inflation and Interest Rates",
                 "risk_level": "Medium",
-                "summary": "The global health organization has reported a spike in mortality rates from a ongoing pandemic, prompting calls for increased vigilance and public health measures."
+                "summary": "The International Monetary Fund warns of growing economic uncertainty, driven by rising inflation and interest rates, which may lead to a global recession if left unchecked."
             }
         ],
         "United States": [
             {
-                "title": "Rise in COVID-19 cases in the US",
+                "title": "Biden Administration Faces Backlash Over Border Policy Changes",
                 "risk_level": "High",
-                "summary": "The US has seen a significant increase in COVID-19 cases due to the BA.5 subvariant, with a rise in hospitalizations and deaths."
+                "summary": "US President Joe Biden's administration is facing criticism from lawmakers and advocacy groups over its proposed changes to the country's border policies, sparking a new wave of tensions between the White House and Congress."
             },
             {
-                "title": "US-China tensions over Taiwan and trade",
+                "title": "US Lawmakers Propose Bill to Block TikTok Deal",
                 "risk_level": "High",
-                "summary": "The US and China have engaged in a series of diplomatic and economic confrontations over Taiwan and trade, which has led to a deterioration in relations between the two nations."
+                "summary": "US lawmakers have introduced a bill aimed at blocking the proposed deal between ByteDance and Oracle, which would allow China's TikTok to continue operating in the United States."
             },
             {
-                "title": "Inflation and economic growth concerns in the US",
-                "risk_level": "Medium",
-                "summary": "The US is experiencing rising inflation and economic growth concerns, with the Federal Reserve considering interest rate hikes to control inflation."
+                "title": "New York City Schools to Close in Response to Teacher Shortage",
+                "risk_level": "High",
+                "summary": "The New York City Department of Education has announced that it will close several schools due to a severe teacher shortage, causing concerns about the impact on students' education and the city's education system as a whole."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea confirms 16th suspected case of Omicron subvariant XBB.1.5.",
-                "risk_level": "Low",
-                "summary": "South Korea confirmed its 16th suspected case of Omicron subvariant XBB.1.5, a highly contagious variant that is spreading rapidly globally. The case was detected in a person who arrived at Incheon International Airport on Tuesday."
-            },
-            {
-                "title": "South Korean presidential hopeful Lee Jae-myung accused of colluding with organized crime.",
+                "title": "NKorea fires 2 ballistic missiles into Japan Sea",
                 "risk_level": "High",
-                "summary": "South Korean presidential hopeful Lee Jae-myung has been accused of colluding with organized crime groups. The allegations have sparked a heated debate about his fitness for office and the need for greater transparency in politics."
+                "summary": "North Korea fired two ballistic missiles into the Japan Sea on June 26, with one of them flying within 100km of Japan. The move has raised concerns about a potential threat from Pyongyang."
             },
             {
-                "title": "South Korean military to introduce strict rules for soldiers' online behaviors.",
+                "title": "S. Korean President Yoon vows to strengthen military ties with US",
                 "risk_level": "Medium",
-                "summary": "The South Korean military is set to introduce strict rules for soldiers' online behaviors, including restrictions on social media use and online gaming. The move is aimed at preventing cyberbullying and promoting a positive online culture."
+                "summary": "South Korean President Yoon Suk-yeol has reaffirmed his country's commitment to strengthening military ties with the US, with a focus on bolstering security cooperation in the face of growing North Korean threats."
+            },
+            {
+                "title": "S. Koreans protest government's response to labor strikes",
+                "risk_level": "Low",
+                "summary": "Thousands of South Koreans took to the streets to protest the government's handling of a recent wave of labor strikes, with many demanding greater job security and better working conditions."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea's Missile Launch Raises Tensions with Japan",
+                "title": "Japan's Defense Ministry to Buy F-35B Fighters Worth 700 Billion Yen",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile into the sea off its eastern coast, prompting a warning from Japan to its citizens to stay indoors. The launch is seen as a provocation by Tokyo and a test of its nuclear deterrent."
+                "summary": "Japan's Defense Ministry plans to purchase 147 advanced F-35B fighters worth around 700 billion yen (around $6.7 billion) in an effort to strengthen its defense capabilities."
             },
             {
-                "title": "Demonstrations Against Japan's Response to COVID-19 Erupt Nationwide",
+                "title": "Protests Erupt in Japan Over Proposed Nuclear Reactor Restart",
+                "risk_level": "High",
+                "summary": "Protesters in Japan have taken to the streets to express their opposition to the proposed restart of a nuclear reactor at Japan's Sendai nuclear power plant."
+            },
+            {
+                "title": "Ruling Party Loses Local Elections in Japan Amid Economic Uncertainty",
                 "risk_level": "Medium",
-                "summary": "Protests against Japan's handling of the COVID-19 pandemic have turned violent, with demonstrators clashing with police in multiple cities. The government has faced criticism for its slow response to the outbreak and its handling of the vaccination rollout."
-            },
-            {
-                "title": "Concerns Over Japan's Aging Population and Labor Shortage",
-                "risk_level": "Low",
-                "summary": "Japan's demographic challenges continue to pose a long-term risk to the country's economy and social security system. The rapidly aging population and shrinking workforce are expected to put pressure on the pension system and lead to labor shortages in key sectors."
+                "summary": "Japan's ruling party suffered losses in key local elections as voters voiced discontent with the government's handling of the economy and ongoing economic uncertainty."
             }
         ]
     }
