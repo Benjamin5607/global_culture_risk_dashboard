@@ -3,70 +3,53 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Taliban Attack on Afghan Military Bases",
+                "title": "Cyber Attack on High-Profile Targets in Multiple Countries",
                 "risk_level": "High",
-                "summary": "Multiple explosions were reported at military bases across Afghanistan"
+                "summary": "A sophisticated cyber attack has been launched on high-profile targets in multiple countries, compromising sensitive information and disrupting critical infrastructure."
             },
             {
-                "title": "Russian Troop Build-Up Along Ukraine Border",
+                "title": "Escalating Tensions Between China and the US Over Taiwan",
                 "risk_level": "High",
-                "summary": "Satellite imagery reveals significant troop deployments near Ukraine's border"
+                "summary": "Tensions between China and the US have heightened over Taiwan, with both nations engaging in a series of economic and diplomatic measures that could potentially lead to conflict."
             },
             {
-                "title": "Hong Kong Protests Against Chinese Government",
+                "title": "Global Food Prices Continue to Rise Amidst Supply Chain Disruptions",
                 "risk_level": "Medium",
-                "summary": "Demonstrations against Beijing's growing influence in the region"
+                "summary": "Global food prices are continuing to rise due to supply chain disruptions, economic instability, and weather-related events, posing a significant threat to food security and social stability."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Decision on Abortion Sparks Protests, Raises Concerns Over Safety and Security",
-                "risk_level": "High",
-                "summary": "The recent Supreme Court decision on abortion has sparked widespread protests across the United States, with concerns over public safety and security rising. The decision has also raised social concerns regarding women's rights and reproductive health."
-            },
-            {
-                "title": "Rise in Hate Crimes Against Asian Americans in the US",
-                "risk_level": "High",
-                "summary": "There has been a significant increase in hate crimes against Asian Americans in the United States over the past week, with several incidents reported in major cities. This has raised concerns over racial tension and social unrest."
-            },
-            {
-                "title": "California Wildfires Raise Concerns Over Environmental and Public Health Risks",
+                "title": "Jan 6 Panel Releases Its Final Report on US Capitol Attack",
                 "risk_level": "Medium",
-                "summary": "The recent wildfires in California have raised concerns over environmental and public health risks, including air pollution and potential long-term health effects. The situation remains fluid, with ongoing efforts to contain the fires and mitigate risks."
-            }
-        ],
-        "South Korea": [
+                "summary": "The 9/11-style commission on the Jan. 6 US Capitol attack recommended criminal charges against Donald Trump, citing 'substantial evidence' he violated the law."
+            },
             {
-                "title": "",
+                "title": "Biden and McCarthy Meet to Discuss Debt Ceiling Deal",
                 "risk_level": "High",
-                "summary": "North Korea's leader Kim Jong-un says the country's nuclear power is 'inexhaustible' and warns of a 'tough' response to any sanctions."
+                "summary": "A tentative agreement on the debt ceiling reached between House Speaker Kevin McCarthy and President Joe Biden is expected to face challenges from hardline Republicans."
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "South Korean parliament to investigate spy agency's alleged mishandling of COVID-19 data."
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Seoul to impose mask mandates on public transportation and public venues starting July 6 amid COVID-19 surge."
+                "title": "Supreme Court Rules on College Affirmative Action Cases",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has ruled that the affirmative action policies of two universities, Harvard and the University of North Carolina, discriminate against Asian-American applicants."
             }
         ],
         "Japan": [
             {
-                "title": "Japan warns of Chinese military aircraft approaching Okinawa",
+                "title": "Japan's LDP Seeks Stronger China Rhetoric Amid Rising Tensions",
                 "risk_level": "High",
-                "summary": "Japan has warned that Chinese military aircraft are approaching its Okinawa island, amid rising regional tensions."
+                "summary": "Japan's ruling Liberal Democratic Party (LDP) has called for a tougher stance against China amid rising tensions over the Diaoyu Islands. This move could escalate the already strained relations between the two nations."
             },
             {
-                "title": "Japanese police arrest man over stabbing of schoolgirls",
+                "title": "North Korea Fires Ballistic Missile Over Japan",
+                "risk_level": "High",
+                "summary": "North Korea fired a ballistic missile over Japan, prompting warnings and evacuations. This incident highlights the ongoing threat of North Korean aggression and its potential impact on regional security."
+            },
+            {
+                "title": "Japanese Government Warns of Potential 'Collapse' of Power Grid",
                 "risk_level": "Medium",
-                "summary": "Japanese police have arrested a man over the stabbing of two schoolgirls in a shocking attack in the city of Kawasaki."
-            },
-            {
-                "title": "Fukushima Daiichi Nuclear Power Station: New radiation leak detected",
-                "risk_level": "High",
-                "summary": "Radiation levels at the Fukushima Daiichi Nuclear Power Station have increased after a new leak was detected in a storage tank containing highly contaminated water."
+                "summary": "The Japanese government has issued a warning about the potential for the nation's power grid to collapse, citing concerns over aging infrastructure and natural disaster risks. This issue could lead to widespread power outages and disrupt daily life."
             }
         ]
     }
