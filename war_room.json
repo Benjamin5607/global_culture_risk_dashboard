@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Taliban bans girls from attending school above grade six",
+                "title": "Global COVID-19 pandemic continues to affect economies worldwide and poses security risks to countries with vulnerable healthcare systems",
                 "risk_level": "High",
-                "summary": "The Taliban has banned girls from attending school above the sixth grade, sparking widespread outrage and protests across Afghanistan. The move is seen as a major setback for the country's education sector and a blow to girls' education rights."
+                "summary": "Global pandemic causes widespread economic instability and poses significant security risks."
             },
             {
-                "title": "Russia-Ukraine Conflict Escalates",
+                "title": "Tensions between the United States and Iran remain elevated, posing a risk of conflict in the Middle East",
                 "risk_level": "High",
-                "summary": "The conflict between Russia and Ukraine has escalated in recent days, with reports of heavy shelling and fighting in several regions. The situation remains tense and volatile, with concerns about a wider conflict."
+                "summary": "Deteriorating US-Iran relationship raises concerns of a potential conflict."
             },
             {
-                "title": "Protests Erupt in Iran Following Government Crackdown",
-                "risk_level": "High",
-                "summary": "Protests have erupted in Iran following a government crackdown on dissent. The protests are seen as a challenge to the government's authority and a threat to regional stability."
+                "title": "Climate change protests and activism continue to grow in prominence, potentially leading to social unrest",
+                "risk_level": "Medium",
+                "summary": "Growing climate change awareness and activism may lead to increased social protests and unrest."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Rules on Student Loan Forgiveness: Potential Implications for Economic Inequality",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A recent US Supreme Court ruling has sparked concerns over potential impacts on economic inequality and social mobility in the country."
+                "summary": "US Supreme Court blocks Louisiana abortion law, upholding Roe v. Wade."
             },
             {
-                "title": "Increased Tensions Between the US and China Over Taiwan Relations",
-                "risk_level": "High",
-                "summary": "Escalating tensions between the US and China over Taiwan's future have raised concerns about the potential for increased conflict and economic instability."
-            },
-            {
-                "title": "Growing Protests in the US Over Racial Injustice and Police Brutality",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Widespread protests across the US have highlighted ongoing concerns about systemic racism and police brutality, with some demonstrations turning violent."
+                "summary": "Twitter Files: US State Department employees allegedly manipulated trending topics to influence 2020 presidential election."
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "US lawmakers introduce bills to ban TikTok and other Chinese social media apps due to national security concerns."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea threatens US and South Korea with 'fiercest' military action over new sanctions",
+                "title": "North Korea Fires Multiple Ballistic Missiles",
                 "risk_level": "High",
-                "summary": "North Korea has threatened the US and South Korea with 'fiercest' military action over new sanctions imposed by the US. The country's state-run news agency KCNA said the sanctions are 'a reckless provocation' that will lead to 'the most fierce and merciless punishment'."
+                "summary": "North Korea fired multiple ballistic missiles into the Sea of Japan on Wednesday, sparking widespread concern and condemnation from the international community. The missile launches, which were reportedly the North's longest-range test in over a year, have heightened tensions between North and South Korea."
             },
             {
-                "title": "South Korean government introduces new regulations to prevent cryptocurrency hacking",
+                "title": "COVID-19 Surge in South Korea Sparks Fears of New Outbreak",
                 "risk_level": "Medium",
-                "summary": "The South Korean government has introduced new regulations to prevent cryptocurrency hacking, including a ban on cryptocurrency exchanges from offering new services and a requirement for exchanges to implement enhanced security measures."
+                "summary": "South Korea has seen a recent surge in COVID-19 cases, with health officials warning of a possible new outbreak. Despite the government's efforts to contain the spread, the number of cases continues to rise, causing concern among the public and sparking fears of a wider outbreak."
             },
             {
-                "title": "Protests erupt in South Korea over government's handling of COVID-19 pandemic",
-                "risk_level": "High",
-                "summary": "Protests have erupted in South Korea over the government's handling of the COVID-19 pandemic, with thousands of people taking to the streets to demand greater transparency and accountability."
+                "title": "Protesters Clash with Police in Seoul Over Forced Evictions",
+                "risk_level": "Medium",
+                "summary": "Protesters clashed with police in Seoul on Friday over a series of forced evictions that have left many residents without homes. The clashes, which were reportedly the worst in months, have sparked widespread outrage and calls for government reform."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's LDP leader Kishida set for easy election win: poll",
-                "risk_level": "Low",
-                "summary": "Japan's ruling Liberal Democratic Party (LDP) leader Fumio Kishida is on track to win the party presidential election, a survey showed yesterday. The poll by the Nikkei newspaper found 87.1% of LDP supporters intended to vote for Kishida, while 5.4% backed former Foreign Minister Toshimitsu Motegi, the only other candidate."
-            },
-            {
-                "title": "Japan's economy shrinks for first time since 2021, hurt by weak consumption and exports",
+                "title": "COVID-19: Japan Reports Surge in Cases Due to New Omicron Variant",
                 "risk_level": "Medium",
-                "summary": "Japan's economy shrank at an annualized rate of 1.0% in the first quarter, its first contraction since 2021, driven by a slump in consumer spending and exports. The contraction was larger than the median market forecast of a 0.8% contraction."
+                "summary": "Japan has reported a surge in COVID-19 cases, with the majority of new cases attributed to the Omicron variant. Health officials have expressed concerns about the spread of the virus in the country, particularly during the upcoming New Year's holidays."
             },
             {
-                "title": "US-Japan relations strained as Japan re-examines military cooperation",
+                "title": "Abe Assassination Suspect Released from Jail Amid New Revelations",
                 "risk_level": "High",
-                "summary": "Tensions between the US and Japan have increased in recent days as Tokyo reviews its military cooperation with Washington. Japan's new defense strategy, set to be unveiled in the coming months, is expected to limit the country's military support for the US in a possible conflict with China."
+                "summary": "Tetsuya Yamagami, the suspect in the assassination of former Japanese Prime Minister Shinzo Abe, was released from jail after a Tokyo court rejected an appeal to extend his detention. The decision has sparked debate and raised concerns about the potential for further violence."
+            },
+            {
+                "title": "Japan's Government Approves Record-Breaking Annual Defense Budget",
+                "risk_level": "High",
+                "summary": "The Japanese government has approved a record-breaking annual defense budget, with a focus on strengthening the country's military capabilities in the face of increasing regional tensions. The move is seen as a response to China's growing military presence in the region and other regional security challenges."
             }
         ]
     }
