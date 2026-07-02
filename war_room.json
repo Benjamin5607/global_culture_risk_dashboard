@@ -1,72 +1,72 @@
 {
-    "updated": "2026-07-01",
+    "updated": "2026-07-02",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Food Insecurity Spikes Amid Conflict and Drought",
+                "title": "Taliban Attack on Afghan Military Bases",
                 "risk_level": "High",
-                "summary": "The World Food Programme reports a significant increase in global food insecurity, driven by conflict and drought in key regions, including Africa and the Middle East."
+                "summary": "Multiple explosions were reported at military bases across Afghanistan"
             },
             {
-                "title": "Global Cyberattacks Rise as Russia-Ukraine Conflict Escalates",
+                "title": "Russian Troop Build-Up Along Ukraine Border",
                 "risk_level": "High",
-                "summary": "Cybersecurity agencies around the world report a surge in cyberattacks targeting critical infrastructure, financial systems, and government institutions, linked to the Russia-Ukraine conflict."
+                "summary": "Satellite imagery reveals significant troop deployments near Ukraine's border"
             },
             {
-                "title": "Global Economic Uncertainty Grows Amid Rising Inflation and Interest Rates",
+                "title": "Hong Kong Protests Against Chinese Government",
                 "risk_level": "Medium",
-                "summary": "The International Monetary Fund warns of growing economic uncertainty, driven by rising inflation and interest rates, which may lead to a global recession if left unchecked."
+                "summary": "Demonstrations against Beijing's growing influence in the region"
             }
         ],
         "United States": [
             {
-                "title": "Biden Administration Faces Backlash Over Border Policy Changes",
+                "title": "Supreme Court Decision on Abortion Sparks Protests, Raises Concerns Over Safety and Security",
                 "risk_level": "High",
-                "summary": "US President Joe Biden's administration is facing criticism from lawmakers and advocacy groups over its proposed changes to the country's border policies, sparking a new wave of tensions between the White House and Congress."
+                "summary": "The recent Supreme Court decision on abortion has sparked widespread protests across the United States, with concerns over public safety and security rising. The decision has also raised social concerns regarding women's rights and reproductive health."
             },
             {
-                "title": "US Lawmakers Propose Bill to Block TikTok Deal",
+                "title": "Rise in Hate Crimes Against Asian Americans in the US",
                 "risk_level": "High",
-                "summary": "US lawmakers have introduced a bill aimed at blocking the proposed deal between ByteDance and Oracle, which would allow China's TikTok to continue operating in the United States."
+                "summary": "There has been a significant increase in hate crimes against Asian Americans in the United States over the past week, with several incidents reported in major cities. This has raised concerns over racial tension and social unrest."
             },
             {
-                "title": "New York City Schools to Close in Response to Teacher Shortage",
-                "risk_level": "High",
-                "summary": "The New York City Department of Education has announced that it will close several schools due to a severe teacher shortage, causing concerns about the impact on students' education and the city's education system as a whole."
+                "title": "California Wildfires Raise Concerns Over Environmental and Public Health Risks",
+                "risk_level": "Medium",
+                "summary": "The recent wildfires in California have raised concerns over environmental and public health risks, including air pollution and potential long-term health effects. The situation remains fluid, with ongoing efforts to contain the fires and mitigate risks."
             }
         ],
         "South Korea": [
             {
-                "title": "NKorea fires 2 ballistic missiles into Japan Sea",
+                "title": "",
                 "risk_level": "High",
-                "summary": "North Korea fired two ballistic missiles into the Japan Sea on June 26, with one of them flying within 100km of Japan. The move has raised concerns about a potential threat from Pyongyang."
+                "summary": "North Korea's leader Kim Jong-un says the country's nuclear power is 'inexhaustible' and warns of a 'tough' response to any sanctions."
             },
             {
-                "title": "S. Korean President Yoon vows to strengthen military ties with US",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol has reaffirmed his country's commitment to strengthening military ties with the US, with a focus on bolstering security cooperation in the face of growing North Korean threats."
+                "summary": "South Korean parliament to investigate spy agency's alleged mishandling of COVID-19 data."
             },
             {
-                "title": "S. Koreans protest government's response to labor strikes",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "Thousands of South Koreans took to the streets to protest the government's handling of a recent wave of labor strikes, with many demanding greater job security and better working conditions."
+                "summary": "Seoul to impose mask mandates on public transportation and public venues starting July 6 amid COVID-19 surge."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Defense Ministry to Buy F-35B Fighters Worth 700 Billion Yen",
+                "title": "Japan warns of Chinese military aircraft approaching Okinawa",
                 "risk_level": "High",
-                "summary": "Japan's Defense Ministry plans to purchase 147 advanced F-35B fighters worth around 700 billion yen (around $6.7 billion) in an effort to strengthen its defense capabilities."
+                "summary": "Japan has warned that Chinese military aircraft are approaching its Okinawa island, amid rising regional tensions."
             },
             {
-                "title": "Protests Erupt in Japan Over Proposed Nuclear Reactor Restart",
-                "risk_level": "High",
-                "summary": "Protesters in Japan have taken to the streets to express their opposition to the proposed restart of a nuclear reactor at Japan's Sendai nuclear power plant."
-            },
-            {
-                "title": "Ruling Party Loses Local Elections in Japan Amid Economic Uncertainty",
+                "title": "Japanese police arrest man over stabbing of schoolgirls",
                 "risk_level": "Medium",
-                "summary": "Japan's ruling party suffered losses in key local elections as voters voiced discontent with the government's handling of the economy and ongoing economic uncertainty."
+                "summary": "Japanese police have arrested a man over the stabbing of two schoolgirls in a shocking attack in the city of Kawasaki."
+            },
+            {
+                "title": "Fukushima Daiichi Nuclear Power Station: New radiation leak detected",
+                "risk_level": "High",
+                "summary": "Radiation levels at the Fukushima Daiichi Nuclear Power Station have increased after a new leak was detected in a storage tank containing highly contaminated water."
             }
         ]
     }
