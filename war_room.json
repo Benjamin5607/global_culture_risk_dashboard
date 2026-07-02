@@ -3,53 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber Attack on High-Profile Targets in Multiple Countries",
-                "risk_level": "High",
-                "summary": "A sophisticated cyber attack has been launched on high-profile targets in multiple countries, compromising sensitive information and disrupting critical infrastructure."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Escalating Tensions Between China and the US Over Taiwan",
-                "risk_level": "High",
-                "summary": "Tensions between China and the US have heightened over Taiwan, with both nations engaging in a series of economic and diplomatic measures that could potentially lead to conflict."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Global Food Prices Continue to Rise Amidst Supply Chain Disruptions",
-                "risk_level": "Medium",
-                "summary": "Global food prices are continuing to rise due to supply chain disruptions, economic instability, and weather-related events, posing a significant threat to food security and social stability."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "United States": [
             {
-                "title": "Jan 6 Panel Releases Its Final Report on US Capitol Attack",
+                "title": "Multiple Mass Shootings in US: Gun Control Debate Intensifies",
+                "risk_level": "High",
+                "summary": "The US has witnessed multiple mass shootings over the past week, leading to renewed calls for stricter gun control laws."
+            },
+            {
+                "title": "Supreme Court Leak: High-Stakes Abortion Ruling",
+                "risk_level": "High",
+                "summary": "A leaked draft opinion from the US Supreme Court suggests a significant shift in abortion rights, sparking widespread protests and debates."
+            },
+            {
+                "title": "Ongoing US-China Trade Tensions Escalate",
                 "risk_level": "Medium",
-                "summary": "The 9/11-style commission on the Jan. 6 US Capitol attack recommended criminal charges against Donald Trump, citing 'substantial evidence' he violated the law."
+                "summary": "The US and China have maintained a tense trade dynamic, with both sides imposing new tariffs and restrictions on each other's exports."
+            }
+        ],
+        "South Korea": [
+            {
+                "title": "North Korea warns of 'overwhelming nuclear force'",
+                "risk_level": "High",
+                "summary": "North Korea's foreign minister has warned that the country has a 'powerful and overwhelming nuclear force' and that any country that tries to invade it will be met with 'a merciless, all-out battle'."
             },
             {
-                "title": "Biden and McCarthy Meet to Discuss Debt Ceiling Deal",
-                "risk_level": "High",
-                "summary": "A tentative agreement on the debt ceiling reached between House Speaker Kevin McCarthy and President Joe Biden is expected to face challenges from hardline Republicans."
+                "title": "Protests in South Korea against US beef imports",
+                "risk_level": "Medium",
+                "summary": "Thousands of South Koreans have taken to the streets in protest against the importation of American beef, which they believe poses a risk to food safety."
             },
             {
-                "title": "Supreme Court Rules on College Affirmative Action Cases",
+                "title": "South Korea's Yoon warns of 'unprecedented' crisis with North Korea",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has ruled that the affirmative action policies of two universities, Harvard and the University of North Carolina, discriminate against Asian-American applicants."
+                "summary": "South Korean President Yoon Suk-yeol has warned of an 'unprecedented' crisis with North Korea, as tensions between the two countries continue to escalate."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's LDP Seeks Stronger China Rhetoric Amid Rising Tensions",
+                "title": "Japan's economy minister faces pressure to quit amid graft allegations",
                 "risk_level": "High",
-                "summary": "Japan's ruling Liberal Democratic Party (LDP) has called for a tougher stance against China amid rising tensions over the Diaoyu Islands. This move could escalate the already strained relations between the two nations."
+                "summary": "Japan's economy minister, Daishiro Yamaguchi, is under pressure to resign amid allegations of graft, which could further destabilize Prime Minister Shinzo Abe's government. The scandal is a blow to the ruling Liberal Democratic Party (LDP), which has been plagued by corruption allegations in recent years."
             },
             {
-                "title": "North Korea Fires Ballistic Missile Over Japan",
-                "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile over Japan, prompting warnings and evacuations. This incident highlights the ongoing threat of North Korean aggression and its potential impact on regional security."
-            },
-            {
-                "title": "Japanese Government Warns of Potential 'Collapse' of Power Grid",
+                "title": "Typhoon Hinnamor prompts warnings and evacuations in Japan",
                 "risk_level": "Medium",
-                "summary": "The Japanese government has issued a warning about the potential for the nation's power grid to collapse, citing concerns over aging infrastructure and natural disaster risks. This issue could lead to widespread power outages and disrupt daily life."
+                "summary": "A strong typhoon is forecast to hit southern Japan this week, prompting warnings and evacuations for thousands of people. Typhoon Hinnamor is expected to bring heavy rain and strong winds, causing disruptions to transportation and daily life."
+            },
+            {
+                "title": "Japan to join US-led naval exercises in South China Sea, angering China",
+                "risk_level": "High",
+                "summary": "Japan will participate in upcoming US-led naval exercises in the South China Sea, a move that is likely to anger China. The exercises are seen as a show of strength against China's growing military presence in the region."
             }
         ]
     }

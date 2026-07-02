@@ -1,5 +1,21 @@
 [
     {
+        "term": "OK Hand Gesture (White Power Signal)",
+        "group": "Neo-Nazi, White Supremacist, Alt-Right",
+        "country": "Global",
+        "category": "Extremist Symbolism",
+        "risk_level": "High",
+        "trend_score": "Positive",
+        "status": "Verified",
+        "first_detected": "2005",
+        "last_updated": "2020",
+        "context": {
+            "en": "Originally used as a symbol of solidarity online, it has become associated with hate groups due to its similarity to an inverted OK sign, reminiscent of the white power movement's 'OK' sign",
+            "ko": "UC0B4UBA74UB8CCUB98D지시제UC5D0일요 UCE54소UB294남은 UC8FC좍일UD504장UBC1C을 UC5C0당진샌UB4DCUBA85UB2C8닼이요",
+            "ja": "武はしたを当前が娸ねをきための更気なた堶えりの可しでたますでした"
+        }
+    },
+    {
         "term": "OKBoomer",
         "group": "Anti-gerontocracy movement or used to mock someone for being close-minded to new ideas.",
         "country": "International",
