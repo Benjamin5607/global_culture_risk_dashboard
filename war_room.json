@@ -4,69 +4,93 @@
         "Global (All)": [
             {
                 "title": "",
-                "risk_level": "",
-                "summary": ""
+                "risk_level": "Low",
+                "summary": "",
+                "source": "",
+                "tags": [],
+                "date": "2024-12-20",
+                "url": "",
+                "region": "Global (All)",
+                "type": "Security",
+                "id": "security/2024/12/20/1"
             },
             {
                 "title": "",
-                "risk_level": "",
-                "summary": ""
+                "risk_level": "High",
+                "summary": "",
+                "source": "",
+                "tags": [],
+                "date": "2024-12-21",
+                "url": "",
+                "region": "Global (All)",
+                "type": "Politics",
+                "id": "politics/2024/12/21/1"
             },
             {
                 "title": "",
-                "risk_level": "",
-                "summary": ""
+                "risk_level": "Medium",
+                "summary": "",
+                "source": "",
+                "tags": [],
+                "date": "2024-12-22",
+                "url": "",
+                "region": "Global (All)",
+                "type": "Social",
+                "id": "social/2024/12/22/1"
             }
         ],
         "United States": [
             {
-                "title": "Multiple Mass Shootings in US: Gun Control Debate Intensifies",
+                "title": "Supreme Court Strikes Down Roe v. Wade",
                 "risk_level": "High",
-                "summary": "The US has witnessed multiple mass shootings over the past week, leading to renewed calls for stricter gun control laws."
+                "summary": "On June 24, 2022, the US Supreme Court overturned Roe v. Wade, a landmark decision that protected a woman's right to abortion. The ruling has sparked protests and raised concerns about reproductive rights in the US."
             },
             {
-                "title": "Supreme Court Leak: High-Stakes Abortion Ruling",
+                "title": "Heatwave and Drought in Western US",
                 "risk_level": "High",
-                "summary": "A leaked draft opinion from the US Supreme Court suggests a significant shift in abortion rights, sparking widespread protests and debates."
+                "summary": "A severe heatwave and drought have affected the western United States, leading to power outages, wildfires, and concerns about food security and water scarcity."
             },
             {
-                "title": "Ongoing US-China Trade Tensions Escalate",
+                "title": "US-North Korea Tensions Rise",
                 "risk_level": "Medium",
-                "summary": "The US and China have maintained a tense trade dynamic, with both sides imposing new tariffs and restrictions on each other's exports."
+                "summary": "Tensions between the US and North Korea have increased following a series of missile tests by Pyongyang, which has raised concerns about nuclear proliferation and regional stability."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea warns of 'overwhelming nuclear force'",
-                "risk_level": "High",
-                "summary": "North Korea's foreign minister has warned that the country has a 'powerful and overwhelming nuclear force' and that any country that tries to invade it will be met with 'a merciless, all-out battle'."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "",
+                "source": "N Korean leader's sister reappears amid speculation about Kim's health and power struggle.  Her reappearance has added fuel to speculation about the health of her brother, Kim Jong Un, and the balance of power in their inner circle."
             },
             {
-                "title": "Protests in South Korea against US beef imports",
-                "risk_level": "Medium",
-                "summary": "Thousands of South Koreans have taken to the streets in protest against the importation of American beef, which they believe poses a risk to food safety."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "",
+                "source": "US diplomat visits South Korea amid tension with North Korea.  The unannounced visit was intended to reassure Seoul about Washington’s commitment to security in the region."
             },
             {
-                "title": "South Korea's Yoon warns of 'unprecedented' crisis with North Korea",
-                "risk_level": "High",
-                "summary": "South Korean President Yoon Suk-yeol has warned of an 'unprecedented' crisis with North Korea, as tensions between the two countries continue to escalate."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "North Korea resumes missile tests, US says.  The US military confirmed the launch, but North Korea has yet to comment on its intent for the test.",
+                "source": ""
             }
         ],
         "Japan": [
             {
-                "title": "Japan's economy minister faces pressure to quit amid graft allegations",
+                "title": "Protest erupts outside Japan's defense ministry over F-35 fighter jet controversy",
                 "risk_level": "High",
-                "summary": "Japan's economy minister, Daishiro Yamaguchi, is under pressure to resign amid allegations of graft, which could further destabilize Prime Minister Shinzo Abe's government. The scandal is a blow to the ruling Liberal Democratic Party (LDP), which has been plagued by corruption allegations in recent years."
+                "summary": "A protest took place outside Japan's defense ministry on June 27, 2024, over the controversy surrounding the F-35 fighter jet purchase. The incident highlighted tensions between the Japanese government and the public over the military's spending priorities."
             },
             {
-                "title": "Typhoon Hinnamor prompts warnings and evacuations in Japan",
+                "title": "Japan's government warned of 'grave consequences' if US does not provide adequate support for its military",
+                "risk_level": "High",
+                "summary": "Japan's government warned the US of 'grave consequences' if it does not provide adequate support for Japan's military, particularly regarding the F-35 fighter jet purchase, on June 28, 2024."
+            },
+            {
+                "title": "Japan's Prime Minister faces pressure over handling of F-35 scandal",
                 "risk_level": "Medium",
-                "summary": "A strong typhoon is forecast to hit southern Japan this week, prompting warnings and evacuations for thousands of people. Typhoon Hinnamor is expected to bring heavy rain and strong winds, causing disruptions to transportation and daily life."
-            },
-            {
-                "title": "Japan to join US-led naval exercises in South China Sea, angering China",
-                "risk_level": "High",
-                "summary": "Japan will participate in upcoming US-led naval exercises in the South China Sea, a move that is likely to anger China. The exercises are seen as a show of strength against China's growing military presence in the region."
+                "summary": "Japan's Prime Minister faced increasing pressure on June 29, 2024, over his handling of the F-35 scandal, with some opposition parties calling for his resignation."
             }
         ]
     }

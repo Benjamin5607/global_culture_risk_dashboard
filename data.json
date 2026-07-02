@@ -1,5 +1,22 @@
 [
     {
+        "name": "Marie Curie",
+        "term": "Nuclear Physics",
+        "group": "Scientist",
+        "country": "Poland",
+        "category": "Women in Science",
+        "risk_level": "Moderate",
+        "trend_score": 70,
+        "status": "Historical Figure with Current Controversies",
+        "first_detected": "1867",
+        "last_updated": "2023",
+        "context": {
+            "en": "A pioneer in radioactivity research and the first woman to win a Nobel Prize. However, her handling of radioactive materials has sparked concerns about her safety practices.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "OK Hand Gesture (White Power Signal)",
         "group": "Neo-Nazi, White Supremacist, Alt-Right",
         "country": "Global",
