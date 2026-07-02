@@ -1,5 +1,21 @@
 [
     {
+        "term": "OK Hand Gesture",
+        "group": "Symbols/Emblems",
+        "country": "Global",
+        "category": "White Power/Aryan Supremacy",
+        "risk_level": "High",
+        "trend_score": 0.8,
+        "status": "Active",
+        "first_detected": "2010",
+        "last_updated": "2020",
+        "context": {
+            "en": "A hand gesture consisting of extending the index and pinky fingers, while folding down the other fingers. It has been adopted by some white nationalists as a symbol of their ideology.",
+            "ko": "목소리가 되는 손 부호",
+            "ja": "ネイュトングールフ"
+        }
+    },
+    {
         "name": "Marie Curie",
         "term": "Nuclear Physics",
         "group": "Scientist",

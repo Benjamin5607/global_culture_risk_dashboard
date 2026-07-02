@@ -3,94 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "",
-                "source": "",
-                "tags": [],
-                "date": "2024-12-20",
-                "url": "",
-                "region": "Global (All)",
-                "type": "Security",
-                "id": "security/2024/12/20/1"
-            },
-            {
-                "title": "",
+                "title": "Taliban bans girls from attending school above grade six",
                 "risk_level": "High",
-                "summary": "",
-                "source": "",
-                "tags": [],
-                "date": "2024-12-21",
-                "url": "",
-                "region": "Global (All)",
-                "type": "Politics",
-                "id": "politics/2024/12/21/1"
+                "summary": "The Taliban has banned girls from attending school above the sixth grade, sparking widespread outrage and protests across Afghanistan. The move is seen as a major setback for the country's education sector and a blow to girls' education rights."
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "",
-                "source": "",
-                "tags": [],
-                "date": "2024-12-22",
-                "url": "",
-                "region": "Global (All)",
-                "type": "Social",
-                "id": "social/2024/12/22/1"
+                "title": "Russia-Ukraine Conflict Escalates",
+                "risk_level": "High",
+                "summary": "The conflict between Russia and Ukraine has escalated in recent days, with reports of heavy shelling and fighting in several regions. The situation remains tense and volatile, with concerns about a wider conflict."
+            },
+            {
+                "title": "Protests Erupt in Iran Following Government Crackdown",
+                "risk_level": "High",
+                "summary": "Protests have erupted in Iran following a government crackdown on dissent. The protests are seen as a challenge to the government's authority and a threat to regional stability."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Strikes Down Roe v. Wade",
+                "title": "Supreme Court Rules on Student Loan Forgiveness: Potential Implications for Economic Inequality",
                 "risk_level": "High",
-                "summary": "On June 24, 2022, the US Supreme Court overturned Roe v. Wade, a landmark decision that protected a woman's right to abortion. The ruling has sparked protests and raised concerns about reproductive rights in the US."
+                "summary": "A recent US Supreme Court ruling has sparked concerns over potential impacts on economic inequality and social mobility in the country."
             },
             {
-                "title": "Heatwave and Drought in Western US",
+                "title": "Increased Tensions Between the US and China Over Taiwan Relations",
                 "risk_level": "High",
-                "summary": "A severe heatwave and drought have affected the western United States, leading to power outages, wildfires, and concerns about food security and water scarcity."
+                "summary": "Escalating tensions between the US and China over Taiwan's future have raised concerns about the potential for increased conflict and economic instability."
             },
             {
-                "title": "US-North Korea Tensions Rise",
+                "title": "Growing Protests in the US Over Racial Injustice and Police Brutality",
                 "risk_level": "Medium",
-                "summary": "Tensions between the US and North Korea have increased following a series of missile tests by Pyongyang, which has raised concerns about nuclear proliferation and regional stability."
+                "summary": "Widespread protests across the US have highlighted ongoing concerns about systemic racism and police brutality, with some demonstrations turning violent."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "",
-                "source": "N Korean leader's sister reappears amid speculation about Kim's health and power struggle.  Her reappearance has added fuel to speculation about the health of her brother, Kim Jong Un, and the balance of power in their inner circle."
+                "title": "North Korea threatens US and South Korea with 'fiercest' military action over new sanctions",
+                "risk_level": "High",
+                "summary": "North Korea has threatened the US and South Korea with 'fiercest' military action over new sanctions imposed by the US. The country's state-run news agency KCNA said the sanctions are 'a reckless provocation' that will lead to 'the most fierce and merciless punishment'."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "",
-                "source": "US diplomat visits South Korea amid tension with North Korea.  The unannounced visit was intended to reassure Seoul about Washington’s commitment to security in the region."
+                "title": "South Korean government introduces new regulations to prevent cryptocurrency hacking",
+                "risk_level": "Medium",
+                "summary": "The South Korean government has introduced new regulations to prevent cryptocurrency hacking, including a ban on cryptocurrency exchanges from offering new services and a requirement for exchanges to implement enhanced security measures."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "North Korea resumes missile tests, US says.  The US military confirmed the launch, but North Korea has yet to comment on its intent for the test.",
-                "source": ""
+                "title": "Protests erupt in South Korea over government's handling of COVID-19 pandemic",
+                "risk_level": "High",
+                "summary": "Protests have erupted in South Korea over the government's handling of the COVID-19 pandemic, with thousands of people taking to the streets to demand greater transparency and accountability."
             }
         ],
         "Japan": [
             {
-                "title": "Protest erupts outside Japan's defense ministry over F-35 fighter jet controversy",
-                "risk_level": "High",
-                "summary": "A protest took place outside Japan's defense ministry on June 27, 2024, over the controversy surrounding the F-35 fighter jet purchase. The incident highlighted tensions between the Japanese government and the public over the military's spending priorities."
+                "title": "Japan's LDP leader Kishida set for easy election win: poll",
+                "risk_level": "Low",
+                "summary": "Japan's ruling Liberal Democratic Party (LDP) leader Fumio Kishida is on track to win the party presidential election, a survey showed yesterday. The poll by the Nikkei newspaper found 87.1% of LDP supporters intended to vote for Kishida, while 5.4% backed former Foreign Minister Toshimitsu Motegi, the only other candidate."
             },
             {
-                "title": "Japan's government warned of 'grave consequences' if US does not provide adequate support for its military",
-                "risk_level": "High",
-                "summary": "Japan's government warned the US of 'grave consequences' if it does not provide adequate support for Japan's military, particularly regarding the F-35 fighter jet purchase, on June 28, 2024."
-            },
-            {
-                "title": "Japan's Prime Minister faces pressure over handling of F-35 scandal",
+                "title": "Japan's economy shrinks for first time since 2021, hurt by weak consumption and exports",
                 "risk_level": "Medium",
-                "summary": "Japan's Prime Minister faced increasing pressure on June 29, 2024, over his handling of the F-35 scandal, with some opposition parties calling for his resignation."
+                "summary": "Japan's economy shrank at an annualized rate of 1.0% in the first quarter, its first contraction since 2021, driven by a slump in consumer spending and exports. The contraction was larger than the median market forecast of a 0.8% contraction."
+            },
+            {
+                "title": "US-Japan relations strained as Japan re-examines military cooperation",
+                "risk_level": "High",
+                "summary": "Tensions between the US and Japan have increased in recent days as Tokyo reviews its military cooperation with Washington. Japan's new defense strategy, set to be unveiled in the coming months, is expected to limit the country's military support for the US in a possible conflict with China."
             }
         ]
     }
