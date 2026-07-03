@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Racial Tensions Escalate in US",
+                "title": "US Senate Passes Bipartisan Gun Control Bill",
                 "risk_level": "High",
-                "summary": "Protests against systemic racism continue to spread across the US, with incidents of violence and property damage reported."
+                "summary": "The US Senate passed a bipartisan gun control bill following a series of mass shootings. The bill aims to expand background checks and address \"red flag\" laws."
             },
             {
-                "title": "Global Cyber Threats on the Rise",
+                "title": "North Korea Condemns US-South Korea Joint Military Exercises",
                 "risk_level": "High",
-                "summary": "A recent surge in cyberattacks has left many nations scrambling to bolster their digital defenses, with several high-profile breaches in the past week."
+                "summary": "North Korea condemned the joint military exercises between the US and South Korea, citing a provocation that could lead to war."
             },
             {
-                "title": "Climate Change Protests Turn Violent",
-                "risk_level": "Medium",
-                "summary": "Protests against climate change policies turned violent in several cities worldwide, with reports of property damage and injuries."
+                "title": "Russia-Ukraine Conflict: Heavy Fighting in Eastern Ukraine",
+                "risk_level": "High",
+                "summary": "Heavy fighting continues in eastern Ukraine, with reports of civilian casualties and damaged infrastructure."
             }
         ],
         "United States": [
             {
-                "title": "Ukraine-Russia Conflict Spillover into Western Countries: Increased Risk of Cyber Attacks and Disinformation",
+                "title": "Mass Shooting at Highland Park Independence Day Parade",
                 "risk_level": "High",
-                "summary": "The ongoing conflict between Ukraine and Russia has heightened tensions in the region, leading to increased risks of cyber attacks and disinformation campaigns targeting western countries, including the United States. This has resulted in a higher risk level for cyber security threats and potential disruptions to critical infrastructure."
+                "summary": "At least six people were killed and dozens injured in a mass shooting at a July 4th parade in Highland Park, Illinois, a Chicago suburb. The suspect, Robert 'Bobby' Crimo III, 21, was taken into custody after a manhunt."
             },
             {
-                "title": "Escalating Tensions in the South China Sea: Risk of Confrontation with the US",
-                "risk_level": "Medium",
-                "summary": "The past week has seen increased tensions in the South China Sea, with China making several military moves that have heightened the risk of confrontation with the US and its allies. This has led to concerns over a potential military conflict and the impact on global trade and stability."
+                "title": "US Supreme Court Overturns Roe v. Wade",
+                "risk_level": "High",
+                "summary": "The landmark abortion rights case Roe v. Wade was overturned by the US Supreme Court in a historic decision that gives individual states greater authority to regulate abortion. The ruling sparked widespread protests and outrage."
             },
             {
-                "title": "Ongoing Protests in the US over Gun Control Laws: Risk of Social Unrest and Civil Disobedience",
-                "risk_level": "Low",
-                "summary": "In the past week, protests have continued in the US over gun control laws, with some demonstrators engaging in civil disobedience and calling for stricter regulations. While the risk level is low, there is still a risk of social unrest and further protests as the debate over gun control continues."
+                "title": "Heat Wave and Wildfires Wreak Havoc Across the West Coast",
+                "risk_level": "High",
+                "summary": "A severe heat wave and record-breaking temperatures fueled devastating wildfires across the US West Coast, forcing evacuations and destroying homes in several states, including California and Arizona."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea Seeks US Support for North Korea Denuclearization",
+                "title": "South Korea, US hold joint naval drill amid tensions with North Korea",
                 "risk_level": "High",
-                "summary": "South Korean President Yoon Suk-yeol has asked the US to provide support for denuclearization of North Korea, amidst rising tensions between the two nations."
+                "summary": "South Korea and the United States have held a joint naval drill, sparking concerns from North Korea which has been testing its missile capabilities."
             },
             {
-                "title": "Protests Erupt in Seoul After South Korean President's Approval Rating Plummets",
+                "title": "South Korean prosecutors raid Samsung offices over corrupt bidding scandal",
                 "risk_level": "Medium",
-                "summary": "Protests have erupted in Seoul after South Korean President Yoon Suk-yeol's approval rating plummeted to a record low, sparking concerns about the country's political stability."
+                "summary": "Prosecutors in South Korea have raided Samsung's offices as part of an investigation into a corrupt bidding scandal."
             },
             {
-                "title": "North Korea Tests New Ballistic Missile in Show of Force Against South Korea",
-                "risk_level": "High",
-                "summary": "North Korea has tested a new ballistic missile, sparking concerns about its military capabilities and intentions towards South Korea."
+                "title": "South Korea's president faces criticism over slow response to COVID-19 Omicron variant",
+                "risk_level": "Low",
+                "summary": "South Korea's president has faced criticism over the government's slow response to the COVID-19 Omicron variant, which has led to an increase in cases."
             }
         ],
         "Japan": [
             {
-                "title": "Japan warns of new variant that can evade immunity",
+                "title": "North Korea launches ballistic missile over Japan, prompting criticism from US and Japan",
                 "risk_level": "High",
-                "summary": "Japan warned of a new coronavirus variant that can evade immunity built up from previous infections or vaccinations, as it struggles to contain a surge in cases. The new variant, known as XBB.1.5, has been found in several countries including Japan and has been identified as a \"variant of concern\" by the World Health Organization. The Japanese government said it would continue to closely monitor the spread of the new variant and take necessary measures to prevent its spread. The warning comes as Japan faces a resurgence of COVID-19 cases, with more than 25,000 cases reported in the past week. The government has asked people to continue wearing masks in crowded areas and to be cautious when interacting with others, but has stopped short of reimposing widespread restrictions. The spread of the new variant has sparked concerns about the effectiveness of the current vaccines and the need for booster shots. The Japanese government has said it would consider introducing new measures, such as booster shots for all citizens, to prevent the spread of the new variant. However, the exact measures have yet to be decided."
+                "summary": "North Korea fired a ballistic missile on Wednesday that flew over Japan and landed in the Pacific Ocean, prompting a strong condemnation from Tokyo and Washington."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "China, Japan, and South Korea agree to work together to address North Korea's nuclear threat",
+                "risk_level": "Medium",
+                "summary": "The foreign ministers of China, Japan, and South Korea agreed to cooperate on addressing the security challenges posed by North Korea's nuclear and missile programs."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Japan's defense minister vows to boost military spending in response to North Korea's missile launch",
+                "risk_level": "High",
+                "summary": "Japan's defense minister announced plans to increase military spending in response to North Korea's recent missile launch, which he said posed a significant threat to national security."
             }
         ]
     }
