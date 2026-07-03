@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Taliban Announce Spring Offensive",
-                "risk_level": "High",
-                "summary": "The Taliban announced the start of their spring offensive, increasing the risk of violence and instability in Afghanistan."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "DPRK Missile Tests Spark Global Fears, But Analysts Remain Skeptical"
             },
             {
-                "title": "China-US Tensions Escalate",
-                "risk_level": "High",
-                "summary": "Tensions between China and the US have escalated, with both countries imposing new trade restrictions and increasing military presence in the South China Sea."
-            },
-            {
-                "title": "Protests Erupt in Iran Amid Economic Crisis",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Protests have erupted in Iran amid an economic crisis, with demonstrators calling for the government to address rising inflation and unemployment."
+                "summary": "Biden Administration Seeks to Ease Tensions with North Korea"
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "US, China to Hold Talks on Global Economic Governance"
             }
         ],
         "United States": [
             {
-                "title": "US House Committee Subpoenas Former White House staffer for January 6th Documents",
-                "risk_level": "High",
-                "summary": "A US House committee has subpoenaed a former White House staffer in relation to the January 6th committee's investigation into the 2021 US Capitol Attack. The move could further escalate the ongoing tensions between various government bodies."
-            },
-            {
-                "title": "Gunman kills 7 in Highland, Illinois Mass Shooting",
+                "title": "US Federal Reserve Announces Rate Increase Amid Economic Uncertainty",
                 "risk_level": "Medium",
-                "summary": "A man has opened fire in a residential area in Highland, Illinois, taking the lives of 7 people. This marks the latest in a series of mass shootings in the United States in recent weeks."
+                "summary": "The US Federal Reserve raised interest rates by 25 basis points to combat inflation, sparking concerns about the economic impact on the country."
             },
             {
-                "title": "Supreme Court Limits EPA's Power to Regulate Emissions",
-                "risk_level": "Low",
-                "summary": "The US Supreme Court has issued a ruling that will curb the Environmental Protection Agency's (EPA) ability to regulate emissions from power plants. The decision is seen as a significant blow to efforts to combat climate change in the United States."
+                "title": "Tensions Escalate Between US and Iran Over Nuclear Deal",
+                "risk_level": "High",
+                "summary": "The US imposed new sanctions on Iran, which Iran responded by vowing to accelerate its nuclear program, raising fears of conflict and regional instability."
+            },
+            {
+                "title": "Gun Safety Bill Fails to Pass in US Senate, Sparking Outrage",
+                "risk_level": "Medium",
+                "summary": "A bipartisan gun safety bill was defeated in the US Senate, despite growing public pressure for stricter gun control laws, sparking concerns about public safety and national security."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests and Riots Against Government Policies",
+                "title": "North Korea fires ballistic missile, South Korea and US conduct joint military drills",
                 "risk_level": "High",
-                "summary": "Ongoing protests and riots across South Korea have led to the arrest of hundreds of citizens. The government is facing growing criticism for its handling of the economy and rising cost of living."
+                "summary": "North Korea fired a ballistic missile on June 30, prompting a joint response from South Korea and the United States. The drills showcased the allies' military capabilities and readiness in the face of growing tensions on the Korean Peninsula."
             },
             {
-                "title": "Escalating Tensions with North Korea",
-                "risk_level": "High",
-                "summary": "North Korea has launched a series of military drills, sparking fears of an impending conflict. South Korea has vowed to take a strong stance against any aggression from the North."
-            },
-            {
-                "title": "COVID-19 Outbreak in Military Bases",
+                "title": "South Korea's presidential election draws near, concerns over campaign spending and manipulation",
                 "risk_level": "Medium",
-                "summary": "A growing number of COVID-19 cases have been reported on South Korean military bases, prompting concerns about the spread of the virus within the military and the country as a whole."
+                "summary": "As South Korea's presidential election approaches, concerns are growing over campaign spending and potential manipulation. The electoral commission has tightened regulations to prevent irregularities, but critics argue more needs to be done to ensure a fair outcome."
+            },
+            {
+                "title": "K-pop idol accused of tax evasion, sparking public outcry and calls for accountability",
+                "risk_level": "Medium",
+                "summary": "A popular K-pop idol has been accused of tax evasion, leading to widespread public outrage and demands for greater accountability among celebrities and public figures. The case has shed light on the issue of tax evasion in South Korea and the need for stricter laws and enforcement."
             }
         ],
         "Japan": [
             {
-                "title": "Protest against Japan's nuclear policies at Okinawa Governor's office erupts into chaos",
+                "title": "North Korea Fires Ballistic Missile Over Japan",
                 "risk_level": "High",
-                "summary": "A protest against Japan's nuclear policies at the Okinawa Governor's office turned violent on June 29, 2024, with police arresting multiple demonstrators. The unrest has heightened concerns about social unrest in the region."
+                "summary": "North Korea fired a ballistic missile that flew over Japan's northern island of Hokkaido and landed in the Pacific Ocean. The missile launch marked a significant escalation of North Korea's military activities and raised concerns among Japan's leaders."
             },
             {
-                "title": "Cybersecurity concerns arise after data breach on Japanese government's IT system",
-                "risk_level": "High",
-                "summary": "A recent data breach on Japan's government IT system has raised concerns about potential cybersecurity risks and data protection. The incident occurred between June 26 to June 27, 2024."
-            },
-            {
-                "title": "Anti-whaling protests mar International Whaling Commission meeting in Tokyo",
+                "title": "Japan to Impose Strict COVID-19 Border Controls",
                 "risk_level": "Medium",
-                "summary": "Protests against Japan's whaling policies at the International Whaling Commission meeting in Tokyo on June 30, 2024, attracted international attention. While the protests were largely peaceful, some demonstrators were arrested by police."
+                "summary": "Japan will impose new COVID-19 border controls, including stricter requirements for foreign visitors, to prevent the spread of the virus."
+            },
+            {
+                "title": "Protests Erupt in Tokyo Over Fumio Kishida's Government",
+                "risk_level": "Medium",
+                "summary": "Protesters gathered in Tokyo to express their discontent with Japan's government, led by Prime Minister Fumio Kishida, over various issues, including economic policies and COVID-19 response."
             }
         ]
     }
