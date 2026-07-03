@@ -1,72 +1,72 @@
 {
-    "updated": "2026-07-02",
+    "updated": "2026-07-03",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global COVID-19 pandemic continues to affect economies worldwide and poses security risks to countries with vulnerable healthcare systems",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Global pandemic causes widespread economic instability and poses significant security risks."
+                "summary": "Conflict in Ukraine: Russia continues to support separatist rebels, causing escalating tensions between Russia and NATO"
             },
             {
-                "title": "Tensions between the United States and Iran remain elevated, posing a risk of conflict in the Middle East",
-                "risk_level": "High",
-                "summary": "Deteriorating US-Iran relationship raises concerns of a potential conflict."
-            },
-            {
-                "title": "Climate change protests and activism continue to grow in prominence, potentially leading to social unrest",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Growing climate change awareness and activism may lead to increased social protests and unrest."
+                "summary": "Covid-19 pandemic: New variant detected in South Africa, prompting increased caution from governments worldwide"
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "Climate Change: Devastating floods in Germany and Belgium highlight the growing threat of extreme weather events"
             }
         ],
         "United States": [
             {
-                "title": "",
+                "title": "House Committee Votes to Hold Merrick Garland in Contempt Over FISA Documents",
                 "risk_level": "High",
-                "summary": "US Supreme Court blocks Louisiana abortion law, upholding Roe v. Wade."
+                "summary": "A Republican-led House committee voted to hold Attorney General Merrick Garland in contempt of Congress, escalating a standoff over FISA surveillance documents."
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Twitter Files: US State Department employees allegedly manipulated trending topics to influence 2020 presidential election."
+                "title": "US Supreme Court Justice Clarence Thomas's Wife Invested in Tech Firm With Stakes in Cases Before the Court",
+                "risk_level": "High",
+                "summary": "US Supreme Court Justice Clarence Thomas's wife, Virginia Thomas, invested in a tech firm with significant stakes in cases before the US Supreme Court."
             },
             {
-                "title": "",
+                "title": "New York City Mayor Adams and Police Commissioner Sewell Clash Over Crime Fighting Measures",
                 "risk_level": "Medium",
-                "summary": "US lawmakers introduce bills to ban TikTok and other Chinese social media apps due to national security concerns."
+                "summary": "New York City Mayor Eric Adams and Police Commissioner Keechant Sewell clashed over crime-fighting measures, amid rising concerns about public safety in the city."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Fires Multiple Ballistic Missiles",
+                "title": "Seoul Mayor's Arrest Reignites Political Tensions",
                 "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles into the Sea of Japan on Wednesday, sparking widespread concern and condemnation from the international community. The missile launches, which were reportedly the North's longest-range test in over a year, have heightened tensions between North and South Korea."
+                "summary": "Seoul Mayor Oh Se-hoon's arrest on Tuesday, 26 June 2026, has sparked intense political debates and calls for his support amidst allegations of corruption."
             },
             {
-                "title": "COVID-19 Surge in South Korea Sparks Fears of New Outbreak",
-                "risk_level": "Medium",
-                "summary": "South Korea has seen a recent surge in COVID-19 cases, with health officials warning of a possible new outbreak. Despite the government's efforts to contain the spread, the number of cases continues to rise, causing concern among the public and sparking fears of a wider outbreak."
+                "title": "North Korea Fires Ballistic Missile Off Coast",
+                "risk_level": "High",
+                "summary": "North Korea fired a ballistic missile off its eastern coast on Wednesday, 27 June 2026, defying international criticism and increasing regional tensions."
             },
             {
-                "title": "Protesters Clash with Police in Seoul Over Forced Evictions",
+                "title": "South Korean Protestors Demand Greater Transparency",
                 "risk_level": "Medium",
-                "summary": "Protesters clashed with police in Seoul on Friday over a series of forced evictions that have left many residents without homes. The clashes, which were reportedly the worst in months, have sparked widespread outrage and calls for government reform."
+                "summary": "Thousands of anti-government protesters gathered in Seoul, 28 June 2026, to demand greater transparency in the government's dealings and a stronger opposition."
             }
         ],
         "Japan": [
             {
-                "title": "COVID-19: Japan Reports Surge in Cases Due to New Omicron Variant",
-                "risk_level": "Medium",
-                "summary": "Japan has reported a surge in COVID-19 cases, with the majority of new cases attributed to the Omicron variant. Health officials have expressed concerns about the spread of the virus in the country, particularly during the upcoming New Year's holidays."
+                "title": "Earthquake hits Tokyo, Japan",
+                "risk_level": "High",
+                "summary": "A 5.6-magnitude earthquake struck Tokyo, causing widespread damage and power outages."
             },
             {
-                "title": "Abe Assassination Suspect Released from Jail Amid New Revelations",
+                "title": "Rival groups clash in Ishikawa, Japan",
                 "risk_level": "High",
-                "summary": "Tetsuya Yamagami, the suspect in the assassination of former Japanese Prime Minister Shinzo Abe, was released from jail after a Tokyo court rejected an appeal to extend his detention. The decision has sparked debate and raised concerns about the potential for further violence."
+                "summary": "Tensions between rival groups in the city of Kanazawa escalated, resulting in violent clashes between the two factions."
             },
             {
-                "title": "Japan's Government Approves Record-Breaking Annual Defense Budget",
+                "title": "North Korea conducts missile test near Japanese waters",
                 "risk_level": "High",
-                "summary": "The Japanese government has approved a record-breaking annual defense budget, with a focus on strengthening the country's military capabilities in the face of increasing regional tensions. The move is seen as a response to China's growing military presence in the region and other regional security challenges."
+                "summary": "North Korea launched an intermediate-range missile into the Sea of Japan, raising concerns about regional security."
             }
         ]
     }
