@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US Senate Passes Bipartisan Gun Control Bill",
+                "title": "Conflict in Ethiopia and Impact on Regional Stability",
                 "risk_level": "High",
-                "summary": "The US Senate passed a bipartisan gun control bill following a series of mass shootings. The bill aims to expand background checks and address \"red flag\" laws."
+                "summary": "Ongoing clashes in Ethiopia could trigger a broader regional conflict."
             },
             {
-                "title": "North Korea Condemns US-South Korea Joint Military Exercises",
+                "title": "Escalating Tensions between US and China",
                 "risk_level": "High",
-                "summary": "North Korea condemned the joint military exercises between the US and South Korea, citing a provocation that could lead to war."
+                "summary": "Increased tensions between the US and China pose significant risks to global supply chains, trade and security."
             },
             {
-                "title": "Russia-Ukraine Conflict: Heavy Fighting in Eastern Ukraine",
-                "risk_level": "High",
-                "summary": "Heavy fighting continues in eastern Ukraine, with reports of civilian casualties and damaged infrastructure."
+                "title": "Protests Against Government Elected in Pakistan",
+                "risk_level": "Medium",
+                "summary": "Protests against government in Pakistan pose a risk to political stability and security."
             }
         ],
         "United States": [
             {
-                "title": "Mass Shooting at Highland Park Independence Day Parade",
+                "title": "Ransomware Attack Affects Major US Healthcare Provider",
                 "risk_level": "High",
-                "summary": "At least six people were killed and dozens injured in a mass shooting at a July 4th parade in Highland Park, Illinois, a Chicago suburb. The suspect, Robert 'Bobby' Crimo III, 21, was taken into custody after a manhunt."
+                "summary": "A ransomware attack has affected a major US healthcare provider, exposing sensitive patient data and disrupting medical services."
             },
             {
-                "title": "US Supreme Court Overturns Roe v. Wade",
+                "title": "Increased Tensions Between US and China Over Taiwan",
                 "risk_level": "High",
-                "summary": "The landmark abortion rights case Roe v. Wade was overturned by the US Supreme Court in a historic decision that gives individual states greater authority to regulate abortion. The ruling sparked widespread protests and outrage."
+                "summary": "The US and China are experiencing increased tensions over Taiwan, with both countries engaging in saber-rattling and diplomatic maneuvering."
             },
             {
-                "title": "Heat Wave and Wildfires Wreak Havoc Across the West Coast",
-                "risk_level": "High",
-                "summary": "A severe heat wave and record-breaking temperatures fueled devastating wildfires across the US West Coast, forcing evacuations and destroying homes in several states, including California and Arizona."
+                "title": "Civil Unrest in Multiple US Cities Due to Police Brutality Protests",
+                "risk_level": "Medium",
+                "summary": "Civil unrest and protests have erupted in multiple US cities due to allegations of police brutality and racial injustice."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea, US hold joint naval drill amid tensions with North Korea",
-                "risk_level": "High",
-                "summary": "South Korea and the United States have held a joint naval drill, sparking concerns from North Korea which has been testing its missile capabilities."
-            },
-            {
-                "title": "South Korean prosecutors raid Samsung offices over corrupt bidding scandal",
+                "title": "Seoul Mayor Election: Ruling Party Wins, but Opposition Claims Voting Irregularities",
                 "risk_level": "Medium",
-                "summary": "Prosecutors in South Korea have raided Samsung's offices as part of an investigation into a corrupt bidding scandal."
+                "summary": "On June 28, conservative Seoul Mayor Oh Se-hoon was elected as the new Prime Minister of South Korea, but the left-wing opposition party claims widespread voting irregularities and potential election meddling. This could escalate political tensions between the ruling and opposition parties. "
             },
             {
-                "title": "South Korea's president faces criticism over slow response to COVID-19 Omicron variant",
-                "risk_level": "Low",
-                "summary": "South Korea's president has faced criticism over the government's slow response to the COVID-19 Omicron variant, which has led to an increase in cases."
+                "title": "North Korea Fires Three Ballistic Missiles into Sea of Japan",
+                "risk_level": "High",
+                "summary": "On June 26, North Korea fired three ballistic missiles into the Sea of Japan, drawing criticism from the international community. South Korea, along with the US and Japan, condemned the launch and warned North Korea against further military provocations."
+            },
+            {
+                "title": "South Korea's Opposition Accuses Government of Failing to Address Growing Inflation",
+                "risk_level": "Medium",
+                "summary": "On June 24, South Korea's opposition party accused the government of failing to address the growing inflation and economic woes, which has led to increasing public dissatisfaction. This could potentially exacerbate tensions between the ruling and opposition parties."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea launches ballistic missile over Japan, prompting criticism from US and Japan",
-                "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile on Wednesday that flew over Japan and landed in the Pacific Ocean, prompting a strong condemnation from Tokyo and Washington."
-            },
-            {
-                "title": "China, Japan, and South Korea agree to work together to address North Korea's nuclear threat",
+                "title": "Japan and South Korea agree to resume talks on forced labor issue",
                 "risk_level": "Medium",
-                "summary": "The foreign ministers of China, Japan, and South Korea agreed to cooperate on addressing the security challenges posed by North Korea's nuclear and missile programs."
+                "summary": "Japan and South Korea have agreed to resume talks over a dispute about compensation for forced labor during Japan's colonial rule of Korea, South Korean President Yoon Suk-yeol said on 26 June. The talks were paused in November 2021 after a South Korean court ordered a Japanese steelmaker to pay compensation to former forced laborers."
             },
             {
-                "title": "Japan's defense minister vows to boost military spending in response to North Korea's missile launch",
+                "title": "North Korea fires ballistic missile, Japan warns citizens to take precautions",
                 "risk_level": "High",
-                "summary": "Japan's defense minister announced plans to increase military spending in response to North Korea's recent missile launch, which he said posed a significant threat to national security."
+                "summary": "North Korea fired a ballistic missile towards the sea off its east coast on 26 June, South Korean and Japanese militaries said, prompting Japan's government to warn citizens to take precautions."
+            },
+            {
+                "title": "Japan's PM Fumio Kishida warns of potential 'large-scale' North Korea missile launch",
+                "risk_level": "High",
+                "summary": "Japanese Prime Minister Fumio Kishida said on 26 June that there was a possibility of a 'large-scale' ballistic missile launch by North Korea, and that Japan was preparing to respond accordingly."
             }
         ]
     }
