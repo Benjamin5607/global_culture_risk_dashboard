@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "DPRK Missile Tests Spark Global Fears, But Analysts Remain Skeptical"
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Biden Administration Seeks to Ease Tensions with North Korea"
-            },
-            {
-                "title": "",
+                "title": "Racial Tensions Escalate in US",
                 "risk_level": "High",
-                "summary": "US, China to Hold Talks on Global Economic Governance"
+                "summary": "Protests against systemic racism continue to spread across the US, with incidents of violence and property damage reported."
+            },
+            {
+                "title": "Global Cyber Threats on the Rise",
+                "risk_level": "High",
+                "summary": "A recent surge in cyberattacks has left many nations scrambling to bolster their digital defenses, with several high-profile breaches in the past week."
+            },
+            {
+                "title": "Climate Change Protests Turn Violent",
+                "risk_level": "Medium",
+                "summary": "Protests against climate change policies turned violent in several cities worldwide, with reports of property damage and injuries."
             }
         ],
         "United States": [
             {
-                "title": "US Federal Reserve Announces Rate Increase Amid Economic Uncertainty",
-                "risk_level": "Medium",
-                "summary": "The US Federal Reserve raised interest rates by 25 basis points to combat inflation, sparking concerns about the economic impact on the country."
-            },
-            {
-                "title": "Tensions Escalate Between US and Iran Over Nuclear Deal",
+                "title": "Ukraine-Russia Conflict Spillover into Western Countries: Increased Risk of Cyber Attacks and Disinformation",
                 "risk_level": "High",
-                "summary": "The US imposed new sanctions on Iran, which Iran responded by vowing to accelerate its nuclear program, raising fears of conflict and regional instability."
+                "summary": "The ongoing conflict between Ukraine and Russia has heightened tensions in the region, leading to increased risks of cyber attacks and disinformation campaigns targeting western countries, including the United States. This has resulted in a higher risk level for cyber security threats and potential disruptions to critical infrastructure."
             },
             {
-                "title": "Gun Safety Bill Fails to Pass in US Senate, Sparking Outrage",
+                "title": "Escalating Tensions in the South China Sea: Risk of Confrontation with the US",
                 "risk_level": "Medium",
-                "summary": "A bipartisan gun safety bill was defeated in the US Senate, despite growing public pressure for stricter gun control laws, sparking concerns about public safety and national security."
+                "summary": "The past week has seen increased tensions in the South China Sea, with China making several military moves that have heightened the risk of confrontation with the US and its allies. This has led to concerns over a potential military conflict and the impact on global trade and stability."
+            },
+            {
+                "title": "Ongoing Protests in the US over Gun Control Laws: Risk of Social Unrest and Civil Disobedience",
+                "risk_level": "Low",
+                "summary": "In the past week, protests have continued in the US over gun control laws, with some demonstrators engaging in civil disobedience and calling for stricter regulations. While the risk level is low, there is still a risk of social unrest and further protests as the debate over gun control continues."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires ballistic missile, South Korea and US conduct joint military drills",
+                "title": "South Korea Seeks US Support for North Korea Denuclearization",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile on June 30, prompting a joint response from South Korea and the United States. The drills showcased the allies' military capabilities and readiness in the face of growing tensions on the Korean Peninsula."
+                "summary": "South Korean President Yoon Suk-yeol has asked the US to provide support for denuclearization of North Korea, amidst rising tensions between the two nations."
             },
             {
-                "title": "South Korea's presidential election draws near, concerns over campaign spending and manipulation",
+                "title": "Protests Erupt in Seoul After South Korean President's Approval Rating Plummets",
                 "risk_level": "Medium",
-                "summary": "As South Korea's presidential election approaches, concerns are growing over campaign spending and potential manipulation. The electoral commission has tightened regulations to prevent irregularities, but critics argue more needs to be done to ensure a fair outcome."
+                "summary": "Protests have erupted in Seoul after South Korean President Yoon Suk-yeol's approval rating plummeted to a record low, sparking concerns about the country's political stability."
             },
             {
-                "title": "K-pop idol accused of tax evasion, sparking public outcry and calls for accountability",
-                "risk_level": "Medium",
-                "summary": "A popular K-pop idol has been accused of tax evasion, leading to widespread public outrage and demands for greater accountability among celebrities and public figures. The case has shed light on the issue of tax evasion in South Korea and the need for stricter laws and enforcement."
+                "title": "North Korea Tests New Ballistic Missile in Show of Force Against South Korea",
+                "risk_level": "High",
+                "summary": "North Korea has tested a new ballistic missile, sparking concerns about its military capabilities and intentions towards South Korea."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea Fires Ballistic Missile Over Japan",
+                "title": "Japan warns of new variant that can evade immunity",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile that flew over Japan's northern island of Hokkaido and landed in the Pacific Ocean. The missile launch marked a significant escalation of North Korea's military activities and raised concerns among Japan's leaders."
+                "summary": "Japan warned of a new coronavirus variant that can evade immunity built up from previous infections or vaccinations, as it struggles to contain a surge in cases. The new variant, known as XBB.1.5, has been found in several countries including Japan and has been identified as a \"variant of concern\" by the World Health Organization. The Japanese government said it would continue to closely monitor the spread of the new variant and take necessary measures to prevent its spread. The warning comes as Japan faces a resurgence of COVID-19 cases, with more than 25,000 cases reported in the past week. The government has asked people to continue wearing masks in crowded areas and to be cautious when interacting with others, but has stopped short of reimposing widespread restrictions. The spread of the new variant has sparked concerns about the effectiveness of the current vaccines and the need for booster shots. The Japanese government has said it would consider introducing new measures, such as booster shots for all citizens, to prevent the spread of the new variant. However, the exact measures have yet to be decided."
             },
             {
-                "title": "Japan to Impose Strict COVID-19 Border Controls",
-                "risk_level": "Medium",
-                "summary": "Japan will impose new COVID-19 border controls, including stricter requirements for foreign visitors, to prevent the spread of the virus."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Protests Erupt in Tokyo Over Fumio Kishida's Government",
-                "risk_level": "Medium",
-                "summary": "Protesters gathered in Tokyo to express their discontent with Japan's government, led by Prime Minister Fumio Kishida, over various issues, including economic policies and COVID-19 response."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
