@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Taliban Announce Spring Offensive",
                 "risk_level": "High",
-                "summary": "Conflict in Ukraine: Russia continues to support separatist rebels, causing escalating tensions between Russia and NATO"
+                "summary": "The Taliban announced the start of their spring offensive, increasing the risk of violence and instability in Afghanistan."
             },
             {
-                "title": "",
+                "title": "China-US Tensions Escalate",
+                "risk_level": "High",
+                "summary": "Tensions between China and the US have escalated, with both countries imposing new trade restrictions and increasing military presence in the South China Sea."
+            },
+            {
+                "title": "Protests Erupt in Iran Amid Economic Crisis",
                 "risk_level": "Medium",
-                "summary": "Covid-19 pandemic: New variant detected in South Africa, prompting increased caution from governments worldwide"
-            },
-            {
-                "title": "",
-                "risk_level": "High",
-                "summary": "Climate Change: Devastating floods in Germany and Belgium highlight the growing threat of extreme weather events"
+                "summary": "Protests have erupted in Iran amid an economic crisis, with demonstrators calling for the government to address rising inflation and unemployment."
             }
         ],
         "United States": [
             {
-                "title": "House Committee Votes to Hold Merrick Garland in Contempt Over FISA Documents",
+                "title": "US House Committee Subpoenas Former White House staffer for January 6th Documents",
                 "risk_level": "High",
-                "summary": "A Republican-led House committee voted to hold Attorney General Merrick Garland in contempt of Congress, escalating a standoff over FISA surveillance documents."
+                "summary": "A US House committee has subpoenaed a former White House staffer in relation to the January 6th committee's investigation into the 2021 US Capitol Attack. The move could further escalate the ongoing tensions between various government bodies."
             },
             {
-                "title": "US Supreme Court Justice Clarence Thomas's Wife Invested in Tech Firm With Stakes in Cases Before the Court",
-                "risk_level": "High",
-                "summary": "US Supreme Court Justice Clarence Thomas's wife, Virginia Thomas, invested in a tech firm with significant stakes in cases before the US Supreme Court."
-            },
-            {
-                "title": "New York City Mayor Adams and Police Commissioner Sewell Clash Over Crime Fighting Measures",
+                "title": "Gunman kills 7 in Highland, Illinois Mass Shooting",
                 "risk_level": "Medium",
-                "summary": "New York City Mayor Eric Adams and Police Commissioner Keechant Sewell clashed over crime-fighting measures, amid rising concerns about public safety in the city."
+                "summary": "A man has opened fire in a residential area in Highland, Illinois, taking the lives of 7 people. This marks the latest in a series of mass shootings in the United States in recent weeks."
+            },
+            {
+                "title": "Supreme Court Limits EPA's Power to Regulate Emissions",
+                "risk_level": "Low",
+                "summary": "The US Supreme Court has issued a ruling that will curb the Environmental Protection Agency's (EPA) ability to regulate emissions from power plants. The decision is seen as a significant blow to efforts to combat climate change in the United States."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul Mayor's Arrest Reignites Political Tensions",
+                "title": "Protests and Riots Against Government Policies",
                 "risk_level": "High",
-                "summary": "Seoul Mayor Oh Se-hoon's arrest on Tuesday, 26 June 2026, has sparked intense political debates and calls for his support amidst allegations of corruption."
+                "summary": "Ongoing protests and riots across South Korea have led to the arrest of hundreds of citizens. The government is facing growing criticism for its handling of the economy and rising cost of living."
             },
             {
-                "title": "North Korea Fires Ballistic Missile Off Coast",
+                "title": "Escalating Tensions with North Korea",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile off its eastern coast on Wednesday, 27 June 2026, defying international criticism and increasing regional tensions."
+                "summary": "North Korea has launched a series of military drills, sparking fears of an impending conflict. South Korea has vowed to take a strong stance against any aggression from the North."
             },
             {
-                "title": "South Korean Protestors Demand Greater Transparency",
+                "title": "COVID-19 Outbreak in Military Bases",
                 "risk_level": "Medium",
-                "summary": "Thousands of anti-government protesters gathered in Seoul, 28 June 2026, to demand greater transparency in the government's dealings and a stronger opposition."
+                "summary": "A growing number of COVID-19 cases have been reported on South Korean military bases, prompting concerns about the spread of the virus within the military and the country as a whole."
             }
         ],
         "Japan": [
             {
-                "title": "Earthquake hits Tokyo, Japan",
+                "title": "Protest against Japan's nuclear policies at Okinawa Governor's office erupts into chaos",
                 "risk_level": "High",
-                "summary": "A 5.6-magnitude earthquake struck Tokyo, causing widespread damage and power outages."
+                "summary": "A protest against Japan's nuclear policies at the Okinawa Governor's office turned violent on June 29, 2024, with police arresting multiple demonstrators. The unrest has heightened concerns about social unrest in the region."
             },
             {
-                "title": "Rival groups clash in Ishikawa, Japan",
+                "title": "Cybersecurity concerns arise after data breach on Japanese government's IT system",
                 "risk_level": "High",
-                "summary": "Tensions between rival groups in the city of Kanazawa escalated, resulting in violent clashes between the two factions."
+                "summary": "A recent data breach on Japan's government IT system has raised concerns about potential cybersecurity risks and data protection. The incident occurred between June 26 to June 27, 2024."
             },
             {
-                "title": "North Korea conducts missile test near Japanese waters",
-                "risk_level": "High",
-                "summary": "North Korea launched an intermediate-range missile into the Sea of Japan, raising concerns about regional security."
+                "title": "Anti-whaling protests mar International Whaling Commission meeting in Tokyo",
+                "risk_level": "Medium",
+                "summary": "Protests against Japan's whaling policies at the International Whaling Commission meeting in Tokyo on June 30, 2024, attracted international attention. While the protests were largely peaceful, some demonstrators were arrested by police."
             }
         ]
     }
