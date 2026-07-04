@@ -3,73 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Supply Chain Disruptions due to Ukraine-Russia Conflict",
+                "title": "Global Economic Uncertainty Increases Amidst Rising Inflation",
                 "risk_level": "High",
-                "summary": "The ongoing conflict between Ukraine and Russia has led to disruptions in global supply chains, with many countries experiencing delays and shortages in essential goods."
+                "summary": "The global economy faces increased uncertainty as inflation continues to rise, prompting concerns about future growth."
             },
             {
-                "title": "Covid-19 Pandemic: Global Infection Rates Rise",
+                "title": "Cyberattack Hits Major Corporation, Exposing Sensitive Data",
                 "risk_level": "High",
-                "summary": "The COVID-19 pandemic continues to spread globally, with infection rates rising in many countries, putting a strain on healthcare systems and economies."
+                "summary": "A major corporation has suffered a cyberattack, resulting in the exposure of sensitive data and highlighting the need for enhanced cybersecurity measures."
             },
             {
-                "title": "Global Economic Uncertainty due to Rising Inflation",
+                "title": "Protests Erupt in Major City Over Government Policies",
                 "risk_level": "Medium",
-                "summary": "Rising inflation rates in many countries are causing economic uncertainty, with fears of a global recession and potential impacts on consumer spending and business investments."
+                "summary": "Protests have broken out in a major city over government policies, leading to unrest and potentially destabilizing the region."
             }
         ],
         "United States": [
             {
-                "title": "Gun violence on the rise in US cities",
+                "title": "Supreme Court blocks Biden's student loan forgiveness plan",
                 "risk_level": "High",
-                "summary": "Shootings and homicides have increased in several US cities, including Chicago, New York, and Los Angeles, raising concerns about gun control and public safety."
+                "summary": "The Supreme Court has blocked President Biden's plan to forgive up to $20,000 in federal student loans for millions of borrowers."
             },
             {
-                "title": "Jan 6 investigation: House panel subpoenas Trump aides",
+                "title": "Gunman kills 7 in July 4 shooting in Illinois",
                 "risk_level": "High",
-                "summary": "The House committee investigating the January 6 US Capitol attack has subpoenaed several Trump aides, including former White House officials and Trump's personal lawyer."
+                "summary": "A gunman opened fire on a crowded Fourth of July parade in Highland Park, Illinois, killing at least 7 people and injuring dozens more."
             },
             {
-                "title": "US-Mexico border tensions escalate",
+                "title": "House Judiciary Committee votes to hold Jeffrey Clark in contempt",
                 "risk_level": "Medium",
-                "summary": "Tensions along the US-Mexico border have increased due to a surge in migrant crossings and a rise in cartel violence, prompting the US to deploy more troops and resources to the area."
+                "summary": "The House Judiciary Committee has voted to hold former Justice Department official Jeffrey Clark in contempt of Congress for refusing to cooperate with a subpoena."
             }
         ],
         "South Korea": [
             {
-                "date": "2024-02-26",
-                "title": "China's Xi Says Relations With North Korea Are Stable",
-                "risk_level": "Low",
-                "summary": "Chinese President Xi Jinping told South Korean President Yoon Suk Yeol that relations between the two countries and North Korea are stable, in a phone call that marked the first conversation between the two leaders since Yoon took office in May."
-            },
-            {
-                "date": "2024-02-26",
-                "title": "U.S. Ambassador to Seoul Says North Korea's Provocations Are Intentional",
+                "title": "South Korean President Yoon Suk-yeol's office confirms that President's brother-in-law has been charged with corruption",
                 "risk_level": "High",
-                "summary": "U.S. Ambassador to Seoul Philip Goldberg said North Korea's recent provocations, including a missile test earlier this month, were intentional and aimed at drawing attention from regional actors."
+                "summary": "An investigation into the alleged corruption of the South Korean President's brother-in-law was initiated."
             },
             {
-                "date": "2024-02-24",
-                "title": "South Korea, US Hold Joint Military Drills Amid North Korean Missile Launches",
+                "title": "North Korea fires at least 12 ballistic missiles into the sea off South Korea's east coast",
+                "risk_level": "High",
+                "summary": "The South Korean military detected at least 12 ballistic missiles being launched by North Korea into the Sea of Japan."
+            },
+            {
+                "title": "South Korea's parliament passes bill banning 'hate speech' and 'fake news'",
                 "risk_level": "Medium",
-                "summary": "South Korea and the United States held joint military drills, which included a simulated attack on North Korea, amid a recent increase in missile launches by the North."
+                "summary": "South Korea has passed a new bill criminalizing 'hate speech' and 'fake news' as part of efforts to enhance online safety."
             }
         ],
         "Japan": [
             {
-                "title": "COVID-19 cases surge in Japan as omicron variant spreads",
-                "risk_level": "High",
-                "summary": "Japan reported over 25,000 new COVID-19 cases over the past week, with the omicron variant spreading quickly across the country."
-            },
-            {
-                "title": "Japan's Prime Minister Fumio Kishida to dissolve parliament ahead of snap election",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Japan's Prime Minister Fumio Kishida announced on Monday that he will dissolve parliament to hold a snap election, citing a need for a new mandate to address the country's economic and social challenges."
+                "summary": "Tokyo Governor Yuriko Koike warns of COVID-19 resurgence as Japan logs 14,000 new cases in a week."
             },
             {
-                "title": "Tokyo police deploy riot gear ahead of major Olympics event",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "Tokyo police deployed riot gear and water cannons ahead of a major Olympics event, following concerns over extremist groups and protesters."
+                "summary": "Fauci warns Japan about potential COVID-19 resurgence during trip to Asia this month"
+            },
+            {
+                "title": "Tensions around Taiwan and Japan rise",
+                "risk_level": "High",
+                "summary": "China and Taiwan engage in a war of words as U.S. sends warships near Taiwan, increasing tensions with Japan and other regional powers."
             }
         ]
     }
