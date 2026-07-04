@@ -1,72 +1,75 @@
 {
-    "updated": "2026-07-03",
+    "updated": "2026-07-04",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Conflict in Ethiopia and Impact on Regional Stability",
+                "title": "Global Supply Chain Disruptions due to Ukraine-Russia Conflict",
                 "risk_level": "High",
-                "summary": "Ongoing clashes in Ethiopia could trigger a broader regional conflict."
+                "summary": "The ongoing conflict between Ukraine and Russia has led to disruptions in global supply chains, with many countries experiencing delays and shortages in essential goods."
             },
             {
-                "title": "Escalating Tensions between US and China",
+                "title": "Covid-19 Pandemic: Global Infection Rates Rise",
                 "risk_level": "High",
-                "summary": "Increased tensions between the US and China pose significant risks to global supply chains, trade and security."
+                "summary": "The COVID-19 pandemic continues to spread globally, with infection rates rising in many countries, putting a strain on healthcare systems and economies."
             },
             {
-                "title": "Protests Against Government Elected in Pakistan",
+                "title": "Global Economic Uncertainty due to Rising Inflation",
                 "risk_level": "Medium",
-                "summary": "Protests against government in Pakistan pose a risk to political stability and security."
+                "summary": "Rising inflation rates in many countries are causing economic uncertainty, with fears of a global recession and potential impacts on consumer spending and business investments."
             }
         ],
         "United States": [
             {
-                "title": "Ransomware Attack Affects Major US Healthcare Provider",
+                "title": "Gun violence on the rise in US cities",
                 "risk_level": "High",
-                "summary": "A ransomware attack has affected a major US healthcare provider, exposing sensitive patient data and disrupting medical services."
+                "summary": "Shootings and homicides have increased in several US cities, including Chicago, New York, and Los Angeles, raising concerns about gun control and public safety."
             },
             {
-                "title": "Increased Tensions Between US and China Over Taiwan",
+                "title": "Jan 6 investigation: House panel subpoenas Trump aides",
                 "risk_level": "High",
-                "summary": "The US and China are experiencing increased tensions over Taiwan, with both countries engaging in saber-rattling and diplomatic maneuvering."
+                "summary": "The House committee investigating the January 6 US Capitol attack has subpoenaed several Trump aides, including former White House officials and Trump's personal lawyer."
             },
             {
-                "title": "Civil Unrest in Multiple US Cities Due to Police Brutality Protests",
+                "title": "US-Mexico border tensions escalate",
                 "risk_level": "Medium",
-                "summary": "Civil unrest and protests have erupted in multiple US cities due to allegations of police brutality and racial injustice."
+                "summary": "Tensions along the US-Mexico border have increased due to a surge in migrant crossings and a rise in cartel violence, prompting the US to deploy more troops and resources to the area."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul Mayor Election: Ruling Party Wins, but Opposition Claims Voting Irregularities",
-                "risk_level": "Medium",
-                "summary": "On June 28, conservative Seoul Mayor Oh Se-hoon was elected as the new Prime Minister of South Korea, but the left-wing opposition party claims widespread voting irregularities and potential election meddling. This could escalate political tensions between the ruling and opposition parties. "
+                "date": "2024-02-26",
+                "title": "China's Xi Says Relations With North Korea Are Stable",
+                "risk_level": "Low",
+                "summary": "Chinese President Xi Jinping told South Korean President Yoon Suk Yeol that relations between the two countries and North Korea are stable, in a phone call that marked the first conversation between the two leaders since Yoon took office in May."
             },
             {
-                "title": "North Korea Fires Three Ballistic Missiles into Sea of Japan",
+                "date": "2024-02-26",
+                "title": "U.S. Ambassador to Seoul Says North Korea's Provocations Are Intentional",
                 "risk_level": "High",
-                "summary": "On June 26, North Korea fired three ballistic missiles into the Sea of Japan, drawing criticism from the international community. South Korea, along with the US and Japan, condemned the launch and warned North Korea against further military provocations."
+                "summary": "U.S. Ambassador to Seoul Philip Goldberg said North Korea's recent provocations, including a missile test earlier this month, were intentional and aimed at drawing attention from regional actors."
             },
             {
-                "title": "South Korea's Opposition Accuses Government of Failing to Address Growing Inflation",
+                "date": "2024-02-24",
+                "title": "South Korea, US Hold Joint Military Drills Amid North Korean Missile Launches",
                 "risk_level": "Medium",
-                "summary": "On June 24, South Korea's opposition party accused the government of failing to address the growing inflation and economic woes, which has led to increasing public dissatisfaction. This could potentially exacerbate tensions between the ruling and opposition parties."
+                "summary": "South Korea and the United States held joint military drills, which included a simulated attack on North Korea, amid a recent increase in missile launches by the North."
             }
         ],
         "Japan": [
             {
-                "title": "Japan and South Korea agree to resume talks on forced labor issue",
+                "title": "COVID-19 cases surge in Japan as omicron variant spreads",
+                "risk_level": "High",
+                "summary": "Japan reported over 25,000 new COVID-19 cases over the past week, with the omicron variant spreading quickly across the country."
+            },
+            {
+                "title": "Japan's Prime Minister Fumio Kishida to dissolve parliament ahead of snap election",
                 "risk_level": "Medium",
-                "summary": "Japan and South Korea have agreed to resume talks over a dispute about compensation for forced labor during Japan's colonial rule of Korea, South Korean President Yoon Suk-yeol said on 26 June. The talks were paused in November 2021 after a South Korean court ordered a Japanese steelmaker to pay compensation to former forced laborers."
+                "summary": "Japan's Prime Minister Fumio Kishida announced on Monday that he will dissolve parliament to hold a snap election, citing a need for a new mandate to address the country's economic and social challenges."
             },
             {
-                "title": "North Korea fires ballistic missile, Japan warns citizens to take precautions",
-                "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile towards the sea off its east coast on 26 June, South Korean and Japanese militaries said, prompting Japan's government to warn citizens to take precautions."
-            },
-            {
-                "title": "Japan's PM Fumio Kishida warns of potential 'large-scale' North Korea missile launch",
-                "risk_level": "High",
-                "summary": "Japanese Prime Minister Fumio Kishida said on 26 June that there was a possibility of a 'large-scale' ballistic missile launch by North Korea, and that Japan was preparing to respond accordingly."
+                "title": "Tokyo police deploy riot gear ahead of major Olympics event",
+                "risk_level": "Low",
+                "summary": "Tokyo police deployed riot gear and water cannons ahead of a major Olympics event, following concerns over extremist groups and protesters."
             }
         ]
     }
