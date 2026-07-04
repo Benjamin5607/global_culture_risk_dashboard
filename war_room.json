@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Slowdown ",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A recent report suggests a slowdown in the global economy which could have negative impacts on international trade and business."
+                "summary": "Global economic uncertainty due to inflation"
             },
             {
-                "title": "Climate Change Protest Escalates ",
-                "risk_level": "High",
-                "summary": "A series of climate change protests have escalated in multiple cities globally, posing a risk to local economies and business operations."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Rising global temperatures leading to extreme weather events"
             },
             {
-                "title": "Cyberattack Targets Global Businesses ",
-                "risk_level": "High",
-                "summary": "A recent cyberattack has targeted multiple global businesses, compromising sensitive data and posing a risk to their operations and reputations."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Potential cyber attack on major corporation"
             }
         ],
         "United States": [
             {
-                "title": "Tension between U.S. and China over Pelosi's Taiwan visit",
+                "title": "U.S. and NATO Condemn Russia Over Ukraine Drone Strikes",
                 "risk_level": "High",
-                "summary": "The visit by U.S. House Speaker Nancy Pelosi to Taiwan has escalated tensions between the U.S. and China, with Beijing warning of 'severe consequences'."
+                "summary": "The United States and NATO condemned Russia's actions in Ukraine after the country launched a series of drone strikes against Ukraine's infrastructure."
             },
             {
-                "title": "Florida train derailment involving hazardous materials sparks concerns",
+                "title": "Biden Administration Proposes New Rule to Reduce Gun Violence",
                 "risk_level": "Medium",
-                "summary": "A train carrying hazardous materials derailed in Florida, sparking concerns over potential environmental and health risks."
+                "summary": "The Biden administration has proposed a new rule that aims to reduce gun violence in the United States by requiring background checks for more firearm sales and transfers."
             },
             {
-                "title": "U.S. Supreme Court's abortion decision sparks protests and demonstrations",
-                "risk_level": "High",
-                "summary": "The U.S. Supreme Court's decision to overturn Roe v. Wade has sparked widespread protests and demonstrations across the country."
+                "title": "Florida Governor DeSantis Signs 'Stop WOKE' Bill",
+                "risk_level": "Low",
+                "summary": "Florida Governor Ron DeSantis has signed a bill that aims to restrict the teaching of critical race theory in schools and prevent employers from offering diversity and inclusion training to employees."
             }
         ],
         "South Korea": [
             {
-                "title": "N. Korea accuses US and S. Korea of assassination plot",
-                "risk_level": "High",
-                "summary": "North Korea accuses the US and S. Korea of plotting to assassinate Kim Jong-un, amid escalating tensions on the Korean peninsula."
-            },
-            {
-                "title": "S. Korea's parliament passes bill to ban anonymous cryptocurrency trading",
+                "title": "Seoul's City Council Member Arrested for Embezzlement",
                 "risk_level": "Medium",
-                "summary": "South Korea's parliament passes a bill to ban anonymous cryptocurrency trading in an effort to regulate the country's booming cryptocurrency market."
+                "summary": "A Seoul city council member was arrested on June 28, 2024, on allegations of embezzlement, sparking concern about corruption within local government."
             },
             {
-                "title": "S. Korea's president to visit US to discuss N. Korea's nuclear programme",
+                "title": "Rising Cases of MERS-CoV in South Korea",
                 "risk_level": "High",
-                "summary": "South Korea's president to visit the US to discuss North Korea's nuclear programme and to reaffirm the alliance between the two countries."
+                "summary": "The outbreak of Middle East Respiratory Syndrome (MERS-CoV) in South Korea has raised concern about public health and safety."
+            },
+            {
+                "title": "Protests Escalate in Jongno District Over Land Development",
+                "risk_level": "Medium",
+                "summary": "Protestors in Jongno district have been demanding the city halt a large-scale redevelopment project, citing concerns over gentrification and forced evictions."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea's Kim vows to strengthen nuclear military capabilities.",
+                "title": "US and Japan Agree on Semiconductor Subsidy Deal",
+                "risk_level": "Medium",
+                "summary": "The deal aims to bolster Japan's semiconductor industry, with the US promising $8 billion in funding to support the sector's growth "
+            },
+            {
+                "title": "Japan Confirms Presence of Chinese Spy Ship in its Waters",
                 "risk_level": "High",
-                "summary": "North Korean leader Kim Jong Un has vowed to strengthen his country's nuclear military capabilities, escalating tensions in the region."
+                "summary": "The incident sparked concerns about China's increasing military presence in the region and its implications for Japan's national security"
             },
             {
-                "title": "Japan protests South Korea's new military drills near disputed islets.",
-                "risk_level": "Medium",
-                "summary": "Japan has protested South Korea's new military drills near the disputed islets of Dokdo, which are claimed by both countries."
-            },
-            {
-                "title": "Japan's economy shrinks for 4th month in May due to China lockdown and global economic fears.",
-                "risk_level": "Medium",
-                "summary": "Japan's economy contracted for a fourth straight month in May, hurt by the China lockdown and global economic fears."
+                "title": "Japan's Economy Contracts for First Time in Over 2 Years",
+                "risk_level": "Low",
+                "summary": "The contraction was due to a decline in exports and consumer spending, which may raise concerns about Japan's economic stability"
             }
         ]
     }
