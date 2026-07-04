@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Global Inflation Concerns",
                 "risk_level": "High",
-                "summary": "Global risk of new COVID-19 variant: The World Health Organisation (WHO) has announced that a new COVID-19 variant has been identified, sparking concerns about its potential impact on global health. (1 day ago)"
+                "summary": "Global economies are experiencing significant inflation rates, threatening economic stability. The current inflation rates are at a 40-year high, making it challenging for governments to control and mitigate the effects."
             },
             {
-                "title": "",
-                "risk_level": "High",
-                "summary": "Global economic slowdown: The International Monetary Fund (IMF) has warned of a potential global economic slowdown due to rising inflation and decreased consumer spending. (3 days ago)"
-            },
-            {
-                "title": "",
+                "title": "Cyber-Attack on Global Supply Chain",
                 "risk_level": "Medium",
-                "summary": "Protests and civil unrest in multiple countries: Protests and civil unrest have been reported in several countries, including the United States, United Kingdom, and France, due to rising discontent with government policies and economic inequality. (2 days ago)"
+                "summary": "A major cyber-attack on a global logistics company has exposed sensitive information and compromised supply chain security. This has the potential to disrupt global trade and economies."
+            },
+            {
+                "title": "Global Pandemic Outbreak",
+                "risk_level": "Low",
+                "summary": "A new strain of COVID-19 has been reported in multiple countries, sparking concerns about a global pandemic outbreak. Governments and health organizations are working to contain the spread of the virus and develop effective treatments."
             }
         ],
         "United States": [
             {
-                "title": "Gun Violence: Texas School Shooting",
-                "risk_level": "High",
-                "summary": "On May 24, 2023, a mass shooting occurred at Robb Elementary School in Uvalde, Texas, leaving 19 children and two adults dead."
-            },
-            {
-                "title": "Border Crisis: Escalating Tensions Between US and Mexico",
-                "risk_level": "High",
-                "summary": "Tensions have been escalating between the US and Mexico over the past week, with reports of increased border crossings and rising concerns about national security."
-            },
-            {
-                "title": "Election Integrity: Ongoing Controversy in Wisconsin",
+                "title": "Florida's DeSantis announces plan to defy new Biden-era rules on refugee resettlement",
                 "risk_level": "Medium",
-                "summary": "In recent weeks, controversy has surrounded the 2022 Wisconsin gubernatorial election, with ongoing debates over voter suppression and electoral integrity."
+                "summary": "Potential escalation in US federal politics"
+            },
+            {
+                "title": "US lawmakers propose $100m in military aid for Ukraine amid ongoing Russian invasion",
+                "risk_level": "High",
+                "summary": "Potential escalation in US-Ukraine-Russia relations"
+            },
+            {
+                "title": "US Justice Department sues to block Alaska's voting laws",
+                "risk_level": "Medium",
+                "summary": "Potential escalation in US voting rights law"
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea's Defense Ministry denies wrongdoing as parliament demands investigation into a spy scandal involving a North Korean defector",
+                "title": "North Korea Fires Ballistic Missile, South Korea Scrambles Jets",
                 "risk_level": "High",
-                "summary": "On June 28, 2024, South Korea's Defense Ministry denied any wrongdoing in a spy scandal involving a high-profile North Korean defector. The ministry stated that the defector had been a 'ghost employee' at the Korea Institute for Defense Analyses and had been involved in espionage activities. The parliament called for an investigation into the scandal, citing concerns over national security and the handling of sensitive information."
+                "summary": "South Korea's military scrambled fighter jets in response to a ballistic missile launched by North Korea. The missile was reportedly an intermediate-range Hwasong-12. South Korea's Joint Chiefs of Staff stated that the launch was a clear provocation and a breach of United Nations sanctions."
             },
             {
-                "title": "South Korean students protest against a new education policy requiring students to attend private after-school classes",
+                "title": "Ruling Party Candidate Wins South Korean Presidential Election",
                 "risk_level": "Medium",
-                "summary": "On June 24, 2024, South Korean students protested against a new education policy requiring students to attend private after-school classes. The policy aimed to improve student performance and competitiveness but was met with resistance from students, parents, and educators who felt it would add to the already heavy burdens of South Korea's education system."
+                "summary": "Yoon Suk-yeol, the candidate of the ruling People Power Party, has won the South Korean presidential election. Yoon is a former prosecutor known for his corruption cases, and his victory is seen as a win for the conservative opposition against the liberal Moon Jae-in administration."
             },
             {
-                "title": "South Korea's government faces criticism for its handling of a COVID-19 outbreak at a military base",
+                "title": "South Korea Imposes New Virus Measures, including Mask Wearing Indoors",
                 "risk_level": "Low",
-                "summary": "On June 25, 2024, South Korea's government faced criticism for its handling of a COVID-19 outbreak at a military base. The government was accused of being slow to respond to the outbreak and not providing adequate support to the affected personnel and their families. The incident sparked concerns over the country's preparedness for future pandemics."
+                "summary": "The South Korean government has announced new measures to combat a growing outbreak of the Omicron subvariant BA.5. The measures include making wearing masks indoors mandatory and requiring all arrivals from overseas to undergo three days of quarantine."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Government Faces Pressure Over Fukushima",
+                "title": "COVID-19 Infections Surge in Japan",
+                "risk_level": "Medium",
+                "summary": "Japan reported a rise in COVID-19 cases, with the government urging people to take precautions and follow public health guidelines to prevent the spread of the virus. The surge in cases raises concerns for public health and potential disruptions to economic activities."
+            },
+            {
+                "title": "Protest Against Japan's COVID-19 Vaccination Mandate",
+                "risk_level": "Low",
+                "summary": "A small group of protesters demonstrated against Japan's COVID-19 vaccination mandate, which has been implemented in response to a recent surge in cases. The protest passed without major incident, but highlights ongoing debates over the effectiveness and necessity of the mandate."
+            },
+            {
+                "title": "Typhoon Neoguri Makes Landfall in Japan, Disrupting Transportation and Infrastructure",
                 "risk_level": "High",
-                "summary": "A Japanese government committee reported that the radioactive levels in the nearby town have not yet decreased. Local residents continue to live in fear and demand compensation."
-            },
-            {
-                "title": "Japan Seeks to Boost Military Amid China-Taiwan Tensions",
-                "risk_level": "Medium",
-                "summary": "Japan announced plans to strengthen its military presence in the East China Sea, amid escalating tensions between China and Taiwan. Japanese officials expressed concerns over the impact on regional security."
-            },
-            {
-                "title": "Japan Arrests Man for Leaking Government Secrets",
-                "risk_level": "Medium",
-                "summary": "A Japanese citizen was arrested for allegedly leaking sensitive government information, including documents related to Japan's defense strategy. The incident has raised concerns over national security."
+                "summary": "Typhoon Neoguri made landfall in Japan's Okinawa prefecture, causing significant damage to transportation infrastructure, including roads and bridges. The storm has also disrupted power and communication services, with many areas experiencing power outages."
             }
         ]
     }
