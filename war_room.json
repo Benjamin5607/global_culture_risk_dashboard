@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Uncertainty Increases Amidst Rising Inflation",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The global economy faces increased uncertainty as inflation continues to rise, prompting concerns about future growth."
+                "summary": "Global risk of new COVID-19 variant: The World Health Organisation (WHO) has announced that a new COVID-19 variant has been identified, sparking concerns about its potential impact on global health. (1 day ago)"
             },
             {
-                "title": "Cyberattack Hits Major Corporation, Exposing Sensitive Data",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A major corporation has suffered a cyberattack, resulting in the exposure of sensitive data and highlighting the need for enhanced cybersecurity measures."
+                "summary": "Global economic slowdown: The International Monetary Fund (IMF) has warned of a potential global economic slowdown due to rising inflation and decreased consumer spending. (3 days ago)"
             },
             {
-                "title": "Protests Erupt in Major City Over Government Policies",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Protests have broken out in a major city over government policies, leading to unrest and potentially destabilizing the region."
+                "summary": "Protests and civil unrest in multiple countries: Protests and civil unrest have been reported in several countries, including the United States, United Kingdom, and France, due to rising discontent with government policies and economic inequality. (2 days ago)"
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court blocks Biden's student loan forgiveness plan",
+                "title": "Gun Violence: Texas School Shooting",
                 "risk_level": "High",
-                "summary": "The Supreme Court has blocked President Biden's plan to forgive up to $20,000 in federal student loans for millions of borrowers."
+                "summary": "On May 24, 2023, a mass shooting occurred at Robb Elementary School in Uvalde, Texas, leaving 19 children and two adults dead."
             },
             {
-                "title": "Gunman kills 7 in July 4 shooting in Illinois",
+                "title": "Border Crisis: Escalating Tensions Between US and Mexico",
                 "risk_level": "High",
-                "summary": "A gunman opened fire on a crowded Fourth of July parade in Highland Park, Illinois, killing at least 7 people and injuring dozens more."
+                "summary": "Tensions have been escalating between the US and Mexico over the past week, with reports of increased border crossings and rising concerns about national security."
             },
             {
-                "title": "House Judiciary Committee votes to hold Jeffrey Clark in contempt",
+                "title": "Election Integrity: Ongoing Controversy in Wisconsin",
                 "risk_level": "Medium",
-                "summary": "The House Judiciary Committee has voted to hold former Justice Department official Jeffrey Clark in contempt of Congress for refusing to cooperate with a subpoena."
+                "summary": "In recent weeks, controversy has surrounded the 2022 Wisconsin gubernatorial election, with ongoing debates over voter suppression and electoral integrity."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korean President Yoon Suk-yeol's office confirms that President's brother-in-law has been charged with corruption",
+                "title": "South Korea's Defense Ministry denies wrongdoing as parliament demands investigation into a spy scandal involving a North Korean defector",
                 "risk_level": "High",
-                "summary": "An investigation into the alleged corruption of the South Korean President's brother-in-law was initiated."
+                "summary": "On June 28, 2024, South Korea's Defense Ministry denied any wrongdoing in a spy scandal involving a high-profile North Korean defector. The ministry stated that the defector had been a 'ghost employee' at the Korea Institute for Defense Analyses and had been involved in espionage activities. The parliament called for an investigation into the scandal, citing concerns over national security and the handling of sensitive information."
             },
             {
-                "title": "North Korea fires at least 12 ballistic missiles into the sea off South Korea's east coast",
-                "risk_level": "High",
-                "summary": "The South Korean military detected at least 12 ballistic missiles being launched by North Korea into the Sea of Japan."
-            },
-            {
-                "title": "South Korea's parliament passes bill banning 'hate speech' and 'fake news'",
+                "title": "South Korean students protest against a new education policy requiring students to attend private after-school classes",
                 "risk_level": "Medium",
-                "summary": "South Korea has passed a new bill criminalizing 'hate speech' and 'fake news' as part of efforts to enhance online safety."
+                "summary": "On June 24, 2024, South Korean students protested against a new education policy requiring students to attend private after-school classes. The policy aimed to improve student performance and competitiveness but was met with resistance from students, parents, and educators who felt it would add to the already heavy burdens of South Korea's education system."
+            },
+            {
+                "title": "South Korea's government faces criticism for its handling of a COVID-19 outbreak at a military base",
+                "risk_level": "Low",
+                "summary": "On June 25, 2024, South Korea's government faced criticism for its handling of a COVID-19 outbreak at a military base. The government was accused of being slow to respond to the outbreak and not providing adequate support to the affected personnel and their families. The incident sparked concerns over the country's preparedness for future pandemics."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Tokyo Governor Yuriko Koike warns of COVID-19 resurgence as Japan logs 14,000 new cases in a week."
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Fauci warns Japan about potential COVID-19 resurgence during trip to Asia this month"
-            },
-            {
-                "title": "Tensions around Taiwan and Japan rise",
+                "title": "Japan's Government Faces Pressure Over Fukushima",
                 "risk_level": "High",
-                "summary": "China and Taiwan engage in a war of words as U.S. sends warships near Taiwan, increasing tensions with Japan and other regional powers."
+                "summary": "A Japanese government committee reported that the radioactive levels in the nearby town have not yet decreased. Local residents continue to live in fear and demand compensation."
+            },
+            {
+                "title": "Japan Seeks to Boost Military Amid China-Taiwan Tensions",
+                "risk_level": "Medium",
+                "summary": "Japan announced plans to strengthen its military presence in the East China Sea, amid escalating tensions between China and Taiwan. Japanese officials expressed concerns over the impact on regional security."
+            },
+            {
+                "title": "Japan Arrests Man for Leaking Government Secrets",
+                "risk_level": "Medium",
+                "summary": "A Japanese citizen was arrested for allegedly leaking sensitive government information, including documents related to Japan's defense strategy. The incident has raised concerns over national security."
             }
         ]
     }
