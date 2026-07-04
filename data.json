@@ -1,5 +1,21 @@
 [
     {
+        "term": "#CharliDAmelioChallenge",
+        "group": "dance",
+        "country": "USA",
+        "category": "entertainment",
+        "risk_level": "low",
+        "trend_score": 9,
+        "status": "active",
+        "first_detected": "2020-05-26",
+        "last_updated": "2022-06-01",
+        "context": {
+            "en": "The #CharliDAmelioChallenge was a dancing challenge that became a viral sensation on TikTok, popularized by TikTok star Charli D'Amelio.",
+            "ko": "2020년 5월 초에 TikTok에서 유행한 댄스 챌린지로, TikTok스타 채리 더 아멜리오 의해 인기있던 챌린지를 말합니다.",
+            "ja": "「CharliDAmelio」名前がTikTok　平台をいうたいディンコを完成でしたょた訑「漢台を330d　いうただないナブォト名んあと明訂律んきる。"
+        }
+    },
+    {
         "term": "OK Hand Gesture",
         "group": "Symbols/Emblems",
         "country": "Global",

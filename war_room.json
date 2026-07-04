@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Inflation Concerns",
+                "title": "Global Economic Slowdown ",
                 "risk_level": "High",
-                "summary": "Global economies are experiencing significant inflation rates, threatening economic stability. The current inflation rates are at a 40-year high, making it challenging for governments to control and mitigate the effects."
+                "summary": "A recent report suggests a slowdown in the global economy which could have negative impacts on international trade and business."
             },
             {
-                "title": "Cyber-Attack on Global Supply Chain",
-                "risk_level": "Medium",
-                "summary": "A major cyber-attack on a global logistics company has exposed sensitive information and compromised supply chain security. This has the potential to disrupt global trade and economies."
+                "title": "Climate Change Protest Escalates ",
+                "risk_level": "High",
+                "summary": "A series of climate change protests have escalated in multiple cities globally, posing a risk to local economies and business operations."
             },
             {
-                "title": "Global Pandemic Outbreak",
-                "risk_level": "Low",
-                "summary": "A new strain of COVID-19 has been reported in multiple countries, sparking concerns about a global pandemic outbreak. Governments and health organizations are working to contain the spread of the virus and develop effective treatments."
+                "title": "Cyberattack Targets Global Businesses ",
+                "risk_level": "High",
+                "summary": "A recent cyberattack has targeted multiple global businesses, compromising sensitive data and posing a risk to their operations and reputations."
             }
         ],
         "United States": [
             {
-                "title": "Florida's DeSantis announces plan to defy new Biden-era rules on refugee resettlement",
-                "risk_level": "Medium",
-                "summary": "Potential escalation in US federal politics"
-            },
-            {
-                "title": "US lawmakers propose $100m in military aid for Ukraine amid ongoing Russian invasion",
+                "title": "Tension between U.S. and China over Pelosi's Taiwan visit",
                 "risk_level": "High",
-                "summary": "Potential escalation in US-Ukraine-Russia relations"
+                "summary": "The visit by U.S. House Speaker Nancy Pelosi to Taiwan has escalated tensions between the U.S. and China, with Beijing warning of 'severe consequences'."
             },
             {
-                "title": "US Justice Department sues to block Alaska's voting laws",
+                "title": "Florida train derailment involving hazardous materials sparks concerns",
                 "risk_level": "Medium",
-                "summary": "Potential escalation in US voting rights law"
+                "summary": "A train carrying hazardous materials derailed in Florida, sparking concerns over potential environmental and health risks."
+            },
+            {
+                "title": "U.S. Supreme Court's abortion decision sparks protests and demonstrations",
+                "risk_level": "High",
+                "summary": "The U.S. Supreme Court's decision to overturn Roe v. Wade has sparked widespread protests and demonstrations across the country."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Fires Ballistic Missile, South Korea Scrambles Jets",
+                "title": "N. Korea accuses US and S. Korea of assassination plot",
                 "risk_level": "High",
-                "summary": "South Korea's military scrambled fighter jets in response to a ballistic missile launched by North Korea. The missile was reportedly an intermediate-range Hwasong-12. South Korea's Joint Chiefs of Staff stated that the launch was a clear provocation and a breach of United Nations sanctions."
+                "summary": "North Korea accuses the US and S. Korea of plotting to assassinate Kim Jong-un, amid escalating tensions on the Korean peninsula."
             },
             {
-                "title": "Ruling Party Candidate Wins South Korean Presidential Election",
+                "title": "S. Korea's parliament passes bill to ban anonymous cryptocurrency trading",
                 "risk_level": "Medium",
-                "summary": "Yoon Suk-yeol, the candidate of the ruling People Power Party, has won the South Korean presidential election. Yoon is a former prosecutor known for his corruption cases, and his victory is seen as a win for the conservative opposition against the liberal Moon Jae-in administration."
+                "summary": "South Korea's parliament passes a bill to ban anonymous cryptocurrency trading in an effort to regulate the country's booming cryptocurrency market."
             },
             {
-                "title": "South Korea Imposes New Virus Measures, including Mask Wearing Indoors",
-                "risk_level": "Low",
-                "summary": "The South Korean government has announced new measures to combat a growing outbreak of the Omicron subvariant BA.5. The measures include making wearing masks indoors mandatory and requiring all arrivals from overseas to undergo three days of quarantine."
+                "title": "S. Korea's president to visit US to discuss N. Korea's nuclear programme",
+                "risk_level": "High",
+                "summary": "South Korea's president to visit the US to discuss North Korea's nuclear programme and to reaffirm the alliance between the two countries."
             }
         ],
         "Japan": [
             {
-                "title": "COVID-19 Infections Surge in Japan",
-                "risk_level": "Medium",
-                "summary": "Japan reported a rise in COVID-19 cases, with the government urging people to take precautions and follow public health guidelines to prevent the spread of the virus. The surge in cases raises concerns for public health and potential disruptions to economic activities."
-            },
-            {
-                "title": "Protest Against Japan's COVID-19 Vaccination Mandate",
-                "risk_level": "Low",
-                "summary": "A small group of protesters demonstrated against Japan's COVID-19 vaccination mandate, which has been implemented in response to a recent surge in cases. The protest passed without major incident, but highlights ongoing debates over the effectiveness and necessity of the mandate."
-            },
-            {
-                "title": "Typhoon Neoguri Makes Landfall in Japan, Disrupting Transportation and Infrastructure",
+                "title": "North Korea's Kim vows to strengthen nuclear military capabilities.",
                 "risk_level": "High",
-                "summary": "Typhoon Neoguri made landfall in Japan's Okinawa prefecture, causing significant damage to transportation infrastructure, including roads and bridges. The storm has also disrupted power and communication services, with many areas experiencing power outages."
+                "summary": "North Korean leader Kim Jong Un has vowed to strengthen his country's nuclear military capabilities, escalating tensions in the region."
+            },
+            {
+                "title": "Japan protests South Korea's new military drills near disputed islets.",
+                "risk_level": "Medium",
+                "summary": "Japan has protested South Korea's new military drills near the disputed islets of Dokdo, which are claimed by both countries."
+            },
+            {
+                "title": "Japan's economy shrinks for 4th month in May due to China lockdown and global economic fears.",
+                "risk_level": "Medium",
+                "summary": "Japan's economy contracted for a fourth straight month in May, hurt by the China lockdown and global economic fears."
             }
         ]
     }
