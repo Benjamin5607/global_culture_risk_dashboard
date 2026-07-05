@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Pandemic",
+                "title": "Russia-Ukraine conflict escalates",
                 "risk_level": "High",
-                "summary": "The global pandemic continues to spread, with over 100,000 new cases reported in the past 24 hours."
+                "summary": "Russia\\'s invasion of Ukraine has led to significant instability in the region, posing risks to global security and economic stability."
             },
             {
-                "title": "Global Economic Crisis",
+                "title": "COVID-19 outbreaks in China",
                 "risk_level": "High",
-                "summary": "The global economic crisis deepens, with several major economies experiencing high levels of unemployment and inflation."
+                "summary": "China has reported an uptick in COVID-19 cases, potentially exacerbating global supply chain disruptions and economic instability."
             },
             {
-                "title": "Global Cyberattack",
+                "title": "Global supply chain disruptions",
                 "risk_level": "Medium",
-                "summary": "A global cyberattack targeting several major corporations has resulted in significant data breaches and financial losses."
+                "summary": "Ongoing global supply chain disruptions, fueled by the COVID-19 pandemic and Russia\\'s invasion of Ukraine, continue to pose significant risks to economic stability."
             }
         ],
         "United States": [
             {
-                "title": "Tensions escalate between the US and China over Taiwan tensions.",
+                "title": "Gun violence on the rise in Chicago: 7 injured in shooting ",
                 "risk_level": "High",
-                "summary": "US Secretary of State Antony Blinken warns China against any aggressive action towards Taiwan, while China threatens to take \"all necessary measures\" to protect its sovereignty."
+                "summary": "A shooting in Chicago's South Side neighborhood left 7 people injured, highlighting ongoing concerns about gun violence in the city."
             },
             {
-                "title": "Supreme Court decision on abortion sparks protests across the US.",
-                "risk_level": "Medium",
-                "summary": "Protests erupted in several cities as the Supreme Court overturned the landmark Roe v. Wade decision, allowing individual states to regulate abortion."
+                "title": "Tensions Between US and Russia Continue to Escalate: Biden's Warning to Putin on Ukraine",
+                "risk_level": "High",
+                "summary": "US President Joe Biden reiterated his commitment to defending Ukraine, saying that 'US will do everything necessary' to aid Kiev while warning Russian President Vladimir Putin against invading."
             },
             {
-                "title": "US Congress considers legislation to restrict social media platform's influence.",
-                "risk_level": "Medium",
-                "summary": "In response to fears of misinformation and disinformation, lawmakers are drafting a bill to regulate the spread of content on social media platforms."
+                "title": "US Border Crisis: Thousands of Migrants Surge into Texas After Biden's Border Policy Shift",
+                "risk_level": "High",
+                "summary": "A surge in migrants attempting to cross the southern US border into Texas has raised concerns about the effectiveness of border control measures, as more asylum seekers attempt entry to US territory."
             }
         ],
         "South Korea": [
             {
-                "title": "Concerns Over Cybersecurity Ahead of 2024 Elections",
+                "title": "Tensions rise on Korean Peninsula as North Korea fires missile over Japan",
                 "risk_level": "High",
-                "summary": "Concerns are growing in South Korea over cybersecurity threats as the country heads towards the 2024 presidential election. The National Election Commission and the Ministry of the Interior and Safety warned citizens about the potential risks of cyberattacks during the election period."
+                "summary": "North Korea fired a ballistic missile into the sea, raising tensions in the region and prompting South Korea and the US to hold emergency security talks. The missile was launched from the Pyongyang area and flew over Japan, prompting warnings and evacuation notices in several areas."
             },
             {
-                "title": "North Korea's Recent Missile Tests Pose a Threat to Regional Stability",
+                "title": "South Korea to strengthen military ties with the US in response to North Korea threats",
                 "risk_level": "High",
-                "summary": "North Korea's recent missile tests have sparked concerns in South Korea and the international community about the country's military capabilities and the potential threat they pose to regional stability. The tests have also heightened tensions on the Korean Peninsula."
+                "summary": "South Korea and the US have agreed to strengthen their military ties in response to the increase in activities by North Korea. The two countries will conduct regular joint military drills and enhance their surveillance and reconnaissance capabilities."
             },
             {
-                "title": "Rising Inequality and Housing Market Pressure in South Korea",
+                "title": "South Korea's government faces criticism over handling of COVID-19 outbreak in the country",
                 "risk_level": "Medium",
-                "summary": "South Korea's housing market is facing increasing pressure due to rising inequality and a lack of affordable housing options. This has led to concerns about the country's social and economic stability."
+                "summary": "South Korea's government is facing criticism for its handling of the COVID-19 outbreak in the country. The number of cases has been increasing in recent days, prompting concerns about the effectiveness of the government's measures to contain the spread of the virus."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's PM Fumio Kishida Faces Growing Opposition, Low Approval Ratings",
-                "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida is facing increasing opposition from various sectors due to low approval ratings and his government's handling of several key issues, including rising food prices, economic growth, and a possible increase in the consumption tax."
-            },
-            {
-                "title": "North Korea Threatens to Resume Nuclear and Missile Tests, Raising Global Tensions",
+                "title": "Japan protests erupt against new COVID-19 measures amid rising infections",
                 "risk_level": "High",
-                "summary": "North Korea has threatened to resume nuclear and missile tests after a reported meeting between its top leader and military officials. This move has sparked widespread concern among global leaders, including those in Japan, which is closely watching the situation due to its proximity to the Korean Peninsula."
+                "summary": "Tens of thousands of people gathered in Tokyo on Sunday to protest the Japanese government’s decision to implement new measures to combat rising COVID-19 cases."
             },
             {
-                "title": "Tokyo 2020 Olympics Bid Documents Leaked, Exposing Security Risks",
+                "title": "Rising tensions between Japan and South Korea over wartime labor",
                 "risk_level": "Medium",
-                "summary": "Leaked documents from the Tokyo 2020 Olympics bid reveal potential security risks, including concerns about terrorism, protests, and the ability to handle emergency situations effectively during the event."
+                "summary": "Relations between Japan and South Korea have deteriorated in recent days over Japan’s refusal to remove South Koreans from its list of “special residents_aes of the Ryukyu Kingdom."
+            },
+            {
+                "title": "Japan’s economy contracts at 2.8% annual rate in Q1 as export growth slows",
+                "risk_level": "Low",
+                "summary": "Japan's economy slipped into recession in the first quarter of the year, with the country’s gross domestic product (GDP) contracting at a 2.8% annual rate."
             }
         ]
     }
