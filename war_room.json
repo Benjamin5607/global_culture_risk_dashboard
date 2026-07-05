@@ -3,70 +3,53 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Concerns Over AI Safety and Regulation",
+                "title": "US-China Tensions Escalate Over Taiwan",
                 "risk_level": "High",
-                "summary": "Governments and experts discuss the need for international regulations to ensure AI safety and prevent potential misuse."
+                "summary": "The past week saw heightened tensions between the US and China over Taiwan, sparking fears of a potential conflict in the region."
             },
             {
-                "title": "Cybersecurity Vulnerabilities Exposed in Popular Apps",
+                "title": "Global Cyberattack Causes Disruption",
                 "risk_level": "High",
-                "summary": "Research reveals several popular apps have critical vulnerabilities, raising concerns for user data security."
+                "summary": "A recent cyberattack affected several countries, highlighting the growing threat of cyber warfare and potential disruptions to global systems."
             },
             {
-                "title": "Escalating Tensions Between Major World Powers",
+                "title": "Rise of Nationalism Causes Social Unrest",
                 "risk_level": "Medium",
-                "summary": "Recent diplomatic incidents have heightened tensions between key nations, sparking fears of a potential conflict."
+                "summary": "The resurgence of nationalism has led to increased social unrest in several countries, highlighting the need for greater diplomatic efforts to address these issues."
             }
         ],
         "United States": [
             {
-                "title": "FBI investigates potential Chinese spy balloon over US",
+                "title": "Escalating US-China Tensions over TikTok",
                 "risk_level": "High",
-                "summary": "The US military shoots down the suspected Chinese spy balloon off the coast of South Carolina on February 4th, escalating tensions between Washington and Beijing."
+                "summary": "The US has imposed restrictions on TikTok, escalating tensions with China, which could lead to economic and diplomatic fallout."
             },
             {
-                "title": "US and South Korea conduct joint military drills despite North Korean warnings",
-                "risk_level": "High",
-                "summary": "The annual joint military exercises between the United States and South Korea have begun, despite concerns from North Korea and China."
-            },
-            {
-                "title": "Biden administration announces $1.9 billion in new funds for border security",
+                "title": "Household Debt Reaches Record High in the US",
                 "risk_level": "Medium",
-                "summary": "The additional funds will be used to improve security infrastructure and hire more immigration officials in an effort to address the issue of migrants attempting to cross into the US."
-            }
-        ],
-        "South Korea": [
-            {
-                "title": "Seoul Holds Emergency Meeting to Discuss North Korea's Potential ICBM Test",
-                "risk_level": "High",
-                "summary": "South Korea's military and government officials held an emergency meeting to discuss North Korea's potential intercontinental ballistic missile (ICBM) test, which has raised concerns about regional stability."
+                "summary": "The total household debt in the US has reached a record high, increasing debt servicing costs and credit delinquency risks for consumers and lenders."
             },
             {
-                "title": "South Korea Imposes Sanctions on North Korean Entities Over Cryptocurrency Hack",
+                "title": "Major Cities in US Prepare for COVID-19 Omicron Variant Surge",
                 "risk_level": "Medium",
-                "summary": "South Korea's government imposed sanctions on several North Korean entities and individuals accused of involvement in a cryptocurrency hack, which has highlighted tensions between the two countries."
-            },
-            {
-                "title": "South Korean Factions Oppose Proposed Visit by Ukrainian President to Counter Russian Influence",
-                "risk_level": "Low",
-                "summary": "Some South Korean politicians and experts have expressed opposition to a proposed visit by Ukraine's President to South Korea, citing concerns about Russian influence and the impact on Seoul's relationships with Moscow and Beijing."
+                "summary": "Several major US cities, including New York, Los Angeles, and Chicago, are bracing for an expected surge in COVID-19 cases driven by the highly contagious Omicron variant."
             }
         ],
         "Japan": [
             {
-                "title": "Taiwan reports possible Chinese missile launch, no impact on Japan.",
-                "risk_level": "Low",
-                "summary": "Taiwan's military reported on June 26, that a possible Chinese missile was fired into the waters off its southeastern coast, however, Japan was not impacted by the incident."
-            },
-            {
-                "title": "Japan, US to conduct joint naval drill in Pacific.",
-                "risk_level": "Medium",
-                "summary": "The exercise, which was scheduled to take place July 2-7, is aimed at strengthening deterrence against a resurgent China and North Korea."
-            },
-            {
-                "title": "Japan's defense minister says Abe's funeral will increase security concerns.",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Japan's defense minister Yasukazu Hamada warned that the funeral for former Prime Minister Shinzo Abe may be a security risk due to the threat of further protests and violence."
+                "summary": "7/5: Japan’s Ministry of Defense stated that a Chinese warship fired a laser beam at a Japanese Self-Defense Forces’ patrol aircraft and a commercial airliner on July 4"
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "7/4: Japan’s government has decided to lift the remaining restrictions on its state of emergency for the novel coronavirus, set to expire on July 31"
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "7/2: Japan's ruling party has decided to hold a national election to select a new leader, which could potentially impact the country's economic policies"
             }
         ]
     }
