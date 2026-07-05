@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Trade Tensions Escalate",
+                "title": "Concerns Over AI Safety and Regulation",
                 "risk_level": "High",
-                "summary": "The US and China have increased their rhetoric in a long-standing trade dispute, with both countries imposing tariffs on each other's goods."
+                "summary": "Governments and experts discuss the need for international regulations to ensure AI safety and prevent potential misuse."
             },
             {
-                "title": "Global Economic Slowdown Concerns",
+                "title": "Cybersecurity Vulnerabilities Exposed in Popular Apps",
                 "risk_level": "High",
-                "summary": "A slowdown in global economic growth has been flagged by the International Monetary Fund, with concerns over the impact of rising debt and trade tensions."
+                "summary": "Research reveals several popular apps have critical vulnerabilities, raising concerns for user data security."
             },
             {
-                "title": "EU's Brexit Deal Uncertainty",
+                "title": "Escalating Tensions Between Major World Powers",
                 "risk_level": "Medium",
-                "summary": "The European Union and the United Kingdom are engaged in talks to resolve the status of Northern Ireland, a crucial aspect of the Brexit agreement."
+                "summary": "Recent diplomatic incidents have heightened tensions between key nations, sparking fears of a potential conflict."
             }
         ],
         "United States": [
             {
-                "title": "Heat wave causes widespread death and destruction in the Pacific Northwest, USA",
+                "title": "FBI investigates potential Chinese spy balloon over US",
                 "risk_level": "High",
-                "summary": "A severe heat wave has caused at least 70 deaths in Oregon and Washington, straining hospitals and infrastructure."
+                "summary": "The US military shoots down the suspected Chinese spy balloon off the coast of South Carolina on February 4th, escalating tensions between Washington and Beijing."
             },
             {
-                "title": "Shooting in Chicago marks deadliest weekend in city's recent history",
+                "title": "US and South Korea conduct joint military drills despite North Korean warnings",
                 "risk_level": "High",
-                "summary": "At least 10 people were killed and 40 injured in gun violence in Chicago over the weekend."
+                "summary": "The annual joint military exercises between the United States and South Korea have begun, despite concerns from North Korea and China."
             },
             {
-                "title": "Florida governor signs law banning abortion after 6 weeks pregnancy",
+                "title": "Biden administration announces $1.9 billion in new funds for border security",
                 "risk_level": "Medium",
-                "summary": "New law restricts access to abortion, sparking concerns about reproductive rights and women's health."
+                "summary": "The additional funds will be used to improve security infrastructure and hire more immigration officials in an effort to address the issue of migrants attempting to cross into the US."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea says it's developed a new type of intercontinental ballistic missile",
+                "title": "Seoul Holds Emergency Meeting to Discuss North Korea's Potential ICBM Test",
                 "risk_level": "High",
-                "summary": "North Korea's state-run media announced that the country has successfully developed a new type of intercontinental ballistic missile (ICBM) that it claims can evade missile defense systems. The development comes as tensions between North Korea and the US and its allies remain high."
+                "summary": "South Korea's military and government officials held an emergency meeting to discuss North Korea's potential intercontinental ballistic missile (ICBM) test, which has raised concerns about regional stability."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "Protests against President Yoon's economic policies continue in South Korea",
+                "title": "South Korea Imposes Sanctions on North Korean Entities Over Cryptocurrency Hack",
                 "risk_level": "Medium",
-                "summary": "Thousands of protesters took to the streets in major cities across South Korea to express their discontent with President Yoon Suk-yeol's economic policies, which they claim have failed to address the country's growing income inequality and poverty."
+                "summary": "South Korea's government imposed sanctions on several North Korean entities and individuals accused of involvement in a cryptocurrency hack, which has highlighted tensions between the two countries."
+            },
+            {
+                "title": "South Korean Factions Oppose Proposed Visit by Ukrainian President to Counter Russian Influence",
+                "risk_level": "Low",
+                "summary": "Some South Korean politicians and experts have expressed opposition to a proposed visit by Ukraine's President to South Korea, citing concerns about Russian influence and the impact on Seoul's relationships with Moscow and Beijing."
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 6.8 earthquake strikes northern Japan: Japan Weather Agency reports",
-                "risk_level": "High",
-                "summary": "The earthquake occurred off the coast of northern Japan and prompted authorities to issue a tsunami warning, though it was later lifted."
+                "title": "Taiwan reports possible Chinese missile launch, no impact on Japan.",
+                "risk_level": "Low",
+                "summary": "Taiwan's military reported on June 26, that a possible Chinese missile was fired into the waters off its southeastern coast, however, Japan was not impacted by the incident."
             },
             {
-                "title": "Japan records 14,000 COVID-19 cases, with infections in Tokyo hitting 10-year high: Government report",
-                "risk_level": "High",
-                "summary": "The sharp rise in cases has raised concerns about the possibility of a sixth wave of the virus in the country."
-            },
-            {
-                "title": "Japan's Kishida to visit US amid tension over Taiwan",
+                "title": "Japan, US to conduct joint naval drill in Pacific.",
                 "risk_level": "Medium",
-                "summary": "The visit is set to take place in a few days and comes amid escalating tensions between the US and China over Taiwan."
+                "summary": "The exercise, which was scheduled to take place July 2-7, is aimed at strengthening deterrence against a resurgent China and North Korea."
+            },
+            {
+                "title": "Japan's defense minister says Abe's funeral will increase security concerns.",
+                "risk_level": "High",
+                "summary": "Japan's defense minister Yasukazu Hamada warned that the funeral for former Prime Minister Shinzo Abe may be a security risk due to the threat of further protests and violence."
             }
         ]
     }
