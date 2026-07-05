@@ -1,72 +1,72 @@
 {
-    "updated": "2026-07-04",
+    "updated": "2026-07-05",
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "US-China Trade Tensions Escalate",
                 "risk_level": "High",
-                "summary": "Global economic uncertainty due to inflation"
+                "summary": "The US and China have increased their rhetoric in a long-standing trade dispute, with both countries imposing tariffs on each other's goods."
             },
             {
-                "title": "",
+                "title": "Global Economic Slowdown Concerns",
+                "risk_level": "High",
+                "summary": "A slowdown in global economic growth has been flagged by the International Monetary Fund, with concerns over the impact of rising debt and trade tensions."
+            },
+            {
+                "title": "EU's Brexit Deal Uncertainty",
                 "risk_level": "Medium",
-                "summary": "Rising global temperatures leading to extreme weather events"
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Potential cyber attack on major corporation"
+                "summary": "The European Union and the United Kingdom are engaged in talks to resolve the status of Northern Ireland, a crucial aspect of the Brexit agreement."
             }
         ],
         "United States": [
             {
-                "title": "U.S. and NATO Condemn Russia Over Ukraine Drone Strikes",
+                "title": "Heat wave causes widespread death and destruction in the Pacific Northwest, USA",
                 "risk_level": "High",
-                "summary": "The United States and NATO condemned Russia's actions in Ukraine after the country launched a series of drone strikes against Ukraine's infrastructure."
+                "summary": "A severe heat wave has caused at least 70 deaths in Oregon and Washington, straining hospitals and infrastructure."
             },
             {
-                "title": "Biden Administration Proposes New Rule to Reduce Gun Violence",
+                "title": "Shooting in Chicago marks deadliest weekend in city's recent history",
+                "risk_level": "High",
+                "summary": "At least 10 people were killed and 40 injured in gun violence in Chicago over the weekend."
+            },
+            {
+                "title": "Florida governor signs law banning abortion after 6 weeks pregnancy",
                 "risk_level": "Medium",
-                "summary": "The Biden administration has proposed a new rule that aims to reduce gun violence in the United States by requiring background checks for more firearm sales and transfers."
-            },
-            {
-                "title": "Florida Governor DeSantis Signs 'Stop WOKE' Bill",
-                "risk_level": "Low",
-                "summary": "Florida Governor Ron DeSantis has signed a bill that aims to restrict the teaching of critical race theory in schools and prevent employers from offering diversity and inclusion training to employees."
+                "summary": "New law restricts access to abortion, sparking concerns about reproductive rights and women's health."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul's City Council Member Arrested for Embezzlement",
-                "risk_level": "Medium",
-                "summary": "A Seoul city council member was arrested on June 28, 2024, on allegations of embezzlement, sparking concern about corruption within local government."
-            },
-            {
-                "title": "Rising Cases of MERS-CoV in South Korea",
+                "title": "North Korea says it's developed a new type of intercontinental ballistic missile",
                 "risk_level": "High",
-                "summary": "The outbreak of Middle East Respiratory Syndrome (MERS-CoV) in South Korea has raised concern about public health and safety."
+                "summary": "North Korea's state-run media announced that the country has successfully developed a new type of intercontinental ballistic missile (ICBM) that it claims can evade missile defense systems. The development comes as tensions between North Korea and the US and its allies remain high."
             },
             {
-                "title": "Protests Escalate in Jongno District Over Land Development",
+                "title": "",
+                "risk_level": "",
+                "summary": ""
+            },
+            {
+                "title": "Protests against President Yoon's economic policies continue in South Korea",
                 "risk_level": "Medium",
-                "summary": "Protestors in Jongno district have been demanding the city halt a large-scale redevelopment project, citing concerns over gentrification and forced evictions."
+                "summary": "Thousands of protesters took to the streets in major cities across South Korea to express their discontent with President Yoon Suk-yeol's economic policies, which they claim have failed to address the country's growing income inequality and poverty."
             }
         ],
         "Japan": [
             {
-                "title": "US and Japan Agree on Semiconductor Subsidy Deal",
-                "risk_level": "Medium",
-                "summary": "The deal aims to bolster Japan's semiconductor industry, with the US promising $8 billion in funding to support the sector's growth "
-            },
-            {
-                "title": "Japan Confirms Presence of Chinese Spy Ship in its Waters",
+                "title": "Magnitude 6.8 earthquake strikes northern Japan: Japan Weather Agency reports",
                 "risk_level": "High",
-                "summary": "The incident sparked concerns about China's increasing military presence in the region and its implications for Japan's national security"
+                "summary": "The earthquake occurred off the coast of northern Japan and prompted authorities to issue a tsunami warning, though it was later lifted."
             },
             {
-                "title": "Japan's Economy Contracts for First Time in Over 2 Years",
-                "risk_level": "Low",
-                "summary": "The contraction was due to a decline in exports and consumer spending, which may raise concerns about Japan's economic stability"
+                "title": "Japan records 14,000 COVID-19 cases, with infections in Tokyo hitting 10-year high: Government report",
+                "risk_level": "High",
+                "summary": "The sharp rise in cases has raised concerns about the possibility of a sixth wave of the virus in the country."
+            },
+            {
+                "title": "Japan's Kishida to visit US amid tension over Taiwan",
+                "risk_level": "Medium",
+                "summary": "The visit is set to take place in a few days and comes amid escalating tensions between the US and China over Taiwan."
             }
         ]
     }
