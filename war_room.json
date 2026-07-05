@@ -3,53 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Tensions Escalate Over Taiwan",
+                "title": "Global Pandemic",
                 "risk_level": "High",
-                "summary": "The past week saw heightened tensions between the US and China over Taiwan, sparking fears of a potential conflict in the region."
+                "summary": "The global pandemic continues to spread, with over 100,000 new cases reported in the past 24 hours."
             },
             {
-                "title": "Global Cyberattack Causes Disruption",
+                "title": "Global Economic Crisis",
                 "risk_level": "High",
-                "summary": "A recent cyberattack affected several countries, highlighting the growing threat of cyber warfare and potential disruptions to global systems."
+                "summary": "The global economic crisis deepens, with several major economies experiencing high levels of unemployment and inflation."
             },
             {
-                "title": "Rise of Nationalism Causes Social Unrest",
+                "title": "Global Cyberattack",
                 "risk_level": "Medium",
-                "summary": "The resurgence of nationalism has led to increased social unrest in several countries, highlighting the need for greater diplomatic efforts to address these issues."
+                "summary": "A global cyberattack targeting several major corporations has resulted in significant data breaches and financial losses."
             }
         ],
         "United States": [
             {
-                "title": "Escalating US-China Tensions over TikTok",
+                "title": "Tensions escalate between the US and China over Taiwan tensions.",
                 "risk_level": "High",
-                "summary": "The US has imposed restrictions on TikTok, escalating tensions with China, which could lead to economic and diplomatic fallout."
+                "summary": "US Secretary of State Antony Blinken warns China against any aggressive action towards Taiwan, while China threatens to take \"all necessary measures\" to protect its sovereignty."
             },
             {
-                "title": "Household Debt Reaches Record High in the US",
+                "title": "Supreme Court decision on abortion sparks protests across the US.",
                 "risk_level": "Medium",
-                "summary": "The total household debt in the US has reached a record high, increasing debt servicing costs and credit delinquency risks for consumers and lenders."
+                "summary": "Protests erupted in several cities as the Supreme Court overturned the landmark Roe v. Wade decision, allowing individual states to regulate abortion."
             },
             {
-                "title": "Major Cities in US Prepare for COVID-19 Omicron Variant Surge",
+                "title": "US Congress considers legislation to restrict social media platform's influence.",
                 "risk_level": "Medium",
-                "summary": "Several major US cities, including New York, Los Angeles, and Chicago, are bracing for an expected surge in COVID-19 cases driven by the highly contagious Omicron variant."
+                "summary": "In response to fears of misinformation and disinformation, lawmakers are drafting a bill to regulate the spread of content on social media platforms."
+            }
+        ],
+        "South Korea": [
+            {
+                "title": "Concerns Over Cybersecurity Ahead of 2024 Elections",
+                "risk_level": "High",
+                "summary": "Concerns are growing in South Korea over cybersecurity threats as the country heads towards the 2024 presidential election. The National Election Commission and the Ministry of the Interior and Safety warned citizens about the potential risks of cyberattacks during the election period."
+            },
+            {
+                "title": "North Korea's Recent Missile Tests Pose a Threat to Regional Stability",
+                "risk_level": "High",
+                "summary": "North Korea's recent missile tests have sparked concerns in South Korea and the international community about the country's military capabilities and the potential threat they pose to regional stability. The tests have also heightened tensions on the Korean Peninsula."
+            },
+            {
+                "title": "Rising Inequality and Housing Market Pressure in South Korea",
+                "risk_level": "Medium",
+                "summary": "South Korea's housing market is facing increasing pressure due to rising inequality and a lack of affordable housing options. This has led to concerns about the country's social and economic stability."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "High",
-                "summary": "7/5: Japan’s Ministry of Defense stated that a Chinese warship fired a laser beam at a Japanese Self-Defense Forces’ patrol aircraft and a commercial airliner on July 4"
+                "title": "Japan's PM Fumio Kishida Faces Growing Opposition, Low Approval Ratings",
+                "risk_level": "Medium",
+                "summary": "Japanese Prime Minister Fumio Kishida is facing increasing opposition from various sectors due to low approval ratings and his government's handling of several key issues, including rising food prices, economic growth, and a possible increase in the consumption tax."
             },
             {
-                "title": "",
+                "title": "North Korea Threatens to Resume Nuclear and Missile Tests, Raising Global Tensions",
                 "risk_level": "High",
-                "summary": "7/4: Japan’s government has decided to lift the remaining restrictions on its state of emergency for the novel coronavirus, set to expire on July 31"
+                "summary": "North Korea has threatened to resume nuclear and missile tests after a reported meeting between its top leader and military officials. This move has sparked widespread concern among global leaders, including those in Japan, which is closely watching the situation due to its proximity to the Korean Peninsula."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "7/2: Japan's ruling party has decided to hold a national election to select a new leader, which could potentially impact the country's economic policies"
+                "title": "Tokyo 2020 Olympics Bid Documents Leaked, Exposing Security Risks",
+                "risk_level": "Medium",
+                "summary": "Leaked documents from the Tokyo 2020 Olympics bid reveal potential security risks, including concerns about terrorism, protests, and the ability to handle emergency situations effectively during the event."
             }
         ]
     }
