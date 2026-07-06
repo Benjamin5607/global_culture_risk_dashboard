@@ -1,72 +1,55 @@
 {
-    "updated": "2026-07-05",
+    "updated": "2026-07-06",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Concerns over Russian military buildup along Ukraine border intensify",
+                "title": "US-China Trade Tensions Escalate",
                 "risk_level": "High",
-                "summary": "Russia has continued to maintain a high level of military presence near Ukraine's border, fuelling concerns over a potential invasion."
+                "summary": "The ongoing trade tensions between the US and China have escalated with fresh threats from both sides."
             },
             {
-                "title": "Turkey-Syria earthquake death toll exceeds 33,000",
-                "risk_level": "High",
-                "summary": "The devastating earthquake that hit Turkey and Syria on February 6 has resulted in over 33,000 fatalities, with many more injured or displaced."
-            },
-            {
-                "title": "Global supply chains face disruption due to China's COVID-19 lockdowns",
+                "title": "Global Economic Growth Slows",
                 "risk_level": "Medium",
-                "summary": "China's ongoing COVID-19 lockdowns have led to significant disruptions in global supply chains, affecting industries such as electronics and manufacturing."
+                "summary": "The global economic growth has slowed down due to rising trade tensions, geopolitical uncertainties, and decline in global economic indicators."
+            },
+            {
+                "title": "Climate Change Protests Spread Globally",
+                "risk_level": "High",
+                "summary": "Climate change protests have spread globally as people demand urgent action to combat the climate crisis and achieve net-zero emissions by 2050."
             }
         ],
         "United States": [
             {
-                "title": "Rise in COVID-19 cases due to new BA.2 subvariant",
+                "title": "Supreme Court Decision on Student Debt Forgiveness",
                 "risk_level": "Medium",
-                "summary": "The spread of the new subvariant of the Omicron variant has led to a rise in COVID-19 cases in the United States, increasing health concerns and potential disruptions to daily life."
+                "summary": "The US Supreme Court blocks Biden's student debt forgiveness plan, affecting millions of Americans."
             },
             {
-                "title": "Unstable US-China relations over Taiwan",
+                "title": "Gun Violence in Chicago",
                 "risk_level": "High",
-                "summary": "Tensions between the US and China have escalated over the situation in Taiwan, heightening concerns of conflict and a global economic crisis."
+                "summary": "Seven people were shot, including a 3-year-old, in a weekend of gun violence in Chicago."
             },
             {
-                "title": "Increased violence at US-Mexico border due to cartel activity",
-                "risk_level": "High",
-                "summary": "The rise in cartel-related violence along the US-Mexico border has heightened security concerns, with potential implications for regional stability and the flow of migrants."
-            }
-        ],
-        "South Korea": [
-            {
-                "title": "North Korea Fires 2 Cruise Missiles into Sea of Japan, South Korea Says - Bloomberg",
-                "risk_level": "High",
-                "summary": "North Korea fired two cruise missiles into the Sea of Japan on June 28, South Korea's military said, the latest test in a string of recent launches by the North as tensions between the two nations continue to rise. The missiles were launched from multiple locations in North Pyongan province and flew 600 kilometers (373 miles) before landing in the sea off the coast of North Hamgyong province, according to South Korea's Joint Chiefs of Staff. The launches came after the North fired a short-range ballistic missile into the sea on June 27, which was the 17th missile test this month. The United States and South Korea have been conducting large-scale military drills since May, which the North sees as a provocative act. The North has vowed to take \"overwhelming countermeasures\" if the drills go ahead as planned. The missile test is a reminder of the ongoing tensions between North and South Korea and the need for continued vigilance by the international community."
-            },
-            {
-                "title": "North Korea Conducts Another Missile Test, South Korea Says - WSJ",
-                "risk_level": "High",
-                "summary": "North Korea conducted another missile test on June 27, with the projectile landing in the sea off North Korea's east coast, South Korea's Joint Chiefs of Staff said. The launch came a day after the North conducted a previously unannounced short-range ballistic missile test, which was the 16th missile test this month, and as the region braces for the largest U.S.-South Korean military drills in years. The missile test is the latest in a string of recent launches by the North, which has vowed to \"take a series of overwhelming countermeasures\" if the drills go ahead as planned."
-            },
-            {
-                "title": "South Korean President Calls for Increased Military Spending Amid North Korea Tensions - Bloomberg",
-                "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk Yeol called for increased military spending in the country's defense budget, citing rising tensions with North Korea and the need for enhanced security capabilities. In a speech delivered on June 29, President Yoon emphasized the importance of strengthening South Korea's military and developing advanced defense technologies to counter the threat posed by North Korea's nuclear and missile programs. The President's call for increased military spending comes as the country is set to hold large-scale military drills with the United States next month, which have been met with protests from North Korea, which views the drills as a provocative act."
+                "title": "Amazon Labor Union's Efforts to Unionize Employees",
+                "risk_level": "Low",
+                "summary": "Amazon workers are pushing for better wages, benefits, and working conditions, which could impact the company's operations and profits."
             }
         ],
         "Japan": [
             {
-                "title": "Japan Arrests 2 Russian Men on Espionage Charges",
+                "title": "Taiwan Foreign Ministry Warns Citizens in Japan",
                 "risk_level": "High",
-                "summary": "The Japanese government has arrested two Russian men on espionage charges. The men were allegedly collecting information on a US military base in Japan."
+                "summary": "The Taiwan Foreign Ministry has issued a warning to its citizens in Japan, citing a risk of \"violent or threatening actions\" by Chinese nationals amid tensions between China and Taiwan."
             },
             {
-                "title": "Protests in Japan Against Plan to Lift COVID-19 Restrictions",
+                "title": "Japan Seeks to Boost Defense Amid China, North Korea Threats",
+                "risk_level": "High",
+                "summary": "Japan's government has announced plans to boost its defense spending as the country faces increasing threats from China and North Korea, with a focus on improving air and missile defense capabilities."
+            },
+            {
+                "title": "Japanese Economy Faces Pressure as Global Recession Looms",
                 "risk_level": "Medium",
-                "summary": "Protests are taking place in Japan against the government's plan to lift COVID-19 restrictions. The protesters are concerned about the potential impact on the healthcare system and the country's COVID-19 cases."
-            },
-            {
-                "title": "Japan-US FTA Review Sparks Anxiety in Tokyo",
-                "risk_level": "Low",
-                "summary": "The review of the Japan-US Free Trade Agreement (FTA) has sparked anxiety in Tokyo, with concerns about the impact on Japan's economy and trade relations with the US."
+                "summary": "Japan's economy is facing growing pressure as the global economy teeters on the brink of recession, with the country's exports and consumer spending taking a hit."
             }
         ]
     }
