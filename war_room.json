@@ -3,70 +3,73 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Relations Remain Tense After Recent Tensions",
+                "title": "Taiwan Says Chinese Military Drills an  'Act of Aggression'",
                 "risk_level": "High",
-                "summary": "There are high levels of tension between the US and China, with trade restrictions and diplomatic tensions."
+                "summary": "China's military drills near Taiwan after a phone call between U.S. House Speaker Nancy Pelosi and the island's president has been described by Taipei as an 'act of aggression'."
             },
             {
-                "title": "Rise of Cyberattacks on Critical Infrastructure",
+                "title": "Ukraine reports over 1,000 Russian strikes in 24 hours as battle for Bakhmut continues",
                 "risk_level": "High",
-                "summary": "Increased cyberattacks on critical infrastructure, such as power grids and financial institutions, pose significant risks."
+                "summary": "Russia's military has launched over 1,000 strikes on Ukraine in 24 hours, Ukraine's military reported on Twitter. The strikes targeted Ukrainian forces and infrastructure, according to the military."
             },
             {
-                "title": "Global Economic Slowdown",
-                "risk_level": "Medium",
-                "summary": "A global economic slowdown is forecasted due to various factors, including inflation and supply chain disruptions."
+                "title": "U.S. House Speaker Nancy Pelosi arrives in Taiwan as tension with China rises",
+                "risk_level": "High",
+                "summary": "U.S. House Speaker Nancy Pelosi visited Taiwan on Tuesday, a move that has heightened tensions with China, which has threatened to take 'all necessary measures' to protect itself."
             }
         ],
         "United States": [
             {
-                "title": "Roe v. Wade anniversary protests turn violent in multiple US cities",
-                "risk_level": "High",
-                "summary": "Protests and demonstrations took place across the United States on the anniversary of the 1973 Roe v. Wade decision, with several instances of violence reported in cities like New York and Washington D.C."
-            },
-            {
-                "title": "Texas mass shooting leaves at least 4 dead",
-                "risk_level": "High",
-                "summary": "A shooting occurred in a small town in Texas, leaving at least four people dead and several others injured."
-            },
-            {
-                "title": "US Supreme Court blocks Biden's student loan forgiveness plan",
+                "title": "Federal Reserve Chairman Jerome Powell testifies before Congress amidst market volatility concerns.",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court issued an order blocking the Biden administration's plan to forgive student loans, a move that may impact millions of Americans"
+                "date": "2023-06-23",
+                "summary": "Powell's testimony could impact market expectations and influence the Federal Reserve's interest rate decisions, impacting the US economy."
+            },
+            {
+                "title": "Gun control activists hold rallies in several US cities.",
+                "risk_level": "Low",
+                "date": "2023-06-22",
+                "summary": "Activists demand stricter gun control laws following recent mass shootings, with some cities planning sit-ins and demonstrations."
+            },
+            {
+                "title": "US-China relations deteriorate as the US Senate votes to pass the Taiwan Relations Act.",
+                "risk_level": "High",
+                "date": "2023-06-21",
+                "summary": "The Taiwan Relations Act strengthens the United States' commitment to Taiwan, potentially exacerbating tensions with China and increasing the risk of military conflict in the region."
             }
         ],
         "South Korea": [
             {
-                "title": "S. Korea, US Conduct Trilateral Exercise with Japan Amid North Korea Missile Threats",
+                "title": "North Korea launches ballistic missile over Japan, sparking global concern",
                 "risk_level": "High",
-                "summary": "South Korea, the United States, and Japan conducted a trilateral exercise in waters off South Korea’s east coast on June 29, amid growing threats from North Korea."
+                "summary": "North Korea launched a ballistic missile that crossed over Japan and landed in the Pacific Ocean, prompting a strong rebuke from the international community."
             },
             {
-                "title": "S. Korea’s Inflation Jumps to 12-Year High in June, Sparking Fears Over Economic Slowdown",
-                "risk_level": "High",
-                "summary": "South Korea’s inflation rate reached a 12-year high in June, fueling concerns over a potential economic slowdown and the impact on household finances."
-            },
-            {
-                "title": "S. Korea’s Opposition Fights On to Oust Yoon Amid Unrest Over Economic Policy",
+                "title": "Protests erupt in South Korea over plans to develop a new naval base",
                 "risk_level": "Medium",
-                "summary": "South Korea’s opposition is continuing its fight to oust President Yoon Suk-yeol amid growing discontent over his economic policies and the country’s economic struggles."
+                "summary": "Demonstrators took to the streets in South Korea to protest government plans to develop a new naval base in the country's west coast, citing concerns over the potential impact on the local environment."
+            },
+            {
+                "title": "South Korea's COVID-19 cases surge, raising concern about potential lockdown",
+                "risk_level": "Medium",
+                "summary": "South Korea reported a surge in COVID-19 cases, prompting concerns about a potential lockdown in the country and the impact it could have on the economy."
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 5.8 Earthquake Strikes Near Osaka",
+                "title": "North Korea fires ballistic missile over Japan, prompting evacuation warnings",
                 "risk_level": "High",
-                "summary": "A 5.8 magnitude earthquake struck off the coast of Osaka, Japan, causing widespread disruptions and damage to buildings."
+                "summary": "South Korea's military says the missile was fired from the Sunan area of Pyongyang and flew 1,000 km (620 miles) into the Sea of Japan. Japan's defense minister says it posed no immediate threat to the country but warned of possible further launches."
             },
             {
-                "title": "Japan's Economy Contracts Amid Global Slowdown",
+                "title": "Japan's new defense strategy emphasizes China's growing military power",
                 "risk_level": "Medium",
-                "summary": "Japan's economy contracted for the first time in nine months, due to a global economic slowdown and weaker exports."
+                "summary": "Japan's new defense strategy, unveiled by the government, highlights the growing military power of China and the need for cooperation with other nations to counter its ambitions."
             },
             {
-                "title": "Anti-Vaccination Protests Erupt in Tokyo",
-                "risk_level": "Low",
-                "summary": "Hundreds of anti-vaccination protesters gathered in Tokyo, Japan, to voice their opposition to the government's COVID-19 vaccination policies."
+                "title": "Japan's justice minister resigns over corruption scandal",
+                "risk_level": "Medium",
+                "summary": "Japan's justice minister, Yasuhiro Hanashi, has resigned over a corruption scandal involving a businessman accused of embezzlement. The scandal has tarnished the government's image and sparked calls for greater transparency."
             }
         ]
     }
