@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rising tensions between the US and China over Taiwan",
+                "title": "Taiwan-US relations tense over Pelosi visit",
                 "risk_level": "High",
-                "summary": "The US has reaffirmed its commitment to defend Taiwan, sparking concerns about a potential conflict with China. The situation remains volatile, with both sides engaging in diplomatic efforts to de-escalate tensions."
+                "summary": "The visit of US Speaker of the House Nancy Pelosi to Taiwan has heightened tensions between the US and China, posing a significant risk to regional stability."
             },
             {
-                "title": "Global Economic Downturn Looms",
-                "risk_level": "Medium",
-                "summary": "The IMF has warned that the global economy is facing a slowdown due to high inflation, supply chain disruptions, and monetary policy tightening. The risk of a recession is increasing, with potential consequences for trade and economic growth."
+                "title": "Rising tensions between the US and China over Ukraine",
+                "risk_level": "High",
+                "summary": "China has condemned US support for Ukraine, escalating tensions between the two global powers."
             },
             {
-                "title": "Ukraine-Russia Conflict Escalates",
+                "title": "Protests and violence in Iran amid economic crisis",
                 "risk_level": "High",
-                "summary": "The conflict between Ukraine and Russia continues to intensify, with reports of increased shelling and attacks on civilian targets. The situation remains dire, with potential humanitarian consequences and risks to regional stability."
+                "summary": "Widespread protests in Iran have turned violent, with demonstrators expressing frustration over the country's economic crisis and living conditions."
             }
         ],
         "United States": [
             {
-                "title": "US Congress Averts Shutdown with Short-Term Government Funding Bill",
-                "risk_level": "Low",
-                "summary": "On June 29, 2023, the US Congress passed a short-term government funding bill, avoiding a potential shutdown of federal agencies. The measure, which funds the government until September, was signed into law by President Joe Biden on June 30, 2023."
-            },
-            {
-                "title": "Biden's New Sanctions on Russian Firms Raise International Concerns",
+                "title": "Multiple School Shootings Raise Concern Over Gun Control",
                 "risk_level": "High",
-                "summary": "On June 29, 2023, US President Joe Biden announced new sanctions targeting Russian defense firms, aiming to weaken Russia's ability to wage war in Ukraine. The move has sparked concerns among international leaders, with some criticizing the action as escalating tensions rather than promoting stability."
+                "summary": "There have been multiple school shootings in the United States over the past week, leading to renewed calls for stricter gun control laws."
             },
             {
-                "title": "Pro-Choice Advocates and Abortion Rights Groups Rally across the United States",
+                "title": "Federal Election Commissions Warns of Cybersecurity Risks Ahead ofMidterm Elections",
+                "risk_level": "High",
+                "summary": "The Federal Election Commission has warned state and local election officials of potential cybersecurity risks ahead of the 2024 midterm elections."
+            },
+            {
+                "title": "Rise in Anti-Immigrant Violence Raises Concerns Over Social Cohesion",
                 "risk_level": "Medium",
-                "summary": "Following the recent leak of a draft Supreme Court opinion overturning Roe v. Wade, pro-choice advocates and abortion rights groups have been organizing rallies and protests across the United States. The demonstrations aim to showcase public support for reproductive rights and pressure lawmakers to protect access to abortion services."
+                "summary": "There has been a reported increase in anti-immigrant violence in some parts of the United States, raising concerns over social cohesion and integration."
             }
         ],
         "South Korea": [
             {
-                "title": "US, Japan, South Korea hold joint naval exercise amid North Korea tensions",
+                "title": "N. Korea Condemns S. Korea-US Joint Military Drill",
                 "risk_level": "High",
-                "summary": "The United States, Japan, and South Korea held a joint naval exercise in the East Sea, showcasing their military capabilities and commitment to regional security, as tensions with North Korea continue to escalate."
+                "summary": "North Korea has condemned South Korea and the United States for holding a joint military drill, calling it a \\\"provocation\\\"."
             },
             {
-                "title": "South Korea to strengthen cybersecurity measures after major breaches",
-                "risk_level": "High",
-                "summary": "South Korea plans to bolster its cybersecurity infrastructure and implement stricter regulations following a series of high-profile data breaches that compromised sensitive information."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Samsung's heir apparent faces grilling over South Korean bribery scandal",
-                "risk_level": "High",
-                "summary": "Lee Jae-yong, the de facto head of Samsung, is set to face a parliamentary grilling over his role in a bribery scandal that has rocked South Korea, raising concerns over corporate accountability and corruption."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires two ballistic missiles, Japan issues 'alert' as 3rd straight day of testing occurs",
+                "title": "North Korea Tests Ballistic Missile Over Japan",
                 "risk_level": "High",
-                "summary": "Tensions escalate in the region; North Korea has fired ballistic missiles for three consecutive days"
+                "summary": "North Korea's missile test has raised concerns about the country's military capabilities and its potential impact on regional security."
             },
             {
-                "title": "Kyoto city in Japan to lift state of emergency despite Omicron spread concerns",
-                "risk_level": "Low",
-                "summary": "Omicron variant causes concerns, but Kyoto city to lift state of emergency"
-            },
-            {
-                "title": "Japanese government announces measures to address record-high youth unemployment rate",
+                "title": "Rising Tensions Between Japan and South Korea Over Disputed Islands",
                 "risk_level": "Medium",
-                "summary": "High unemployment rate among young people raises social and economic concerns"
+                "summary": "The dispute between Japan and South Korea over the Liancourt Rocks, a group of disputed islands, has led to rising tensions between the two countries."
+            },
+            {
+                "title": "Increase in Hate Speech Incidents Against Minority Groups in Japan",
+                "risk_level": "Low",
+                "summary": "There has been an increase in hate speech incidents against minority groups, including the LGBTQ+ community, in Japan, raising concerns about social cohesion and inclusivity."
             }
         ]
     }
