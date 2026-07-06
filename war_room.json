@@ -3,53 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Trade Tensions Escalate",
+                "title": "US-China Relations Remain Tense After Recent Tensions",
                 "risk_level": "High",
-                "summary": "The ongoing trade tensions between the US and China have escalated with fresh threats from both sides."
+                "summary": "There are high levels of tension between the US and China, with trade restrictions and diplomatic tensions."
             },
             {
-                "title": "Global Economic Growth Slows",
+                "title": "Rise of Cyberattacks on Critical Infrastructure",
+                "risk_level": "High",
+                "summary": "Increased cyberattacks on critical infrastructure, such as power grids and financial institutions, pose significant risks."
+            },
+            {
+                "title": "Global Economic Slowdown",
                 "risk_level": "Medium",
-                "summary": "The global economic growth has slowed down due to rising trade tensions, geopolitical uncertainties, and decline in global economic indicators."
-            },
-            {
-                "title": "Climate Change Protests Spread Globally",
-                "risk_level": "High",
-                "summary": "Climate change protests have spread globally as people demand urgent action to combat the climate crisis and achieve net-zero emissions by 2050."
+                "summary": "A global economic slowdown is forecasted due to various factors, including inflation and supply chain disruptions."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Decision on Student Debt Forgiveness",
-                "risk_level": "Medium",
-                "summary": "The US Supreme Court blocks Biden's student debt forgiveness plan, affecting millions of Americans."
-            },
-            {
-                "title": "Gun Violence in Chicago",
+                "title": "Roe v. Wade anniversary protests turn violent in multiple US cities",
                 "risk_level": "High",
-                "summary": "Seven people were shot, including a 3-year-old, in a weekend of gun violence in Chicago."
+                "summary": "Protests and demonstrations took place across the United States on the anniversary of the 1973 Roe v. Wade decision, with several instances of violence reported in cities like New York and Washington D.C."
             },
             {
-                "title": "Amazon Labor Union's Efforts to Unionize Employees",
-                "risk_level": "Low",
-                "summary": "Amazon workers are pushing for better wages, benefits, and working conditions, which could impact the company's operations and profits."
+                "title": "Texas mass shooting leaves at least 4 dead",
+                "risk_level": "High",
+                "summary": "A shooting occurred in a small town in Texas, leaving at least four people dead and several others injured."
+            },
+            {
+                "title": "US Supreme Court blocks Biden's student loan forgiveness plan",
+                "risk_level": "Medium",
+                "summary": "The US Supreme Court issued an order blocking the Biden administration's plan to forgive student loans, a move that may impact millions of Americans"
+            }
+        ],
+        "South Korea": [
+            {
+                "title": "S. Korea, US Conduct Trilateral Exercise with Japan Amid North Korea Missile Threats",
+                "risk_level": "High",
+                "summary": "South Korea, the United States, and Japan conducted a trilateral exercise in waters off South Korea’s east coast on June 29, amid growing threats from North Korea."
+            },
+            {
+                "title": "S. Korea’s Inflation Jumps to 12-Year High in June, Sparking Fears Over Economic Slowdown",
+                "risk_level": "High",
+                "summary": "South Korea’s inflation rate reached a 12-year high in June, fueling concerns over a potential economic slowdown and the impact on household finances."
+            },
+            {
+                "title": "S. Korea’s Opposition Fights On to Oust Yoon Amid Unrest Over Economic Policy",
+                "risk_level": "Medium",
+                "summary": "South Korea’s opposition is continuing its fight to oust President Yoon Suk-yeol amid growing discontent over his economic policies and the country’s economic struggles."
             }
         ],
         "Japan": [
             {
-                "title": "Taiwan Foreign Ministry Warns Citizens in Japan",
+                "title": "Magnitude 5.8 Earthquake Strikes Near Osaka",
                 "risk_level": "High",
-                "summary": "The Taiwan Foreign Ministry has issued a warning to its citizens in Japan, citing a risk of \"violent or threatening actions\" by Chinese nationals amid tensions between China and Taiwan."
+                "summary": "A 5.8 magnitude earthquake struck off the coast of Osaka, Japan, causing widespread disruptions and damage to buildings."
             },
             {
-                "title": "Japan Seeks to Boost Defense Amid China, North Korea Threats",
-                "risk_level": "High",
-                "summary": "Japan's government has announced plans to boost its defense spending as the country faces increasing threats from China and North Korea, with a focus on improving air and missile defense capabilities."
-            },
-            {
-                "title": "Japanese Economy Faces Pressure as Global Recession Looms",
+                "title": "Japan's Economy Contracts Amid Global Slowdown",
                 "risk_level": "Medium",
-                "summary": "Japan's economy is facing growing pressure as the global economy teeters on the brink of recession, with the country's exports and consumer spending taking a hit."
+                "summary": "Japan's economy contracted for the first time in nine months, due to a global economic slowdown and weaker exports."
+            },
+            {
+                "title": "Anti-Vaccination Protests Erupt in Tokyo",
+                "risk_level": "Low",
+                "summary": "Hundreds of anti-vaccination protesters gathered in Tokyo, Japan, to voice their opposition to the government's COVID-19 vaccination policies."
             }
         ]
     }
