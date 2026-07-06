@@ -3,73 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Taiwan Says Chinese Military Drills an  'Act of Aggression'",
+                "title": "Rising tensions between the US and China over Taiwan",
                 "risk_level": "High",
-                "summary": "China's military drills near Taiwan after a phone call between U.S. House Speaker Nancy Pelosi and the island's president has been described by Taipei as an 'act of aggression'."
+                "summary": "The US has reaffirmed its commitment to defend Taiwan, sparking concerns about a potential conflict with China. The situation remains volatile, with both sides engaging in diplomatic efforts to de-escalate tensions."
             },
             {
-                "title": "Ukraine reports over 1,000 Russian strikes in 24 hours as battle for Bakhmut continues",
-                "risk_level": "High",
-                "summary": "Russia's military has launched over 1,000 strikes on Ukraine in 24 hours, Ukraine's military reported on Twitter. The strikes targeted Ukrainian forces and infrastructure, according to the military."
+                "title": "Global Economic Downturn Looms",
+                "risk_level": "Medium",
+                "summary": "The IMF has warned that the global economy is facing a slowdown due to high inflation, supply chain disruptions, and monetary policy tightening. The risk of a recession is increasing, with potential consequences for trade and economic growth."
             },
             {
-                "title": "U.S. House Speaker Nancy Pelosi arrives in Taiwan as tension with China rises",
+                "title": "Ukraine-Russia Conflict Escalates",
                 "risk_level": "High",
-                "summary": "U.S. House Speaker Nancy Pelosi visited Taiwan on Tuesday, a move that has heightened tensions with China, which has threatened to take 'all necessary measures' to protect itself."
+                "summary": "The conflict between Ukraine and Russia continues to intensify, with reports of increased shelling and attacks on civilian targets. The situation remains dire, with potential humanitarian consequences and risks to regional stability."
             }
         ],
         "United States": [
             {
-                "title": "Federal Reserve Chairman Jerome Powell testifies before Congress amidst market volatility concerns.",
-                "risk_level": "Medium",
-                "date": "2023-06-23",
-                "summary": "Powell's testimony could impact market expectations and influence the Federal Reserve's interest rate decisions, impacting the US economy."
-            },
-            {
-                "title": "Gun control activists hold rallies in several US cities.",
+                "title": "US Congress Averts Shutdown with Short-Term Government Funding Bill",
                 "risk_level": "Low",
-                "date": "2023-06-22",
-                "summary": "Activists demand stricter gun control laws following recent mass shootings, with some cities planning sit-ins and demonstrations."
+                "summary": "On June 29, 2023, the US Congress passed a short-term government funding bill, avoiding a potential shutdown of federal agencies. The measure, which funds the government until September, was signed into law by President Joe Biden on June 30, 2023."
             },
             {
-                "title": "US-China relations deteriorate as the US Senate votes to pass the Taiwan Relations Act.",
+                "title": "Biden's New Sanctions on Russian Firms Raise International Concerns",
                 "risk_level": "High",
-                "date": "2023-06-21",
-                "summary": "The Taiwan Relations Act strengthens the United States' commitment to Taiwan, potentially exacerbating tensions with China and increasing the risk of military conflict in the region."
+                "summary": "On June 29, 2023, US President Joe Biden announced new sanctions targeting Russian defense firms, aiming to weaken Russia's ability to wage war in Ukraine. The move has sparked concerns among international leaders, with some criticizing the action as escalating tensions rather than promoting stability."
+            },
+            {
+                "title": "Pro-Choice Advocates and Abortion Rights Groups Rally across the United States",
+                "risk_level": "Medium",
+                "summary": "Following the recent leak of a draft Supreme Court opinion overturning Roe v. Wade, pro-choice advocates and abortion rights groups have been organizing rallies and protests across the United States. The demonstrations aim to showcase public support for reproductive rights and pressure lawmakers to protect access to abortion services."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea launches ballistic missile over Japan, sparking global concern",
+                "title": "US, Japan, South Korea hold joint naval exercise amid North Korea tensions",
                 "risk_level": "High",
-                "summary": "North Korea launched a ballistic missile that crossed over Japan and landed in the Pacific Ocean, prompting a strong rebuke from the international community."
+                "summary": "The United States, Japan, and South Korea held a joint naval exercise in the East Sea, showcasing their military capabilities and commitment to regional security, as tensions with North Korea continue to escalate."
             },
             {
-                "title": "Protests erupt in South Korea over plans to develop a new naval base",
-                "risk_level": "Medium",
-                "summary": "Demonstrators took to the streets in South Korea to protest government plans to develop a new naval base in the country's west coast, citing concerns over the potential impact on the local environment."
+                "title": "South Korea to strengthen cybersecurity measures after major breaches",
+                "risk_level": "High",
+                "summary": "South Korea plans to bolster its cybersecurity infrastructure and implement stricter regulations following a series of high-profile data breaches that compromised sensitive information."
             },
             {
-                "title": "South Korea's COVID-19 cases surge, raising concern about potential lockdown",
-                "risk_level": "Medium",
-                "summary": "South Korea reported a surge in COVID-19 cases, prompting concerns about a potential lockdown in the country and the impact it could have on the economy."
+                "title": "Samsung's heir apparent faces grilling over South Korean bribery scandal",
+                "risk_level": "High",
+                "summary": "Lee Jae-yong, the de facto head of Samsung, is set to face a parliamentary grilling over his role in a bribery scandal that has rocked South Korea, raising concerns over corporate accountability and corruption."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires ballistic missile over Japan, prompting evacuation warnings",
+                "title": "North Korea fires two ballistic missiles, Japan issues 'alert' as 3rd straight day of testing occurs",
                 "risk_level": "High",
-                "summary": "South Korea's military says the missile was fired from the Sunan area of Pyongyang and flew 1,000 km (620 miles) into the Sea of Japan. Japan's defense minister says it posed no immediate threat to the country but warned of possible further launches."
+                "summary": "Tensions escalate in the region; North Korea has fired ballistic missiles for three consecutive days"
             },
             {
-                "title": "Japan's new defense strategy emphasizes China's growing military power",
-                "risk_level": "Medium",
-                "summary": "Japan's new defense strategy, unveiled by the government, highlights the growing military power of China and the need for cooperation with other nations to counter its ambitions."
+                "title": "Kyoto city in Japan to lift state of emergency despite Omicron spread concerns",
+                "risk_level": "Low",
+                "summary": "Omicron variant causes concerns, but Kyoto city to lift state of emergency"
             },
             {
-                "title": "Japan's justice minister resigns over corruption scandal",
+                "title": "Japanese government announces measures to address record-high youth unemployment rate",
                 "risk_level": "Medium",
-                "summary": "Japan's justice minister, Yasuhiro Hanashi, has resigned over a corruption scandal involving a businessman accused of embezzlement. The scandal has tarnished the government's image and sparked calls for greater transparency."
+                "summary": "High unemployment rate among young people raises social and economic concerns"
             }
         ]
     }
