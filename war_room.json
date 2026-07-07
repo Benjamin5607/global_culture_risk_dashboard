@@ -3,70 +3,88 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-Iran Tensions Escalate Amid Ongoing Protests in Iran",
-                "risk_level": "High",
-                "summary": "Protests in Iran have led to US-Iran tensions escalating, resulting in concerns for regional stability and potential US-Iran conflict."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "event1": {
+                    "id": 123,
+                    "title": "Risk 1",
+                    "risk_level": "High",
+                    "summary": "This is a major security risk."
+                }
             },
             {
-                "title": "Rise in Global Cyber Attacks Exposes Vulnerability of Critical Infrastructure",
-                "risk_level": "High",
-                "summary": "Global cyber attacks targeting critical infrastructure have increased, posing a significant risk to global security and economic stability."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "event2": {
+                    "id": 456,
+                    "title": "Risk 2",
+                    "risk_level": "Medium",
+                    "summary": "This is a moderate security risk."
+                }
             },
             {
-                "title": "EU Imposes Sanctions on Russian Individuals Amid Escalating Ukraine Conflict",
-                "risk_level": "High",
-                "summary": "The EU has imposed sanctions on Russian individuals in response to the ongoing conflict in Ukraine, further exacerbating tensions between the two nations."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "event3": {
+                    "id": 789,
+                    "title": "Risk 3",
+                    "risk_level": "Low",
+                    "summary": "This is a minor security risk."
+                }
             }
         ],
         "United States": [
             {
-                "title": "Biden Signs Bipartisan Gun Safety Bill into Law",
+                "title": "US Supreme Court Strikes Down Affirmative Action in College Admissions",
+                "risk_level": "High",
+                "summary": "The US Supreme Court ruled that affirmative action policies in college admissions are unconstitutional, sparking widespread protests and concerns about the impact on marginalized communities."
+            },
+            {
+                "title": "Tensions Rise Between US and Russia Over Ukraine War",
+                "risk_level": "High",
+                "summary": "The US and Russia have raised their rhetoric over the Ukraine war, with the US imposing new sanctions on Russia and Russia threatening to respond with military force."
+            },
+            {
+                "title": "Twitter Hacker Arrested for Breach of Security",
                 "risk_level": "Medium",
-                "summary": "President Biden has signed the Bipartisan Safer Communities Act, a gun safety bill aimed at reducing gun violence, particularly among children and young adults. The bill was signed into law on June 25, 2022, amidst growing concerns about gun control and public safety in the United States."
-            },
-            {
-                "title": "Twitter Data Breach Exposed Users' Private Data",
-                "risk_level": "High",
-                "summary": "A new report suggests that Twitter users' private data was exposed due to a data breach that occurred in November 2022. The breach, which occurred under Elon Musk's ownership, exposed sensitive information about users, including their phone numbers and email addresses."
-            },
-            {
-                "title": "US Airstrikes Target Iranian-Kurdish Militia in Iraq",
-                "risk_level": "High",
-                "summary": "The United States has conducted airstrikes against an Iranian-backed Kurdish militia in Iraq, sparking concerns about escalating tensions between the US and Iran. The strikes were carried out on June 27, 2023, in response to rocket attacks on US personnel in Iraq."
+                "summary": "A hacker was arrested for breaching Twitter's security and accessing the private data of several high-profile users."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Missile Test Raises Tensions",
-                "risk_level": "Medium",
-                "summary": "North Korea fired a ballistic missile, prompting condemnation from the international community. The move raises concerns about regional stability and security."
-            },
-            {
-                "title": "South Korea Protests Against Government Labor Policies",
+                "title": "North Korea tests new rocket engine",
                 "risk_level": "High",
-                "summary": "Hundreds of thousands of protesters took to the streets in South Korea to express opposition to the government's labor policies, highlighting growing social unrest and tensions."
+                "summary": "South Korea's military is on high alert after North Korea tested a new rocket engine, sparking concerns of a possible provocation."
             },
             {
-                "title": "COVID-19 Cases Surge in South Korea Amid Holiday Season",
+                "title": "Protests erupt in South Korea over military conscription",
                 "risk_level": "Medium",
-                "summary": "South Korea has seen a significant increase in COVID-19 cases due to the recent holiday season, prompting concerns about the country's healthcare system and economic recovery."
+                "summary": "Large-scale protests broke out in South Korea over the government's plan to reintroduce military conscription, with demonstrators calling for the policy to be scrapped."
+            },
+            {
+                "title": "Hackers target South Korean government websites",
+                "risk_level": "High",
+                "summary": "South Korean government websites were targeted by hackers, highlighting concerns over the country's cybersecurity and potential attacks from North Korea."
             }
         ],
         "Japan": [
             {
-                "title": "Ruling Party Favors Delay in Tax Reform to Focus on Economy",
-                "risk_level": "High",
-                "summary": "Japan’s ruling Liberal Democratic Party may delay tax reforms, prioritizing economic stability over a potential increase in taxes."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "A 6.0-magnitude earthquake struck off the coast of Japan's northern island of Hokkaido on June 24, but no tsunami warning was issued. Japan's Meteorological Agency said the earthquake occurred at 9:22 a.m. local time and its epicenter was at a depth of about 300 kilometers. The Pacific Tsunami Warning Center said there was no threat of a tsunami from the earthquake."
             },
             {
-                "title": "Japan to Enhance Cybersecurity Measures to Counter Rising Threats",
-                "risk_level": "High",
-                "summary": "Following recent cyberattacks in Japan, the country is stepping up its cybersecurity measures to protect against the growing number of threats."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "A Japanese defense ministry report showed that the country's defense spending was 1.07% of its GDP, exceeding the 1.06% target, in fiscal 2022. Japan's defense spending has been under pressure to increase since the 2013 Guidelines for U.S.-Japan Defense Cooperation and the 2022 National Security Strategy were released."
             },
             {
-                "title": "Tokyo Subways to Implement New Security Measures After Train Station Attack",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Tokyo’s public transport system will introduce new security measures following a recent attack on a train station, aiming to prevent future incidents."
+                "summary": "Russia's Deputy Foreign Minister has accused Japan of not being willing to hold talks on a World War 2 peace treaty, following a visit to Japan by Chinese Foreign Minister Wang Yi. The Japanese side has not made any formal response to Russia's accusations on the peace treaty talks yet."
             }
         ]
     }
