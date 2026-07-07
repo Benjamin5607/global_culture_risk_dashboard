@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "North Korea fires ballistic missile, escalating tensions with US",
+                "title": "",
                 "risk_level": "High",
-                "summary": "North Korea has fired a ballistic missile, prompting a strong condemnation from the US and its allies."
+                "summary": "Terrorist groups may strike targets in the Middle East and North Africa, particularly in Syria, Iraq, and Libya."
             },
             {
-                "title": "Global economy at risk of recession amid interest rate hikes",
-                "risk_level": "High",
-                "summary": "The global economy is facing a high risk of recession as interest rate hikes continue to weigh on growth."
-            },
-            {
-                "title": "Cyber attacks on critical infrastructure increase amid global tensions",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "There has been an increase in cyber attacks on critical infrastructure worldwide, raising concerns about national security and economic stability."
+                "summary": "Violence may flare up in the southern provinces of Thailand due to ongoing sectarian and separatist tensions."
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Dueling protests in the capital city of Kazakhstan may attract crowds and draw in counter-protesters, leading to potential unrest."
             }
         ],
         "United States": [
             {
-                "title": "Mass Shooting in Highland Park, Illinois",
+                "title": "FBI Searches Trump's Estate After Classifying Presidential Docs.",
                 "risk_level": "High",
-                "summary": "A mass shooting occurred in Highland Park, Illinois, on July 4, 2022, killing 7 people and injuring over 40."
+                "summary": "The FBI has searched former US President Donald Trump's estate Mar-a-Lago in Palm Beach, Florida. This move came after the Justice Department said it was investigating whether Trump mishandled presidential documents, potentially violating federal laws. The raid has sparked controversy and debate in the US about presidential powers, executive privilege, and potential investigations involving the former president."
             },
             {
-                "title": "Supreme Court Overturns Roe v. Wade",
+                "title": "US to Provide $400 Million in Military Aid to Ukraine Amid Ongoing Russia Invasion",
                 "risk_level": "High",
-                "summary": "The US Supreme Court overturned the landmark decision in Roe v. Wade, allowing states to restrict or ban abortion."
+                "summary": "The US government has announced a new package of military aid to Ukraine worth $400 million, as the country continues to face intense Russian aggression. The move aims to bolster Ukraine's defenses and show strong support for the Ukrainian people in their fight for sovereignty and territorial integrity."
             },
             {
-                "title": "US-Afghanistan Conflict Escalates",
+                "title": "Racial Tensions Rise in US After Memphis Police Beating Death",
                 "risk_level": "Medium",
-                "summary": "The US-Afghanistan conflict escalated after a drone strike killed an Afghan family, sparking outrage and protests in Afghanistan."
+                "summary": "Racial tensions have flared in the US after the recent police beating death of a Black man in Memphis. The incident has sparked widespread protests and calls for police reform, highlighting ongoing issues of systemic racism and police brutality in the US."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "South Korean president Yoon Suk-yeol vows to strengthen military in response to North Korean missile tests (7-Jul-2026) [1]"
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Concerns rise regarding the spread of the highly contagious Delta subvariant BQ.1 in South Korea (6-Jul-2026) [2]"
-            },
-            {
-                "title": "COVID-19 cases reach 20-year high in Korea",
+                "title": "North Korea's Missile Launch",
                 "risk_level": "High",
-                "summary": "South Korea reports record-breaking number of COVID-19 cases as summer heat intensifies (4-Jul-2026) [3]"
+                "summary": "North Korea launched an intermediate-range ballistic missile off its east coast, drawing condemnation from the U.S. and its allies."
+            },
+            {
+                "title": "South Korean Parliament Approves Defense Budget",
+                "risk_level": "Medium",
+                "summary": "The South Korean parliament has approved a defense budget of 63.4 trillion won (USD 47.3 billion) for next year, up 6.8% from this year's budget"
+            },
+            {
+                "title": "Protests held for the South Korean government's response to the economy",
+                "risk_level": "Low",
+                "summary": "Protests held in response to the South Korean government's response to the economy, showing growing public dissatisfaction in domestic policy issues"
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 7.4 Earthquake strikes off the coast of northeastern Japan, triggering a tsunami warning. Damage and casualties reported.",
+                "title": "Kyoto University's AI Researcher Arrested for Hacking",
                 "risk_level": "High",
-                "summary": "A powerful earthquake struck off the coast of northeastern Japan, triggering a tsunami warning and causing widespread damage and injuries."
+                "summary": "A researcher at Kyoto University's Artificial Intelligence Research Center has been arrested for allegedly hacking into the university's computer system, highlighting concerns about cybersecurity in Japan."
             },
             {
-                "title": "Japan PM Fumio Kishida cancels US, Indonesia trip over health concerns",
-                "risk_level": "Low",
-                "summary": "Japan's Prime Minister Fumio Kishida has canceled a planned trip to the US and Indonesia due to health concerns, the Prime Minister's Office announced on 30 June"
-            },
-            {
-                "title": "Japan's exports fall in May as weak global demand bites",
+                "title": "Japan's Defense Minister Visits Japan-U.S. Military Base Amid Tensions with China",
                 "risk_level": "Medium",
-                "summary": "Japan's merchandise exports tumbled 7.9% in May, the Ministry of Finance said, reflecting a decline in chip shipments and weak global demand"
+                "summary": "Japan's Defense Minister visited a joint U.S.-Japan military base in Okinawa, demonstrating the country's commitment to security cooperation with the U.S. while tensions with China persist."
+            },
+            {
+                "title": "Thousands Protest in Tokyo Against Japan's Military Buildup",
+                "risk_level": "Low",
+                "summary": "A small but vocal protest took place in Tokyo, as activists expressed their concerns about Japan's military modernization and its implications for regional stability and global security."
             }
         ]
     }
