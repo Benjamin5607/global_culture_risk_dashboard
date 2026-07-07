@@ -3,88 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": null,
                 "risk_level": "",
-                "summary": "",
-                "event1": {
-                    "id": 123,
-                    "title": "Risk 1",
-                    "risk_level": "High",
-                    "summary": "This is a major security risk."
-                }
+                "summary": "The 2023 Israel-Hamas conflict escalated, killing at least 44 people on 5 July 2023."
             },
             {
                 "title": "",
                 "risk_level": "",
-                "summary": "",
-                "event2": {
-                    "id": 456,
-                    "title": "Risk 2",
-                    "risk_level": "Medium",
-                    "summary": "This is a moderate security risk."
-                }
+                "summary": "A suspected US drone strike killed at least six civilians in eastern Afghanistan on June 30, 2023."
             },
             {
                 "title": "",
                 "risk_level": "",
-                "summary": "",
-                "event3": {
-                    "id": 789,
-                    "title": "Risk 3",
-                    "risk_level": "Low",
-                    "summary": "This is a minor security risk."
-                }
+                "summary": "Turkey's military operation in Northern Syria resulted in a 50% increase in Syrian refugees arriving in Greece."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Strikes Down Affirmative Action in College Admissions",
+                "title": "US Senate passes landmark climate deal",
                 "risk_level": "High",
-                "summary": "The US Supreme Court ruled that affirmative action policies in college admissions are unconstitutional, sparking widespread protests and concerns about the impact on marginalized communities."
+                "summary": "US lawmakers have voted to advance a historic climate bill, setting the country on a path to reduce greenhouse gas emissions."
             },
             {
-                "title": "Tensions Rise Between US and Russia Over Ukraine War",
+                "title": "Taliban claims responsibility for US drone strikes in Afghanistan",
                 "risk_level": "High",
-                "summary": "The US and Russia have raised their rhetoric over the Ukraine war, with the US imposing new sanctions on Russia and Russia threatening to respond with military force."
+                "summary": "The Taliban has claimed responsibility for US drone strikes in Afghanistan, escalating tensions between the two nations."
             },
             {
-                "title": "Twitter Hacker Arrested for Breach of Security",
-                "risk_level": "Medium",
-                "summary": "A hacker was arrested for breaching Twitter's security and accessing the private data of several high-profile users."
+                "title": "Supreme Court overturns Roe v. Wade, sparking abortion rights protests across US",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has overturned the landmark Roe v. Wade decision, sparking widespread protests and unrest over abortion rights."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea tests new rocket engine",
+                "title": "North Korea's Missile Test Raises Tensions",
                 "risk_level": "High",
-                "summary": "South Korea's military is on high alert after North Korea tested a new rocket engine, sparking concerns of a possible provocation."
+                "summary": "On June 30, 2024, North Korea conducted a ballistic missile test, which South Korea and the US condemned as a provocation. The test has raised tensions in the region and increased concerns about the potential for conflict."
             },
             {
-                "title": "Protests erupt in South Korea over military conscription",
+                "title": "South Korean Military Scandal Under Investigation",
                 "risk_level": "Medium",
-                "summary": "Large-scale protests broke out in South Korea over the government's plan to reintroduce military conscription, with demonstrators calling for the policy to be scrapped."
+                "summary": "On June 26, 2024, it was revealed that a high-ranking South Korean military officer was involved in a corruption scandal, leading to an investigation and potentially affecting the country's military readiness."
             },
             {
-                "title": "Hackers target South Korean government websites",
-                "risk_level": "High",
-                "summary": "South Korean government websites were targeted by hackers, highlighting concerns over the country's cybersecurity and potential attacks from North Korea."
+                "title": "Protests Against Government's Response to COVID-19",
+                "risk_level": "Low",
+                "summary": "Over the past week, protests have been held in cities across South Korea to express dissatisfaction with the government's handling of the COVID-19 pandemic. The protests have been largely peaceful, but have raised concerns about social cohesion and public anger."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "A 6.0-magnitude earthquake struck off the coast of Japan's northern island of Hokkaido on June 24, but no tsunami warning was issued. Japan's Meteorological Agency said the earthquake occurred at 9:22 a.m. local time and its epicenter was at a depth of about 300 kilometers. The Pacific Tsunami Warning Center said there was no threat of a tsunami from the earthquake."
-            },
-            {
-                "title": "",
+                "title": "Japan's PM Kishida faces criticism over COVID-19 response",
                 "risk_level": "Medium",
-                "summary": "A Japanese defense ministry report showed that the country's defense spending was 1.07% of its GDP, exceeding the 1.06% target, in fiscal 2022. Japan's defense spending has been under pressure to increase since the 2013 Guidelines for U.S.-Japan Defense Cooperation and the 2022 National Security Strategy were released."
+                "summary": "Critics are questioning Japan's handling of the COVID-19 pandemic, with some accusing PM Kishida of being slow to respond to the crisis"
             },
             {
-                "title": "",
+                "title": "North Korea fires multiple ballistic missiles into sea off Japan",
                 "risk_level": "High",
-                "summary": "Russia's Deputy Foreign Minister has accused Japan of not being willing to hold talks on a World War 2 peace treaty, following a visit to Japan by Chinese Foreign Minister Wang Yi. The Japanese side has not made any formal response to Russia's accusations on the peace treaty talks yet."
+                "summary": "Tensions between North Korea and Japan escalate as Tokyo detects four ballistic missiles fired by Pyongyang into the Sea of Japan"
+            },
+            {
+                "title": "Japan's economy shrinks for first time since 2011",
+                "risk_level": "Medium",
+                "summary": "Japan's economy contracts for the first time since the 2011 tsunami, raising concerns about the country's economic stability"
             }
         ]
     }

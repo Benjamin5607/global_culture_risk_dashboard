@@ -1,5 +1,21 @@
 [
     {
+        "term": "Oscar Pistorius",
+        "group": "Controversial Figure",
+        "country": "South Africa",
+        "category": "Athlete",
+        "risk_level": "High",
+        "trend_score": 8,
+        "status": "Notorious",
+        "first_detected": "January 14, 2013",
+        "last_updated": "March 11, 2021",
+        "context": {
+            "en": "Oscar Pistorius is a South African former sprinter and Paralympian who gained widespread attention for being the first double amputee to compete in the Olympic Games.",
+            "ko": "올리버 피스트리우스는 남아프리카 출신의 전 달리기 선수이자 패러림픽 선수로, 그는 올림픽 경기에서 두 개의 암putee 처음으로 경쟁 한 것으로 유명하다.",
+            "ja": "オスカー・ピストリウス（Oscar Pistorius）は南アフリカ生まれの元競走およびパラリンピック選手。彼はオリンピック競技でダブルアムプテートとして初めて出場したことで広く注目を集めた。"
+        }
+    },
+    {
         "term": "#CharliDAmelioChallenge",
         "group": "dance",
         "country": "USA",
