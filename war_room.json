@@ -1,72 +1,72 @@
 {
-    "updated": "2026-07-06",
+    "updated": "2026-07-07",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Taiwan-US relations tense over Pelosi visit",
+                "title": "North Korea fires ballistic missile, escalating tensions with US",
                 "risk_level": "High",
-                "summary": "The visit of US Speaker of the House Nancy Pelosi to Taiwan has heightened tensions between the US and China, posing a significant risk to regional stability."
+                "summary": "North Korea has fired a ballistic missile, prompting a strong condemnation from the US and its allies."
             },
             {
-                "title": "Rising tensions between the US and China over Ukraine",
+                "title": "Global economy at risk of recession amid interest rate hikes",
                 "risk_level": "High",
-                "summary": "China has condemned US support for Ukraine, escalating tensions between the two global powers."
+                "summary": "The global economy is facing a high risk of recession as interest rate hikes continue to weigh on growth."
             },
             {
-                "title": "Protests and violence in Iran amid economic crisis",
-                "risk_level": "High",
-                "summary": "Widespread protests in Iran have turned violent, with demonstrators expressing frustration over the country's economic crisis and living conditions."
+                "title": "Cyber attacks on critical infrastructure increase amid global tensions",
+                "risk_level": "Medium",
+                "summary": "There has been an increase in cyber attacks on critical infrastructure worldwide, raising concerns about national security and economic stability."
             }
         ],
         "United States": [
             {
-                "title": "Multiple School Shootings Raise Concern Over Gun Control",
+                "title": "Mass Shooting in Highland Park, Illinois",
                 "risk_level": "High",
-                "summary": "There have been multiple school shootings in the United States over the past week, leading to renewed calls for stricter gun control laws."
+                "summary": "A mass shooting occurred in Highland Park, Illinois, on July 4, 2022, killing 7 people and injuring over 40."
             },
             {
-                "title": "Federal Election Commissions Warns of Cybersecurity Risks Ahead ofMidterm Elections",
+                "title": "Supreme Court Overturns Roe v. Wade",
                 "risk_level": "High",
-                "summary": "The Federal Election Commission has warned state and local election officials of potential cybersecurity risks ahead of the 2024 midterm elections."
+                "summary": "The US Supreme Court overturned the landmark decision in Roe v. Wade, allowing states to restrict or ban abortion."
             },
             {
-                "title": "Rise in Anti-Immigrant Violence Raises Concerns Over Social Cohesion",
+                "title": "US-Afghanistan Conflict Escalates",
                 "risk_level": "Medium",
-                "summary": "There has been a reported increase in anti-immigrant violence in some parts of the United States, raising concerns over social cohesion and integration."
+                "summary": "The US-Afghanistan conflict escalated after a drone strike killed an Afghan family, sparking outrage and protests in Afghanistan."
             }
         ],
         "South Korea": [
             {
-                "title": "N. Korea Condemns S. Korea-US Joint Military Drill",
+                "title": "",
+                "risk_level": "Low",
+                "summary": "South Korean president Yoon Suk-yeol vows to strengthen military in response to North Korean missile tests (7-Jul-2026) [1]"
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Concerns rise regarding the spread of the highly contagious Delta subvariant BQ.1 in South Korea (6-Jul-2026) [2]"
+            },
+            {
+                "title": "COVID-19 cases reach 20-year high in Korea",
                 "risk_level": "High",
-                "summary": "North Korea has condemned South Korea and the United States for holding a joint military drill, calling it a \\\"provocation\\\"."
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "summary": "South Korea reports record-breaking number of COVID-19 cases as summer heat intensifies (4-Jul-2026) [3]"
             }
         ],
         "Japan": [
             {
-                "title": "North Korea Tests Ballistic Missile Over Japan",
+                "title": "Magnitude 7.4 Earthquake strikes off the coast of northeastern Japan, triggering a tsunami warning. Damage and casualties reported.",
                 "risk_level": "High",
-                "summary": "North Korea's missile test has raised concerns about the country's military capabilities and its potential impact on regional security."
+                "summary": "A powerful earthquake struck off the coast of northeastern Japan, triggering a tsunami warning and causing widespread damage and injuries."
             },
             {
-                "title": "Rising Tensions Between Japan and South Korea Over Disputed Islands",
-                "risk_level": "Medium",
-                "summary": "The dispute between Japan and South Korea over the Liancourt Rocks, a group of disputed islands, has led to rising tensions between the two countries."
-            },
-            {
-                "title": "Increase in Hate Speech Incidents Against Minority Groups in Japan",
+                "title": "Japan PM Fumio Kishida cancels US, Indonesia trip over health concerns",
                 "risk_level": "Low",
-                "summary": "There has been an increase in hate speech incidents against minority groups, including the LGBTQ+ community, in Japan, raising concerns about social cohesion and inclusivity."
+                "summary": "Japan's Prime Minister Fumio Kishida has canceled a planned trip to the US and Indonesia due to health concerns, the Prime Minister's Office announced on 30 June"
+            },
+            {
+                "title": "Japan's exports fall in May as weak global demand bites",
+                "risk_level": "Medium",
+                "summary": "Japan's merchandise exports tumbled 7.9% in May, the Ministry of Finance said, reflecting a decline in chip shipments and weak global demand"
             }
         ]
     }
