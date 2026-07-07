@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "US-Iran Tensions Escalate Amid Ongoing Protests in Iran",
                 "risk_level": "High",
-                "summary": "Terrorist groups may strike targets in the Middle East and North Africa, particularly in Syria, Iraq, and Libya."
+                "summary": "Protests in Iran have led to US-Iran tensions escalating, resulting in concerns for regional stability and potential US-Iran conflict."
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Violence may flare up in the southern provinces of Thailand due to ongoing sectarian and separatist tensions."
+                "title": "Rise in Global Cyber Attacks Exposes Vulnerability of Critical Infrastructure",
+                "risk_level": "High",
+                "summary": "Global cyber attacks targeting critical infrastructure have increased, posing a significant risk to global security and economic stability."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Dueling protests in the capital city of Kazakhstan may attract crowds and draw in counter-protesters, leading to potential unrest."
+                "title": "EU Imposes Sanctions on Russian Individuals Amid Escalating Ukraine Conflict",
+                "risk_level": "High",
+                "summary": "The EU has imposed sanctions on Russian individuals in response to the ongoing conflict in Ukraine, further exacerbating tensions between the two nations."
             }
         ],
         "United States": [
             {
-                "title": "FBI Searches Trump's Estate After Classifying Presidential Docs.",
-                "risk_level": "High",
-                "summary": "The FBI has searched former US President Donald Trump's estate Mar-a-Lago in Palm Beach, Florida. This move came after the Justice Department said it was investigating whether Trump mishandled presidential documents, potentially violating federal laws. The raid has sparked controversy and debate in the US about presidential powers, executive privilege, and potential investigations involving the former president."
-            },
-            {
-                "title": "US to Provide $400 Million in Military Aid to Ukraine Amid Ongoing Russia Invasion",
-                "risk_level": "High",
-                "summary": "The US government has announced a new package of military aid to Ukraine worth $400 million, as the country continues to face intense Russian aggression. The move aims to bolster Ukraine's defenses and show strong support for the Ukrainian people in their fight for sovereignty and territorial integrity."
-            },
-            {
-                "title": "Racial Tensions Rise in US After Memphis Police Beating Death",
+                "title": "Biden Signs Bipartisan Gun Safety Bill into Law",
                 "risk_level": "Medium",
-                "summary": "Racial tensions have flared in the US after the recent police beating death of a Black man in Memphis. The incident has sparked widespread protests and calls for police reform, highlighting ongoing issues of systemic racism and police brutality in the US."
+                "summary": "President Biden has signed the Bipartisan Safer Communities Act, a gun safety bill aimed at reducing gun violence, particularly among children and young adults. The bill was signed into law on June 25, 2022, amidst growing concerns about gun control and public safety in the United States."
+            },
+            {
+                "title": "Twitter Data Breach Exposed Users' Private Data",
+                "risk_level": "High",
+                "summary": "A new report suggests that Twitter users' private data was exposed due to a data breach that occurred in November 2022. The breach, which occurred under Elon Musk's ownership, exposed sensitive information about users, including their phone numbers and email addresses."
+            },
+            {
+                "title": "US Airstrikes Target Iranian-Kurdish Militia in Iraq",
+                "risk_level": "High",
+                "summary": "The United States has conducted airstrikes against an Iranian-backed Kurdish militia in Iraq, sparking concerns about escalating tensions between the US and Iran. The strikes were carried out on June 27, 2023, in response to rocket attacks on US personnel in Iraq."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's Missile Launch",
-                "risk_level": "High",
-                "summary": "North Korea launched an intermediate-range ballistic missile off its east coast, drawing condemnation from the U.S. and its allies."
-            },
-            {
-                "title": "South Korean Parliament Approves Defense Budget",
+                "title": "North Korea Missile Test Raises Tensions",
                 "risk_level": "Medium",
-                "summary": "The South Korean parliament has approved a defense budget of 63.4 trillion won (USD 47.3 billion) for next year, up 6.8% from this year's budget"
+                "summary": "North Korea fired a ballistic missile, prompting condemnation from the international community. The move raises concerns about regional stability and security."
             },
             {
-                "title": "Protests held for the South Korean government's response to the economy",
-                "risk_level": "Low",
-                "summary": "Protests held in response to the South Korean government's response to the economy, showing growing public dissatisfaction in domestic policy issues"
+                "title": "South Korea Protests Against Government Labor Policies",
+                "risk_level": "High",
+                "summary": "Hundreds of thousands of protesters took to the streets in South Korea to express opposition to the government's labor policies, highlighting growing social unrest and tensions."
+            },
+            {
+                "title": "COVID-19 Cases Surge in South Korea Amid Holiday Season",
+                "risk_level": "Medium",
+                "summary": "South Korea has seen a significant increase in COVID-19 cases due to the recent holiday season, prompting concerns about the country's healthcare system and economic recovery."
             }
         ],
         "Japan": [
             {
-                "title": "Kyoto University's AI Researcher Arrested for Hacking",
+                "title": "Ruling Party Favors Delay in Tax Reform to Focus on Economy",
                 "risk_level": "High",
-                "summary": "A researcher at Kyoto University's Artificial Intelligence Research Center has been arrested for allegedly hacking into the university's computer system, highlighting concerns about cybersecurity in Japan."
+                "summary": "Japan’s ruling Liberal Democratic Party may delay tax reforms, prioritizing economic stability over a potential increase in taxes."
             },
             {
-                "title": "Japan's Defense Minister Visits Japan-U.S. Military Base Amid Tensions with China",
-                "risk_level": "Medium",
-                "summary": "Japan's Defense Minister visited a joint U.S.-Japan military base in Okinawa, demonstrating the country's commitment to security cooperation with the U.S. while tensions with China persist."
+                "title": "Japan to Enhance Cybersecurity Measures to Counter Rising Threats",
+                "risk_level": "High",
+                "summary": "Following recent cyberattacks in Japan, the country is stepping up its cybersecurity measures to protect against the growing number of threats."
             },
             {
-                "title": "Thousands Protest in Tokyo Against Japan's Military Buildup",
-                "risk_level": "Low",
-                "summary": "A small but vocal protest took place in Tokyo, as activists expressed their concerns about Japan's military modernization and its implications for regional stability and global security."
+                "title": "Tokyo Subways to Implement New Security Measures After Train Station Attack",
+                "risk_level": "High",
+                "summary": "Tokyo’s public transport system will introduce new security measures following a recent attack on a train station, aiming to prevent future incidents."
             }
         ]
     }
