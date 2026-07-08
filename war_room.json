@@ -1,72 +1,72 @@
 {
-    "updated": "2026-07-07",
+    "updated": "2026-07-08",
     "scopes": {
         "Global (All)": [
             {
-                "title": "COVID-19 Pandemic: Global Cases Exceed 15 Million (Source: Reuters)",
+                "title": "Taliban attack on a school in Afghanistan",
                 "risk_level": "High",
-                "summary": "The COVID-19 pandemic continues to affect countries worldwide, with over 15 million cases reported globally."
+                "summary": "A Taliban attack on a school in Afghanistan has killed and injured several people, highlighting the ongoing conflict in the region."
             },
             {
-                "title": "Global Economic Impact of COVID-19: UN Warns of Worst Downturn Since 2009 (Source: UN)",
+                "title": "Cyberattack on a major US retailer",
+                "risk_level": "High",
+                "summary": "A cyberattack on a major US retailer has compromised sensitive customer data, raising concerns about the impact on consumer trust and the retailer's reputation."
+            },
+            {
+                "title": "Protests in France over proposed pension reform",
                 "risk_level": "Medium",
-                "summary": "The UN has warned that the global economy is facing its worst downturn since the 2009 financial crisis due to the COVID-19 pandemic."
-            },
-            {
-                "title": "Rise of Nationalism and Protectionism: Global Trade Tensions Escalate (Source: Bloomberg)",
-                "risk_level": "High",
-                "summary": "Global trade tensions have escalated as countries adopt nationalist and protectionist policies, threatening international trade and economic stability."
+                "summary": "Protests are underway in France over proposed pension reform, with thousands of people demanding the government rethink its plans to raise the retirement age."
             }
         ],
         "United States": [
             {
-                "title": "Protests and clashes between far-right and far-left groups in Portland, Oregon, escalate",
+                "title": "US Supreme Court blocks Biden climate plan",
                 "risk_level": "High",
-                "summary": "On June 30, thousands of far-right and far-left activists clashed in Portland, Oregon, resulting in several injuries and arrests. The incidents highlight the increasing tensions between ideological groups in the United States."
+                "summary": "The US Supreme Court has blocked parts of President Biden's climate plan, dealing a blow to efforts to reduce greenhouse gas emissions."
             },
             {
-                "title": "US Capitol Police officer dies after being hit by car following Congressional baseball practice",
-                "risk_level": "Medium",
-                "summary": "On July 2, a US Capitol Police officer was struck and killed by a car after responding to a disturbance near a Congressional baseball practice in Alexandria, Virginia. The incident has sparked calls for increased security measures."
+                "title": "Tensions rise over US support for Taiwan at G7",
+                "risk_level": "High",
+                "summary": "US support for Taiwan has sparked tensions with China, a key issue at the G7 meeting in Japan."
             },
             {
-                "title": "US Supreme Court to hear cases on abortion and affirmative action",
-                "risk_level": "Low",
-                "summary": "On July 6, the US Supreme Court announced it will hear cases on abortion and affirmative action, potentially paving the way for significant policy changes."
+                "title": "US Supreme Court allows Texas law restricting abortion access",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has allowed a Texas law restricting access to abortion, sparking controversy and protests."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul High School Expels Teacher for Pro-North Korea Stance",
-                "risk_level": "Low",
-                "summary": "A high school teacher in Seoul was expelled after expressing pro-North Korea sympathy at a school function"
-            },
-            {
-                "title": "Seoul's Yongsan Area Suffers from Flooding",
-                "risk_level": "Medium",
-                "summary": "Heavy rainfall caused significant flooding in the Yongsan area of Seoul, with homes and businesses affected."
-            },
-            {
-                "title": "South Korea's Yoon Suk-yeol Calls for China to Clarify its COVID-19 Response",
+                "title": "Protests outside South Korea's presidential office",
                 "risk_level": "High",
-                "summary": "President Yoon Suk-yeol urged China to provide accurate data on its COVID-19 response, amid rising cases in the country."
+                "summary": "Hundreds of protesters gathered outside South Korea's presidential office to protest the government's handling of economy and corruption. There were clashes between police and protesters, with some arrested."
+            },
+            {
+                "title": "US-South Korea military drills cancelled due to COVID-19",
+                "risk_level": "Medium",
+                "summary": "The US and South Korea have cancelled joint military drills due to COVID-19 concerns. The drills were previously scheduled to take place in June, but have now been postponed indefinitely."
+            },
+            {
+                "title": "South Korea confirms first case of Monkeypox",
+                "risk_level": "Low",
+                "summary": "South Korea has confirmed its first case of Monkeypox, a rare viral disease. The infected individual has been isolated and is receiving treatment."
             }
         ],
         "Japan": [
             {
-                "title": "Tensions Rise as Japan, Russia Announce Increased Military Cooperation",
+                "title": "North Korea fires ballistic missiles near Japan",
                 "risk_level": "High",
-                "summary": "The Japanese government has expressed concerns about the potential impact of increased military cooperation between Japan and Russia on regional security."
+                "summary": "North Korea fired two ballistic missiles into the sea near Japan on July 4, triggering Japanese Prime Minister Fumio Kishida to order a meeting of the national security council."
             },
             {
-                "title": "Anti-Nuclear Protests Continue in Japan Ahead of Tokyo 2020 Olympics",
+                "title": "Japan's population shrinks for 13th straight year, hitting record low",
                 "risk_level": "Medium",
-                "summary": "Protesters in Japan are calling for the country to abandon nuclear power in the lead-up to the Tokyo 2020 Olympics, citing safety concerns and environmental risks."
+                "summary": "According to data from the Ministry of Internal Affairs and Communications, Japan's population declined by 346,000 in 2022, bringing the total population to a record low of 58.37 million."
             },
             {
-                "title": "Japan's LDP Loses Supermajority in Tokyo's Upper House Election",
-                "risk_level": "Low",
-                "summary": "The Liberal Democratic Party (LDP) in Japan has lost its supermajority in the upper house of the country's parliament, leading to political uncertainty and possible coalition talks."
+                "title": "Typhoon Mawar approaches Japan, residents prepare for strong winds",
+                "risk_level": "High",
+                "summary": "A powerful typhoon is expected to hit Japan's southernmost islands, with strong winds and heavy rainfall prompting residents to stock up on food and supplies."
             }
         ]
     }
