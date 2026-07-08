@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Taliban attack on a school in Afghanistan",
+                "title": "Conflict escalates between Armenia and Azerbaijan",
                 "risk_level": "High",
-                "summary": "A Taliban attack on a school in Afghanistan has killed and injured several people, highlighting the ongoing conflict in the region."
+                "summary": "Tensions between Armenian and Azerbaijani forces continue in Nagorno-Karabakh, with reports of artillery strikes and civilian casualties."
             },
             {
-                "title": "Cyberattack on a major US retailer",
+                "title": "Protests breakout in several cities in China",
                 "risk_level": "High",
-                "summary": "A cyberattack on a major US retailer has compromised sensitive customer data, raising concerns about the impact on consumer trust and the retailer's reputation."
+                "summary": "Demonstrations against COVID-19 policies have spread to multiple cities in China, with reports of clashes between protesters and security forces."
             },
             {
-                "title": "Protests in France over proposed pension reform",
-                "risk_level": "Medium",
-                "summary": "Protests are underway in France over proposed pension reform, with thousands of people demanding the government rethink its plans to raise the retirement age."
+                "title": "Migrant crisis intensifies at Polish-Belarusian border",
+                "risk_level": "High",
+                "summary": "A surge in migrant crossings at the border has led to clashes between migrants and border guards, with reports of use of tear gas and rubber bullets."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court blocks Biden climate plan",
+                "title": "Escalating Tensions between US and China over Taiwan",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has blocked parts of President Biden's climate plan, dealing a blow to efforts to reduce greenhouse gas emissions."
+                "summary": "The US has approved a $1.1 billion arms sale to Taiwan, further straining relations with China, which views the island as a part of its territory. This move has heightened tensions between the two global powers, increasing the risk of a conflict in the Asia-Pacific region."
             },
             {
-                "title": "Tensions rise over US support for Taiwan at G7",
-                "risk_level": "High",
-                "summary": "US support for Taiwan has sparked tensions with China, a key issue at the G7 meeting in Japan."
+                "title": "Biden Faces Backlash over Handling of US-Mexico Border Crisis",
+                "risk_level": "Medium",
+                "summary": "President Biden is facing criticism from both Democrats and Republicans over his administration's handling of the ongoing US-Mexico border crisis, which has seen a surge in migration and a increase in deaths among migrants attempting to cross the border."
             },
             {
-                "title": "US Supreme Court allows Texas law restricting abortion access",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has allowed a Texas law restricting access to abortion, sparking controversy and protests."
+                "title": "Supreme Court Ruling on Abortion Expected to Spark Protests",
+                "risk_level": "Medium",
+                "summary": "The US Supreme Court is set to release its ruling on a case that could overturn or weaken Roe v. Wade, the landmark decision that legalized abortion in the US. This ruling is expected to spark protests and unrest across the country, with many fearing the potential loss of reproductive rights for women."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests outside South Korea's presidential office",
+                "title": "North Korea missile launch, South Korea on high alert",
                 "risk_level": "High",
-                "summary": "Hundreds of protesters gathered outside South Korea's presidential office to protest the government's handling of economy and corruption. There were clashes between police and protesters, with some arrested."
+                "summary": "South Korea is on high alert after North Korea launched a ballistic missile into the Sea of Japan. The launch is a significant escalation of tensions between the two countries and raises concerns about regional security."
             },
             {
-                "title": "US-South Korea military drills cancelled due to COVID-19",
+                "title": "South Korea's President to meet with US Secretary of State amid rising tensions",
                 "risk_level": "Medium",
-                "summary": "The US and South Korea have cancelled joint military drills due to COVID-19 concerns. The drills were previously scheduled to take place in June, but have now been postponed indefinitely."
+                "summary": "South Korea's President Yoon Suk Yeol is set to meet with US Secretary of State Antony Blinken to discuss regional security and the growing threat from North Korea. The meeting is seen as an opportunity for the two nations to strengthen their alliance and improve coordination on regional issues."
             },
             {
-                "title": "South Korea confirms first case of Monkeypox",
-                "risk_level": "Low",
-                "summary": "South Korea has confirmed its first case of Monkeypox, a rare viral disease. The infected individual has been isolated and is receiving treatment."
+                "title": "Protest over labor rights in South Korea turns violent",
+                "risk_level": "High",
+                "summary": "A large-scale protest over labor rights in South Korea turned violent as demonstrators clashed with police. The protest highlighted the growing tensions between labor unions and the government, which has been pushing for economic reform and deregulation."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires ballistic missiles near Japan",
+                "title": "Tensions Rise Between Japan and Russia Over Disputed Islands",
                 "risk_level": "High",
-                "summary": "North Korea fired two ballistic missiles into the sea near Japan on July 4, triggering Japanese Prime Minister Fumio Kishida to order a meeting of the national security council."
+                "summary": "Japan and Russia have a long-standing dispute over territories, including the Kuril Islands, which were seized by the Soviet Union at the end of World War II. The recent escalation of tensions between the two nations has raised concerns about the potential for conflict."
             },
             {
-                "title": "Japan's population shrinks for 13th straight year, hitting record low",
+                "title": "Japan's Population Decline Accelerates, Raising Concerns About Aging Population",
+                "risk_level": "High",
+                "summary": "Japan's population decline has accelerated in recent years, with the country's total fertility rate (TFR) falling to a record low of 1.0 in 2022. This has raised concerns about the country's ability to support its aging population and maintain economic growth."
+            },
+            {
+                "title": "Japan Passes Law to Strengthen Counter-Terrorism Measures",
                 "risk_level": "Medium",
-                "summary": "According to data from the Ministry of Internal Affairs and Communications, Japan's population declined by 346,000 in 2022, bringing the total population to a record low of 58.37 million."
-            },
-            {
-                "title": "Typhoon Mawar approaches Japan, residents prepare for strong winds",
-                "risk_level": "High",
-                "summary": "A powerful typhoon is expected to hit Japan's southernmost islands, with strong winds and heavy rainfall prompting residents to stock up on food and supplies."
+                "summary": "Japan has passed a law to strengthen its counter-terrorism measures, including the creation of a new agency to coordinate counter-terrorism efforts and the expansion of surveillance powers. The law has been criticized by some as an overreach of government authority."
             }
         ]
     }
