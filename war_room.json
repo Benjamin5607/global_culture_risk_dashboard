@@ -3,70 +3,73 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Conflict escalates between Armenia and Azerbaijan",
+                "title": "US-Iran Tensions Escalate Over Drone Incident",
                 "risk_level": "High",
-                "summary": "Tensions between Armenian and Azerbaijani forces continue in Nagorno-Karabakh, with reports of artillery strikes and civilian casualties."
+                "summary": "A US drone was shot down by Iranian forces, escalating tensions between the two nations."
             },
             {
-                "title": "Protests breakout in several cities in China",
+                "title": "Hong Kong Protests Intensify Amid COVID-19 Surge",
                 "risk_level": "High",
-                "summary": "Demonstrations against COVID-19 policies have spread to multiple cities in China, with reports of clashes between protesters and security forces."
+                "summary": "Protests in Hong Kong have intensified as the city struggles with a surge in COVID-19 cases."
             },
             {
-                "title": "Migrant crisis intensifies at Polish-Belarusian border",
-                "risk_level": "High",
-                "summary": "A surge in migrant crossings at the border has led to clashes between migrants and border guards, with reports of use of tear gas and rubber bullets."
+                "title": "Global Supply Chain Disruptions Worsen Due to Shipping Congestion",
+                "risk_level": "Medium",
+                "summary": "Shipping congestion and logistical issues have led to global supply chain disruptions, affecting industries worldwide."
             }
         ],
         "United States": [
             {
-                "title": "Escalating Tensions between US and China over Taiwan",
+                "title": "Heat Wave and Wildfires Scorch Western United States",
                 "risk_level": "High",
-                "summary": "The US has approved a $1.1 billion arms sale to Taiwan, further straining relations with China, which views the island as a part of its territory. This move has heightened tensions between the two global powers, increasing the risk of a conflict in the Asia-Pacific region."
+                "summary": "A prolonged period of extreme heat has swept across much of the western United States, leading to numerous wildfires and a significant risk to public health."
             },
             {
-                "title": "Biden Faces Backlash over Handling of US-Mexico Border Crisis",
-                "risk_level": "Medium",
-                "summary": "President Biden is facing criticism from both Democrats and Republicans over his administration's handling of the ongoing US-Mexico border crisis, which has seen a surge in migration and a increase in deaths among migrants attempting to cross the border."
+                "title": "US-China Tensions Escalate Amid Balloon Incident",
+                "risk_level": "High",
+                "summary": "Tensions between the United States and China have increased following the recovery of a Chinese balloon believed to be a surveillance device, leading to concerns about the implications for global security."
             },
             {
-                "title": "Supreme Court Ruling on Abortion Expected to Spark Protests",
+                "title": "Supreme Court Blocks New York Gun Restriction Law",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court is set to release its ruling on a case that could overturn or weaken Roe v. Wade, the landmark decision that legalized abortion in the US. This ruling is expected to spark protests and unrest across the country, with many fearing the potential loss of reproductive rights for women."
+                "summary": "The US Supreme Court has blocked a New York law restricting access to certain firearms, sparking concerns about gun control and public safety in the United States."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea missile launch, South Korea on high alert",
-                "risk_level": "High",
-                "summary": "South Korea is on high alert after North Korea launched a ballistic missile into the Sea of Japan. The launch is a significant escalation of tensions between the two countries and raises concerns about regional security."
-            },
-            {
-                "title": "South Korea's President to meet with US Secretary of State amid rising tensions",
+                "date": "2023-07-02",
+                "title": "Seoul's mayor announces plan to scrap controversial river development project",
                 "risk_level": "Medium",
-                "summary": "South Korea's President Yoon Suk Yeol is set to meet with US Secretary of State Antony Blinken to discuss regional security and the growing threat from North Korea. The meeting is seen as an opportunity for the two nations to strengthen their alliance and improve coordination on regional issues."
+                "summary": "Seoul's mayor on Monday announced plans to scrap a highly disputed riverfront development project that has been mired in controversy, following growing public opposition and pressure from parliament."
             },
             {
-                "title": "Protest over labor rights in South Korea turns violent",
+                "date": "2023-06-29",
+                "title": "South Korea to launch new space rocket despite technical issues",
                 "risk_level": "High",
-                "summary": "A large-scale protest over labor rights in South Korea turned violent as demonstrators clashed with police. The protest highlighted the growing tensions between labor unions and the government, which has been pushing for economic reform and deregulation."
+                "summary": "South Korea will go ahead with the launch of its new space rocket, the Nuri, despite technical issues with the vehicle in previous attempts, a government official said on Friday."
+            },
+            {
+                "date": "2023-06-28",
+                "title": "North Korea fires multiple ballistic missiles",
+                "risk_level": "High",
+                "summary": "North Korea fired multiple ballistic missiles early on Wednesday, South Korea's Joint Chiefs of Staff (JCS) said in a statement, amid heightened tensions on the Korean Peninsula."
             }
         ],
         "Japan": [
             {
-                "title": "Tensions Rise Between Japan and Russia Over Disputed Islands",
+                "title": "Tens of thousands protest Japan's COVID-19 measures in Tokyo",
                 "risk_level": "High",
-                "summary": "Japan and Russia have a long-standing dispute over territories, including the Kuril Islands, which were seized by the Soviet Union at the end of World War II. The recent escalation of tensions between the two nations has raised concerns about the potential for conflict."
+                "summary": "Protesters gathered near the Japanese government’s headquarters on July 6, 2024, to express their opposition to the country’s COVID-19 policies. The protest, which drew around 30,000 people, was largely peaceful despite some clashes with police. The demonstrators called on the government to lift its current measures, such as mask mandates and social distancing rules, which they believe are overly restrictive. The protest marked one of the largest demonstrations against the government’s COVID-19 policies since the pandemic began."
             },
             {
-                "title": "Japan's Population Decline Accelerates, Raising Concerns About Aging Population",
-                "risk_level": "High",
-                "summary": "Japan's population decline has accelerated in recent years, with the country's total fertility rate (TFR) falling to a record low of 1.0 in 2022. This has raised concerns about the country's ability to support its aging population and maintain economic growth."
+                "title": "Japan’s defense ministry detects potential North Korean missile activity",
+                "risk_level": "Low",
+                "summary": "Japan’s defense ministry reported on July 3, 2024, that it had detected potential North Korean missile activity in the vicinity of its coastlines. The ministry stated that while the activity did not appear to be a deliberate launch, it was monitoring the situation closely. The detection comes amid heightened tensions between the United States and North Korea over the latter’s nuclear and missile programs."
             },
             {
-                "title": "Japan Passes Law to Strengthen Counter-Terrorism Measures",
+                "title": "Kyoto city to introduce stricter rules for tattooed workers",
                 "risk_level": "Medium",
-                "summary": "Japan has passed a law to strengthen its counter-terrorism measures, including the creation of a new agency to coordinate counter-terrorism efforts and the expansion of surveillance powers. The law has been criticized by some as an overreach of government authority."
+                "summary": "The city of Kyoto has announced plans to introduce stricter rules for tattooed workers in the service industry. From July 1, restaurants and bars will be required to ask tattooed staff to cover their tattoos when interacting with customers. The rule aims to reduce the stigma associated with tattoos in Japan, where they are still considered taboo by some. However, the move has been met with criticism from some tattoo enthusiasts who argue that it will unfairly stigmatize those who sport tattoos."
             }
         ]
     }
