@@ -3,73 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-Iran Tensions Escalate Over Drone Incident",
+                "title": "Rise in global tensions between nations",
                 "risk_level": "High",
-                "summary": "A US drone was shot down by Iranian forces, escalating tensions between the two nations."
+                "summary": "Tensions have been escalating between several world powers, sparking fears of a potential conflict."
             },
             {
-                "title": "Hong Kong Protests Intensify Amid COVID-19 Surge",
-                "risk_level": "High",
-                "summary": "Protests in Hong Kong have intensified as the city struggles with a surge in COVID-19 cases."
-            },
-            {
-                "title": "Global Supply Chain Disruptions Worsen Due to Shipping Congestion",
+                "title": "Cyberattack on major corporations",
                 "risk_level": "Medium",
-                "summary": "Shipping congestion and logistical issues have led to global supply chain disruptions, affecting industries worldwide."
+                "summary": "A severe cyberattack has hit several major corporations, compromising sensitive data and disrupting operations."
+            },
+            {
+                "title": "Protests over human rights abuses",
+                "risk_level": "High",
+                "summary": "Protests have erupted in several countries over allegations of human rights abuses by governments, with clashes between protesters and security forces."
             }
         ],
         "United States": [
             {
-                "title": "Heat Wave and Wildfires Scorch Western United States",
+                "title": "Escalating Tensions between US and Iran after a US drone was shot down",
                 "risk_level": "High",
-                "summary": "A prolonged period of extreme heat has swept across much of the western United States, leading to numerous wildfires and a significant risk to public health."
+                "summary": "The US drone was shot down over international waters in the Persian Gulf, further straining relations between the two countries."
             },
             {
-                "title": "US-China Tensions Escalate Amid Balloon Incident",
+                "title": "Gunman Kills 6 in US Mass Shooting in California",
                 "risk_level": "High",
-                "summary": "Tensions between the United States and China have increased following the recovery of a Chinese balloon believed to be a surveillance device, leading to concerns about the implications for global security."
+                "summary": "A gunman opened fire at two locations in the California city of Half Moon Bay, killing six people and injuring several others."
             },
             {
-                "title": "Supreme Court Blocks New York Gun Restriction Law",
+                "title": "Protests Erupt in Washington D.C. over Supreme Court Ruling on Abortion",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court has blocked a New York law restricting access to certain firearms, sparking concerns about gun control and public safety in the United States."
+                "summary": "Large crowds gathered in front of the US Supreme Court building to protest the overturning of Roe v. Wade, with some clashes between protesters and police reported."
             }
         ],
         "South Korea": [
             {
-                "date": "2023-07-02",
-                "title": "Seoul's mayor announces plan to scrap controversial river development project",
+                "title": "Seoul and Busan impose fine on people without masks in public places",
+                "risk_level": "Low",
+                "summary": "To contain the COVID-19 omicron variant, Seoul and Busan have imposed fines on people without masks in public places from May 10. This move is part of South Korea's efforts to contain the spread of COVID-19."
+            },
+            {
+                "title": "N. Korea conducts underwater nuclear explosion test",
+                "risk_level": "High",
+                "summary": "North Korea has announced that it conducted an underwater nuclear explosion test. This move raises concerns about N. Korea's nuclear capabilities."
+            },
+            {
+                "title": "S.Korean military to launch new Aegis destroyer by 2027",
                 "risk_level": "Medium",
-                "summary": "Seoul's mayor on Monday announced plans to scrap a highly disputed riverfront development project that has been mired in controversy, following growing public opposition and pressure from parliament."
-            },
-            {
-                "date": "2023-06-29",
-                "title": "South Korea to launch new space rocket despite technical issues",
-                "risk_level": "High",
-                "summary": "South Korea will go ahead with the launch of its new space rocket, the Nuri, despite technical issues with the vehicle in previous attempts, a government official said on Friday."
-            },
-            {
-                "date": "2023-06-28",
-                "title": "North Korea fires multiple ballistic missiles",
-                "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles early on Wednesday, South Korea's Joint Chiefs of Staff (JCS) said in a statement, amid heightened tensions on the Korean Peninsula."
+                "summary": "South Korea's military is planning to launch a new Aegis destroyer by 2027 to strengthen its defenses against potential threats from North Korea."
             }
         ],
         "Japan": [
             {
-                "title": "Tens of thousands protest Japan's COVID-19 measures in Tokyo",
+                "title": "North Korea Fires Missile Over Japan",
                 "risk_level": "High",
-                "summary": "Protesters gathered near the Japanese government’s headquarters on July 6, 2024, to express their opposition to the country’s COVID-19 policies. The protest, which drew around 30,000 people, was largely peaceful despite some clashes with police. The demonstrators called on the government to lift its current measures, such as mask mandates and social distancing rules, which they believe are overly restrictive. The protest marked one of the largest demonstrations against the government’s COVID-19 policies since the pandemic began."
+                "summary": "North Korea has fired a ballistic missile into the Sea of Japan, sparking widespread concern in the region. The US, Japan, and South Korea have condemned the launch, which raises tensions in the region."
             },
             {
-                "title": "Japan’s defense ministry detects potential North Korean missile activity",
-                "risk_level": "Low",
-                "summary": "Japan’s defense ministry reported on July 3, 2024, that it had detected potential North Korean missile activity in the vicinity of its coastlines. The ministry stated that while the activity did not appear to be a deliberate launch, it was monitoring the situation closely. The detection comes amid heightened tensions between the United States and North Korea over the latter’s nuclear and missile programs."
-            },
-            {
-                "title": "Kyoto city to introduce stricter rules for tattooed workers",
+                "title": "Japan's PM Fumio Kishida Visits US, Discusses Security",
                 "risk_level": "Medium",
-                "summary": "The city of Kyoto has announced plans to introduce stricter rules for tattooed workers in the service industry. From July 1, restaurants and bars will be required to ask tattooed staff to cover their tattoos when interacting with customers. The rule aims to reduce the stigma associated with tattoos in Japan, where they are still considered taboo by some. However, the move has been met with criticism from some tattoo enthusiasts who argue that it will unfairly stigmatize those who sport tattoos."
+                "summary": "Japanese Prime Minister Fumio Kishida has visited the US, meeting with President Joe Biden to discuss regional security and cooperation. The visit comes as tensions remain high in the Asia-Pacific region."
+            },
+            {
+                "title": "Protests Erupt in Japan Over New Nuclear Power Plant",
+                "risk_level": "Medium",
+                "summary": "Protests have erupted in Japan over the planned construction of a new nuclear power plant, with environmental activists and local residents expressing concerns about safety and the potential impact on the local community."
             }
         ]
     }
