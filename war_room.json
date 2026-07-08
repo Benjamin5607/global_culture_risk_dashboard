@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Increased tensions between the US and Iran",
-                "risk_level": "High",
-                "summary": "Recent military drills and nuclear threats have escalated tensions between the two nations."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Global economic downturn predictions",
-                "risk_level": "High",
-                "summary": "Leading economists are warning of a global recession due to rising inflation and trade wars."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Surge in COVID-19 cases in Europe",
-                "risk_level": "Medium",
-                "summary": "New variants of the virus are spreading rapidly across the continent, prompting governments to take action."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court blocks Biden administration's student loan forgiveness plan",
+                "title": "Rising tensions between US and Iran regarding drone incident",
                 "risk_level": "High",
-                "summary": "The US Supreme Court on Friday blocked the Biden administration's plan to forgive $430 billion in student loans, delivering a significant blow to the White House's effort to ease a major source of financial stress for millions of Americans."
+                "summary": "US and Iran have raised their military postures in the Persian Gulf amid tensions over a US drone that went missing in the region."
             },
             {
-                "title": "US warns of potential 'malign activity' by Chinese spies at Olympics",
-                "risk_level": "High",
-                "summary": "The US Federal Bureau of Investigation (FBI) has warned potential targets that Chinese spies may be active at this summer's Olympics in the United States."
+                "title": "Multiple shootings in US cities, raising concerns about gun violence",
+                "risk_level": "Medium",
+                "summary": "There were several shootings in major US cities, including Chicago and New York, resulting in multiple injuries and fatalities."
             },
             {
-                "title": "US Justice Department indicts former Honduran President Juan Orlando Hernández on cocaine charges",
+                "title": "Supreme Court overturns Roe v. Wade, sparking widespread protests",
                 "risk_level": "High",
-                "summary": "US prosecutors on charges of drug trafficking and money laundering in a major anti-corruption effort that targeted key figures involved in a powerful Honduran cartel."
+                "summary": "The US Supreme Court has overturned the landmark Roe v. Wade decision, leading to widespread protests and concerns about women's rights."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea missile launches",
+                "title": "N. Korea's ICBM test sparks South Korean concern, prompting emergency security meeting",
                 "risk_level": "High",
-                "summary": "North Korea fired multiple missiles into the sea off the east coast, prompting South Korea and the US to issue a joint statement condemning the launches as a threat to regional stability."
+                "summary": "South Korea held an emergency security meeting as tensions rise with North Korea after the country tested an intercontinental ballistic missile (ICBM). "
             },
             {
-                "title": "Protests in Seoul over government policies",
-                "risk_level": "Medium",
-                "summary": "Large crowds gathered in Seoul to protest against the government's handling of the economy and other policies, with some clashes reported between protesters and police."
+                "title": "South Korea's spy agency warns of North Korean spy ring in the country",
+                "risk_level": "High",
+                "summary": "South Korea's National Intelligence Service (NIS) has warned of a potential North Korean spy ring operating in the country. "
             },
             {
-                "title": "Concerns over COVID-19 cases among military personnel",
+                "title": "Yoon, Biden agree to strengthen cooperation on North Korea",
                 "risk_level": "Medium",
-                "summary": "South Korea has reported a rise in COVID-19 cases among its military personnel, prompting worries about the potential impact on national security."
+                "summary": "South Korean President Yoon Suk Yeol and US President Joe Biden agreed to strengthen their countries' cooperation on North Korea in a phone call. "
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo reports 15,111 new COVID-19 cases, the highest since January ",
+                "title": "North Korea says US, Japan are 'biggest threat'",
                 "risk_level": "High",
-                "summary": "Japan reported 15,111 new COVID-19 cases in Tokyo on June 30, 2024, the highest since January 2024, raising concerns about a possible resurgence of the virus."
+                "summary": "/ The Japanese government has been informed by North Korea that it views the United States and Japan as its 'biggest threat.' This follows a recent surge in missile tests and increased tension in the region."
             },
             {
-                "title": "Protest against Japan's new immigration law in Tokyo",
-                "risk_level": "High",
-                "summary": "Thousands of people protested in Tokyo on June 28, 2024, against Japan's new immigration law, which they argue is harsh and discriminatory towards foreign workers."
-            },
-            {
-                "title": "Rising yen affects Japan's export-led economy",
+                "title": "Omicron subvariant BA.2 spreads in Japan, infects 300,000 people",
                 "risk_level": "Medium",
-                "summary": "Japan's economy is facing a potential slowdown due to the rising yen, which is making exports more expensive and reducing the attractiveness of the country's products in global markets."
+                "summary": "/ The Omicron subvariant BA.2 has spread rapidly in Japan, infecting over 300,000 people in just 6 days, prompting concerns about hospital capacity."
+            },
+            {
+                "title": "Japanese PM's party secures majority in upper house election",
+                "risk_level": "Low",
+                "summary": "/ Fumio Kishida's Liberal Democratic Party secured a majority in Japan's upper house election, boosting his chances of passing key legislative reforms."
             }
         ]
     }
