@@ -1,72 +1,67 @@
 {
-    "updated": "2026-07-08",
+    "updated": "2026-07-09",
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Global Pandemic Concerns Rise as BA.2 Subvariant Spreads",
+                "risk_level": "High",
+                "summary": "The BA.2 subvariant of the Omicron coronavirus is causing concern globally, leading to a rise in pandemic-related risks."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Growing Tensions Between the US and China",
+                "risk_level": "High",
+                "summary": "The US and China are increasingly at odds over issues such as trade, security, and human rights, leading to heightened tensions."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Increased Cyberattacks Targeting Global Companies",
+                "risk_level": "Medium",
+                "summary": "Global companies are experiencing a surge in cyberattacks, with hackers targeting sensitive data and disrupting business operations."
             }
         ],
         "United States": [
             {
-                "title": "Rising tensions between US and Iran regarding drone incident",
-                "risk_level": "High",
-                "summary": "US and Iran have raised their military postures in the Persian Gulf amid tensions over a US drone that went missing in the region."
-            },
-            {
-                "title": "Multiple shootings in US cities, raising concerns about gun violence",
+                "title": "US House Committee Votes to Hold Top Trump Aide in Contempt",
                 "risk_level": "Medium",
-                "summary": "There were several shootings in major US cities, including Chicago and New York, resulting in multiple injuries and fatalities."
+                "summary": "A US House committee has voted to hold a top aide to former President Donald Trump in contempt, escalating a legal dispute between the two over documents seized by the FBI during a search of Trump's Florida estate."
             },
             {
-                "title": "Supreme Court overturns Roe v. Wade, sparking widespread protests",
+                "title": "US House Passes Bill to Protect Same-Sex Marriage",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has overturned the landmark Roe v. Wade decision, leading to widespread protests and concerns about women's rights."
+                "summary": "The US House of Representatives has passed a bill to protect same-sex marriage, which now heads to the Senate. The bill aims to ensure that same-sex couples have the same rights as heterosexual couples in marriage equality, which has been a contentious issue in the US."
+            },
+            {
+                "title": "US Supreme Court Blocks Biden's Student Loan Cancellation Plan",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has blocked President Joe Biden's plan to cancel up to $20,000 in student loan debt for millions of Americans, a move that had been hailed as a major victory for student loan debtors."
             }
         ],
         "South Korea": [
             {
-                "title": "N. Korea's ICBM test sparks South Korean concern, prompting emergency security meeting",
+                "title": "South Korea's President Yoon Orders Military to be on High Alert After North Korea's Missile Test",
                 "risk_level": "High",
-                "summary": "South Korea held an emergency security meeting as tensions rise with North Korea after the country tested an intercontinental ballistic missile (ICBM). "
+                "summary": "South Korea's President Yoon Suk-yeol has ordered the military to be on high alert after North Korea launched a ballistic missile into the Sea of Japan."
             },
             {
-                "title": "South Korea's spy agency warns of North Korean spy ring in the country",
-                "risk_level": "High",
-                "summary": "South Korea's National Intelligence Service (NIS) has warned of a potential North Korean spy ring operating in the country. "
-            },
-            {
-                "title": "Yoon, Biden agree to strengthen cooperation on North Korea",
+                "title": "Seoul Protests Against South Korea-Japan Trade Deal Amid Rising Tensions",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk Yeol and US President Joe Biden agreed to strengthen their countries' cooperation on North Korea in a phone call. "
+                "summary": "Thousands of protesters gathered in Seoul to demonstrate against a new trade deal between South Korea and Japan, amid rising tensions between the two countries."
+            },
+            {
+                "title": "South Korea Condemns Russia's Invasion of Ukraine as 'Criminal' and 'Unacceptable'",
+                "risk_level": "Low",
+                "summary": "South Korea's government condemned Russia's invasion of Ukraine, calling it 'criminal' and 'unacceptable', and reiterated its support for the international community in calling for a peaceful resolution to the conflict."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea says US, Japan are 'biggest threat'",
-                "risk_level": "High",
-                "summary": "/ The Japanese government has been informed by North Korea that it views the United States and Japan as its 'biggest threat.' This follows a recent surge in missile tests and increased tension in the region."
-            },
-            {
-                "title": "Omicron subvariant BA.2 spreads in Japan, infects 300,000 people",
+                "title": "Japan's LDP Loses 2/3 Majority in Upper House Elections",
                 "risk_level": "Medium",
-                "summary": "/ The Omicron subvariant BA.2 has spread rapidly in Japan, infecting over 300,000 people in just 6 days, prompting concerns about hospital capacity."
+                "summary": "The ruling Liberal Democratic Party (LDP) lost its two-thirds majority in Japan's upper house elections on July 10, marking a significant setback for Prime Minister Fumio Kishida's government. The LDP secured 103 seats, but its coalition partner, the Komeito party, won only 28 seats."
             },
             {
-                "title": "Japanese PM's party secures majority in upper house election",
+                "title": "Tokyo Governor Yuriko Koike Fails to Win Upper House Seat",
                 "risk_level": "Low",
-                "summary": "/ Fumio Kishida's Liberal Democratic Party secured a majority in Japan's upper house election, boosting his chances of passing key legislative reforms."
+                "summary": "Tokyo Governor Yuriko Koike failed to win a seat in Japan's upper house elections, a setback for her and the Tomin First no To party she leads. Koike's party secured only 1 seat in the 124-seat Tokyo prefectural assembly election held on the same day."
             }
         ]
     }
