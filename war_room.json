@@ -3,70 +3,76 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Downturn",
-                "risk_level": "High",
-                "summary": "The global economic downturn continues, with several countries experiencing recession and high inflation."
-            },
-            {
-                "title": "Cyber Attack on Major Companies",
+                "country": "Ukraine",
+                "title": "US and Germany Rule Out Russian Oil Ban Over Ukraine",
                 "risk_level": "Medium",
-                "summary": "A recent cyber attack has hit several major companies, exposing sensitive customer data and disrupting business operations."
+                "date": "2023-12-01",
+                "summary": "US and Germany rule out implementing a Russian oil ban, a move that has been considered to increase pressure on Russia in its war with Ukraine."
             },
             {
-                "title": "Rising Tensions in Eastern Europe",
+                "country": "China",
+                "title": "Beijing Imposes Travel Bans to Contain Growing Covid-19 Outbreak",
                 "risk_level": "High",
-                "summary": "Rising tensions in Eastern Europe between NATO and Russia have increased the risk of a military conflict and global instability."
+                "date": "2023-11-28",
+                "summary": "China's capital city restricts travel, citing a surge in new COVID-19 infections, as the city struggles to control the spread of the virus."
+            },
+            {
+                "country": "",
+                "title": "Russia to Hold Large-Scale Military Drills in Western Border Regions",
+                "risk_level": "High",
+                "date": "2023-11-29",
+                "summary": "Russia prepares for massive military drills in the western regions of the country, sparking concerns about potential conflict with neighboring countries."
             }
         ],
         "United States": [
             {
-                "title": "Gun Violence in the US Continues to be a Concern",
-                "risk_level": "High",
-                "summary": "A string of mass shootings in the US has raised concerns about gun violence and the need for stricter gun control laws."
+                "title": "Biden Administration Seeks to Boost U.S. Semiconductor Production",
+                "risk_level": "Medium",
+                "summary": "The Biden administration is working on a plan to provide incentives to boost U.S.-based production of semiconductors, following a chip shortage in 2021. The move aims to reduce dependence on Asian suppliers and enhance national security."
             },
             {
-                "title": "Protests Against Abortion Ruling Erupt Across the Country",
+                "title": "House Republicans Introduce Bill to Ban 'BDS' on Government Contracts",
                 "risk_level": "High",
-                "summary": "Protests have erupted in cities across the US in response to the Supreme Court's decision to overturn Roe v. Wade."
+                "summary": "House Republicans have introduced a bill aimed at banning the Boycott, Divestment and Sanctions (BDS) movement on U.S. government contracts, a move seen as a direct challenge to the Biden administration's stance."
             },
             {
-                "title": "US-China Relations Tense as Pelosi Visits Taiwan",
-                "risk_level": "High",
-                "summary": "Tensions between the US and China have escalated after House Speaker Nancy Pelosi visited Taiwan, a move that China sees as a provocation."
+                "title": "FBI Investigates Ransomware Attack on Florida County's IT System",
+                "risk_level": "Medium",
+                "summary": "The FBI is probing a ransomware attack that compromised the IT system of a Florida county's election office, sparking concerns over potential vulnerabilities in the U.S. electoral system."
             }
         ],
         "South Korea": [
             {
-                "title": "N.Korea's ICBM Test Fails",
+                "title": "Protests against South Korean President Yoon Suk-yeol escalates",
                 "risk_level": "Medium",
-                "summary": "Despite reports of an ICBM launch, Pyongyang announced that it had tested a hypersonic gliding warhead, but failed to reach the desired altitude. The failed test raised concerns among the international community, particularly in South Korea and the US. This could lead to tensions escalating between North and South Korea."
+                "summary": "Anti-government protests have intensified in South Korea after President Yoon Suk-yeol pushed to pass the 'economy-first' budget. Protesters fear this will widen the wealth gap and undermine social welfare measures. Police responded with tear gas and water cannons, leading to clashes with demonstrators."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "North Korea fires ballistic missiles amid tensions",
+                "risk_level": "High",
+                "summary": "In a surprise move, North Korea fired two suspected ballistic missiles into the Sea of Japan, prompting a military drill by South Korea and the United States. The incident raised concerns of a heightened risk of conflict."
             },
             {
-                "title": "South Korean parliament passes contentious spy bill",
-                "risk_level": "Low",
-                "summary": "A new spy bill in South Korea has raised concerns regarding national security, privacy, and human rights. The bill allows for the collection and use of citizens' data, which could be misused, raising concerns about privacy and security."
+                "title": "Corruption scandals hit South Korea's finance and politics",
+                "risk_level": "High",
+                "summary": "South Korean authorities have initiated investigations into high-profile corruption scandals involving finance executives and politicians. This scandal has already toppled several high-ranking officials and is seen as a major blow to the country's economic stability and trust in its institutions."
             }
         ],
         "Japan": [
             {
-                "title": "Japan Expels 4 Russian Diplomats",
+                "title": "",
+                "risk_level": "Low",
+                "summary": "A weak earthquake struck northern Japan on Monday, but it caused no damage and there were no reports of injuries, local media said."
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "More than 1,000 people were arrested and 100 companies targeted in a crackdown on organized crime groups in Japan, police said on Monday, amid growing public concern over gangster activities."
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "Japan expels 4 Russian diplomats in response to Russia's decision to expel 4 Japanese diplomats, escalating tensions between the two countries."
-            },
-            {
-                "title": "Japanese Government Faces Opposition Over Proposed Pension Reform",
-                "risk_level": "Medium",
-                "summary": "The Japanese government faces opposition from the opposition parties over a proposed pension reform that aims to increase the pension age and reduce benefits, sparking concerns about the impact on low-income households."
-            },
-            {
-                "title": "Tokyo Reports Over 3,000 COVID-19 Cases, Sparking Concerns About a Potential Sixth Wave",
-                "risk_level": "Medium",
-                "summary": "Tokyo reports over 3,000 COVID-19 cases, sparking concerns about a potential sixth wave of the pandemic in Japan, with health officials urging people to take precautions and get vaccinated."
+                "summary": "A strong earthquake struck Japan on Friday, causing widespread power outages and triggering landslides in the northern island. At least 11 people were killed and several more injured in the disaster."
             }
         ]
     }
