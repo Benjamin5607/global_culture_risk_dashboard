@@ -3,65 +3,54 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Pandemic Concerns Rise as BA.2 Subvariant Spreads",
+                "title": "Global Food Price Rise Due to Ukraine War Impact",
                 "risk_level": "High",
-                "summary": "The BA.2 subvariant of the Omicron coronavirus is causing concern globally, leading to a rise in pandemic-related risks."
+                "summary": "Ukraine conflict fuels global food inflation fears, with wheat prices surging to highest level since 2008. The ongoing war has reduced Ukraine's grain export capacity."
             },
             {
-                "title": "Growing Tensions Between the US and China",
+                "title": "China Power Crisis Deepens Energy Shortage",
                 "risk_level": "High",
-                "summary": "The US and China are increasingly at odds over issues such as trade, security, and human rights, leading to heightened tensions."
+                "summary": "China's energy crisis accelerates, with power outages affecting multiple provinces, impacting economic output and global supply chains."
             },
             {
-                "title": "Increased Cyberattacks Targeting Global Companies",
+                "title": "EU Imposes Fines on Tech Giants Over Data Breaches",
                 "risk_level": "Medium",
-                "summary": "Global companies are experiencing a surge in cyberattacks, with hackers targeting sensitive data and disrupting business operations."
+                "summary": "European Union regulators have handed out hefty fines to major tech companies, including Amazon and Meta, over data breach concerns, raising concerns over data privacy and security."
             }
         ],
-        "United States": [
-            {
-                "title": "US House Committee Votes to Hold Top Trump Aide in Contempt",
-                "risk_level": "Medium",
-                "summary": "A US House committee has voted to hold a top aide to former President Donald Trump in contempt, escalating a legal dispute between the two over documents seized by the FBI during a search of Trump's Florida estate."
-            },
-            {
-                "title": "US House Passes Bill to Protect Same-Sex Marriage",
-                "risk_level": "High",
-                "summary": "The US House of Representatives has passed a bill to protect same-sex marriage, which now heads to the Senate. The bill aims to ensure that same-sex couples have the same rights as heterosexual couples in marriage equality, which has been a contentious issue in the US."
-            },
-            {
-                "title": "US Supreme Court Blocks Biden's Student Loan Cancellation Plan",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has blocked President Joe Biden's plan to cancel up to $20,000 in student loan debt for millions of Americans, a move that had been hailed as a major victory for student loan debtors."
-            }
-        ],
+        "United States": [],
         "South Korea": [
             {
-                "title": "South Korea's President Yoon Orders Military to be on High Alert After North Korea's Missile Test",
-                "risk_level": "High",
-                "summary": "South Korea's President Yoon Suk-yeol has ordered the military to be on high alert after North Korea launched a ballistic missile into the Sea of Japan."
-            },
-            {
-                "title": "Seoul Protests Against South Korea-Japan Trade Deal Amid Rising Tensions",
+                "title": "Suspected N. Korean drone detected near S. Korean border",
                 "risk_level": "Medium",
-                "summary": "Thousands of protesters gathered in Seoul to demonstrate against a new trade deal between South Korea and Japan, amid rising tensions between the two countries."
+                "summary": "South Korea's military detected a suspected North Korean drone near its border, amid heightened tensions between the two nations."
             },
             {
-                "title": "South Korea Condemns Russia's Invasion of Ukraine as 'Criminal' and 'Unacceptable'",
+                "title": "South Korean politician charged over bribery allegations",
                 "risk_level": "Low",
-                "summary": "South Korea's government condemned Russia's invasion of Ukraine, calling it 'criminal' and 'unacceptable', and reiterated its support for the international community in calling for a peaceful resolution to the conflict."
+                "summary": "A South Korean politician has been charged with bribery allegations in a case that has sparked public outrage."
+            },
+            {
+                "title": "South Korea to review military alliance with US",
+                "risk_level": "High",
+                "summary": "South Korea's president has announced plans to review the country's military alliance with the United States, in light of changing global security dynamics."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's LDP Loses 2/3 Majority in Upper House Elections",
+                "title": "Protests against nuclear plants to be held nationwide amid growing concerns about Japan's energy policy",
                 "risk_level": "Medium",
-                "summary": "The ruling Liberal Democratic Party (LDP) lost its two-thirds majority in Japan's upper house elections on July 10, marking a significant setback for Prime Minister Fumio Kishida's government. The LDP secured 103 seats, but its coalition partner, the Komeito party, won only 28 seats."
+                "summary": "Thousands of protesters are expected to hold rallies in Tokyo, Osaka, and other cities against Japan's plan to restart nuclear power plants. The protests, which will take place over the weekend, are expected to draw a large crowd, with organizers expecting up to 100,000 people to participate."
             },
             {
-                "title": "Tokyo Governor Yuriko Koike Fails to Win Upper House Seat",
-                "risk_level": "Low",
-                "summary": "Tokyo Governor Yuriko Koike failed to win a seat in Japan's upper house elections, a setback for her and the Tomin First no To party she leads. Koike's party secured only 1 seat in the 124-seat Tokyo prefectural assembly election held on the same day."
+                "title": "Ransomware attack hits Japan's transportation system, disrupting services",
+                "risk_level": "High",
+                "summary": "A ransomware attack has hit Japan's transportation system, disrupting services and causing delays for passengers. The attack, which occurred on Wednesday, affected multiple train lines and bus services, with operators working to restore normal services as quickly as possible."
+            },
+            {
+                "title": "Japan's inflation rate soars to 40-year high, sparking concerns about economic stability",
+                "risk_level": "High",
+                "summary": "Japan's inflation rate has soared to a 40-year high, sparking concerns about economic stability. The Consumer Price Index (CPI) rose 4.3% in the year to March, exceeding market expectations and raising fears about the impact on households and businesses."
             }
         ]
     }
