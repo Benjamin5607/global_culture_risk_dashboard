@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyberattack on Global Supply Chain Disrupts Operations",
+                "title": "Global Cyberattack Disrupts Key Infrastructure",
                 "risk_level": "High",
-                "summary": "A global cyberattack on a major shipping company has disrupted operations, causing delays and cancellations in the supply chain."
+                "summary": "A sophisticated cyberattack has compromised critical infrastructure in multiple countries, causing widespread disruptions."
             },
             {
-                "title": "Global Protests Against New Trade Agreement Escalate",
+                "title": "Tensions Rise Amid Global Economic Crisis",
                 "risk_level": "High",
-                "summary": "Protests against a new global trade agreement have escalated, with demonstrators clashing with police in several countries."
+                "summary": "Global economic indicators point to a downturn, leading to trade tensions and instability in key economies."
             },
             {
-                "title": "Global Economic Sanctions Implemented Against Rogue State",
-                "risk_level": "High",
-                "summary": "The international community has imposed economic sanctions on a rogue state, citing human rights abuses and destabilizing activities."
+                "title": "Climate Protests Ignite Global Activism",
+                "risk_level": "Medium",
+                "summary": "Increasing climate change protests and activism have led to heightened tensions worldwide, impacting global stability."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Abortion Decision Leak Fears",
+                "title": "US Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
                 "risk_level": "High",
-                "summary": "Reports of a potential leak of the US Supreme Court's abortion decision have sparked fears of unrest and potential violence."
+                "summary": "The US Supreme Court blocked President Biden's plan to forgive up to $20,000 in student loan debt, dealing a significant blow to the White House"
             },
             {
-                "title": "Gun Violence in Chicago",
+                "title": "US and Israel Announce Plans for New Cooperation on Artificial Intelligence",
                 "risk_level": "Medium",
-                "summary": "Multiple shootings in Chicago have resulted in several injuries and fatalities, raising concerns about gun violence and public safety."
+                "summary": "The US and Israel have announced plans to collaborate on artificial intelligence technology"
             },
             {
-                "title": "FBI Whistleblower Allegations of Government Surveillance",
-                "risk_level": "High",
-                "summary": "A recent whistleblower complaint has alleged that the US government is engaging in surveillance of civilians, sparking worries about civil liberties and government overreach."
+                "title": "US and EU Reach Agreement on Steel and Aluminum Tariffs",
+                "risk_level": "Low",
+                "summary": "The US and the European Union have reached a deal to lift tariffs on steel and aluminum imports from the EU"
             }
         ],
         "South Korea": [
             {
-                "title": "North Korean drone spotted near South Korea's border for second consecutive day",
+                "title": "Seoul's mayor resigns amid embezzlement scandal",
                 "risk_level": "High",
-                "summary": "South Korean military spotted a North Korean drone near the border for the second consecutive day, sparking concerns about the North's intelligence gathering capabilities."
+                "summary": "Seoul's mayor Oh Se-hoon announced his resignation on June 29, amid allegations of embezzlement in his 2020 mayoral campaign. The incident has raised concerns about corruption and the integrity of South Korea's political system."
             },
             {
-                "title": "South Korea to strengthen cooperation with US on defense and security issues",
+                "title": "South Korea's spy agency accused of wiretapping lawmakers",
                 "risk_level": "Medium",
-                "summary": "South Korea's presidential office announced plans to strengthen cooperation with the US on defense and security issues, including North Korea's nuclear program."
+                "summary": "South Korea's spy agency, the National Intelligence Service (NIS), was accused of wiretapping several lawmakers in 2016, according to a report by the opposition party. The incident has raised concerns about the NIS's abuse of power and erosion of trust in the government."
             },
             {
-                "title": "Controversy over South Korea's COVID-19 vaccination strategy",
-                "risk_level": "Low",
-                "summary": "South Korea's vaccination strategy has been met with controversy, with some arguing that the government's decision to delay booster shots was premature."
+                "title": "Rising tensions on Korean Peninsula over joint military drills",
+                "risk_level": "High",
+                "summary": "South Korea and the United States began joint military drills on June 26, sparking concerns about the potential for retaliation from North Korea. The drills have heightened tensions on the Korean Peninsula and raised the risk of conflict."
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Hinnamor to hit Japan, over 1 million advised to evacuate",
+                "title": "Fukushima Daiichi Nuclear Plant's Storage Site Leaks Radioactive Waste",
                 "risk_level": "High",
-                "summary": "Over 1 million residents in western Japan have been advised to evacuate as the powerful typhoon Hinnamor approaches the country."
+                "summary": "On 6/23, a leak was detected in one of the underground storage pools at TEPCO's Fukushima Daiichi Nuclear Plant, allowing a small amount of radioactive waste to spill into the ocean."
             },
             {
-                "title": "Japan's ruling party faces internal strife as opposition gains momentum",
-                "risk_level": "Medium",
-                "summary": "The ruling Liberal Democratic Party (LDP) of Japan is facing internal divisions and declining popularity, which could affect the country's political stability."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Japan's economy shows signs of slowing down due to global economic uncertainty",
-                "risk_level": "Medium",
-                "summary": "Japan's economy is facing headwinds from the global economic slowdown, which could impact the country's GDP and employment rates."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
