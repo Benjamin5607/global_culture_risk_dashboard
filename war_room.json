@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Cyberattack Disrupts Key Infrastructure",
+                "title": "Global Economic Downturn",
                 "risk_level": "High",
-                "summary": "A sophisticated cyberattack has compromised critical infrastructure in multiple countries, causing widespread disruptions."
+                "summary": "The global economic downturn continues, with several countries experiencing recession and high inflation."
             },
             {
-                "title": "Tensions Rise Amid Global Economic Crisis",
-                "risk_level": "High",
-                "summary": "Global economic indicators point to a downturn, leading to trade tensions and instability in key economies."
-            },
-            {
-                "title": "Climate Protests Ignite Global Activism",
+                "title": "Cyber Attack on Major Companies",
                 "risk_level": "Medium",
-                "summary": "Increasing climate change protests and activism have led to heightened tensions worldwide, impacting global stability."
+                "summary": "A recent cyber attack has hit several major companies, exposing sensitive customer data and disrupting business operations."
+            },
+            {
+                "title": "Rising Tensions in Eastern Europe",
+                "risk_level": "High",
+                "summary": "Rising tensions in Eastern Europe between NATO and Russia have increased the risk of a military conflict and global instability."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
+                "title": "Gun Violence in the US Continues to be a Concern",
                 "risk_level": "High",
-                "summary": "The US Supreme Court blocked President Biden's plan to forgive up to $20,000 in student loan debt, dealing a significant blow to the White House"
+                "summary": "A string of mass shootings in the US has raised concerns about gun violence and the need for stricter gun control laws."
             },
             {
-                "title": "US and Israel Announce Plans for New Cooperation on Artificial Intelligence",
-                "risk_level": "Medium",
-                "summary": "The US and Israel have announced plans to collaborate on artificial intelligence technology"
+                "title": "Protests Against Abortion Ruling Erupt Across the Country",
+                "risk_level": "High",
+                "summary": "Protests have erupted in cities across the US in response to the Supreme Court's decision to overturn Roe v. Wade."
             },
             {
-                "title": "US and EU Reach Agreement on Steel and Aluminum Tariffs",
-                "risk_level": "Low",
-                "summary": "The US and the European Union have reached a deal to lift tariffs on steel and aluminum imports from the EU"
+                "title": "US-China Relations Tense as Pelosi Visits Taiwan",
+                "risk_level": "High",
+                "summary": "Tensions between the US and China have escalated after House Speaker Nancy Pelosi visited Taiwan, a move that China sees as a provocation."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul's mayor resigns amid embezzlement scandal",
-                "risk_level": "High",
-                "summary": "Seoul's mayor Oh Se-hoon announced his resignation on June 29, amid allegations of embezzlement in his 2020 mayoral campaign. The incident has raised concerns about corruption and the integrity of South Korea's political system."
-            },
-            {
-                "title": "South Korea's spy agency accused of wiretapping lawmakers",
+                "title": "N.Korea's ICBM Test Fails",
                 "risk_level": "Medium",
-                "summary": "South Korea's spy agency, the National Intelligence Service (NIS), was accused of wiretapping several lawmakers in 2016, according to a report by the opposition party. The incident has raised concerns about the NIS's abuse of power and erosion of trust in the government."
+                "summary": "Despite reports of an ICBM launch, Pyongyang announced that it had tested a hypersonic gliding warhead, but failed to reach the desired altitude. The failed test raised concerns among the international community, particularly in South Korea and the US. This could lead to tensions escalating between North and South Korea."
             },
             {
-                "title": "Rising tensions on Korean Peninsula over joint military drills",
-                "risk_level": "High",
-                "summary": "South Korea and the United States began joint military drills on June 26, sparking concerns about the potential for retaliation from North Korea. The drills have heightened tensions on the Korean Peninsula and raised the risk of conflict."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
+            },
+            {
+                "title": "South Korean parliament passes contentious spy bill",
+                "risk_level": "Low",
+                "summary": "A new spy bill in South Korea has raised concerns regarding national security, privacy, and human rights. The bill allows for the collection and use of citizens' data, which could be misused, raising concerns about privacy and security."
             }
         ],
         "Japan": [
             {
-                "title": "Fukushima Daiichi Nuclear Plant's Storage Site Leaks Radioactive Waste",
+                "title": "Japan Expels 4 Russian Diplomats",
                 "risk_level": "High",
-                "summary": "On 6/23, a leak was detected in one of the underground storage pools at TEPCO's Fukushima Daiichi Nuclear Plant, allowing a small amount of radioactive waste to spill into the ocean."
+                "summary": "Japan expels 4 Russian diplomats in response to Russia's decision to expel 4 Japanese diplomats, escalating tensions between the two countries."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Japanese Government Faces Opposition Over Proposed Pension Reform",
+                "risk_level": "Medium",
+                "summary": "The Japanese government faces opposition from the opposition parties over a proposed pension reform that aims to increase the pension age and reduce benefits, sparking concerns about the impact on low-income households."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Tokyo Reports Over 3,000 COVID-19 Cases, Sparking Concerns About a Potential Sixth Wave",
+                "risk_level": "Medium",
+                "summary": "Tokyo reports over 3,000 COVID-19 cases, sparking concerns about a potential sixth wave of the pandemic in Japan, with health officials urging people to take precautions and get vaccinated."
             }
         ]
     }
