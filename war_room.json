@@ -3,70 +3,65 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rise in global cyber threats",
+                "title": "US Senate Blocks Bill To Codify Roe V. Wade After Supreme Court Ruling",
                 "risk_level": "High",
-                "summary": "Multiple high-profile hacking incidents worldwide over the past week, affecting major corporations and government agencies."
+                "summary": "The US Senate has blocked a bill that would have codified the reproductive rights established in the landmark Roe v. Wade Supreme Court ruling."
             },
             {
-                "title": "Increased tensions in the Middle East",
+                "title": "Russia Launches Massive Military Drill Near Ukraine Border Amid Tensions",
                 "risk_level": "High",
-                "summary": "Escalating conflicts between regional powers, with tensions spilling over into global markets and economies."
+                "summary": "Russia has launched a massive military drill near the border with Ukraine, amid escalated tensions between the two countries."
             },
             {
-                "title": "Social unrest in major cities",
+                "title": "Heatwaves Grip Europe and North America as Climate Change Heats Up Summer",
                 "risk_level": "Medium",
-                "summary": "Protests and demonstrations in key urban centers, driven by economic inequality and social injustice."
+                "summary": "Extreme heatwaves are gripping parts of Europe and North America, with experts warning that climate change is exacerbating the problem."
             }
         ],
         "United States": [
             {
-                "title": "Rising Tensions Between the US and Iran Over Airstrikes",
-                "risk_level": "High",
-                "summary": "Tensions between the US and Iran are escalating after Iran launched a drone strike against US forces in Syria."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Gunman opens fire on July 4th parade in Chicago's Highland Park neighborhood, leaving multiple people dead or injured."
             },
             {
-                "title": "Texas Abortion Ban Takes Effect Amid Nationwide Protests",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A Texas abortion ban has taken effect, sparking widespread protests across the US."
+                "summary": "Ukraine says it has repelled a Russian attack in the eastern part of the country, as US President Joe Biden announces a plan to boost defense aid."
             },
             {
-                "title": "US Capitol Riot Investigation Uncovers Extensive Planning",
-                "risk_level": "High",
-                "summary": "An investigation into the January 6 US Capitol riot has uncovered evidence of extensive planning and coordination between Trump supporters."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Supreme Court says it will hear a case on whether to block a plan to allow Texas to carry out executions of prisoners who are deemed intellectually disabled."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "High",
-                "summary": "July 6, 2024: North Korea reportedly test-fired a submarine-launched ballistic missile into the East Sea, sparking a rebuke from the United States and Japan. The missile launch is a test of a new system, and its range is believed to be capable of reaching targets as far as the US military base in Guam."
+                "title": "South Korean President Yoon Suk-yeol tests positive for COVID-19",
+                "risk_level": "Low",
+                "summary": "President Yoon Suk-yeol tested positive for COVID-19 on July 7, 2024, and is currently undergoing treatment. This development may impact the country's COVID-19 response and public health initiatives."
             },
             {
-                "title": "",
+                "title": "Samsung heir Lee Jae-yong faces trial over graft charges",
                 "risk_level": "Medium",
-                "summary": "July 5, 2024: South Korea's National Intelligence Service has detected a significant increase in North Korean hacking attempts targeting major financial institutions and critical infrastructure, in an apparent bid to disrupt the global economy during the peak of summer vacation."
-            },
-            {
-                "title": "",
-                "risk_level": "High",
-                "summary": "July 3, 2024: Tensions escalated on the Korean Peninsula due to a series of anti-Pyongyang leaflet scatterings by North Korean defectors across the Demilitarized Zone (DMZ). South Korea and the US warned Pyongyang of strong retaliation if it attempts to breach the military demarcation line."
+                "summary": "Samsung Electronics Vice Chairman Lee Jae-yong will stand trial on July 10, 2024, for his role in a corruption scandal. The trial may have implications for the company's reputation and future business operations."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Nuclear Industry faces new challenges as new regulations are implemented and old facilities shut down",
-                "risk_level": "High",
-                "summary": "\n         Japan's nuclear industry is facing significant challenges as new regulations are implemented and some of the country's older nuclear facilities are shut down. This could impact the country's energy mix and potentially lead to increased reliance on other forms of energy.\n         "
-            },
-            {
-                "title": "Tensions between Japan and China escalate over disputed islands",
-                "risk_level": "High",
-                "summary": "\n         Tensions between Japan and China have escalated over disputed islands in the East China Sea, with both countries engaging in a war of words and increased military presence in the area.\n         "
-            },
-            {
-                "title": "Protestors in Japan call for PM's resignation over government's handling of pandemic",
+                "title": "US Secretary of State Antony Blinken Meets Japan's Foreign Minister Hayashi Yuichiro Amid Tensions with China",
                 "risk_level": "Medium",
-                "summary": "\n         Protestors in Japan have taken to the streets calling for the resignation of the Prime Minister and his government over their handling of the pandemic response. This has led to increased tensions and a sense of unease in the country.\n         "
+                "summary": "US Secretary of State Antony Blinken met with Japan's Foreign Minister Hayashi Yuichiro to discuss regional security and tensions with China. The meeting highlighted the strengthening of ties between the two nations and their commitment to countering Chinese aggression."
+            },
+            {
+                "title": "Japan to Impose Additional Security Measures Following Recent North Korean Missile Tests",
+                "risk_level": "High",
+                "summary": "In response to recent North Korean missile tests, Japan has announced plans to impose additional security measures, including increased military presence and enhanced air defense systems. The move aims to strengthen its defenses against potential threats from the North Korean regime."
+            },
+            {
+                "title": "Rising COVID-19 Cases in Japan Spark Concerns About Healthcare System",
+                "risk_level": "Low",
+                "summary": "Japan has experienced an increase in COVID-19 cases in recent days, sparking concerns about the country's healthcare system. The government has urged citizens to follow precautions and has announced plans to boost vaccine distribution and hospital capacity to combat the surge."
             }
         ]
     }
