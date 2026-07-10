@@ -1,78 +1,72 @@
 {
-    "updated": "2026-07-09",
+    "updated": "2026-07-10",
     "scopes": {
         "Global (All)": [
             {
-                "country": "Ukraine",
-                "title": "US and Germany Rule Out Russian Oil Ban Over Ukraine",
+                "title": "Global Rise in Cyber Attacks Due to Remote Work",
+                "risk_level": "High",
+                "summary": "A recent surge in cyber attacks on remote workers has raised concerns about the increased risk of data breaches and system compromises. As more employees work from home, hackers are taking advantage of weaker network security and lack of IT oversight."
+            },
+            {
+                "title": "Social Media Disinformation Spreading Fast",
                 "risk_level": "Medium",
-                "date": "2023-12-01",
-                "summary": "US and Germany rule out implementing a Russian oil ban, a move that has been considered to increase pressure on Russia in its war with Ukraine."
+                "summary": "False narratives and conspiracy theories are rapidly spreading on social media platforms, causing public outcry and concerns about the erosion of trust in institutions and the spread of hate speech."
             },
             {
-                "country": "China",
-                "title": "Beijing Imposes Travel Bans to Contain Growing Covid-19 Outbreak",
+                "title": "Growing Tensions Between Global Superpowers",
                 "risk_level": "High",
-                "date": "2023-11-28",
-                "summary": "China's capital city restricts travel, citing a surge in new COVID-19 infections, as the city struggles to control the spread of the virus."
-            },
-            {
-                "country": "",
-                "title": "Russia to Hold Large-Scale Military Drills in Western Border Regions",
-                "risk_level": "High",
-                "date": "2023-11-29",
-                "summary": "Russia prepares for massive military drills in the western regions of the country, sparking concerns about potential conflict with neighboring countries."
+                "summary": "Escalating rhetoric and military build-ups between global superpowers have raised concerns about the potential for conflict and destabilization of the global security landscape."
             }
         ],
         "United States": [
             {
-                "title": "Biden Administration Seeks to Boost U.S. Semiconductor Production",
-                "risk_level": "Medium",
-                "summary": "The Biden administration is working on a plan to provide incentives to boost U.S.-based production of semiconductors, following a chip shortage in 2021. The move aims to reduce dependence on Asian suppliers and enhance national security."
-            },
-            {
-                "title": "House Republicans Introduce Bill to Ban 'BDS' on Government Contracts",
+                "title": "Gun Violence in US Continues, 2 Dead in Alabama",
                 "risk_level": "High",
-                "summary": "House Republicans have introduced a bill aimed at banning the Boycott, Divestment and Sanctions (BDS) movement on U.S. government contracts, a move seen as a direct challenge to the Biden administration's stance."
+                "summary": "Multiple incidents of gun violence across the United States, resulting in fatalities and injuries."
             },
             {
-                "title": "FBI Investigates Ransomware Attack on Florida County's IT System",
+                "title": "US-China Tensions Escalate Over Taiwan",
+                "risk_level": "High",
+                "summary": "Ongoing tensions between the United States and China over Taiwan, with both sides engaging in diplomatic efforts to resolve the issue."
+            },
+            {
+                "title": "US Supreme Court Rules on Abortion Rights",
                 "risk_level": "Medium",
-                "summary": "The FBI is probing a ransomware attack that compromised the IT system of a Florida county's election office, sparking concerns over potential vulnerabilities in the U.S. electoral system."
+                "summary": "A US Supreme Court decision on abortion rights, sparking widespread reaction and debate across the country."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests against South Korean President Yoon Suk-yeol escalates",
+                "title": "",
+                "risk_level": "Low",
+                "summary": "US and S. Korea to hold joint military drills despite N. Korea’s warning"
+            },
+            {
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Anti-government protests have intensified in South Korea after President Yoon Suk-yeol pushed to pass the 'economy-first' budget. Protesters fear this will widen the wealth gap and undermine social welfare measures. Police responded with tear gas and water cannons, leading to clashes with demonstrators."
+                "summary": "South Korean court to review ex-President Park Geun-hye’s pardon appeal"
             },
             {
-                "title": "North Korea fires ballistic missiles amid tensions",
+                "title": "",
                 "risk_level": "High",
-                "summary": "In a surprise move, North Korea fired two suspected ballistic missiles into the Sea of Japan, prompting a military drill by South Korea and the United States. The incident raised concerns of a heightened risk of conflict."
-            },
-            {
-                "title": "Corruption scandals hit South Korea's finance and politics",
-                "risk_level": "High",
-                "summary": "South Korean authorities have initiated investigations into high-profile corruption scandals involving finance executives and politicians. This scandal has already toppled several high-ranking officials and is seen as a major blow to the country's economic stability and trust in its institutions."
+                "summary": "North Korea fires missile toward Japanese waters, prompting joint response from US and Japan"
             }
         ],
         "Japan": [
             {
-                "title": "",
+                "title": "US Ambassador to Japan Visits Fukushima Daiichi Nuclear Power Plant",
                 "risk_level": "Low",
-                "summary": "A weak earthquake struck northern Japan on Monday, but it caused no damage and there were no reports of injuries, local media said."
+                "summary": "US Ambassador to Japan Rahm Emanuel visited the Fukushima Daiichi nuclear power plant to assess its current state and discuss with Japanese authorities the decommissioning process."
             },
             {
-                "title": "",
+                "title": "Japanese Government to Strengthen Military Capabilities Amid China Tensions",
                 "risk_level": "Medium",
-                "summary": "More than 1,000 people were arrested and 100 companies targeted in a crackdown on organized crime groups in Japan, police said on Monday, amid growing public concern over gangster activities."
+                "summary": "The Japanese government has announced plans to strengthen its military capabilities in response to rising tensions with China, particularly in the East China Sea."
             },
             {
-                "title": "",
+                "title": "Ruling Liberal Democratic Party (LDP) Suffers Major Defeat in Japan's Local Elections",
                 "risk_level": "High",
-                "summary": "A strong earthquake struck Japan on Friday, causing widespread power outages and triggering landslides in the northern island. At least 11 people were killed and several more injured in the disaster."
+                "summary": "The LDP, Japan's ruling party, suffered a major defeat in local elections, losing control of several key municipalities and raising concerns about its national election prospects."
             }
         ]
     }
