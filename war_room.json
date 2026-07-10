@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cybersecurity Breach at Major Financial Institution Exposes Customer Data",
+                "title": "Rise in global COVID-19 cases",
                 "risk_level": "High",
-                "summary": "A major financial institution has suffered a cybersecurity breach, exposing the sensitive data of millions of customers. The breach is believed to have been caused by a sophisticated malware attack that was carried out by a state-sponsored group."
+                "summary": "The recent surge in COVID-19 cases worldwide has led to increased hospitalizations and deaths, prompting governments to re-implement mask mandates and social distancing measures."
             },
             {
-                "title": "UN Report Warns of Global Food Crisis Due to Climate Change",
-                "risk_level": "Medium",
-                "summary": "A report by the United Nations has warned that the world is facing a global food crisis due to the effects of climate change. The report states that droughts, floods, and other extreme weather events are reducing crop yields and threatening food security."
+                "title": "Protests escalate in response to economic inequality",
+                "risk_level": "High",
+                "summary": "Anti-austerity protests have spread across several countries, with demonstrators calling for greater social and economic reform."
             },
             {
-                "title": "Protests Erupt in Major Cities Over Economic Inequality",
-                "risk_level": "Medium",
-                "summary": "Protests have broken out in major cities across the world over economic inequality. The protests, which were sparked by a social media campaign, have seen thousands of people take to the streets to demand greater economic equality and an end to austerity measures."
+                "title": "Cyberattack disrupts global supply chain",
+                "risk_level": "High",
+                "summary": "A sophisticated cyberattack has compromised the systems of a major logistics firm, causing widespread disruptions to international trade and commerce."
             }
         ],
         "United States": [
             {
-                "title": "Federal judge halts Biden administration's plans to expand asylum restrictions",
+                "title": "US Capitol Lockdown Over Report of a 'Security Breach'",
                 "risk_level": "Medium",
-                "summary": "A federal judge in Texas has temporarily blocked the Biden administration's plans to expand asylum restrictions. The restrictions would have required asylum seekers to apply for protection in the country where they first arrived in the region, rather than the US."
+                "summary": "The US Capitol was placed on lockdown after police reported that one or more individuals were spotted trying to breach a door. The lockdown was later lifted."
             },
             {
-                "title": "New York judge refuses to order Trump to testify in rape case",
-                "risk_level": "Medium",
-                "summary": "A New York state judge has refused to order former President Donald Trump to testify in a rape case. The case involves a 2005 incident in which Trump allegedly raped a former model."
+                "title": "House Jan. 6 committee releases long-awaited report on Trump's role in the 2021 U.S. Capitol attack",
+                "risk_level": "High",
+                "summary": "The House Select Committee investigating the January 6 US Capitol attack has released a long-awaited report detailing former President Donald Trump's role in the insurrection."
             },
             {
-                "title": "US Supreme Court upholds Biden's student loan forgiveness program",
-                "risk_level": "Low",
-                "summary": "The US Supreme Court has upheld President Joe Biden's student loan forgiveness program, which would cancel up to $20,000 in debt for low-income borrowers. The decision was a victory for Biden, who had been under pressure from progressive Democrats to act on student loan debt."
+                "title": "Multiple deaths reported after severe storms sweep across the US",
+                "risk_level": "High",
+                "summary": "Severe storms swept across the US, leaving multiple fatalities and causing widespread damage, with several states declaring states of emergency."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea detects high levels of radioactive iodine",
+                "title": "Protests over labor laws escalate in South Korea",
                 "risk_level": "High",
-                "summary": "South Korea has detected high levels of radioactive iodine in tap water after a Japanese nuclear plant leak, raising concerns about radiation exposure."
+                "summary": "Anti-government protests and labor strikes continue, with demonstrators demanding improvements in working conditions and labor rights. The protests have led to clashes with police and disruptions to daily life, creating uncertainty for businesses and investors."
             },
             {
-                "title": "South Korean prosecutors raid SK hynix over alleged data destruction",
+                "title": "Rival factions in South Korea's ruling party struggle for control",
                 "risk_level": "Medium",
-                "summary": "Prosecutors in South Korea have raided the headquarters of SK hynix, a leading memory chipmaker, over allegations of deliberate data destruction during a merger."
+                "summary": "A power struggle within South Korea's ruling party is intensifying, with two factions vying for control. The infighting has led to concerns about the stability of the government and potential instability in the country's leadership."
             },
             {
-                "title": "South Korean court sentences ex-President Park Geun-hye to 22 months in prison",
-                "risk_level": "Low",
-                "summary": "A South Korean court has sentenced former President Park Geun-hye to 22 months in prison for bribery and abuse of power."
+                "title": "North Korea conducts large-scale military exercise despite international concerns",
+                "risk_level": "High",
+                "summary": "'Pyongyang has announced plans for a major military operation, prompting fears of an increased risk of conflict in the region. The exercise has raised tensions with neighboring countries and the international community, putting a strain on regional relationships."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea's Kim orders expansion of long-range missile capabilities",
+                "title": "Earthquake in Hokkaido",
                 "risk_level": "High",
-                "summary": "North Korean leader Kim Jong Un has ordered the expansion of long-range missile capabilities on the eastern coast, according to a report. The move has raised concerns about the potential threat to Japan, a key US ally in the region."
+                "summary": "A 5.4 magnitude earthquake hit Hokkaido on 2024-02-14, causing widespread damage and power outages."
             },
             {
-                "title": "US and Japan agree to strengthen military cooperation amid China's growing influence",
-                "risk_level": "Medium",
-                "summary": "The US and Japan have agreed to strengthen their military cooperation in response to growing concerns about China's influence in the region."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Tokyo declares state of emergency over heatwave",
-                "risk_level": "Low",
-                "summary": "Tokyo has declared a state of emergency due to a severe heatwave that has left thousands of people struggling to cope with the soaring temperatures."
+                "title": "North Korea missile tests",
+                "risk_level": "High",
+                "summary": "North Korea test-fired several ballistic missiles on 2024-03-14, increasing regional tensions."
             }
         ]
     }
