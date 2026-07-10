@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rise in global COVID-19 cases",
+                "title": "Rise in global cyber threats",
                 "risk_level": "High",
-                "summary": "The recent surge in COVID-19 cases worldwide has led to increased hospitalizations and deaths, prompting governments to re-implement mask mandates and social distancing measures."
+                "summary": "Multiple high-profile hacking incidents worldwide over the past week, affecting major corporations and government agencies."
             },
             {
-                "title": "Protests escalate in response to economic inequality",
+                "title": "Increased tensions in the Middle East",
                 "risk_level": "High",
-                "summary": "Anti-austerity protests have spread across several countries, with demonstrators calling for greater social and economic reform."
+                "summary": "Escalating conflicts between regional powers, with tensions spilling over into global markets and economies."
             },
             {
-                "title": "Cyberattack disrupts global supply chain",
-                "risk_level": "High",
-                "summary": "A sophisticated cyberattack has compromised the systems of a major logistics firm, causing widespread disruptions to international trade and commerce."
+                "title": "Social unrest in major cities",
+                "risk_level": "Medium",
+                "summary": "Protests and demonstrations in key urban centers, driven by economic inequality and social injustice."
             }
         ],
         "United States": [
             {
-                "title": "US Capitol Lockdown Over Report of a 'Security Breach'",
-                "risk_level": "Medium",
-                "summary": "The US Capitol was placed on lockdown after police reported that one or more individuals were spotted trying to breach a door. The lockdown was later lifted."
+                "title": "Rising Tensions Between the US and Iran Over Airstrikes",
+                "risk_level": "High",
+                "summary": "Tensions between the US and Iran are escalating after Iran launched a drone strike against US forces in Syria."
             },
             {
-                "title": "House Jan. 6 committee releases long-awaited report on Trump's role in the 2021 U.S. Capitol attack",
+                "title": "Texas Abortion Ban Takes Effect Amid Nationwide Protests",
                 "risk_level": "High",
-                "summary": "The House Select Committee investigating the January 6 US Capitol attack has released a long-awaited report detailing former President Donald Trump's role in the insurrection."
+                "summary": "A Texas abortion ban has taken effect, sparking widespread protests across the US."
             },
             {
-                "title": "Multiple deaths reported after severe storms sweep across the US",
+                "title": "US Capitol Riot Investigation Uncovers Extensive Planning",
                 "risk_level": "High",
-                "summary": "Severe storms swept across the US, leaving multiple fatalities and causing widespread damage, with several states declaring states of emergency."
+                "summary": "An investigation into the January 6 US Capitol riot has uncovered evidence of extensive planning and coordination between Trump supporters."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests over labor laws escalate in South Korea",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Anti-government protests and labor strikes continue, with demonstrators demanding improvements in working conditions and labor rights. The protests have led to clashes with police and disruptions to daily life, creating uncertainty for businesses and investors."
+                "summary": "July 6, 2024: North Korea reportedly test-fired a submarine-launched ballistic missile into the East Sea, sparking a rebuke from the United States and Japan. The missile launch is a test of a new system, and its range is believed to be capable of reaching targets as far as the US military base in Guam."
             },
             {
-                "title": "Rival factions in South Korea's ruling party struggle for control",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "A power struggle within South Korea's ruling party is intensifying, with two factions vying for control. The infighting has led to concerns about the stability of the government and potential instability in the country's leadership."
+                "summary": "July 5, 2024: South Korea's National Intelligence Service has detected a significant increase in North Korean hacking attempts targeting major financial institutions and critical infrastructure, in an apparent bid to disrupt the global economy during the peak of summer vacation."
             },
             {
-                "title": "North Korea conducts large-scale military exercise despite international concerns",
+                "title": "",
                 "risk_level": "High",
-                "summary": "'Pyongyang has announced plans for a major military operation, prompting fears of an increased risk of conflict in the region. The exercise has raised tensions with neighboring countries and the international community, putting a strain on regional relationships."
+                "summary": "July 3, 2024: Tensions escalated on the Korean Peninsula due to a series of anti-Pyongyang leaflet scatterings by North Korean defectors across the Demilitarized Zone (DMZ). South Korea and the US warned Pyongyang of strong retaliation if it attempts to breach the military demarcation line."
             }
         ],
         "Japan": [
             {
-                "title": "Earthquake in Hokkaido",
+                "title": "Japan's Nuclear Industry faces new challenges as new regulations are implemented and old facilities shut down",
                 "risk_level": "High",
-                "summary": "A 5.4 magnitude earthquake hit Hokkaido on 2024-02-14, causing widespread damage and power outages."
+                "summary": "\n         Japan's nuclear industry is facing significant challenges as new regulations are implemented and some of the country's older nuclear facilities are shut down. This could impact the country's energy mix and potentially lead to increased reliance on other forms of energy.\n         "
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Tensions between Japan and China escalate over disputed islands",
+                "risk_level": "High",
+                "summary": "\n         Tensions between Japan and China have escalated over disputed islands in the East China Sea, with both countries engaging in a war of words and increased military presence in the area.\n         "
             },
             {
-                "title": "North Korea missile tests",
-                "risk_level": "High",
-                "summary": "North Korea test-fired several ballistic missiles on 2024-03-14, increasing regional tensions."
+                "title": "Protestors in Japan call for PM's resignation over government's handling of pandemic",
+                "risk_level": "Medium",
+                "summary": "\n         Protestors in Japan have taken to the streets calling for the resignation of the Prime Minister and his government over their handling of the pandemic response. This has led to increased tensions and a sense of unease in the country.\n         "
             }
         ]
     }
