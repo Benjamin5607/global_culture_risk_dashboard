@@ -3,65 +3,75 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US Senate Blocks Bill To Codify Roe V. Wade After Supreme Court Ruling",
-                "risk_level": "High",
-                "summary": "The US Senate has blocked a bill that would have codified the reproductive rights established in the landmark Roe v. Wade Supreme Court ruling."
-            },
-            {
-                "title": "Russia Launches Massive Military Drill Near Ukraine Border Amid Tensions",
-                "risk_level": "High",
-                "summary": "Russia has launched a massive military drill near the border with Ukraine, amid escalated tensions between the two countries."
-            },
-            {
-                "title": "Heatwaves Grip Europe and North America as Climate Change Heats Up Summer",
+                "title": "US and China Agree to Resume Diplomatic Relations",
                 "risk_level": "Medium",
-                "summary": "Extreme heatwaves are gripping parts of Europe and North America, with experts warning that climate change is exacerbating the problem."
+                "summary": "The US and China agreed to resume diplomatic relations, easing tensions between the two nations."
+            },
+            {
+                "title": "UK Supreme Court Rules on Brexit Settlement Agreement",
+                "risk_level": "High",
+                "summary": "The UK Supreme Court rules that the government's Brexit settlement agreement is lawful, but also makes clear that Parliament had the authority to reject or approve the agreement."
+            },
+            {
+                "title": "Global Food Prices Rise Due to Drought and War",
+                "risk_level": "Low",
+                "summary": "Global food prices rise due to drought and war, potentially leading to food insecurity in affected regions."
             }
         ],
         "United States": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Gunman opens fire on July 4th parade in Chicago's Highland Park neighborhood, leaving multiple people dead or injured."
-            },
-            {
-                "title": "",
+                "title": "Heatwaves Cause Mass Power Outages in Western United States",
                 "risk_level": "High",
-                "summary": "Ukraine says it has repelled a Russian attack in the eastern part of the country, as US President Joe Biden announces a plan to boost defense aid."
+                "summary": "A massive heatwave continues to grip western United States, causing severe heat-related health issues and mass power outages. Temperatures soared to record highs, forcing thousands to seek refuge in cooling centers."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Supreme Court says it will hear a case on whether to block a plan to allow Texas to carry out executions of prisoners who are deemed intellectually disabled."
+                "title": "Racial Tensions Rise in Minneapolis Amid Protests Over Police Killing",
+                "risk_level": "High",
+                "summary": "Racial tensions are running high in Minneapolis after a police shooting left an African American man dead. Protests are erupting across the city, with some turning violent. The situation remains volatile and potentially destabilizing."
+            },
+            {
+                "title": "Cyberattack on Major US Healthcare Provider Exposes Thousands of Patient Records",
+                "risk_level": "Medium",
+                "summary": "A cyberattack on a major US healthcare provider has exposed thousands of patient records. The breach is believed to have occurred over several months, with hackers accessing sensitive information including names, addresses, and medical histories."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korean President Yoon Suk-yeol tests positive for COVID-19",
-                "risk_level": "Low",
-                "summary": "President Yoon Suk-yeol tested positive for COVID-19 on July 7, 2024, and is currently undergoing treatment. This development may impact the country's COVID-19 response and public health initiatives."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "date": "Jun 29, 2024 - Jul 5, 2024"
             },
             {
-                "title": "Samsung heir Lee Jae-yong faces trial over graft charges",
-                "risk_level": "Medium",
-                "summary": "Samsung Electronics Vice Chairman Lee Jae-yong will stand trial on July 10, 2024, for his role in a corruption scandal. The trial may have implications for the company's reputation and future business operations."
+                "title": "Seoul's subway workers begin strike after failed talks with government",
+                "risk_level": "High",
+                "summary": "",
+                "date": "Jun 29, 2024"
+            },
+            {
+                "title": "N. Korea fires missile amid US-S. Korea joint military drills",
+                "risk_level": "High",
+                "summary": "",
+                "date": "Jun 29, 2024"
             }
         ],
         "Japan": [
             {
-                "title": "US Secretary of State Antony Blinken Meets Japan's Foreign Minister Hayashi Yuichiro Amid Tensions with China",
-                "risk_level": "Medium",
-                "summary": "US Secretary of State Antony Blinken met with Japan's Foreign Minister Hayashi Yuichiro to discuss regional security and tensions with China. The meeting highlighted the strengthening of ties between the two nations and their commitment to countering Chinese aggression."
-            },
-            {
-                "title": "Japan to Impose Additional Security Measures Following Recent North Korean Missile Tests",
+                "title": "",
                 "risk_level": "High",
-                "summary": "In response to recent North Korean missile tests, Japan has announced plans to impose additional security measures, including increased military presence and enhanced air defense systems. The move aims to strengthen its defenses against potential threats from the North Korean regime."
+                "summary": ""
             },
             {
-                "title": "Rising COVID-19 Cases in Japan Spark Concerns About Healthcare System",
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "",
+                "source": "Government of Japan"
+            },
+            {
+                "title": "",
                 "risk_level": "Low",
-                "summary": "Japan has experienced an increase in COVID-19 cases in recent days, sparking concerns about the country's healthcare system. The government has urged citizens to follow precautions and has announced plans to boost vaccine distribution and hospital capacity to combat the surge."
+                "summary": "",
+                "source": "Kyodo News"
             }
         ]
     }
