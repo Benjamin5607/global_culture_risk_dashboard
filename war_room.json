@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Rise in Cyber Attacks Due to Remote Work",
+                "title": "Cybersecurity Breach at Major Financial Institution Exposes Customer Data",
                 "risk_level": "High",
-                "summary": "A recent surge in cyber attacks on remote workers has raised concerns about the increased risk of data breaches and system compromises. As more employees work from home, hackers are taking advantage of weaker network security and lack of IT oversight."
+                "summary": "A major financial institution has suffered a cybersecurity breach, exposing the sensitive data of millions of customers. The breach is believed to have been caused by a sophisticated malware attack that was carried out by a state-sponsored group."
             },
             {
-                "title": "Social Media Disinformation Spreading Fast",
+                "title": "UN Report Warns of Global Food Crisis Due to Climate Change",
                 "risk_level": "Medium",
-                "summary": "False narratives and conspiracy theories are rapidly spreading on social media platforms, causing public outcry and concerns about the erosion of trust in institutions and the spread of hate speech."
+                "summary": "A report by the United Nations has warned that the world is facing a global food crisis due to the effects of climate change. The report states that droughts, floods, and other extreme weather events are reducing crop yields and threatening food security."
             },
             {
-                "title": "Growing Tensions Between Global Superpowers",
-                "risk_level": "High",
-                "summary": "Escalating rhetoric and military build-ups between global superpowers have raised concerns about the potential for conflict and destabilization of the global security landscape."
+                "title": "Protests Erupt in Major Cities Over Economic Inequality",
+                "risk_level": "Medium",
+                "summary": "Protests have broken out in major cities across the world over economic inequality. The protests, which were sparked by a social media campaign, have seen thousands of people take to the streets to demand greater economic equality and an end to austerity measures."
             }
         ],
         "United States": [
             {
-                "title": "Gun Violence in US Continues, 2 Dead in Alabama",
-                "risk_level": "High",
-                "summary": "Multiple incidents of gun violence across the United States, resulting in fatalities and injuries."
-            },
-            {
-                "title": "US-China Tensions Escalate Over Taiwan",
-                "risk_level": "High",
-                "summary": "Ongoing tensions between the United States and China over Taiwan, with both sides engaging in diplomatic efforts to resolve the issue."
-            },
-            {
-                "title": "US Supreme Court Rules on Abortion Rights",
+                "title": "Federal judge halts Biden administration's plans to expand asylum restrictions",
                 "risk_level": "Medium",
-                "summary": "A US Supreme Court decision on abortion rights, sparking widespread reaction and debate across the country."
+                "summary": "A federal judge in Texas has temporarily blocked the Biden administration's plans to expand asylum restrictions. The restrictions would have required asylum seekers to apply for protection in the country where they first arrived in the region, rather than the US."
+            },
+            {
+                "title": "New York judge refuses to order Trump to testify in rape case",
+                "risk_level": "Medium",
+                "summary": "A New York state judge has refused to order former President Donald Trump to testify in a rape case. The case involves a 2005 incident in which Trump allegedly raped a former model."
+            },
+            {
+                "title": "US Supreme Court upholds Biden's student loan forgiveness program",
+                "risk_level": "Low",
+                "summary": "The US Supreme Court has upheld President Joe Biden's student loan forgiveness program, which would cancel up to $20,000 in debt for low-income borrowers. The decision was a victory for Biden, who had been under pressure from progressive Democrats to act on student loan debt."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "US and S. Korea to hold joint military drills despite N. Korea’s warning"
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "South Korean court to review ex-President Park Geun-hye’s pardon appeal"
-            },
-            {
-                "title": "",
+                "title": "South Korea detects high levels of radioactive iodine",
                 "risk_level": "High",
-                "summary": "North Korea fires missile toward Japanese waters, prompting joint response from US and Japan"
+                "summary": "South Korea has detected high levels of radioactive iodine in tap water after a Japanese nuclear plant leak, raising concerns about radiation exposure."
+            },
+            {
+                "title": "South Korean prosecutors raid SK hynix over alleged data destruction",
+                "risk_level": "Medium",
+                "summary": "Prosecutors in South Korea have raided the headquarters of SK hynix, a leading memory chipmaker, over allegations of deliberate data destruction during a merger."
+            },
+            {
+                "title": "South Korean court sentences ex-President Park Geun-hye to 22 months in prison",
+                "risk_level": "Low",
+                "summary": "A South Korean court has sentenced former President Park Geun-hye to 22 months in prison for bribery and abuse of power."
             }
         ],
         "Japan": [
             {
-                "title": "US Ambassador to Japan Visits Fukushima Daiichi Nuclear Power Plant",
-                "risk_level": "Low",
-                "summary": "US Ambassador to Japan Rahm Emanuel visited the Fukushima Daiichi nuclear power plant to assess its current state and discuss with Japanese authorities the decommissioning process."
-            },
-            {
-                "title": "Japanese Government to Strengthen Military Capabilities Amid China Tensions",
-                "risk_level": "Medium",
-                "summary": "The Japanese government has announced plans to strengthen its military capabilities in response to rising tensions with China, particularly in the East China Sea."
-            },
-            {
-                "title": "Ruling Liberal Democratic Party (LDP) Suffers Major Defeat in Japan's Local Elections",
+                "title": "North Korea's Kim orders expansion of long-range missile capabilities",
                 "risk_level": "High",
-                "summary": "The LDP, Japan's ruling party, suffered a major defeat in local elections, losing control of several key municipalities and raising concerns about its national election prospects."
+                "summary": "North Korean leader Kim Jong Un has ordered the expansion of long-range missile capabilities on the eastern coast, according to a report. The move has raised concerns about the potential threat to Japan, a key US ally in the region."
+            },
+            {
+                "title": "US and Japan agree to strengthen military cooperation amid China's growing influence",
+                "risk_level": "Medium",
+                "summary": "The US and Japan have agreed to strengthen their military cooperation in response to growing concerns about China's influence in the region."
+            },
+            {
+                "title": "Tokyo declares state of emergency over heatwave",
+                "risk_level": "Low",
+                "summary": "Tokyo has declared a state of emergency due to a severe heatwave that has left thousands of people struggling to cope with the soaring temperatures."
             }
         ]
     }
