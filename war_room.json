@@ -1,77 +1,72 @@
 {
-    "updated": "2026-07-10",
+    "updated": "2026-07-11",
     "scopes": {
         "Global (All)": [
             {
-                "title": "US and China Agree to Resume Diplomatic Relations",
-                "risk_level": "Medium",
-                "summary": "The US and China agreed to resume diplomatic relations, easing tensions between the two nations."
-            },
-            {
-                "title": "UK Supreme Court Rules on Brexit Settlement Agreement",
+                "title": "US-China trade tensions escalate as Pelosi visits Taiwan",
                 "risk_level": "High",
-                "summary": "The UK Supreme Court rules that the government's Brexit settlement agreement is lawful, but also makes clear that Parliament had the authority to reject or approve the agreement."
+                "summary": "The US House Speaker's visit to Taiwan has exacerbated tensions between Washington and Beijing, sparking concerns over a potential conflict."
             },
             {
-                "title": "Global Food Prices Rise Due to Drought and War",
-                "risk_level": "Low",
-                "summary": "Global food prices rise due to drought and war, potentially leading to food insecurity in affected regions."
+                "title": "Ransomware attack hits US pipeline operator",
+                "risk_level": "Medium",
+                "summary": "A prominent US pipeline operator has been hit by a ransomware attack, raising concerns over the disruption of critical infrastructure."
+            },
+            {
+                "title": "Protests erupt in Peru over presidential election result",
+                "risk_level": "High",
+                "summary": "Opposition groups in Peru have taken to the streets, contesting the outcome of a recent presidential election, sparking concerns over political stability."
             }
         ],
         "United States": [
             {
-                "title": "Heatwaves Cause Mass Power Outages in Western United States",
+                "title": "Ransomware Attack Hits US Healthcare System",
                 "risk_level": "High",
-                "summary": "A massive heatwave continues to grip western United States, causing severe heat-related health issues and mass power outages. Temperatures soared to record highs, forcing thousands to seek refuge in cooling centers."
+                "summary": "'Criminal actor' blamed for attack on 2 major US health systems amid 'significant' data breaches; Experts warn patients to beware phishing emails as hackers continue to exploit vulnerabilities in software and people."
             },
             {
-                "title": "Racial Tensions Rise in Minneapolis Amid Protests Over Police Killing",
+                "title": "Supreme Court Strikes Down Roe v. Wade, Sparking Widespread Protests Across US",
                 "risk_level": "High",
-                "summary": "Racial tensions are running high in Minneapolis after a police shooting left an African American man dead. Protests are erupting across the city, with some turning violent. The situation remains volatile and potentially destabilizing."
+                "summary": "The US Supreme Court's decision to overturn Roe v. Wade has sparked protests and demonstrations across the US, resulting in multiple arrests and concerns about civil unrest and social stability."
             },
             {
-                "title": "Cyberattack on Major US Healthcare Provider Exposes Thousands of Patient Records",
+                "title": "Multiple Shooting Incidents in US Cities Amid Debate Over Gun Control",
                 "risk_level": "Medium",
-                "summary": "A cyberattack on a major US healthcare provider has exposed thousands of patient records. The breach is believed to have occurred over several months, with hackers accessing sensitive information including names, addresses, and medical histories."
+                "summary": "'Gun violence is an epidemic in America': Mass shootings reported in multiple US cities, including New York City, Chicago, and Los Angeles, as policymakers call for stronger gun control laws to prevent further tragedies."
             }
         ],
         "South Korea": [
             {
                 "title": "",
-                "risk_level": "",
-                "summary": "",
-                "date": "Jun 29, 2024 - Jul 5, 2024"
-            },
-            {
-                "title": "Seoul's subway workers begin strike after failed talks with government",
-                "risk_level": "High",
-                "summary": "",
-                "date": "Jun 29, 2024"
-            },
-            {
-                "title": "N. Korea fires missile amid US-S. Korea joint military drills",
-                "risk_level": "High",
-                "summary": "",
-                "date": "Jun 29, 2024"
-            }
-        ],
-        "Japan": [
-            {
-                "title": "",
-                "risk_level": "High",
-                "summary": ""
-            },
-            {
-                "title": "",
                 "risk_level": "Medium",
-                "summary": "",
-                "source": "Government of Japan"
+                "summary": "North Korea fires unidentified projectile into Sea of Japan amid heightened tensions in region."
+            },
+            {
+                "title": "Anti-Government Protests Continue in South Korea Amid Economic Woes",
+                "risk_level": "High",
+                "summary": "Anti-government protests continue in South Korea's capital, Seoul, as citizens express discontent over economic woes and inflation concerns."
             },
             {
                 "title": "",
                 "risk_level": "Low",
-                "summary": "",
-                "source": "Kyodo News"
+                "summary": "South Korea to impose temporary controls on exports of key materials for chip production in response to US and South Korean industry complaints."
+            }
+        ],
+        "Japan": [
+            {
+                "title": "North Korea fires two ballistic missiles into the Sea of Japan",
+                "risk_level": "High",
+                "summary": "Tensions between North Korea and Japan have increased due to recent missile tests."
+            },
+            {
+                "title": "Japan's COVID-19 hospitalizations hit record daily high",
+                "risk_level": "High",
+                "summary": "Japan's healthcare system is facing increasing pressure due to a rise in COVID-19 cases."
+            },
+            {
+                "title": "Japanese lawmakers push for more restrictive COVID-19 measures",
+                "risk_level": "Medium",
+                "summary": "Government officials in Japan are discussing stricter measures to combat the spread of COVID-19."
             }
         ]
     }
