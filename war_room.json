@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China trade tensions escalate as Pelosi visits Taiwan",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US House Speaker's visit to Taiwan has exacerbated tensions between Washington and Beijing, sparking concerns over a potential conflict."
+                "summary": "Global protests and demonstrations turn violent, affecting major cities worldwide."
             },
             {
-                "title": "Ransomware attack hits US pipeline operator",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "A prominent US pipeline operator has been hit by a ransomware attack, raising concerns over the disruption of critical infrastructure."
+                "summary": "Major cyberattack on global supply chain disrupts operations in key industries."
             },
             {
-                "title": "Protests erupt in Peru over presidential election result",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Opposition groups in Peru have taken to the streets, contesting the outcome of a recent presidential election, sparking concerns over political stability."
+                "summary": "Global economic instability triggered by sudden interest rate hikes, causing market volatility."
             }
         ],
         "United States": [
             {
-                "title": "Ransomware Attack Hits US Healthcare System",
+                "title": "US Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
                 "risk_level": "High",
-                "summary": "'Criminal actor' blamed for attack on 2 major US health systems amid 'significant' data breaches; Experts warn patients to beware phishing emails as hackers continue to exploit vulnerabilities in software and people."
+                "summary": "The US Supreme Court halts President Biden's student loan forgiveness plan, leaving millions of borrowers uncertain about their debt relief prospects."
             },
             {
-                "title": "Supreme Court Strikes Down Roe v. Wade, Sparking Widespread Protests Across US",
+                "title": "US Senate Passes $45 Billion for Ukraine and Other International Aid",
                 "risk_level": "High",
-                "summary": "The US Supreme Court's decision to overturn Roe v. Wade has sparked protests and demonstrations across the US, resulting in multiple arrests and concerns about civil unrest and social stability."
+                "summary": "The US Senate votes to provide $45 billion in assistance to Ukraine and other countries, amidst ongoing tensions between Russia and the West."
             },
             {
-                "title": "Multiple Shooting Incidents in US Cities Amid Debate Over Gun Control",
-                "risk_level": "Medium",
-                "summary": "'Gun violence is an epidemic in America': Mass shootings reported in multiple US cities, including New York City, Chicago, and Los Angeles, as policymakers call for stronger gun control laws to prevent further tragedies."
+                "title": "Mass Shootings in the US: A Growing Concern",
+                "risk_level": "High",
+                "summary": "Four mass shootings in the US within a week have left several people dead and many more injured, sparking renewed calls for stricter gun control laws."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "North Korea fires unidentified projectile into Sea of Japan amid heightened tensions in region."
-            },
-            {
-                "title": "Anti-Government Protests Continue in South Korea Amid Economic Woes",
+                "title": "North Korea's Kim Jong-un orders missile test after Seoul's arms exports to Ukraine",
                 "risk_level": "High",
-                "summary": "Anti-government protests continue in South Korea's capital, Seoul, as citizens express discontent over economic woes and inflation concerns."
+                "summary": "North Korean leader Kim Jong-un ordered a missile test in response to South Korea's arms exports to Ukraine, escalating tensions between Pyongyang and Seoul."
             },
             {
-                "title": "",
+                "title": "South Korea's opposition urges president to revise budget amid inflation concerns",
+                "risk_level": "Medium",
+                "summary": "South Korea's opposition leader called for President Yoon Suk-yeol to revise the 2024 budget to address rising inflation concerns, increasing political tensions in the country."
+            },
+            {
+                "title": "South Korea's central bank raises key interest rate by 25 basis points to combat inflation",
                 "risk_level": "Low",
-                "summary": "South Korea to impose temporary controls on exports of key materials for chip production in response to US and South Korean industry complaints."
+                "summary": "The Bank of Korea raised its benchmark interest rate by 25 basis points to 3.5% in an effort to curb inflation and stabilize the economy, with some market analysts predicting further rate hikes."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires two ballistic missiles into the Sea of Japan",
+                "title": "Magnitude 6.0 earthquake hits eastern part of Japan",
                 "risk_level": "High",
-                "summary": "Tensions between North Korea and Japan have increased due to recent missile tests."
+                "summary": "A 6.0-magnitude earthquake struck the eastern coast of Japan, prompting a tsunami warning. No casualties or significant damage have been reported so far."
             },
             {
-                "title": "Japan's COVID-19 hospitalizations hit record daily high",
-                "risk_level": "High",
-                "summary": "Japan's healthcare system is facing increasing pressure due to a rise in COVID-19 cases."
-            },
-            {
-                "title": "Japanese lawmakers push for more restrictive COVID-19 measures",
+                "title": "Protest Against Japanese Government's Economic Policy Held in Tokyo",
                 "risk_level": "Medium",
-                "summary": "Government officials in Japan are discussing stricter measures to combat the spread of COVID-19."
+                "summary": "A group of protesters gathered in Tokyo to demonstrate against the Japanese government's economic policies, which they say are exacerbating income inequality and economic stagnation."
+            },
+            {
+                "title": "Japanese Government Raises COVID-19 Alert Level in Tokyo",
+                "risk_level": "Medium",
+                "summary": "The Japanese government has raised the COVID-19 alert level in Tokyo due to a recent surge in cases, urging residents to take precautions and wear masks in public."
             }
         ]
     }
