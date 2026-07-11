@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyberattack on Global Software Company",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A widespread cyberattack has hit a global tech company, compromising sensitive user data. The company has issued a statement, urging users to change their passwords immediately."
+                "summary": "North Korean State Media Warns of Nuclear War Following US B-1B Bomber Deployment"
             },
             {
-                "title": "Global Trade Tensions Escalate",
-                "risk_level": "High",
-                "summary": "Trade tensions between major global powers have escalated, with both sides imposing new tariffs. Market experts warn of a potential economic downturn."
-            },
-            {
-                "title": "Pandemic-Related Supply Chain Disruptions",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Global supply chains continue to feel the impact of the ongoing pandemic, with reports of shortages and delays in key industries."
+                "summary": "US to Reconsider Relations with Pakistan Over Drone Attack on American Citizens"
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "China Imposes New COVID-19 Lockdowns as Cases Rise Amidst Beijing Winter Olympics"
             }
         ],
         "United States": [
             {
-                "title": "Racial Tensions and Protests in the US",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Nationwide protests against systemic racism and police brutality, with some turning violent, highlighting long-standing social unrest."
+                "summary": "Gunman kills 5, wounds 5 in July 4 shooting in Highland Park, Illinois, just outside Chicago, sparking nationwide outrage and calls for stricter gun control laws."
             },
             {
-                "title": "COVID-19 Cases Surge in US",
-                "risk_level": "High",
-                "summary": "Cases of COVID-19 continue to rise, mainly due to the highly contagious Omicron subvariant, straining healthcare resources and economic recovery."
-            },
-            {
-                "title": "US Senate Passes Gun Control Legislation",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Landmark legislation aimed at reducing gun violence, a major national issue, but its effectiveness remains uncertain, with critics and supporters debating its impact."
+                "summary": "Supreme Court's overturning of Roe v. Wade sparks protests and backlash across the United States, with many calling for reproductive rights and access to abortion clinics."
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Tensions rise between the US and China over Taiwan, with the US House of Representatives passing a bill to support Taiwan's self-defense capabilities, straining diplomatic relations between the two nations."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires three ballistic missiles: Seoul",
+                "title": "North Korea fires ballistic missiles amid tensions with US",
                 "risk_level": "High",
-                "summary": "North Korea fired three ballistic missiles off its east coast on Wednesday, the South Korean military said, amid renewed tensions between the two Koreas."
+                "summary": "North Korea fired several ballistic missiles into the sea off its east coast, sparking condemnation from the United States and its allies."
             },
             {
-                "title": "Seoul calls for international cooperation to strengthen sanctions on North Korea",
+                "title": "South Korea's President Yoon to visit US amid North Korea tensions",
                 "risk_level": "High",
-                "summary": "South Korea called on the international community to strengthen sanctions on North Korea in response to the regime's continued provocations."
+                "summary": "South Korean President Yoon Suk-yeol is set to visit the United States next week, where he will meet with US President Joe Biden and discuss issues including North Korea's nuclear program."
             },
             {
-                "title": "South Korea's ruling party to discuss possible military action against North Korea",
-                "risk_level": "High",
-                "summary": "The ruling party in South Korea is set to discuss possible military action against North Korea following a series of missile tests by the regime in recent weeks."
+                "title": "South Korea's parliament passes bill on 'anti-foreign forces' law",
+                "risk_level": "Medium",
+                "summary": "South Korea's parliament has passed a bill on an 'anti-foreign forces' law, which aims to prevent foreign interference in domestic politics, but critics say it could be used to target pro-democracy activists."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Economy Faces Recession Risk Due to Global Slowdown",
+                "title": "North Korea fires two ballistic missiles towards Japan",
                 "risk_level": "High",
-                "summary": "Japan's economy is facing growing concerns of recession due to the global economic slowdown, with the country's prime minister warning of potential recession in the next year."
+                "summary": "Two ballistic missiles were launched from Pyongyang, with one projectile landing in Japan's Exclusive Economic Zone (EEZ), about 260 km off the coast of Hachinohe city in Aomori Prefecture. No damage or injuries were reported."
             },
             {
-                "title": "Okinawa Protests Resume Over Military Base Controversy",
-                "risk_level": "High",
-                "summary": "Protests against the relocation of a US military base in Okinawa resumed after a brief pause, with thousands of demonstrators demanding a halt to the construction project."
-            },
-            {
-                "title": "Japan's Government Announces Measures to Boost Fertility Rates",
+                "title": "Anti-virus software company's CEO resigns amid scandal",
                 "risk_level": "Medium",
-                "summary": "Japan's government has announced measures to boost fertility rates, including a rise in paternity leave for men and a boost in benefits for families with children."
+                "summary": "The CEO of Japanese antivirus software company 'NetAgent' resigned amid allegations of insider trading and misuse of company funds."
+            },
+            {
+                "title": "Tokyo's new virus variant spreads among young people",
+                "risk_level": "Medium",
+                "summary": "A new viral infection is spreading quickly among young people in Tokyo, causing concern among health experts. The exact cause of the variant is still unknown."
             }
         ]
     }
