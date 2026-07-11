@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Drought Concerns Spur Unrest in Kenya",
+                "title": "Cyberattack on Global Software Company",
                 "risk_level": "High",
-                "summary": "Severe drought has exacerbated existing poverty and food insecurity in Kenya, fueling protests and potential social unrest. This has implications for food availability, global commodity prices, and potential refugee flows."
+                "summary": "A widespread cyberattack has hit a global tech company, compromising sensitive user data. The company has issued a statement, urging users to change their passwords immediately."
             },
             {
-                "title": "US-China Trade War Escalates",
+                "title": "Global Trade Tensions Escalate",
                 "risk_level": "High",
-                "summary": "The ongoing trade tensions between the US and China have escalated, with both sides imposing further tariffs. This has implications for global trade, economic growth, and potential supply chain disruptions."
+                "summary": "Trade tensions between major global powers have escalated, with both sides imposing new tariffs. Market experts warn of a potential economic downturn."
             },
             {
-                "title": "Increased Border Controls in Eastern Europe",
+                "title": "Pandemic-Related Supply Chain Disruptions",
                 "risk_level": "Medium",
-                "summary": "Several Eastern European countries have tightened border controls in response to migration concerns. This has implications for migrant flows, social cohesion, and potential humanitarian crises."
+                "summary": "Global supply chains continue to feel the impact of the ongoing pandemic, with reports of shortages and delays in key industries."
             }
         ],
         "United States": [
             {
-                "title": "Jan 6th anniversary protests and potential violence in the United States",
+                "title": "Racial Tensions and Protests in the US",
                 "risk_level": "High",
-                "summary": "Extremist groups are planning to hold protests in Washington D.C. and other cities on the anniversary of the January 6th U.S. Capitol attack, increasing the risk of violence and potential disruption to public safety."
+                "summary": "Nationwide protests against systemic racism and police brutality, with some turning violent, highlighting long-standing social unrest."
             },
             {
-                "title": "Potential rail worker strike in the United States",
+                "title": "COVID-19 Cases Surge in US",
+                "risk_level": "High",
+                "summary": "Cases of COVID-19 continue to rise, mainly due to the highly contagious Omicron subvariant, straining healthcare resources and economic recovery."
+            },
+            {
+                "title": "US Senate Passes Gun Control Legislation",
                 "risk_level": "Medium",
-                "summary": "The threat of a rail worker strike in the United States is increasing, which could have significant economic implications and impact supply chains."
-            },
-            {
-                "title": "Escalating tensions between the United States and China over Taiwan",
-                "risk_level": "High",
-                "summary": "The United States and China are engaged in a tense diplomatic standoff over Taiwan, with the risk of military conflict escalating and potentially destabilizing the region."
+                "summary": "Landmark legislation aimed at reducing gun violence, a major national issue, but its effectiveness remains uncertain, with critics and supporters debating its impact."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires ballistic missile towards Yellow Sea: Seoul",
+                "title": "North Korea fires three ballistic missiles: Seoul",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile over the Yellow Sea, South Korea said, as the region remained on high alert due to rising tensions on the Korean Peninsula."
+                "summary": "North Korea fired three ballistic missiles off its east coast on Wednesday, the South Korean military said, amid renewed tensions between the two Koreas."
             },
             {
-                "title": "South Korean President Yoon orders military to be on high alert amid North Korean missile launch",
+                "title": "Seoul calls for international cooperation to strengthen sanctions on North Korea",
                 "risk_level": "High",
-                "summary": "South Korea's President Yoon Suk-yeol ordered the military to be on high alert and the country's top military commander visited the defense minister amid tensions over North Korea's missile launches."
+                "summary": "South Korea called on the international community to strengthen sanctions on North Korea in response to the regime's continued provocations."
             },
             {
-                "title": "China-South Korea relations strained amid North Korea tensions",
-                "risk_level": "Medium",
-                "summary": "Tensions between China and South Korea have increased due to their differing views on North Korea's missile launches, with Seoul urging Beijing to use its influence to curb Pyongyang's actions."
+                "title": "South Korea's ruling party to discuss possible military action against North Korea",
+                "risk_level": "High",
+                "summary": "The ruling party in South Korea is set to discuss possible military action against North Korea following a series of missile tests by the regime in recent weeks."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Typhoon Hinnamor makes landfall in Japan, causing disruption and damage; July 6-7, 2026."
-            },
-            {
-                "title": "",
+                "title": "Japan's Economy Faces Recession Risk Due to Global Slowdown",
                 "risk_level": "High",
-                "summary": "Japan's economy faces potential recession as the global economic downturn affects exports; July 5-6, 2026."
+                "summary": "Japan's economy is facing growing concerns of recession due to the global economic slowdown, with the country's prime minister warning of potential recession in the next year."
             },
             {
-                "title": "",
+                "title": "Okinawa Protests Resume Over Military Base Controversy",
+                "risk_level": "High",
+                "summary": "Protests against the relocation of a US military base in Okinawa resumed after a brief pause, with thousands of demonstrators demanding a halt to the construction project."
+            },
+            {
+                "title": "Japan's Government Announces Measures to Boost Fertility Rates",
                 "risk_level": "Medium",
-                "summary": "Protests against government policies erupt in Tokyo, highlighting growing discontent among students and workers; July 2-3, 2026."
+                "summary": "Japan's government has announced measures to boost fertility rates, including a rise in paternity leave for men and a boost in benefits for families with children."
             }
         ]
     }
