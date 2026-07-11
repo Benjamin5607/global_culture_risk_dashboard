@@ -3,70 +3,73 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Russia to Sever Economic Ties with UK if 'Unfriendly' Measures Are Imposed",
                 "risk_level": "High",
-                "summary": "North Korean State Media Warns of Nuclear War Following US B-1B Bomber Deployment"
+                "summary": "UK-Russia relations deteriorate further as Russia threatens to sever economic ties if 'unfriendly' measures are imposed."
             },
             {
-                "title": "",
+                "title": "South China Sea: Philippines Objects to China's Construction of Lighthouse in Disputed Waters",
+                "risk_level": "High",
+                "summary": "Tensions continue to rise in the South China Sea as the Philippines objects to China’s construction of a lighthouse in disputed waters."
+            },
+            {
+                "title": "Turkey and Sweden Reach 'Historic' Immigration Deal",
                 "risk_level": "Medium",
-                "summary": "US to Reconsider Relations with Pakistan Over Drone Attack on American Citizens"
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "China Imposes New COVID-19 Lockdowns as Cases Rise Amidst Beijing Winter Olympics"
+                "summary": "Turkey and Sweden reach a historic immigration deal, but controversy and criticism surround the agreement."
             }
         ],
         "United States": [
             {
-                "title": "",
+                "title": "Ukraine: U.S. warns Russia may stage false-flag operation in Crimea",
                 "risk_level": "High",
-                "summary": "Gunman kills 5, wounds 5 in July 4 shooting in Highland Park, Illinois, just outside Chicago, sparking nationwide outrage and calls for stricter gun control laws."
+                "summary": "United States warns Russia may stage a false-flag operation in Crimea to justify an attack on Ukraine.",
+                "date": "2024-07-04"
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Supreme Court's overturning of Roe v. Wade sparks protests and backlash across the United States, with many calling for reproductive rights and access to abortion clinics."
+                "title": "U.S. and NATO expand military presence in Europe as tensions with Russia escalate",
+                "risk_level": "High",
+                "summary": "United States and NATO expand military presence in Europe as tensions with Russia escalate.",
+                "date": "2024-07-01"
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Tensions rise between the US and China over Taiwan, with the US House of Representatives passing a bill to support Taiwan's self-defense capabilities, straining diplomatic relations between the two nations."
+                "title": "U.S. to provide Ukraine with $400 million in military aid",
+                "risk_level": "High",
+                "summary": "United States to provide Ukraine with $400 million in military aid.",
+                "date": "2024-06-29"
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires ballistic missiles amid tensions with US",
+                "title": "North Korea's Missile Test Sparks International Alarm",
                 "risk_level": "High",
-                "summary": "North Korea fired several ballistic missiles into the sea off its east coast, sparking condemnation from the United States and its allies."
+                "summary": "North Korea fired an intercontinental ballistic missile (ICBM) into the sea off Japan's coast on July 4, sparking international concern about its military capabilities."
             },
             {
-                "title": "South Korea's President Yoon to visit US amid North Korea tensions",
-                "risk_level": "High",
-                "summary": "South Korean President Yoon Suk-yeol is set to visit the United States next week, where he will meet with US President Joe Biden and discuss issues including North Korea's nuclear program."
-            },
-            {
-                "title": "South Korea's parliament passes bill on 'anti-foreign forces' law",
+                "title": "Protests Erupt in Seoul Over Labor Law Reforms",
                 "risk_level": "Medium",
-                "summary": "South Korea's parliament has passed a bill on an 'anti-foreign forces' law, which aims to prevent foreign interference in domestic politics, but critics say it could be used to target pro-democracy activists."
+                "summary": "Thousands of protesters gathered in Seoul to demonstrate against the government's proposed labor law reforms, which they claim will weaken workers' rights."
+            },
+            {
+                "title": "Cyberattack Hits South Korean Government Websites",
+                "risk_level": "Medium",
+                "summary": "Several government websites in South Korea were hit by a cyberattack, which experts believe may have originated from a North Korean hacking group."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires two ballistic missiles towards Japan",
+                "title": "",
+                "risk_level": "Low",
+                "summary": "The Japan Meteorological Corporation warned of a high risk of heat stroke on Jul 4, 2024."
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Typhoon Soulik makes landfall in southern Japan, forcing thousands to evacuate on Jul 9, 2024."
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "Two ballistic missiles were launched from Pyongyang, with one projectile landing in Japan's Exclusive Economic Zone (EEZ), about 260 km off the coast of Hachinohe city in Aomori Prefecture. No damage or injuries were reported."
-            },
-            {
-                "title": "Anti-virus software company's CEO resigns amid scandal",
-                "risk_level": "Medium",
-                "summary": "The CEO of Japanese antivirus software company 'NetAgent' resigned amid allegations of insider trading and misuse of company funds."
-            },
-            {
-                "title": "Tokyo's new virus variant spreads among young people",
-                "risk_level": "Medium",
-                "summary": "A new viral infection is spreading quickly among young people in Tokyo, causing concern among health experts. The exact cause of the variant is still unknown."
+                "summary": "North Korea fires 2 ballistic missiles toward Japan on Jul 7, 2024; warning systems react, but no damage reported."
             }
         ]
     }
