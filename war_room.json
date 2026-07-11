@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Drought Concerns Spur Unrest in Kenya",
                 "risk_level": "High",
-                "summary": "Global protests and demonstrations turn violent, affecting major cities worldwide."
+                "summary": "Severe drought has exacerbated existing poverty and food insecurity in Kenya, fueling protests and potential social unrest. This has implications for food availability, global commodity prices, and potential refugee flows."
             },
             {
-                "title": "",
+                "title": "US-China Trade War Escalates",
+                "risk_level": "High",
+                "summary": "The ongoing trade tensions between the US and China have escalated, with both sides imposing further tariffs. This has implications for global trade, economic growth, and potential supply chain disruptions."
+            },
+            {
+                "title": "Increased Border Controls in Eastern Europe",
                 "risk_level": "Medium",
-                "summary": "Major cyberattack on global supply chain disrupts operations in key industries."
-            },
-            {
-                "title": "",
-                "risk_level": "High",
-                "summary": "Global economic instability triggered by sudden interest rate hikes, causing market volatility."
+                "summary": "Several Eastern European countries have tightened border controls in response to migration concerns. This has implications for migrant flows, social cohesion, and potential humanitarian crises."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
+                "title": "Jan 6th anniversary protests and potential violence in the United States",
                 "risk_level": "High",
-                "summary": "The US Supreme Court halts President Biden's student loan forgiveness plan, leaving millions of borrowers uncertain about their debt relief prospects."
+                "summary": "Extremist groups are planning to hold protests in Washington D.C. and other cities on the anniversary of the January 6th U.S. Capitol attack, increasing the risk of violence and potential disruption to public safety."
             },
             {
-                "title": "US Senate Passes $45 Billion for Ukraine and Other International Aid",
-                "risk_level": "High",
-                "summary": "The US Senate votes to provide $45 billion in assistance to Ukraine and other countries, amidst ongoing tensions between Russia and the West."
+                "title": "Potential rail worker strike in the United States",
+                "risk_level": "Medium",
+                "summary": "The threat of a rail worker strike in the United States is increasing, which could have significant economic implications and impact supply chains."
             },
             {
-                "title": "Mass Shootings in the US: A Growing Concern",
+                "title": "Escalating tensions between the United States and China over Taiwan",
                 "risk_level": "High",
-                "summary": "Four mass shootings in the US within a week have left several people dead and many more injured, sparking renewed calls for stricter gun control laws."
+                "summary": "The United States and China are engaged in a tense diplomatic standoff over Taiwan, with the risk of military conflict escalating and potentially destabilizing the region."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's Kim Jong-un orders missile test after Seoul's arms exports to Ukraine",
+                "title": "North Korea fires ballistic missile towards Yellow Sea: Seoul",
                 "risk_level": "High",
-                "summary": "North Korean leader Kim Jong-un ordered a missile test in response to South Korea's arms exports to Ukraine, escalating tensions between Pyongyang and Seoul."
+                "summary": "North Korea fired a ballistic missile over the Yellow Sea, South Korea said, as the region remained on high alert due to rising tensions on the Korean Peninsula."
             },
             {
-                "title": "South Korea's opposition urges president to revise budget amid inflation concerns",
+                "title": "South Korean President Yoon orders military to be on high alert amid North Korean missile launch",
+                "risk_level": "High",
+                "summary": "South Korea's President Yoon Suk-yeol ordered the military to be on high alert and the country's top military commander visited the defense minister amid tensions over North Korea's missile launches."
+            },
+            {
+                "title": "China-South Korea relations strained amid North Korea tensions",
                 "risk_level": "Medium",
-                "summary": "South Korea's opposition leader called for President Yoon Suk-yeol to revise the 2024 budget to address rising inflation concerns, increasing political tensions in the country."
-            },
-            {
-                "title": "South Korea's central bank raises key interest rate by 25 basis points to combat inflation",
-                "risk_level": "Low",
-                "summary": "The Bank of Korea raised its benchmark interest rate by 25 basis points to 3.5% in an effort to curb inflation and stabilize the economy, with some market analysts predicting further rate hikes."
+                "summary": "Tensions between China and South Korea have increased due to their differing views on North Korea's missile launches, with Seoul urging Beijing to use its influence to curb Pyongyang's actions."
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 6.0 earthquake hits eastern part of Japan",
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Typhoon Hinnamor makes landfall in Japan, causing disruption and damage; July 6-7, 2026."
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "A 6.0-magnitude earthquake struck the eastern coast of Japan, prompting a tsunami warning. No casualties or significant damage have been reported so far."
+                "summary": "Japan's economy faces potential recession as the global economic downturn affects exports; July 5-6, 2026."
             },
             {
-                "title": "Protest Against Japanese Government's Economic Policy Held in Tokyo",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "A group of protesters gathered in Tokyo to demonstrate against the Japanese government's economic policies, which they say are exacerbating income inequality and economic stagnation."
-            },
-            {
-                "title": "Japanese Government Raises COVID-19 Alert Level in Tokyo",
-                "risk_level": "Medium",
-                "summary": "The Japanese government has raised the COVID-19 alert level in Tokyo due to a recent surge in cases, urging residents to take precautions and wear masks in public."
+                "summary": "Protests against government policies erupt in Tokyo, highlighting growing discontent among students and workers; July 2-3, 2026."
             }
         ]
     }
