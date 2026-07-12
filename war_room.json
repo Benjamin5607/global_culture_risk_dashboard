@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Global Energy Crisis Threatens Economic Stability",
                 "risk_level": "High",
-                "summary": "Tensions rise between US and Iran after drone attack on US base in Syria."
+                "summary": "Escalating energy prices and shortages are causing widespread economic disruption, with potential for social unrest and political instability."
             },
             {
-                "title": "",
-                "risk_level": "High",
-                "summary": "Russia and Ukraine trade accusations of shelling along conflict zone."
-            },
-            {
-                "title": "",
+                "title": "Climate Change Protests Sweep Major Cities",
                 "risk_level": "Medium",
-                "summary": "European powers urge Iran to respect nuclear deal amid concerns over enrichment activities."
+                "summary": "Mass protests against inaction on climate change are taking place in cities worldwide, with potential for property damage and disruptions to daily life."
+            },
+            {
+                "title": "Global Cybersecurity Threats on the Rise",
+                "risk_level": "High",
+                "summary": "Sophisticated cyber attacks are increasingly targeting major corporations and government agencies, with potential for significant financial and reputational losses."
             }
         ],
         "United States": [
             {
-                "title": "Election Interference Fears Amid FBI Probe Into 2024 Election-Related Data Breach",
-                "risk_level": "High",
-                "summary": "The US Justice Department has opened an investigation into a data breach that may have compromised election information ahead of the 2024 US presidential election, sparking fears of potential interference."
+                "title": "US Inflation Data Beats Expectations",
+                "risk_level": "Medium",
+                "summary": "The latest US inflation data surprised economists by showing a lower-than-expected rate, which may impact the Fed's interest rate decisions."
             },
             {
-                "title": "Protests Erupt as Supreme Court Considers to Allow States to Ban Abortions After 20 Weeks",
+                "title": "Tensions Rise Between US and China Over Taiwan",
                 "risk_level": "High",
-                "summary": "Protests have been erupting across the United States as the Supreme Court weighs a proposal to permit states to ban abortions after 20 weeks."
+                "summary": "The US government has expressed concerns over China's military activities near Taiwan, escalating tensions between the two nations."
             },
             {
-                "title": "Mass Shooting Occurs in California Leaving Multiple Injured",
+                "title": "Ransomware Attack Hits US Healthcare System",
                 "risk_level": "High",
-                "summary": "A mass shooting occurred in California, leaving multiple people injured and sparking concerns about gun violence in the US."
+                "summary": "A ransomware attack has compromised the data of a major US healthcare system, highlighting concerns over cyber security vulnerabilities in the sector."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul Mayor Election Dispute",
+                "title": "North Korea conducts ballistic missile test over Japan",
                 "risk_level": "High",
-                "summary": "South Korea's top election body on Monday ordered a by-election for Seoul mayor, upholding a lower court's ruling that ousted the current mayor over a vote-rigging scandal."
+                "summary": "North Korea fired an intercontinental ballistic missile over Japan's northern island of Hokkaido, triggering evacuation alerts and widespread anxiety, in a demonstration of the country's increasing military capabilities."
             },
             {
-                "title": "Moon Jae-in Impeachment Call grows",
+                "title": "Protest over US troops in South Korea turns violent",
                 "risk_level": "Medium",
-                "summary": "Opposition lawmakers in South Korea's parliament have submitted an impeachment request for President Yoon Suk Yeol amid corruption allegations, but it is uncertain if enough lawmakers will back it."
+                "summary": "Anti-American protests turned violent in South Korea, with police firing tear gas at demonstrators who were opposing the US-led joint military drills and calling for the withdrawal of US troops from the peninsula."
             },
             {
-                "title": "North Korean Missile Launch Sparks Fears",
-                "risk_level": "High",
-                "summary": "A North Korean ballistic missile launched into the sea sparked regional security concerns. South Korean authorities say the launch does not pose a direct threat, however the act demonstrates Pyongyang's ability to launch a missile within striking distance of Tokyo and Seoul."
+                "title": "South Korean government proposes tougher penalties for online hate speech",
+                "risk_level": "Low",
+                "summary": "The South Korean government introduced a bill to impose harsher penalties on individuals who engage in online hate speech, as the country continues to grapple with the rise of cyberbullying and online harassment."
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Hinnamor lands in Japan, forcing evacuation",
-                "risk_level": "High",
-                "summary": "A powerful typhoon made landfall in western Japan on July 10, 2024, with the Meteorological Agency warning of strong winds and heavy rain. Several evacuation orders were issued. The storm was the second to hit the country in a week, causing disruption and concern. The risk level remains high, especially in areas prone to flooding and landslides."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Nuclear Reactor Leaks Water into Japanese Sea",
-                "risk_level": "Medium",
-                "summary": "A leak at a nuclear reactor in Japan has spilled water into the sea, sparking concerns over radioactive contamination. The reactor, operated by Tokyo Electric Power, is in a state of cold shutdown, and the leak is believed to have happened during a maintenance procedure."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Japan's PM announces plans to raise consumption tax rate",
-                "risk_level": "Low",
-                "summary": "In a bid to stimulate economic growth, Japan's Prime Minister has proposed increasing the consumption tax rate from 10% to 12%. The move aims to plug the budget gap and fund social welfare programs. However, it may also lead to higher living costs and impact consumer spending."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
