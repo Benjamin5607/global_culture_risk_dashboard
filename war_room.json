@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Energy Crisis Threatens Economic Stability",
+                "title": "US-China Tensions Escalate Amid Nuclear Threat Claims",
                 "risk_level": "High",
-                "summary": "Escalating energy prices and shortages are causing widespread economic disruption, with potential for social unrest and political instability."
+                "summary": "Tensions between the US and China have heightened following reports of nuclear threats. The situation remains volatile, with concerns about global stability and security escalating."
             },
             {
-                "title": "Climate Change Protests Sweep Major Cities",
-                "risk_level": "Medium",
-                "summary": "Mass protests against inaction on climate change are taking place in cities worldwide, with potential for property damage and disruptions to daily life."
+                "title": "Global Protests Erupt Over Human Rights Abuses",
+                "risk_level": "High",
+                "summary": "Widespread protests have broken out globally in response to human rights abuses. The demonstrations, which have spread across multiple countries, reflect growing public discontent with governments' handling of social issues."
             },
             {
-                "title": "Global Cybersecurity Threats on the Rise",
+                "title": "Cyberattack cripples Key Infrastructure in Eastern Europe",
                 "risk_level": "High",
-                "summary": "Sophisticated cyber attacks are increasingly targeting major corporations and government agencies, with potential for significant financial and reputational losses."
+                "summary": "A reported cyberattack has severely impacted critical infrastructure in Eastern Europe, disrupting essential services and causing widespread inconvenience to users. The nature and extent of the attack remain unclear"
             }
         ],
         "United States": [
             {
-                "title": "US Inflation Data Beats Expectations",
+                "title": "Roe v. Wade Anniversary, Protests across US",
                 "risk_level": "Medium",
-                "summary": "The latest US inflation data surprised economists by showing a lower-than-expected rate, which may impact the Fed's interest rate decisions."
+                "summary": "The anniversary of the landmark US Supreme Court decision striking down abortion, saw protests and demonstrations in numerous cities nationwide, reflecting ongoing debates over women's rights and reproductive healthcare."
             },
             {
-                "title": "Tensions Rise Between US and China Over Taiwan",
+                "title": "Mass Shooting in Highland Park, Illinois, Leaves Multiple Dead and Injured",
                 "risk_level": "High",
-                "summary": "The US government has expressed concerns over China's military activities near Taiwan, escalating tensions between the two nations."
+                "summary": "A mass shooting occurred during an Independence Day celebration in Highland Park, Illinois, resulting in multiple fatalities and injured individuals, further highlighting concerns about gun violence in the US."
             },
             {
-                "title": "Ransomware Attack Hits US Healthcare System",
-                "risk_level": "High",
-                "summary": "A ransomware attack has compromised the data of a major US healthcare system, highlighting concerns over cyber security vulnerabilities in the sector."
+                "title": "Supreme Court Blocks Biden's Vaccine Mandate for US Businesses",
+                "risk_level": "Medium",
+                "summary": "The US Supreme Court issued a ruling that blocked the Biden administration's vaccine mandate for large US businesses, potentially complicating efforts to manage the ongoing COVID-19 pandemic in the country."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea conducts ballistic missile test over Japan",
-                "risk_level": "High",
-                "summary": "North Korea fired an intercontinental ballistic missile over Japan's northern island of Hokkaido, triggering evacuation alerts and widespread anxiety, in a demonstration of the country's increasing military capabilities."
-            },
-            {
-                "title": "Protest over US troops in South Korea turns violent",
-                "risk_level": "Medium",
-                "summary": "Anti-American protests turned violent in South Korea, with police firing tear gas at demonstrators who were opposing the US-led joint military drills and calling for the withdrawal of US troops from the peninsula."
-            },
-            {
-                "title": "South Korean government proposes tougher penalties for online hate speech",
+                "title": "Anti-establishment candidate Yoon Suk-yeol wins South Korean presidency",
                 "risk_level": "Low",
-                "summary": "The South Korean government introduced a bill to impose harsher penalties on individuals who engage in online hate speech, as the country continues to grapple with the rise of cyberbullying and online harassment."
+                "summary": "A court in South Korea has accepted the election commission's decision that conservative opposition presidential candidate Yoon Suk-yeol won the presidential election. He won with 48.55% of the vote, while liberal rival Lee Jae-myung had 47.83%. The result confirmed in a court hearing will be final and definitive."
+            },
+            {
+                "title": "Anti-establishment figure Yoon Suk-yeol to win South Korean presidency",
+                "risk_level": "Medium",
+                "summary": "Conservative opposition presidential candidate Yoon Suk-yeol is on track to win the presidential election in South Korea, with 48.57% of votes, while his liberal rival Lee Jae-myung had 47.83%. Exit polls indicated that Yoon secured a slim majority with the support of conservative voters."
+            },
+            {
+                "title": "South Korean court orders recount in highly contested presidential election",
+                "risk_level": "High",
+                "summary": "A South Korean court has ordered a recount in the presidential election due to allegations of irregularities. The liberal opposition candidate Lee Jae-myung's campaign alleged voter manipulation, which sparked widespread protests from the public and opposition politicians."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Protests against Japan-Kuwait security pact erupt in Tokyo",
+                "risk_level": "Medium",
+                "summary": "Protesters demonstrated against a planned security pact between Japan and Kuwait, highlighting concerns about national security and foreign policy."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Japan's population shrinks by 540,000 due to low birth rates",
+                "risk_level": "High",
+                "summary": "Japan's population has declined by 540,000 in the past year, exacerbating the country's already severe demographic crisis."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Japan's nuclear regulator faults Osaka mayor over safety concerns",
+                "risk_level": "High",
+                "summary": "Japan's nuclear regulatory agency criticized the Osaka mayor for safety concerns surrounding the Oi nuclear power plant, highlighting ongoing debates about nuclear energy."
             }
         ]
     }

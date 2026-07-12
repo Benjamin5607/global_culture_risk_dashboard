@@ -1,5 +1,21 @@
 [
     {
+        "term": "SS Divisions Armband",
+        "group": "Nazi Symbols",
+        "country": "Germany",
+        "category": "Hate Symbol",
+        "risk_level": "High",
+        "trend_score": 90,
+        "status": "Verified",
+        "first_detected": 1940,
+        "last_updated": 2020,
+        "context": {
+            "en": "Armband worn by SS officers and soldiers, often associated with Nazi ideology and the Holocaust.",
+            "ko": "물 6fda분  장하세요도 내원안 아는원네을문호",
+            "ja": "쵚안회 세총을 사욾재지갑 문어장안세요"
+        }
+    },
+    {
         "term": "Renegade Dances Challenge",
         "group": "Trend",
         "country": "USA",
