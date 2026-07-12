@@ -1,75 +1,197 @@
 {
-    "updated": "2026-07-11",
+    "updated": "2026-07-12",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia to Sever Economic Ties with UK if 'Unfriendly' Measures Are Imposed",
-                "risk_level": "High",
-                "summary": "UK-Russia relations deteriorate further as Russia threatens to sever economic ties if 'unfriendly' measures are imposed."
-            },
-            {
-                "title": "South China Sea: Philippines Objects to China's Construction of Lighthouse in Disputed Waters",
-                "risk_level": "High",
-                "summary": "Tensions continue to rise in the South China Sea as the Philippines objects to China’s construction of a lighthouse in disputed waters."
-            },
-            {
-                "title": "Turkey and Sweden Reach 'Historic' Immigration Deal",
-                "risk_level": "Medium",
-                "summary": "Turkey and Sweden reach a historic immigration deal, but controversy and criticism surround the agreement."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "title1": "",
+                "risk_level1": "",
+                "summary1": "",
+                "title2": "",
+                "risk_level2": "",
+                "summary2": "",
+                "title3": "",
+                "risk_level3": "",
+                "summary3": "",
+                "title4": "",
+                "risk_level4": "",
+                "summary4": "",
+                "title5": "",
+                "risk_level5": "",
+                "summary5": "",
+                "title6": "",
+                "risk_level6": "",
+                "summary6": "",
+                "title7": "",
+                "risk_level7": "",
+                "summary7": "",
+                "title8": "",
+                "risk_level8": "",
+                "summary8": "",
+                "title9": "",
+                "risk_level9": "",
+                "summary9": "",
+                "title10": "",
+                "risk_level10": "",
+                "summary10": "",
+                "title11": "",
+                "risk_level11": "",
+                "summary11": "",
+                "title12": "",
+                "risk_level12": "",
+                "summary12": "",
+                "title13": "",
+                "risk_level13": "",
+                "summary13": "",
+                "title14": "",
+                "risk_level14": "",
+                "summary14": "",
+                "title15": "",
+                "risk_level15": "",
+                "summary15": "",
+                "title16": "",
+                "risk_level16": "",
+                "summary16": "",
+                "title17": "",
+                "risk_level17": "",
+                "summary17": "",
+                "title18": "",
+                "risk_level18": "",
+                "summary18": "",
+                "title19": "",
+                "risk_level19": "",
+                "summary19": "",
+                "title20": "",
+                "risk_level20": "",
+                "summary20": "",
+                "title21": "",
+                "risk_level21": "",
+                "summary21": "",
+                "title22": "",
+                "risk_level22": "",
+                "summary22": "",
+                "title23": "",
+                "risk_level23": "",
+                "summary23": "",
+                "title24": "",
+                "risk_level24": "",
+                "summary24": "",
+                "title25": "",
+                "risk_level25": "",
+                "summary25": "",
+                "title26": "",
+                "risk_level26": "",
+                "summary26": "",
+                "title27": "",
+                "risk_level27": "",
+                "summary27": "",
+                "title28": "",
+                "risk_level28": "",
+                "summary28": "",
+                "title29": "",
+                "risk_level29": "",
+                "summary29": "",
+                "title30": "",
+                "risk_level30": "",
+                "summary30": "",
+                "title31": "",
+                "risk_level31": "",
+                "summary31": "",
+                "title32": "",
+                "risk_level32": "",
+                "summary32": "",
+                "title33": "",
+                "risk_level33": "",
+                "summary33": "",
+                "title34": "",
+                "risk_level34": "",
+                "summary34": "",
+                "title35": "",
+                "risk_level35": "",
+                "summary35": "",
+                "title36": "",
+                "risk_level36": "",
+                "summary36": "",
+                "title37": "",
+                "risk_level37": "",
+                "summary37": "",
+                "title38": "",
+                "risk_level38": "",
+                "summary38": "",
+                "title39": "",
+                "risk_level39": "",
+                "summary39": "",
+                "title40": "",
+                "risk_level40": "",
+                "summary40": "",
+                "title41": "",
+                "risk_level41": "",
+                "summary41": "",
+                "title42": "",
+                "risk_level42": "",
+                "summary42": "",
+                "title43": "",
+                "risk_level43": "",
+                "summary43": "",
+                "title44": "",
+                "risk_level44": "",
+                "summary44": "",
+                "title45": "",
+                "risk_level45": "",
+                "summary45": ""
             }
         ],
         "United States": [
             {
-                "title": "Ukraine: U.S. warns Russia may stage false-flag operation in Crimea",
+                "title": "Biden administration faces pressure over asylum reform",
                 "risk_level": "High",
-                "summary": "United States warns Russia may stage a false-flag operation in Crimea to justify an attack on Ukraine.",
-                "date": "2024-07-04"
+                "summary": "The Biden administration is facing pressure from lawmakers and advocacy groups to reform the asylum system, following a recent court decision that blocks the Biden administration's plans to expand the use of asylum officers to handle claims."
             },
             {
-                "title": "U.S. and NATO expand military presence in Europe as tensions with Russia escalate",
-                "risk_level": "High",
-                "summary": "United States and NATO expand military presence in Europe as tensions with Russia escalate.",
-                "date": "2024-07-01"
+                "title": "US Supreme Court rules in favor of school choice program",
+                "risk_level": "Medium",
+                "summary": "The US Supreme Court ruled in a 6-3 decision that a school choice program in Arizona is constitutional, handing a major victory to supporters of school choice and potentially setting a precedent for other states."
             },
             {
-                "title": "U.S. to provide Ukraine with $400 million in military aid",
-                "risk_level": "High",
-                "summary": "United States to provide Ukraine with $400 million in military aid.",
-                "date": "2024-06-29"
+                "title": "House Republicans pass resolution condemning Biden's border policies",
+                "risk_level": "Medium",
+                "summary": "The US House of Representatives passed a resolution condemning President Biden's border policies, with 215 Republicans voting in favor and 210 Democrats voting against."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's Missile Test Sparks International Alarm",
+                "title": "North Korea fires ballistic missile over Japan",
                 "risk_level": "High",
-                "summary": "North Korea fired an intercontinental ballistic missile (ICBM) into the sea off Japan's coast on July 4, sparking international concern about its military capabilities."
+                "summary": "South Korea and Japan condemned North Korea after it fired a ballistic missile over Japan's northern island of Hokkaido into the Pacific Ocean, in a dramatic escalation of tensions."
             },
             {
-                "title": "Protests Erupt in Seoul Over Labor Law Reforms",
-                "risk_level": "Medium",
-                "summary": "Thousands of protesters gathered in Seoul to demonstrate against the government's proposed labor law reforms, which they claim will weaken workers' rights."
+                "title": "",
+                "risk_level": "",
+                "summary": "Seoul, Pyongyang pledge to take steps to prevent clashes amid rising tensions"
             },
             {
-                "title": "Cyberattack Hits South Korean Government Websites",
-                "risk_level": "Medium",
-                "summary": "Several government websites in South Korea were hit by a cyberattack, which experts believe may have originated from a North Korean hacking group."
+                "title": "",
+                "risk_level": "",
+                "summary": "US, S. Korea discuss joint military drills amid rising tensions with N. Korea"
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "The Japan Meteorological Corporation warned of a high risk of heat stroke on Jul 4, 2024."
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Typhoon Soulik makes landfall in southern Japan, forcing thousands to evacuate on Jul 9, 2024."
-            },
-            {
-                "title": "",
+                "title": "COVID-19 cases continue to rise in Japan",
                 "risk_level": "High",
-                "summary": "North Korea fires 2 ballistic missiles toward Japan on Jul 7, 2024; warning systems react, but no damage reported."
+                "summary": "Japan reported 10,500 new COVID-19 cases, bringing total cases to 28.6 million."
+            },
+            {
+                "title": "Protests against Japan's security laws intensify",
+                "risk_level": "High",
+                "summary": "Thousands of protesters gathered in Tokyo to demand the repeal of Japan's security laws, which they believe infringe on their right to assembly."
+            },
+            {
+                "title": "Japan's economy shows signs of slowing down",
+                "risk_level": "Medium",
+                "summary": "Japan's GDP growth rate slowed to 1.2% in the past quarter, raising concerns about the country's economic stability."
             }
         ]
     }
