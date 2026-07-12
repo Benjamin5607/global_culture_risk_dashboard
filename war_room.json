@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Cyberattacks: Widespread Ransomware Campaign Discovered",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A new wave of global cyberattacks has been detected, with a widespread ransomware campaign targeting businesses and organizations worldwide."
+                "summary": ""
             },
             {
-                "title": "Global Protests: Anti-Government Demonstrations Ignite in Multiple Countries",
-                "risk_level": "High",
-                "summary": "Massive anti-government protests have erupted in several countries, with demonstrators taking to the streets to demand political reform and social change."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": ""
             },
             {
-                "title": "Global Pandemic: COVID-19 Outbreak Continues to Spread",
-                "risk_level": "High",
-                "summary": "The ongoing COVID-19 pandemic continues to pose a significant threat to global health, with cases and deaths reported in multiple countries."
+                "title": "",
+                "risk_level": "Low",
+                "summary": ""
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Overturns Roe v. Wade",
-                "risk_level": "High",
-                "summary": "A landmark decision by the US Supreme Court overturns the constitutional right to abortion, sparking widespread protests and legal challenges."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Uvalde Shooting Investigation Faults Law Enforcement",
-                "risk_level": "High",
-                "summary": "A scathing report on the shooting in Uvalde, Texas, concludes that law enforcement agencies failed to prevent the tragedy, prompting calls for reform."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Climate Activists Target Fossil Fuel Infrastructure",
-                "risk_level": "Medium",
-                "summary": "Protesters in several US cities blockade oil refineries and pipelines to draw attention to the urgency of climate action and the need to accelerate the transition to renewable energy."
+                "title": "Supreme Court overturns Roe v. Wade, impacting women's rights in the US",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has issued a landmark decision that overturns the constitutional right to abortion, sparking widespread protests and raising concerns about women's rights and access to healthcare in the country."
             }
         ],
         "South Korea": [
             {
-                "title": "Kim Jong Un says North Korea's military is ready to use 'preemptive nuclear strikes'",
+                "title": "",
                 "risk_level": "High",
-                "summary": "North Korean leader Kim Jong Un has stated that his country's military is ready to use 'preemptive nuclear strikes' against its enemies, in a veiled threat aimed at South Korea and the US. This statement has heightened tensions in the region and has sparked concerns about the potential for nuclear conflict."
+                "summary": ""
             },
             {
-                "title": "South Korea's presidential election: Who will succeed Yoon Suk-yeol?",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "The upcoming presidential election in South Korea has sparked significant interest and speculation, as citizens and analysts alike try to predict who will succeed Yoon Suk-yeol as the country's next leader. The election is expected to be fiercely contested and could have significant implications for South Korea's domestic policies and international relations."
+                "summary": ""
             },
             {
-                "title": "South Korea's military plans to deploy more missile systems to counter North Korea",
-                "risk_level": "High",
-                "summary": "South Korea's military has announced plans to deploy additional missile systems to counter the threat from North Korea, in a move aimed at bolstering the country's defense capabilities and deterring potential aggression from its neighbor."
+                "title": "",
+                "risk_level": "Low",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "Lava flows from Sakurajima volcano in Japan",
-                "risk_level": "Low",
-                "summary": "Lava flows from Sakurajima volcano, disrupting local air transportation but no injuries reported."
-            },
-            {
-                "title": "Japan’s government faces criticism from Tokyo’s Metropolitan Assembly for handling COVID-19 response",
+                "title": "Rising COVID-19 cases in Japan could slow economic recovery",
                 "risk_level": "Medium",
-                "summary": "Criticism comes as the country grapples with rising COVID-19 cases and hospitalizations."
+                "summary": "Japan reported 34,044 new COVID-19 cases in the past week, with Tokyo and other major cities experiencing surges, potentially slowing economic recovery."
             },
             {
-                "title": "North Korea fires ballistic missile towards Japan, South Korean military says",
+                "title": "Japan's government plans to strengthen anti-stalking laws",
+                "risk_level": "Low",
+                "summary": "The Japanese government plans to revise laws to make it easier to convict stalkers, in response to growing public concern about stalking and harassment."
+            },
+            {
+                "title": "Japan and the US strengthen defense cooperation",
                 "risk_level": "High",
-                "summary": "Warning sirens activate and alert systems sound as the missile reaches an altitude of 200km"
+                "summary": "Japan and the US reaffirmed their commitment to defense cooperation, with the two countries signing a new agreement on cooperation in areas such as missile defense and cybersecurity."
             }
         ]
     }

@@ -1,5 +1,21 @@
 [
     {
+        "term": "Renegade Dances Challenge",
+        "group": "Trend",
+        "country": "USA",
+        "category": "Music",
+        "risk_level": "Low",
+        "trend_score": 9,
+        "status": "Completed",
+        "first_detected": "2020-03-23",
+        "last_updated": "2020-05-01",
+        "context": {
+            "en": "A dance challenge that went viral on TikTok, where users would lip-sync to a song called 'Lottery' by K Camp.",
+            "ko": "티크톡에서 화제었던 댄스 챌린지.",
+            "ja": "ティクタックで流行したダンスチャレンジの一つ。"
+        }
+    },
+    {
         "term": "Oscar Pistorius",
         "group": "Controversial Figure",
         "country": "South Africa",
