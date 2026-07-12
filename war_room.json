@@ -3,195 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "title1": "",
-                "risk_level1": "",
-                "summary1": "",
-                "title2": "",
-                "risk_level2": "",
-                "summary2": "",
-                "title3": "",
-                "risk_level3": "",
-                "summary3": "",
-                "title4": "",
-                "risk_level4": "",
-                "summary4": "",
-                "title5": "",
-                "risk_level5": "",
-                "summary5": "",
-                "title6": "",
-                "risk_level6": "",
-                "summary6": "",
-                "title7": "",
-                "risk_level7": "",
-                "summary7": "",
-                "title8": "",
-                "risk_level8": "",
-                "summary8": "",
-                "title9": "",
-                "risk_level9": "",
-                "summary9": "",
-                "title10": "",
-                "risk_level10": "",
-                "summary10": "",
-                "title11": "",
-                "risk_level11": "",
-                "summary11": "",
-                "title12": "",
-                "risk_level12": "",
-                "summary12": "",
-                "title13": "",
-                "risk_level13": "",
-                "summary13": "",
-                "title14": "",
-                "risk_level14": "",
-                "summary14": "",
-                "title15": "",
-                "risk_level15": "",
-                "summary15": "",
-                "title16": "",
-                "risk_level16": "",
-                "summary16": "",
-                "title17": "",
-                "risk_level17": "",
-                "summary17": "",
-                "title18": "",
-                "risk_level18": "",
-                "summary18": "",
-                "title19": "",
-                "risk_level19": "",
-                "summary19": "",
-                "title20": "",
-                "risk_level20": "",
-                "summary20": "",
-                "title21": "",
-                "risk_level21": "",
-                "summary21": "",
-                "title22": "",
-                "risk_level22": "",
-                "summary22": "",
-                "title23": "",
-                "risk_level23": "",
-                "summary23": "",
-                "title24": "",
-                "risk_level24": "",
-                "summary24": "",
-                "title25": "",
-                "risk_level25": "",
-                "summary25": "",
-                "title26": "",
-                "risk_level26": "",
-                "summary26": "",
-                "title27": "",
-                "risk_level27": "",
-                "summary27": "",
-                "title28": "",
-                "risk_level28": "",
-                "summary28": "",
-                "title29": "",
-                "risk_level29": "",
-                "summary29": "",
-                "title30": "",
-                "risk_level30": "",
-                "summary30": "",
-                "title31": "",
-                "risk_level31": "",
-                "summary31": "",
-                "title32": "",
-                "risk_level32": "",
-                "summary32": "",
-                "title33": "",
-                "risk_level33": "",
-                "summary33": "",
-                "title34": "",
-                "risk_level34": "",
-                "summary34": "",
-                "title35": "",
-                "risk_level35": "",
-                "summary35": "",
-                "title36": "",
-                "risk_level36": "",
-                "summary36": "",
-                "title37": "",
-                "risk_level37": "",
-                "summary37": "",
-                "title38": "",
-                "risk_level38": "",
-                "summary38": "",
-                "title39": "",
-                "risk_level39": "",
-                "summary39": "",
-                "title40": "",
-                "risk_level40": "",
-                "summary40": "",
-                "title41": "",
-                "risk_level41": "",
-                "summary41": "",
-                "title42": "",
-                "risk_level42": "",
-                "summary42": "",
-                "title43": "",
-                "risk_level43": "",
-                "summary43": "",
-                "title44": "",
-                "risk_level44": "",
-                "summary44": "",
-                "title45": "",
-                "risk_level45": "",
-                "summary45": ""
+                "title": "Global Cyberattacks: Widespread Ransomware Campaign Discovered",
+                "risk_level": "High",
+                "summary": "A new wave of global cyberattacks has been detected, with a widespread ransomware campaign targeting businesses and organizations worldwide."
+            },
+            {
+                "title": "Global Protests: Anti-Government Demonstrations Ignite in Multiple Countries",
+                "risk_level": "High",
+                "summary": "Massive anti-government protests have erupted in several countries, with demonstrators taking to the streets to demand political reform and social change."
+            },
+            {
+                "title": "Global Pandemic: COVID-19 Outbreak Continues to Spread",
+                "risk_level": "High",
+                "summary": "The ongoing COVID-19 pandemic continues to pose a significant threat to global health, with cases and deaths reported in multiple countries."
             }
         ],
         "United States": [
             {
-                "title": "Biden administration faces pressure over asylum reform",
+                "title": "Supreme Court Overturns Roe v. Wade",
                 "risk_level": "High",
-                "summary": "The Biden administration is facing pressure from lawmakers and advocacy groups to reform the asylum system, following a recent court decision that blocks the Biden administration's plans to expand the use of asylum officers to handle claims."
+                "summary": "A landmark decision by the US Supreme Court overturns the constitutional right to abortion, sparking widespread protests and legal challenges."
             },
             {
-                "title": "US Supreme Court rules in favor of school choice program",
-                "risk_level": "Medium",
-                "summary": "The US Supreme Court ruled in a 6-3 decision that a school choice program in Arizona is constitutional, handing a major victory to supporters of school choice and potentially setting a precedent for other states."
+                "title": "Uvalde Shooting Investigation Faults Law Enforcement",
+                "risk_level": "High",
+                "summary": "A scathing report on the shooting in Uvalde, Texas, concludes that law enforcement agencies failed to prevent the tragedy, prompting calls for reform."
             },
             {
-                "title": "House Republicans pass resolution condemning Biden's border policies",
+                "title": "Climate Activists Target Fossil Fuel Infrastructure",
                 "risk_level": "Medium",
-                "summary": "The US House of Representatives passed a resolution condemning President Biden's border policies, with 215 Republicans voting in favor and 210 Democrats voting against."
+                "summary": "Protesters in several US cities blockade oil refineries and pipelines to draw attention to the urgency of climate action and the need to accelerate the transition to renewable energy."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires ballistic missile over Japan",
+                "title": "Kim Jong Un says North Korea's military is ready to use 'preemptive nuclear strikes'",
                 "risk_level": "High",
-                "summary": "South Korea and Japan condemned North Korea after it fired a ballistic missile over Japan's northern island of Hokkaido into the Pacific Ocean, in a dramatic escalation of tensions."
+                "summary": "North Korean leader Kim Jong Un has stated that his country's military is ready to use 'preemptive nuclear strikes' against its enemies, in a veiled threat aimed at South Korea and the US. This statement has heightened tensions in the region and has sparked concerns about the potential for nuclear conflict."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "Seoul, Pyongyang pledge to take steps to prevent clashes amid rising tensions"
+                "title": "South Korea's presidential election: Who will succeed Yoon Suk-yeol?",
+                "risk_level": "Medium",
+                "summary": "The upcoming presidential election in South Korea has sparked significant interest and speculation, as citizens and analysts alike try to predict who will succeed Yoon Suk-yeol as the country's next leader. The election is expected to be fiercely contested and could have significant implications for South Korea's domestic policies and international relations."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "US, S. Korea discuss joint military drills amid rising tensions with N. Korea"
+                "title": "South Korea's military plans to deploy more missile systems to counter North Korea",
+                "risk_level": "High",
+                "summary": "South Korea's military has announced plans to deploy additional missile systems to counter the threat from North Korea, in a move aimed at bolstering the country's defense capabilities and deterring potential aggression from its neighbor."
             }
         ],
         "Japan": [
             {
-                "title": "COVID-19 cases continue to rise in Japan",
-                "risk_level": "High",
-                "summary": "Japan reported 10,500 new COVID-19 cases, bringing total cases to 28.6 million."
+                "title": "Lava flows from Sakurajima volcano in Japan",
+                "risk_level": "Low",
+                "summary": "Lava flows from Sakurajima volcano, disrupting local air transportation but no injuries reported."
             },
             {
-                "title": "Protests against Japan's security laws intensify",
-                "risk_level": "High",
-                "summary": "Thousands of protesters gathered in Tokyo to demand the repeal of Japan's security laws, which they believe infringe on their right to assembly."
-            },
-            {
-                "title": "Japan's economy shows signs of slowing down",
+                "title": "Japan’s government faces criticism from Tokyo’s Metropolitan Assembly for handling COVID-19 response",
                 "risk_level": "Medium",
-                "summary": "Japan's GDP growth rate slowed to 1.2% in the past quarter, raising concerns about the country's economic stability."
+                "summary": "Criticism comes as the country grapples with rising COVID-19 cases and hospitalizations."
+            },
+            {
+                "title": "North Korea fires ballistic missile towards Japan, South Korean military says",
+                "risk_level": "High",
+                "summary": "Warning sirens activate and alert systems sound as the missile reaches an altitude of 200km"
             }
         ]
     }
