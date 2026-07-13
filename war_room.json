@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rise in COVID-19 cases globally",
+                "title": "Rise of Tensions Between the US and China: Global Economic Impact",
                 "risk_level": "High",
-                "summary": "'Global (All)': The World Health Organization (WHO) has reported a significant rise in COVID-19 cases globally over the past 7 days, with multiple countries experiencing a surge in infections. This increase has raised concerns about the potential for further spread and the effectiveness of public health measures in place."
+                "summary": "The increasing tensions between the US and China have led to concerns about a global economic downturn. The US has imposed stricter trade restrictions on China, while China has retaliated with its own trade measures."
             },
             {
-                "title": "Ukraine-Russia Conflict Escalation",
+                "title": "Cyberattack on Global Financial Institutions: Loss of Sensitive Data",
                 "risk_level": "High",
-                "summary": "'Global (All)': Tensions between Ukraine and Russia have escalated in the past 7 days, with reports of increased military activity and diplomatic efforts to resolve the conflict. The situation remains volatile and has raised concerns about the potential for further escalation and its impact on global security and the global economy."
+                "summary": "A recent cyberattack on several global financial institutions has resulted in the loss of sensitive customer data. This has raised concerns about the security of financial systems worldwide."
             },
             {
-                "title": "Global Supply Chain Disruptions due to Pandemic",
+                "title": "Global Protests Against Government Corruption: Social Unrest",
                 "risk_level": "Medium",
-                "summary": "'Global (All)': The ongoing COVID-19 pandemic has led to global supply chain disruptions, with many countries experiencing shortages of critical goods and materials. The situation remains uncertain and has raised concerns about the potential for further disruptions and their impact on global trade and the economy."
+                "summary": "Protests against government corruption have broken out in several countries worldwide, leading to social unrest and instability."
             }
         ],
         "United States": [
             {
-                "title": "Cybersecurity concerns over US Supreme Court leak",
+                "title": "Gun Control Bill Introduced in US Senate",
                 "risk_level": "High",
-                "summary": "US Supreme Court's internal documents leaked online, sparking cybersecurity concerns and fears of potential espionage"
+                "summary": "A bipartisan Senate bill aimed at reducing gun violence has been introduced, including measures to increase background checks and red flag laws."
             },
             {
-                "title": "Increased violence against LGBTQ+ individuals in the US",
+                "title": "US Supreme Court Rules on Abortion Case",
                 "risk_level": "High",
-                "summary": "Multiple reports of violent attacks against LGBTQ+ individuals in various US cities, highlighting deep-seated social issues"
+                "summary": "The US Supreme Court has handed down a ruling on a major abortion case, potentially impacting reproductive rights and healthcare access."
             },
             {
-                "title": "Protests and unrest in the US over abortion rights",
+                "title": "Heatwaves and Wildfires Continue Across US",
                 "risk_level": "Medium",
-                "summary": "Mass protests and demonstrations across the US in response to the possible overturning of Roe v. Wade, highlighting deep social divisions"
+                "summary": "Intense heatwaves and wildfires are spreading across the US, leading to evacuations, power outages, and health concerns."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea to hold national security meeting amid North Korea’s missile launch",
+                "title": "",
                 "risk_level": "High",
-                "summary": "South Korea has announced a national security meeting after North Korea fired a ballistic missile into the Sea of Japan earlier this week, which is believed to have failed to reach its target."
+                "summary": "N. Korea fires 'projectile' into East Sea amid tensions with S. Korea"
             },
             {
-                "title": "South Korea to tighten COVID-19 restrictions in Seoul as cases spike",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "South Korea announced that it will tighten COVID-19 restrictions in Seoul, including restrictions on gatherings and travel, as the number of new cases spikes."
+                "summary": "South Korea sees slight rise in daily COVID-19 cases"
             },
             {
-                "title": "South Korea to participate in US-led security drill in Sea of Japan, North Korea protests",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "South Korea has announced that it will participate in a US-led security drill in the Sea of Japan, amid growing tensions with North Korea."
+                "summary": "S. Korea, US begin joint maritime exercise in Yellow Sea"
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo sees record-breaking summer heatwave as heat stroke cases surge",
-                "risk_level": "High",
-                "summary": "Tokyo sees record-breaking summer heatwave, with temperatures reaching 39.8°C, causing heat stroke cases to surge, putting the city's elderly and vulnerable populations at risk."
-            },
-            {
-                "title": "Japanese yen weakens as Bank of Japan meets to discuss interest rate decisions",
+                "title": "Japan's Defense Minister warns of potential attack on US bases",
                 "risk_level": "Medium",
-                "summary": "The Japanese yen weakens against major currencies as the Bank of Japan meets to discuss potential interest rate decisions, which could impact the country's economic stability."
+                "summary": "Japan's Defense Minister warned about a potential attack on US military bases in Japan after North Korea fired a missile over the country."
             },
             {
-                "title": "Typhoon Hinnamor threatens Japan's southern coast with heavy rainfall and strong winds",
+                "title": "Anti-vaccination protests erupt in Japan for third consecutive week",
                 "risk_level": "High",
-                "summary": "Typhoon Hinnamor approaches Japan's southern coast, threatening to bring heavy rainfall, strong winds, and potential flooding, posing a significant risk to the region's communities and infrastructure."
+                "summary": "Anti-vaccination protests have been ongoing in Japan for three weeks, with demonstrators calling for an end to COVID-19 restrictions and vaccination mandates."
+            },
+            {
+                "title": "Japan's PM faces criticism over handling of 'Quad' summit",
+                "risk_level": "Medium",
+                "summary": "Critics accused Japan's Prime Minister of mishandling the Quad summit, where leaders failed to issue a joint statement due to disagreements over Ukraine and other issues."
             }
         ]
     }
