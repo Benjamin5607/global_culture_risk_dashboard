@@ -1,72 +1,72 @@
 {
-    "updated": "2026-07-12",
+    "updated": "2026-07-13",
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Tensions Escalate Amid Nuclear Threat Claims",
+                "title": "Rise in COVID-19 cases globally",
                 "risk_level": "High",
-                "summary": "Tensions between the US and China have heightened following reports of nuclear threats. The situation remains volatile, with concerns about global stability and security escalating."
+                "summary": "'Global (All)': The World Health Organization (WHO) has reported a significant rise in COVID-19 cases globally over the past 7 days, with multiple countries experiencing a surge in infections. This increase has raised concerns about the potential for further spread and the effectiveness of public health measures in place."
             },
             {
-                "title": "Global Protests Erupt Over Human Rights Abuses",
+                "title": "Ukraine-Russia Conflict Escalation",
                 "risk_level": "High",
-                "summary": "Widespread protests have broken out globally in response to human rights abuses. The demonstrations, which have spread across multiple countries, reflect growing public discontent with governments' handling of social issues."
+                "summary": "'Global (All)': Tensions between Ukraine and Russia have escalated in the past 7 days, with reports of increased military activity and diplomatic efforts to resolve the conflict. The situation remains volatile and has raised concerns about the potential for further escalation and its impact on global security and the global economy."
             },
             {
-                "title": "Cyberattack cripples Key Infrastructure in Eastern Europe",
-                "risk_level": "High",
-                "summary": "A reported cyberattack has severely impacted critical infrastructure in Eastern Europe, disrupting essential services and causing widespread inconvenience to users. The nature and extent of the attack remain unclear"
+                "title": "Global Supply Chain Disruptions due to Pandemic",
+                "risk_level": "Medium",
+                "summary": "'Global (All)': The ongoing COVID-19 pandemic has led to global supply chain disruptions, with many countries experiencing shortages of critical goods and materials. The situation remains uncertain and has raised concerns about the potential for further disruptions and their impact on global trade and the economy."
             }
         ],
         "United States": [
             {
-                "title": "Roe v. Wade Anniversary, Protests across US",
-                "risk_level": "Medium",
-                "summary": "The anniversary of the landmark US Supreme Court decision striking down abortion, saw protests and demonstrations in numerous cities nationwide, reflecting ongoing debates over women's rights and reproductive healthcare."
-            },
-            {
-                "title": "Mass Shooting in Highland Park, Illinois, Leaves Multiple Dead and Injured",
+                "title": "Cybersecurity concerns over US Supreme Court leak",
                 "risk_level": "High",
-                "summary": "A mass shooting occurred during an Independence Day celebration in Highland Park, Illinois, resulting in multiple fatalities and injured individuals, further highlighting concerns about gun violence in the US."
+                "summary": "US Supreme Court's internal documents leaked online, sparking cybersecurity concerns and fears of potential espionage"
             },
             {
-                "title": "Supreme Court Blocks Biden's Vaccine Mandate for US Businesses",
+                "title": "Increased violence against LGBTQ+ individuals in the US",
+                "risk_level": "High",
+                "summary": "Multiple reports of violent attacks against LGBTQ+ individuals in various US cities, highlighting deep-seated social issues"
+            },
+            {
+                "title": "Protests and unrest in the US over abortion rights",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court issued a ruling that blocked the Biden administration's vaccine mandate for large US businesses, potentially complicating efforts to manage the ongoing COVID-19 pandemic in the country."
+                "summary": "Mass protests and demonstrations across the US in response to the possible overturning of Roe v. Wade, highlighting deep social divisions"
             }
         ],
         "South Korea": [
             {
-                "title": "Anti-establishment candidate Yoon Suk-yeol wins South Korean presidency",
-                "risk_level": "Low",
-                "summary": "A court in South Korea has accepted the election commission's decision that conservative opposition presidential candidate Yoon Suk-yeol won the presidential election. He won with 48.55% of the vote, while liberal rival Lee Jae-myung had 47.83%. The result confirmed in a court hearing will be final and definitive."
-            },
-            {
-                "title": "Anti-establishment figure Yoon Suk-yeol to win South Korean presidency",
-                "risk_level": "Medium",
-                "summary": "Conservative opposition presidential candidate Yoon Suk-yeol is on track to win the presidential election in South Korea, with 48.57% of votes, while his liberal rival Lee Jae-myung had 47.83%. Exit polls indicated that Yoon secured a slim majority with the support of conservative voters."
-            },
-            {
-                "title": "South Korean court orders recount in highly contested presidential election",
+                "title": "South Korea to hold national security meeting amid North Korea’s missile launch",
                 "risk_level": "High",
-                "summary": "A South Korean court has ordered a recount in the presidential election due to allegations of irregularities. The liberal opposition candidate Lee Jae-myung's campaign alleged voter manipulation, which sparked widespread protests from the public and opposition politicians."
+                "summary": "South Korea has announced a national security meeting after North Korea fired a ballistic missile into the Sea of Japan earlier this week, which is believed to have failed to reach its target."
+            },
+            {
+                "title": "South Korea to tighten COVID-19 restrictions in Seoul as cases spike",
+                "risk_level": "Medium",
+                "summary": "South Korea announced that it will tighten COVID-19 restrictions in Seoul, including restrictions on gatherings and travel, as the number of new cases spikes."
+            },
+            {
+                "title": "South Korea to participate in US-led security drill in Sea of Japan, North Korea protests",
+                "risk_level": "Low",
+                "summary": "South Korea has announced that it will participate in a US-led security drill in the Sea of Japan, amid growing tensions with North Korea."
             }
         ],
         "Japan": [
             {
-                "title": "Protests against Japan-Kuwait security pact erupt in Tokyo",
+                "title": "Tokyo sees record-breaking summer heatwave as heat stroke cases surge",
+                "risk_level": "High",
+                "summary": "Tokyo sees record-breaking summer heatwave, with temperatures reaching 39.8°C, causing heat stroke cases to surge, putting the city's elderly and vulnerable populations at risk."
+            },
+            {
+                "title": "Japanese yen weakens as Bank of Japan meets to discuss interest rate decisions",
                 "risk_level": "Medium",
-                "summary": "Protesters demonstrated against a planned security pact between Japan and Kuwait, highlighting concerns about national security and foreign policy."
+                "summary": "The Japanese yen weakens against major currencies as the Bank of Japan meets to discuss potential interest rate decisions, which could impact the country's economic stability."
             },
             {
-                "title": "Japan's population shrinks by 540,000 due to low birth rates",
+                "title": "Typhoon Hinnamor threatens Japan's southern coast with heavy rainfall and strong winds",
                 "risk_level": "High",
-                "summary": "Japan's population has declined by 540,000 in the past year, exacerbating the country's already severe demographic crisis."
-            },
-            {
-                "title": "Japan's nuclear regulator faults Osaka mayor over safety concerns",
-                "risk_level": "High",
-                "summary": "Japan's nuclear regulatory agency criticized the Osaka mayor for safety concerns surrounding the Oi nuclear power plant, highlighting ongoing debates about nuclear energy."
+                "summary": "Typhoon Hinnamor approaches Japan's southern coast, threatening to bring heavy rainfall, strong winds, and potential flooding, posing a significant risk to the region's communities and infrastructure."
             }
         ]
     }
