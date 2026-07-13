@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "North Korea conducts ballistic missile test amidst global condemnation",
                 "risk_level": "High",
-                "summary": "Tensions Rise Between Major World Powers as Global Stability is Tested"
+                "summary": "North Korea has conducted a ballistic missile test that has triggered a strong global backlash."
             },
             {
-                "title": "",
+                "title": "COVID-19 cases surge in China, fueling global health concerns",
                 "risk_level": "Medium",
-                "summary": "Cyber Attack Hits Major International Bank, Exposing Millions of Customer Accounts"
+                "summary": "China has reported a significant increase in COVID-19 cases, prompting worries about a new wave of the pandemic."
             },
             {
-                "title": "",
+                "title": "US and China engage in high-stakes trade talks, but no breakthrough",
                 "risk_level": "Low",
-                "summary": "Minor Protests Erupt in Global Cities Over Economic Inequality"
+                "summary": "The US and China have held trade talks, but no major agreements were announced, raising concerns about ongoing tensions."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Overturns Roe v. Wade, Triggering Protests and Unrest | Washington, DC",
+                "title": "Supreme Court's decision on abortion sparks protests ",
                 "risk_level": "High",
-                "summary": "The decision sparked protests and unrest across the country, with demonstrations, violence, and civil unrest reported in multiple cities."
+                "summary": "The United States Supreme Court's decision to overturn Roe v. Wade, a landmark abortion case, has sparked widespread protests and violence across the country."
             },
             {
-                "title": "US Capitol Police Officer Identified in Shooting Incident Near House of Representatives | Washington, DC",
-                "risk_level": "High",
-                "summary": "The incident highlighted ongoing concerns about security at the US Capitol and the potential for violence against lawmakers and their staff."
-            },
-            {
-                "title": "Russian Spy Ring Busted in Florida, US Government Says | Miami, FL",
+                "title": "Tensions rise between US and Iran over drone strike ",
                 "risk_level": "Medium",
-                "summary": "The revelation of a potential Russian spy ring operating in the United States raised concerns about national security and espionage threats."
+                "summary": "Tensions between the United States and Iran have escalated after a US drone strike targeted an Iranian facility, leading to fears of a wider conflict."
+            },
+            {
+                "title": "California oil spill affects delicate ecosystem ",
+                "risk_level": "Low",
+                "summary": "A large oil spill off the coast of California has affected the fragile ecosystem and raised concerns about the long-term environmental impact."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's latest ICBM test fuels regional tensions",
+                "title": "North Korea launches ICBM, South Korea scrambles jets in response",
                 "risk_level": "High",
-                "summary": "The test sparked international condemnation and heightens the risk of military conflict between North and South Korea."
+                "summary": "North Korea fired an intercontinental ballistic missile into the sea, South Korea's military said. It's part of a record-breaking pace of launches this year, as the country escalates its military provocations and raises fears of a potential nuclear test."
             },
             {
-                "title": "South Korean court upholds ruling allowing Japan's wartime forced labor claims",
+                "title": "South Korea and US conduct joint military drills amid tensions with North Korea",
+                "risk_level": "High",
+                "summary": "The drills come as tensions between South Korea and North Korea remain high, with North Korea conducting a series of missile tests in recent weeks. The exercises will focus on readiness and response capabilities in the event of a North Korean provocation."
+            },
+            {
+                "title": "South Korea's opposition calls for President Yoon's impeachment over spy scandal",
                 "risk_level": "Medium",
-                "summary": "The ruling has significant implications for South Korea-Japan relations, with potential economic and diplomatic fallout."
-            },
-            {
-                "title": "South Korea's Moon Jae-in says won't seek re-election amid ruling party's struggles",
-                "risk_level": "Low",
-                "summary": "The move is seen as an attempt to stabilize the ruling party ahead of 2024 elections, but risks exacerbating internal divisions."
+                "summary": "Lee Jae-myung, the leader of the Democratic Party, has filed a complaint with the prosecution against President Yoon Suk-yeol and 13 other officials, accusing them of corruption and abuse of power. The scandal has sparked widespread outrage and calls for Yoon's impeachment."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's PM Fumio Kishida to visit China amid regional tensions",
-                "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida's planned visit to China is sparking concern among regional leaders, as the two nations look to strengthen relations amid ongoing tensions."
+                "title": "Japan's Economy at Risk Due to COVID-19's Impact on Manufacturing",
+                "risk_level": "High",
+                "summary": "COVID-19 has caused significant disruptions to Japan's manufacturing sector, putting a strain on the country's economy."
             },
             {
-                "title": "Japan to tighten border controls amid new COVID-19 variants",
-                "risk_level": "Medium",
-                "summary": "The Japanese government has announced plans to strengthen border controls in response to the emergence of new COVID-19 variants, sparking concerns among travellers and commuters."
+                "title": "Rise in Anti-Government Protests in Japan",
+                "risk_level": "High",
+                "summary": "Tensions between the Japanese government and protesters have escalated, with concerns over police violence and human rights."
             },
             {
-                "title": "Tokyo Olympics organizers face criticism over new COVID-19 measures",
-                "risk_level": "Low",
-                "summary": "Organizers of the Tokyo Olympics are facing criticism from fans and athletes alike over the latest COVID-19 measures aimed at preventing the spread of the virus during the Games."
+                "title": "North Korea's Missile Tests Pose a Threat to Japan's National Security",
+                "risk_level": "High",
+                "summary": "North Korea's recent missile tests have sparked concerns about Japan's national security, with fears of a potential invasion."
             }
         ]
     }
