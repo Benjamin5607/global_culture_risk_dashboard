@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rise of Tensions Between the US and China: Global Economic Impact",
+                "title": "Russia to Launch Large-Scale Military Operation in Eastern Ukraine on April 22",
                 "risk_level": "High",
-                "summary": "The increasing tensions between the US and China have led to concerns about a global economic downturn. The US has imposed stricter trade restrictions on China, while China has retaliated with its own trade measures."
+                "summary": "Russia plans to launch a military operation in eastern Ukraine, prompting concerns about the escalating conflict and its potential consequences for regional stability."
             },
             {
-                "title": "Cyberattack on Global Financial Institutions: Loss of Sensitive Data",
-                "risk_level": "High",
-                "summary": "A recent cyberattack on several global financial institutions has resulted in the loss of sensitive customer data. This has raised concerns about the security of financial systems worldwide."
-            },
-            {
-                "title": "Global Protests Against Government Corruption: Social Unrest",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Protests against government corruption have broken out in several countries worldwide, leading to social unrest and instability."
+                "summary": "Cybersecurity researchers have identified a new vulnerability in a widely used software program, raising concerns about potential cyber attacks and data breaches."
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "Tensions between the US and China are escalating over a recent drone incident in the South China Sea, increasing the risk of a military confrontation."
             }
         ],
         "United States": [
             {
-                "title": "Gun Control Bill Introduced in US Senate",
+                "title": "Supreme Court Ruling on Abortion Access",
                 "risk_level": "High",
-                "summary": "A bipartisan Senate bill aimed at reducing gun violence has been introduced, including measures to increase background checks and red flag laws."
+                "summary": "The Supreme Court's decision to overturn Roe v. Wade has sparked widespread protests and unrest across the country, with concerns over reproductive rights and access to healthcare."
             },
             {
-                "title": "US Supreme Court Rules on Abortion Case",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has handed down a ruling on a major abortion case, potentially impacting reproductive rights and healthcare access."
-            },
-            {
-                "title": "Heatwaves and Wildfires Continue Across US",
+                "title": "Biden Administration's Executive Order on Gun Control",
                 "risk_level": "Medium",
-                "summary": "Intense heatwaves and wildfires are spreading across the US, leading to evacuations, power outages, and health concerns."
+                "summary": "The White House has issued an executive order aimed at reducing gun violence, but opponents argue it infringes on Second Amendment rights, potentially sparking further controversy."
+            },
+            {
+                "title": "Increased Tensions between US and North Korea",
+                "risk_level": "High",
+                "summary": "Escalating rhetoric and military exercises between the US and North Korea have heightened global worries over the possibility of conflict, impacting regional stability and global security."
             }
         ],
         "South Korea": [
             {
-                "title": "",
+                "title": "North Korea conducts missile test amid tensions with South Korea",
                 "risk_level": "High",
-                "summary": "N. Korea fires 'projectile' into East Sea amid tensions with S. Korea"
+                "summary": "North Korea has launched a ballistic missile into the sea off its eastern coast, sparking concerns among its neighbors and the international community. The test comes as tensions between North Korea and South Korea remain high, with the two countries engaging in a series of military drills and diplomatic rhetoric."
             },
             {
-                "title": "",
+                "title": "South Korean President faces impeachment proceedings amid corruption allegations",
+                "risk_level": "High",
+                "summary": "South Korean President Yoon Suk-yeol is facing impeachment proceedings after being accused of bribery and abuse of power. The allegations have sparked widespread protests and calls for the President's resignation, threatening to destabilize the country's politics."
+            },
+            {
+                "title": "South Korea and US conclude joint military drills despite North Korea's objections",
                 "risk_level": "Medium",
-                "summary": "South Korea sees slight rise in daily COVID-19 cases"
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "S. Korea, US begin joint maritime exercise in Yellow Sea"
+                "summary": "South Korea and the US have concluded a joint military drill, despite North Korea's objections to the exercise. The drills come as tensions between the two Koreas remain high, and have raised concerns among regional powers about the potential for miscalculation or escalation."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Defense Minister warns of potential attack on US bases",
+                "title": "Rising COVID-19 Cases",
                 "risk_level": "Medium",
-                "summary": "Japan's Defense Minister warned about a potential attack on US military bases in Japan after North Korea fired a missile over the country."
+                "summary": "Japan reports a surge in COVID-19 cases, with major cities imposing new restrictions, affecting tourism and business operations."
             },
             {
-                "title": "Anti-vaccination protests erupt in Japan for third consecutive week",
+                "title": "Trade Tensions with South Korea",
                 "risk_level": "High",
-                "summary": "Anti-vaccination protests have been ongoing in Japan for three weeks, with demonstrators calling for an end to COVID-19 restrictions and vaccination mandates."
+                "summary": "Japan and South Korea rekindle their trade dispute, with Japan announcing restrictions on exports to South Korea, further straining regional relations."
             },
             {
-                "title": "Japan's PM faces criticism over handling of 'Quad' summit",
+                "title": "Growing Fears of Recession",
                 "risk_level": "Medium",
-                "summary": "Critics accused Japan's Prime Minister of mishandling the Quad summit, where leaders failed to issue a joint statement due to disagreements over Ukraine and other issues."
+                "summary": "Analysts warn of an impending recession in Japan, citing slowing economic growth, increasing inflation, and a volatile stock market."
             }
         ]
     }
