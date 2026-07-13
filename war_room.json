@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia to Launch Large-Scale Military Operation in Eastern Ukraine on April 22",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Russia plans to launch a military operation in eastern Ukraine, prompting concerns about the escalating conflict and its potential consequences for regional stability."
+                "summary": "Tensions Rise Between Major World Powers as Global Stability is Tested"
             },
             {
                 "title": "",
                 "risk_level": "Medium",
-                "summary": "Cybersecurity researchers have identified a new vulnerability in a widely used software program, raising concerns about potential cyber attacks and data breaches."
+                "summary": "Cyber Attack Hits Major International Bank, Exposing Millions of Customer Accounts"
             },
             {
                 "title": "",
-                "risk_level": "High",
-                "summary": "Tensions between the US and China are escalating over a recent drone incident in the South China Sea, increasing the risk of a military confrontation."
+                "risk_level": "Low",
+                "summary": "Minor Protests Erupt in Global Cities Over Economic Inequality"
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Ruling on Abortion Access",
+                "title": "Supreme Court Overturns Roe v. Wade, Triggering Protests and Unrest | Washington, DC",
                 "risk_level": "High",
-                "summary": "The Supreme Court's decision to overturn Roe v. Wade has sparked widespread protests and unrest across the country, with concerns over reproductive rights and access to healthcare."
+                "summary": "The decision sparked protests and unrest across the country, with demonstrations, violence, and civil unrest reported in multiple cities."
             },
             {
-                "title": "Biden Administration's Executive Order on Gun Control",
+                "title": "US Capitol Police Officer Identified in Shooting Incident Near House of Representatives | Washington, DC",
+                "risk_level": "High",
+                "summary": "The incident highlighted ongoing concerns about security at the US Capitol and the potential for violence against lawmakers and their staff."
+            },
+            {
+                "title": "Russian Spy Ring Busted in Florida, US Government Says | Miami, FL",
                 "risk_level": "Medium",
-                "summary": "The White House has issued an executive order aimed at reducing gun violence, but opponents argue it infringes on Second Amendment rights, potentially sparking further controversy."
-            },
-            {
-                "title": "Increased Tensions between US and North Korea",
-                "risk_level": "High",
-                "summary": "Escalating rhetoric and military exercises between the US and North Korea have heightened global worries over the possibility of conflict, impacting regional stability and global security."
+                "summary": "The revelation of a potential Russian spy ring operating in the United States raised concerns about national security and espionage threats."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea conducts missile test amid tensions with South Korea",
+                "title": "North Korea's latest ICBM test fuels regional tensions",
                 "risk_level": "High",
-                "summary": "North Korea has launched a ballistic missile into the sea off its eastern coast, sparking concerns among its neighbors and the international community. The test comes as tensions between North Korea and South Korea remain high, with the two countries engaging in a series of military drills and diplomatic rhetoric."
+                "summary": "The test sparked international condemnation and heightens the risk of military conflict between North and South Korea."
             },
             {
-                "title": "South Korean President faces impeachment proceedings amid corruption allegations",
-                "risk_level": "High",
-                "summary": "South Korean President Yoon Suk-yeol is facing impeachment proceedings after being accused of bribery and abuse of power. The allegations have sparked widespread protests and calls for the President's resignation, threatening to destabilize the country's politics."
-            },
-            {
-                "title": "South Korea and US conclude joint military drills despite North Korea's objections",
+                "title": "South Korean court upholds ruling allowing Japan's wartime forced labor claims",
                 "risk_level": "Medium",
-                "summary": "South Korea and the US have concluded a joint military drill, despite North Korea's objections to the exercise. The drills come as tensions between the two Koreas remain high, and have raised concerns among regional powers about the potential for miscalculation or escalation."
+                "summary": "The ruling has significant implications for South Korea-Japan relations, with potential economic and diplomatic fallout."
+            },
+            {
+                "title": "South Korea's Moon Jae-in says won't seek re-election amid ruling party's struggles",
+                "risk_level": "Low",
+                "summary": "The move is seen as an attempt to stabilize the ruling party ahead of 2024 elections, but risks exacerbating internal divisions."
             }
         ],
         "Japan": [
             {
-                "title": "Rising COVID-19 Cases",
+                "title": "Japan's PM Fumio Kishida to visit China amid regional tensions",
                 "risk_level": "Medium",
-                "summary": "Japan reports a surge in COVID-19 cases, with major cities imposing new restrictions, affecting tourism and business operations."
+                "summary": "Japanese Prime Minister Fumio Kishida's planned visit to China is sparking concern among regional leaders, as the two nations look to strengthen relations amid ongoing tensions."
             },
             {
-                "title": "Trade Tensions with South Korea",
-                "risk_level": "High",
-                "summary": "Japan and South Korea rekindle their trade dispute, with Japan announcing restrictions on exports to South Korea, further straining regional relations."
+                "title": "Japan to tighten border controls amid new COVID-19 variants",
+                "risk_level": "Medium",
+                "summary": "The Japanese government has announced plans to strengthen border controls in response to the emergence of new COVID-19 variants, sparking concerns among travellers and commuters."
             },
             {
-                "title": "Growing Fears of Recession",
-                "risk_level": "Medium",
-                "summary": "Analysts warn of an impending recession in Japan, citing slowing economic growth, increasing inflation, and a volatile stock market."
+                "title": "Tokyo Olympics organizers face criticism over new COVID-19 measures",
+                "risk_level": "Low",
+                "summary": "Organizers of the Tokyo Olympics are facing criticism from fans and athletes alike over the latest COVID-19 measures aimed at preventing the spread of the virus during the Games."
             }
         ]
     }
