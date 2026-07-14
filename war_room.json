@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Uncertainty due to US Inflation Data",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Concerns over inflation in the US have led to a reassessment of global economic stability."
+                "summary": "Cyber Attack on Global Supply Chain: Hackers have launched a devastating cyber attack on a key player in the global supply chain, disrupting the flow of critical goods and services."
             },
             {
-                "title": "European Power Grid Disruptions due to Extreme Weather",
-                "risk_level": "High",
-                "summary": "Heavy rainfall and strong winds have caused widespread power grid disruptions in Europe."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Protests Erupt in Global Cities: Unrest has broken out in several major cities around the world as citizens take to the streets to protest government policies and economic inequality."
             },
             {
-                "title": "Middle East Tensions Escalate Following Recent Attacks",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A series of recent attacks has heightened tensions in the Middle East, raising concerns about regional stability."
+                "summary": "Global Economic Downturn: A sudden and unexpected economic downturn has been reported in several key industries, sending shockwaves through the global economy."
             }
         ],
         "United States": [
             {
-                "title": "Federal Judge Blocks Biden's $5 Billion Student Loan Forgiveness Plan",
+                "title": "Tensions Rise as US and Iran Exchange Hostile Rhetoric Over Nuclear Program",
                 "risk_level": "High",
-                "summary": "A federal judge has blocked President Biden's $5 billion student loan forgiveness plan, raising concerns about access to education and economic inequality."
+                "summary": "The US and Iran have engaged in a war of words over Iran's nuclear program, with the US threatening to take action if Iran makes any further advancements."
             },
             {
-                "title": "US Senators Visit Taiwan Amid Rising Tensions Between Washington and Beijing",
-                "risk_level": "High",
-                "summary": "A high-profile visit by US senators to Taiwan has further strained relations between Washington and Beijing, heightening tensions in the Asia-Pacific region."
+                "title": "Federal Judge Temporarily Blocks Biden's Student Loan Forgiveness Plan",
+                "risk_level": "Medium",
+                "summary": "A federal judge has temporarily blocked President Biden's student loan forgiveness plan, which was set to provide relief to millions of borrowers."
             },
             {
-                "title": "US Supreme Court Allows Alabama To Enforce Near-Total Abortion Ban",
+                "title": "Mass Shooting in Highland Park, Illinois Leaves Multiple People Dead",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has allowed Alabama to enforce its near-total abortion ban, prompting concerns about reproductive rights and women's health in the United States."
+                "summary": "A mass shooting in Highland Park, Illinois has left multiple people dead and several injured, with the suspect still at large."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul City Closes Schools due to Omicron BA.4-BA.5 Variant Outbreak",
+                "title": "US and South Korea Conduct Joint Aerial Drill as Tensions Rise with North Korea",
                 "risk_level": "Medium",
-                "summary": "Seoul's city government announced school closures until July 18th to curb the spread of the BA.4 and BA.5 variants of COVID-19.  "
+                "summary": "The US and South Korea have conducted a joint aerial drill in response to North Korea's growing military aggression."
             },
             {
-                "title": "U.S. imposes travel ban on North Korea in response to reported human rights abuses",
+                "title": "South Korea Raises Alert Level as North Korean Missile Tests Continue",
                 "risk_level": "High",
-                "summary": "In response to reports of 'egregious, intolerable, and brutal' human rights abuses in North Korea, the U.S. has restricted travel to North Korea for American citizens and foreign nationals physically present in the United States or on overflights. The ban is effective immediately."
+                "summary": "South Korea has raised its alert level as North Korea continues to conduct missile tests, sparking concerns about a potential conflict."
             },
             {
-                "title": "South Korea's ruling party loses key local elections as voters reject government's economic policies.",
-                "risk_level": "Medium",
-                "summary": "The ruling Democratic Party of Korea has lost key local elections in the South Korean province of Seoul's surrounding Gyeonggi Province. This election defeat signifies the rejection of the ruling government's economic policies and signals that the people are questioning President Yoon Suk-yeol's leadership."
+                "title": "Protests Erupt in South Korea Over Government's Handling of COVID-19",
+                "risk_level": "Low",
+                "summary": "Protests have erupted in South Korea over the government's handling of the COVID-19 pandemic, with demonstrators calling for improved healthcare and emergency response systems."
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 4.5 Earthquake Strikes Eastern Japan",
-                "risk_level": "Low",
-                "summary": "A 4.5-magnitude earthquake struck off the coast of eastern Japan on June 27, 2024, but its impact was minimal. The quake occurred at 13:41 JST and was centered about 200 kilometers east of the city of Iwaki in Fukushima Prefecture."
-            },
-            {
-                "title": "Protesters Clash with Police in Tokyo Over Controversial Bill",
+                "title": "Protests in Japan against new security laws",
                 "risk_level": "High",
-                "summary": "Protesters clashed with police in Tokyo on June 28, 2024, as they demonstrated against a new security bill that has sparked concerns over its potential impact on civil liberties. The protesters threw stones and clashed with police, who responded with tear gas and batons."
+                "summary": "Protests have been staged in several cities across Japan, including Tokyo and Osaka, against new security laws which critics argue would undermine civil liberties."
             },
             {
-                "title": "Typhoon Threatens Japan's Southern Islands",
+                "title": "Tokyo to implement stricter mask rules due to COVID-19 surge",
                 "risk_level": "Medium",
-                "summary": "A powerful typhoon is threatening Japan's southern islands, with heavy rain and strong winds expected to hit the region on June 29, 2024. The Japan Meteorological Agency has issued a typhoon warning for the islands, which are home to several thousand people."
+                "summary": "Tokyo has announced plans to introduce stricter mask-wearing rules in public places, amid rising COVID-19 cases in the city."
+            },
+            {
+                "title": "Japan's parliament passes contentious bills on state secrets",
+                "risk_level": "Low",
+                "summary": "Japan's parliament has passed two bills aimed at tightening state secrets laws, but critics have raised concerns about the risks to freedom of information."
             }
         ]
     }
