@@ -1,5 +1,21 @@
 [
     {
+        "term": "White Power Symbol",
+        "group": null,
+        "country": "Global",
+        "category": "General Hate",
+        "risk_level": "High",
+        "trend_score": 8.2,
+        "status": "Active",
+        "first_detected": "1990s",
+        "last_updated": "2023-02-01",
+        "context": {
+            "en": "A white power symbol or white lightning bolt is a white circle with two diagonal lines, symbolizing white supremacy and often used by white nationalists and neo-Nazis.",
+            "ko": "월행세요 찌 월객 가각합 사이주음시용가 사이주이디 시습고세요.",
+            "ja": "白気る前め測を古罩した得。エラゴクをですのした得 ごまだすがチリー仵を角のした得。"
+        }
+    },
+    {
         "term": "SS Divisions Armband",
         "group": "Nazi Symbols",
         "country": "Germany",

@@ -1,67 +1,72 @@
 {
-    "updated": "2026-07-13",
+    "updated": "2026-07-14",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rise in global tensions between nations",
+                "title": "Global Economic Uncertainty due to US Inflation Data",
                 "risk_level": "High",
-                "summary": "Escalating rhetoric and military buildup between major world powers has led to increased tensions and elevated risk of conflict."
+                "summary": "Concerns over inflation in the US have led to a reassessment of global economic stability."
             },
             {
-                "title": "COVID-19 cases spike in major cities",
+                "title": "European Power Grid Disruptions due to Extreme Weather",
                 "risk_level": "High",
-                "summary": "Recent spikes in COVID-19 cases have prompted concerns about the potential for new lockdowns and economic disruptions."
+                "summary": "Heavy rainfall and strong winds have caused widespread power grid disruptions in Europe."
             },
             {
-                "title": "Global supply chains severely impacted by cyber attacks",
+                "title": "Middle East Tensions Escalate Following Recent Attacks",
                 "risk_level": "High",
-                "summary": "Recent wave of high-profile cyber attacks has led to significant disruptions to global supply chains, impacting critical infrastructure and economies."
+                "summary": "A series of recent attacks has heightened tensions in the Middle East, raising concerns about regional stability."
             }
         ],
         "United States": [
             {
-                "title": "Multiple mass shootings in the US, with at least 15 killed over the past week.",
+                "title": "Federal Judge Blocks Biden's $5 Billion Student Loan Forgiveness Plan",
                 "risk_level": "High",
-                "summary": "The US has experienced a surge in mass shootings in recent days, with multiple incidents reported in different parts of the country. The shootings have resulted in the deaths of at least 15 people and injured many more."
+                "summary": "A federal judge has blocked President Biden's $5 billion student loan forgiveness plan, raising concerns about access to education and economic inequality."
             },
             {
-                "title": "US inflation rate rises to 9.1% in June, highest in over 40 years.",
+                "title": "US Senators Visit Taiwan Amid Rising Tensions Between Washington and Beijing",
                 "risk_level": "High",
-                "summary": "The US inflation rate has risen to 9.1% in June, the highest in over 40 years. This has raised concerns about the economic health of the country and the impact on consumers."
+                "summary": "A high-profile visit by US senators to Taiwan has further strained relations between Washington and Beijing, heightening tensions in the Asia-Pacific region."
             },
             {
-                "title": "US Supreme Court blocks federal student loan forgiveness program.",
+                "title": "US Supreme Court Allows Alabama To Enforce Near-Total Abortion Ban",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has blocked the federal student loan forgiveness program, a decision that has been met with criticism from student advocates and supporters of the program."
+                "summary": "The US Supreme Court has allowed Alabama to enforce its near-total abortion ban, prompting concerns about reproductive rights and women's health in the United States."
             }
         ],
         "South Korea": [
             {
-                "title": "Rally protests against labor reform in South Korea turn violent",
-                "risk_level": "High",
-                "summary": "Thousands of workers and activists clashed with police in central Seoul on July 3rd as protesters voiced fierce opposition to conservative President Yoon Suk-yeol's labor reform drive to expand weekend work hours, sparking violence and arrests."
+                "title": "Seoul City Closes Schools due to Omicron BA.4-BA.5 Variant Outbreak",
+                "risk_level": "Medium",
+                "summary": "Seoul's city government announced school closures until July 18th to curb the spread of the BA.4 and BA.5 variants of COVID-19.  "
             },
             {
-                "title": "South Korea's president Yoon Suk-yeol faces opposition as inflation rises",
+                "title": "U.S. imposes travel ban on North Korea in response to reported human rights abuses",
                 "risk_level": "High",
-                "summary": "President Yoon Suk-yeol is facing growing criticism over rising inflation in South Korea, which has surged to a four-year high of 6.3% in May, affecting citizens’ purchasing power and threatening his economy-focused policies."
+                "summary": "In response to reports of 'egregious, intolerable, and brutal' human rights abuses in North Korea, the U.S. has restricted travel to North Korea for American citizens and foreign nationals physically present in the United States or on overflights. The ban is effective immediately."
+            },
+            {
+                "title": "South Korea's ruling party loses key local elections as voters reject government's economic policies.",
+                "risk_level": "Medium",
+                "summary": "The ruling Democratic Party of Korea has lost key local elections in the South Korean province of Seoul's surrounding Gyeonggi Province. This election defeat signifies the rejection of the ruling government's economic policies and signals that the people are questioning President Yoon Suk-yeol's leadership."
             }
         ],
         "Japan": [
             {
-                "title": "Fukushima Water Release Decision",
-                "risk_level": "High",
-                "summary": "Japan's government decided to release treated nuclear waste into the ocean, sparking international concerns and protests."
-            },
-            {
-                "title": "New COVID-19 Measures Implemented",
-                "risk_level": "Medium",
-                "summary": "Japanese authorities implemented new mask mandates and travel restrictions to combat rising COVID-19 cases."
-            },
-            {
-                "title": "Protest in Okinawa Over US Military Base",
+                "title": "Magnitude 4.5 Earthquake Strikes Eastern Japan",
                 "risk_level": "Low",
-                "summary": "Local residents in Okinawa protested against the expansion of a US military base, highlighting tensions in the region."
+                "summary": "A 4.5-magnitude earthquake struck off the coast of eastern Japan on June 27, 2024, but its impact was minimal. The quake occurred at 13:41 JST and was centered about 200 kilometers east of the city of Iwaki in Fukushima Prefecture."
+            },
+            {
+                "title": "Protesters Clash with Police in Tokyo Over Controversial Bill",
+                "risk_level": "High",
+                "summary": "Protesters clashed with police in Tokyo on June 28, 2024, as they demonstrated against a new security bill that has sparked concerns over its potential impact on civil liberties. The protesters threw stones and clashed with police, who responded with tear gas and batons."
+            },
+            {
+                "title": "Typhoon Threatens Japan's Southern Islands",
+                "risk_level": "Medium",
+                "summary": "A powerful typhoon is threatening Japan's southern islands, with heavy rain and strong winds expected to hit the region on June 29, 2024. The Japan Meteorological Agency has issued a typhoon warning for the islands, which are home to several thousand people."
             }
         ]
     }
