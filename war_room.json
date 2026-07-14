@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyberattack on Major Corporations",
-                "risk_level": "High",
-                "summary": "A recent cyberattack on major corporations has exposed sensitive data and raised concerns about the security of global networks."
+                "title": "",
+                "risk_level": "High|Medium|Low",
+                "summary": "China Sees COVID-19 Outbreaks Amid Summer Heatwave"
             },
             {
-                "title": "Tensions Escalate Between Nations",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Tensions between nations have escalated in the past week, increasing the risk of global conflict andeconomic instability."
+                "summary": "Multiple Countries Report Mysterious Radioactive Material"
             },
             {
-                "title": "Pandemic Outbreak in Asia",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "A recent pandemic outbreak in Asia has raised concerns about the spread of the disease and global economic impacts."
+                "summary": "Global Supply Chains Disrupted due to Suez Canal Blockage"
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Upholds Gun Rights in Landmark Ruling",
+                "title": "Texas Supreme Court rules that abortion pill can be banned, dealing a major blow to reproductive rights",
                 "risk_level": "High",
-                "summary": "The US Supreme Court issued a landmark ruling on June 23, 2022, upholding an individual's Second Amendment right to carry a handgun in public. The ruling has sparked concerns about increased gun violence and potential backlash from gun control advocates."
+                "summary": "The decision is a major setback for women's reproductive rights in the United States. The ruling could have far-reaching implications for access to abortion care in the country."
             },
             {
-                "title": "US-Russia Tensions Escalate Over Ukraine Conflict",
+                "title": "Supreme Court to hear cases involving LGBTQ+ workplace protections and Title IX",
                 "risk_level": "High",
-                "summary": "The US and Russia have engaged in a war of words over the Ukraine conflict, with the US imposing new sanctions on Russia and Russia threatening to boycott the 2022 Olympics. The escalating tensions have raised concerns about the potential for a wider conflict."
+                "summary": "The Supreme Court will hear two cases that could have significant implications for LGBTQ+ individuals and their rights in the workplace. The cases could also impact access to educational resources and opportunities."
             },
             {
-                "title": "US Faces Growing Cybersecurity Threats",
+                "title": "Federal Court Blocks Biden's Student Loan Forgiveness Plan in 5 States",
                 "risk_level": "Medium",
-                "summary": "The US is facing a growing number of cybersecurity threats, including ransomware attacks and data breaches. The increasing threat level has raised concerns about the potential for significant disruptions to critical infrastructure and economic losses."
+                "summary": "A federal court has blocked President Biden's plan to forgive up to $20,000 in student loan debt for millions of Americans. The decision is a setback for the administration's efforts to address the growing burden of student loan debt."
             }
         ],
         "South Korea": [
             {
-                "title": "Rallies Held Against New Korean Law on Foreigners",
-                "risk_level": "Medium",
-                "summary": "South Korean police arrested over 50 protesters who gathered in downtown Seoul Saturday to protest against the country's new law governing foreign workers. The protesters claimed the law unfairly limits the rights of foreign workers in the country."
-            },
-            {
-                "title": "North Korea Fires Several Missiles Into the Sea",
+                "title": "North Korea's Military parade, sparks tensions with South Korea | High",
                 "risk_level": "High",
-                "summary": "The South Korean military reported that North Korea launched several ballistic missiles into the Sea of Japan on Monday, which landed outside Japan's Exclusive Economic Zone. The move prompted warnings from both South Korea and Japan."
+                "summary": "South Korea's military scrambled fighter jets following North Korea's recent military parade which saw President Kim Jong Un vow to boost Pyongyang's nuclear forces."
             },
             {
-                "title": "South Korea Reports Rise in COVID-19 Cases",
+                "title": "South Asian monsoon rains, floods threaten Seoul | Medium",
                 "risk_level": "Medium",
-                "summary": "South Korea has reported a resurgence in COVID-19 cases, with more than 50 cases confirmed over the weekend. The country has urged citizens to take precautions and get vaccinated to prevent further spread."
+                "summary": "A wave of intense rain is expected to hit the Seoul Metropolitan area, flooding roads and threatening water sources."
+            },
+            {
+                "title": "Protests in South Korea over Moon Jae-in's corruption ties | Low",
+                "risk_level": "Low",
+                "summary": "Anti-government protesters took to the streets in Seoul to demonstrate against President Moon Jae-in's alleged ties to the disgraced former Justice Minister Cho Kuk."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea Condemns Japan's Sanctions Amid Tensions",
-                "risk_level": "High",
-                "summary": "North Korea has condemned Japan's recent sanctions, heightening tensions between the two countries. The sanctions, imposed in response to North Korea's missile tests, are seen as an effort to curb the country's nuclear ambitions."
-            },
-            {
-                "title": "Protests Erupt in Japan Over Controversial Security Laws",
+                "title": "US, Japan to Strengthen Military Alliance Amid China Concerns",
                 "risk_level": "Medium",
-                "summary": "Thousands of protesters have taken to the streets in Japan to demonstrate against new security laws, which they claim will undermine civil liberties and limit the power of the pacifist constitution."
+                "summary": "The US and Japan are set to upgrade their military alliance amid growing concerns about China's increasing military presence in the region. The two countries will enhance their cooperation on defense, cybersecurity, and space security."
             },
             {
-                "title": "Japan's Aging Population Presents Economic and Security Risks",
+                "title": "Japan to Impose Sanctions on Russia over Ukraine Invasion",
+                "risk_level": "Medium",
+                "summary": "Japan is planning to impose sanctions on Russia in response to its invasion of Ukraine. The sanctions will target Russian individuals and entities involved in the conflict, and are expected to have a significant impact on Japan-Russia relations."
+            },
+            {
+                "title": "Protesters Clash with Police at Anti-Whaling Rally in Japan",
                 "risk_level": "Low",
-                "summary": "Japan's rapidly aging population presents a complex challenge for the country's economic and security landscape. With a shrinking workforce and a growing burden on the healthcare system, Japan's leaders are facing difficult decisions about how to address these pressing issues."
+                "summary": "Protesters and police clashed at an anti-whaling rally in Japan, with several people arrested. The rally was held to protest Japan's continued whaling practices, which have sparked international criticism."
             }
         ]
     }
