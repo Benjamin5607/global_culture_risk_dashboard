@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "North Korea Conducts Ballistic Missile Test",
+                "title": "UK Government Warns of Increased Russian Cyber Threat",
                 "risk_level": "High",
-                "summary": "North Korea conducted a ballistic missile test on [date], sparking international condemnation and concerns about regional stability."
+                "summary": "The UK government has warned of an increased risk of Russian cyber attacks in the coming weeks, following the recent tensions between Russia and the West."
             },
             {
-                "title": "Global Cybersecurity Alert Issued",
-                "risk_level": "High",
-                "summary": "A global cybersecurity alert was issued after a widespread malware attack affected multiple countries, highlighting the growing threat of cybercrime."
-            },
-            {
-                "title": "Rise in COVID-19 Cases in Asia",
+                "title": "Rise in Global COVID-19 Cases Due to Omicron Subvariants",
                 "risk_level": "Medium",
-                "summary": "A surge in COVID-19 cases in Asian countries has led to concerns about the potential for further outbreaks and the need for continued public health measures."
+                "summary": "Global COVID-19 cases have increased due to the spread of Omicron subvariants, leading to a rise in hospitalizations and deaths."
+            },
+            {
+                "title": "Increased Tensions Between US and China Over Taiwan",
+                "risk_level": "High",
+                "summary": "Tensions have escalated between the US and China over Taiwan, following a recent visit by a US official to the island, leading to fears of a potential conflict."
             }
         ],
         "United States": [
             {
-                "title": "US Federal Judge Blocks Biden's Student Debt Relief Plan",
+                "title": "Mass Shooting in Highland Park, Illinois",
                 "risk_level": "High",
-                "summary": "A US federal judge has blocked President Joe Biden's student debt relief plan, sparking a potential constitutional crisis."
+                "summary": "At least 6 people were killed and 24 injured in a mass shooting in Highland Park, Illinois, on July 4, 2022."
             },
             {
-                "title": "Rising Tensions Between US and China Over Taiwan",
+                "title": "Supreme Court decision on abortion rights",
                 "risk_level": "High",
-                "summary": "The US and China are experiencing rising tensions over Taiwan, with the US offering arms sales and China criticizing the move."
+                "summary": "The US Supreme Court overturned Roe v. Wade, a landmark decision that established a woman's constitutional right to an abortion, on June 24, 2022."
             },
             {
-                "title": "US Midterm Elections: Tight Races and Polarized Politics",
+                "title": "Gunman kills 5, injures 5 in shooting at NY shooting range",
                 "risk_level": "High",
-                "summary": "The US midterm elections are approaching, with tight races and polarized politics expected to play a significant role in shaping the country's future."
+                "summary": "A gunman killed 5 people and injured 5 others before taking his own life at a shooting range in New York on June 19, 2022."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korean President Yoon Suk-yeol Orders Military to Be on High Alert Over North Korean Missile Launch",
+                "title": "US-South Korea Drills Continue Amid North Korea Threats",
                 "risk_level": "High",
-                "summary": "South Korean President Yoon Suk-yeol has ordered the military to be on high alert after North Korea launched an artillery strike near the Yellow Sea, prompting concerns of a potential conflict between the two nations."
+                "summary": "The United States and South Korea will continue their joint military drills, despite North Korea's recent threats of a 'full-scale nuclear war.'"
             },
             {
-                "title": "South Korea's Spy Agency Accused of Infiltrating Presidential Office",
+                "title": "South Korea's Inflation Hits 24-Year High as Food Prices Soar",
                 "risk_level": "Medium",
-                "summary": "South Korea's spy agency, the National Intelligence Service (NIS), has been accused of infiltrating the office of the country's president, raising concerns about the integrity of the government and its ability to protect sensitive information."
+                "summary": "South Korea's inflation rate has reached a 24-year high due to rising food prices, which has caused concern among consumers and policymakers."
             },
             {
-                "title": "South Korean Government to Implement New Measures to Combat Cybercrime",
-                "risk_level": "Low",
-                "summary": "The South Korean government plans to implement new measures to combat cybercrime, including strengthening penalties and improving collaboration between law enforcement agencies and tech companies."
+                "title": "South Korea's Opposition Accuses Government of Involvement in Samsung Heir's Prison Breakout",
+                "risk_level": "Medium",
+                "summary": "South Korea's main opposition party has accused the government of covering up its involvement in the prison breakout of Samsung heir Lee Jae-yong, who was imprisoned for corruption."
             }
         ],
         "Japan": [
             {
-                "title": "Protests against Japanese government's economic policies",
-                "risk_level": "Medium",
-                "summary": "Tens of thousands of protesters rallied in Tokyo against the Japanese government's economic policies, which they claim will exacerbate income inequality and poverty."
-            },
-            {
-                "title": "Earthquake strikes Kyushu region",
+                "title": "Japan to strengthen cybersecurity amid North Korea hacking threats",
                 "risk_level": "High",
-                "summary": "A magnitude 6.7 earthquake struck the Kyushu region of Japan, causing widespread damage and power outages."
+                "summary": "Japan's government is planning to strengthen its cybersecurity measures in response to increased hacking threats from North Korea."
             },
             {
-                "title": "Ruling party's support for Constitutional amendment",
-                "risk_level": "Low",
-                "summary": "The ruling party in Japan has announced its support for a Constitutional amendment that would allow the country to expand its military role and participation in international peacekeeping operations."
+                "title": "Anti-nuclear campaign gains momentum in Japan",
+                "risk_level": "Medium",
+                "summary": "A campaign calling for Japan to phase out nuclear power by 2040 has gained momentum, with over 3.3 million signatures collected so far."
+            },
+            {
+                "title": "Japan's COVID-19 cases rise due to new virus variant",
+                "risk_level": "Medium",
+                "summary": "COVID-19 cases are on the rise in Japan due to a new variant of the virus, prompting concerns about the country's healthcare system."
             }
         ]
     }
