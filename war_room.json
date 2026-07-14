@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "High|Medium|Low",
-                "summary": "China Sees COVID-19 Outbreaks Amid Summer Heatwave"
-            },
-            {
-                "title": "",
+                "title": "North Korea Conducts Ballistic Missile Test",
                 "risk_level": "High",
-                "summary": "Multiple Countries Report Mysterious Radioactive Material"
+                "summary": "North Korea conducted a ballistic missile test on [date], sparking international condemnation and concerns about regional stability."
             },
             {
-                "title": "",
+                "title": "Global Cybersecurity Alert Issued",
+                "risk_level": "High",
+                "summary": "A global cybersecurity alert was issued after a widespread malware attack affected multiple countries, highlighting the growing threat of cybercrime."
+            },
+            {
+                "title": "Rise in COVID-19 Cases in Asia",
                 "risk_level": "Medium",
-                "summary": "Global Supply Chains Disrupted due to Suez Canal Blockage"
+                "summary": "A surge in COVID-19 cases in Asian countries has led to concerns about the potential for further outbreaks and the need for continued public health measures."
             }
         ],
         "United States": [
             {
-                "title": "Texas Supreme Court rules that abortion pill can be banned, dealing a major blow to reproductive rights",
+                "title": "US Federal Judge Blocks Biden's Student Debt Relief Plan",
                 "risk_level": "High",
-                "summary": "The decision is a major setback for women's reproductive rights in the United States. The ruling could have far-reaching implications for access to abortion care in the country."
+                "summary": "A US federal judge has blocked President Joe Biden's student debt relief plan, sparking a potential constitutional crisis."
             },
             {
-                "title": "Supreme Court to hear cases involving LGBTQ+ workplace protections and Title IX",
+                "title": "Rising Tensions Between US and China Over Taiwan",
                 "risk_level": "High",
-                "summary": "The Supreme Court will hear two cases that could have significant implications for LGBTQ+ individuals and their rights in the workplace. The cases could also impact access to educational resources and opportunities."
+                "summary": "The US and China are experiencing rising tensions over Taiwan, with the US offering arms sales and China criticizing the move."
             },
             {
-                "title": "Federal Court Blocks Biden's Student Loan Forgiveness Plan in 5 States",
-                "risk_level": "Medium",
-                "summary": "A federal court has blocked President Biden's plan to forgive up to $20,000 in student loan debt for millions of Americans. The decision is a setback for the administration's efforts to address the growing burden of student loan debt."
+                "title": "US Midterm Elections: Tight Races and Polarized Politics",
+                "risk_level": "High",
+                "summary": "The US midterm elections are approaching, with tight races and polarized politics expected to play a significant role in shaping the country's future."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's Military parade, sparks tensions with South Korea | High",
+                "title": "South Korean President Yoon Suk-yeol Orders Military to Be on High Alert Over North Korean Missile Launch",
                 "risk_level": "High",
-                "summary": "South Korea's military scrambled fighter jets following North Korea's recent military parade which saw President Kim Jong Un vow to boost Pyongyang's nuclear forces."
+                "summary": "South Korean President Yoon Suk-yeol has ordered the military to be on high alert after North Korea launched an artillery strike near the Yellow Sea, prompting concerns of a potential conflict between the two nations."
             },
             {
-                "title": "South Asian monsoon rains, floods threaten Seoul | Medium",
+                "title": "South Korea's Spy Agency Accused of Infiltrating Presidential Office",
                 "risk_level": "Medium",
-                "summary": "A wave of intense rain is expected to hit the Seoul Metropolitan area, flooding roads and threatening water sources."
+                "summary": "South Korea's spy agency, the National Intelligence Service (NIS), has been accused of infiltrating the office of the country's president, raising concerns about the integrity of the government and its ability to protect sensitive information."
             },
             {
-                "title": "Protests in South Korea over Moon Jae-in's corruption ties | Low",
+                "title": "South Korean Government to Implement New Measures to Combat Cybercrime",
                 "risk_level": "Low",
-                "summary": "Anti-government protesters took to the streets in Seoul to demonstrate against President Moon Jae-in's alleged ties to the disgraced former Justice Minister Cho Kuk."
+                "summary": "The South Korean government plans to implement new measures to combat cybercrime, including strengthening penalties and improving collaboration between law enforcement agencies and tech companies."
             }
         ],
         "Japan": [
             {
-                "title": "US, Japan to Strengthen Military Alliance Amid China Concerns",
+                "title": "Protests against Japanese government's economic policies",
                 "risk_level": "Medium",
-                "summary": "The US and Japan are set to upgrade their military alliance amid growing concerns about China's increasing military presence in the region. The two countries will enhance their cooperation on defense, cybersecurity, and space security."
+                "summary": "Tens of thousands of protesters rallied in Tokyo against the Japanese government's economic policies, which they claim will exacerbate income inequality and poverty."
             },
             {
-                "title": "Japan to Impose Sanctions on Russia over Ukraine Invasion",
-                "risk_level": "Medium",
-                "summary": "Japan is planning to impose sanctions on Russia in response to its invasion of Ukraine. The sanctions will target Russian individuals and entities involved in the conflict, and are expected to have a significant impact on Japan-Russia relations."
+                "title": "Earthquake strikes Kyushu region",
+                "risk_level": "High",
+                "summary": "A magnitude 6.7 earthquake struck the Kyushu region of Japan, causing widespread damage and power outages."
             },
             {
-                "title": "Protesters Clash with Police at Anti-Whaling Rally in Japan",
+                "title": "Ruling party's support for Constitutional amendment",
                 "risk_level": "Low",
-                "summary": "Protesters and police clashed at an anti-whaling rally in Japan, with several people arrested. The rally was held to protest Japan's continued whaling practices, which have sparked international criticism."
+                "summary": "The ruling party in Japan has announced its support for a Constitutional amendment that would allow the country to expand its military role and participation in international peacekeeping operations."
             }
         ]
     }
