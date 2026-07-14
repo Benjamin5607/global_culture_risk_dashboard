@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Cyberattack on Major Corporations",
                 "risk_level": "High",
-                "summary": "Cyber Attack on Global Supply Chain: Hackers have launched a devastating cyber attack on a key player in the global supply chain, disrupting the flow of critical goods and services."
+                "summary": "A recent cyberattack on major corporations has exposed sensitive data and raised concerns about the security of global networks."
             },
             {
-                "title": "",
+                "title": "Tensions Escalate Between Nations",
+                "risk_level": "High",
+                "summary": "Tensions between nations have escalated in the past week, increasing the risk of global conflict andeconomic instability."
+            },
+            {
+                "title": "Pandemic Outbreak in Asia",
                 "risk_level": "Medium",
-                "summary": "Protests Erupt in Global Cities: Unrest has broken out in several major cities around the world as citizens take to the streets to protest government policies and economic inequality."
-            },
-            {
-                "title": "",
-                "risk_level": "High",
-                "summary": "Global Economic Downturn: A sudden and unexpected economic downturn has been reported in several key industries, sending shockwaves through the global economy."
+                "summary": "A recent pandemic outbreak in Asia has raised concerns about the spread of the disease and global economic impacts."
             }
         ],
         "United States": [
             {
-                "title": "Tensions Rise as US and Iran Exchange Hostile Rhetoric Over Nuclear Program",
+                "title": "US Supreme Court Upholds Gun Rights in Landmark Ruling",
                 "risk_level": "High",
-                "summary": "The US and Iran have engaged in a war of words over Iran's nuclear program, with the US threatening to take action if Iran makes any further advancements."
+                "summary": "The US Supreme Court issued a landmark ruling on June 23, 2022, upholding an individual's Second Amendment right to carry a handgun in public. The ruling has sparked concerns about increased gun violence and potential backlash from gun control advocates."
             },
             {
-                "title": "Federal Judge Temporarily Blocks Biden's Student Loan Forgiveness Plan",
+                "title": "US-Russia Tensions Escalate Over Ukraine Conflict",
+                "risk_level": "High",
+                "summary": "The US and Russia have engaged in a war of words over the Ukraine conflict, with the US imposing new sanctions on Russia and Russia threatening to boycott the 2022 Olympics. The escalating tensions have raised concerns about the potential for a wider conflict."
+            },
+            {
+                "title": "US Faces Growing Cybersecurity Threats",
                 "risk_level": "Medium",
-                "summary": "A federal judge has temporarily blocked President Biden's student loan forgiveness plan, which was set to provide relief to millions of borrowers."
-            },
-            {
-                "title": "Mass Shooting in Highland Park, Illinois Leaves Multiple People Dead",
-                "risk_level": "High",
-                "summary": "A mass shooting in Highland Park, Illinois has left multiple people dead and several injured, with the suspect still at large."
+                "summary": "The US is facing a growing number of cybersecurity threats, including ransomware attacks and data breaches. The increasing threat level has raised concerns about the potential for significant disruptions to critical infrastructure and economic losses."
             }
         ],
         "South Korea": [
             {
-                "title": "US and South Korea Conduct Joint Aerial Drill as Tensions Rise with North Korea",
+                "title": "Rallies Held Against New Korean Law on Foreigners",
                 "risk_level": "Medium",
-                "summary": "The US and South Korea have conducted a joint aerial drill in response to North Korea's growing military aggression."
+                "summary": "South Korean police arrested over 50 protesters who gathered in downtown Seoul Saturday to protest against the country's new law governing foreign workers. The protesters claimed the law unfairly limits the rights of foreign workers in the country."
             },
             {
-                "title": "South Korea Raises Alert Level as North Korean Missile Tests Continue",
+                "title": "North Korea Fires Several Missiles Into the Sea",
                 "risk_level": "High",
-                "summary": "South Korea has raised its alert level as North Korea continues to conduct missile tests, sparking concerns about a potential conflict."
+                "summary": "The South Korean military reported that North Korea launched several ballistic missiles into the Sea of Japan on Monday, which landed outside Japan's Exclusive Economic Zone. The move prompted warnings from both South Korea and Japan."
             },
             {
-                "title": "Protests Erupt in South Korea Over Government's Handling of COVID-19",
-                "risk_level": "Low",
-                "summary": "Protests have erupted in South Korea over the government's handling of the COVID-19 pandemic, with demonstrators calling for improved healthcare and emergency response systems."
+                "title": "South Korea Reports Rise in COVID-19 Cases",
+                "risk_level": "Medium",
+                "summary": "South Korea has reported a resurgence in COVID-19 cases, with more than 50 cases confirmed over the weekend. The country has urged citizens to take precautions and get vaccinated to prevent further spread."
             }
         ],
         "Japan": [
             {
-                "title": "Protests in Japan against new security laws",
+                "title": "North Korea Condemns Japan's Sanctions Amid Tensions",
                 "risk_level": "High",
-                "summary": "Protests have been staged in several cities across Japan, including Tokyo and Osaka, against new security laws which critics argue would undermine civil liberties."
+                "summary": "North Korea has condemned Japan's recent sanctions, heightening tensions between the two countries. The sanctions, imposed in response to North Korea's missile tests, are seen as an effort to curb the country's nuclear ambitions."
             },
             {
-                "title": "Tokyo to implement stricter mask rules due to COVID-19 surge",
+                "title": "Protests Erupt in Japan Over Controversial Security Laws",
                 "risk_level": "Medium",
-                "summary": "Tokyo has announced plans to introduce stricter mask-wearing rules in public places, amid rising COVID-19 cases in the city."
+                "summary": "Thousands of protesters have taken to the streets in Japan to demonstrate against new security laws, which they claim will undermine civil liberties and limit the power of the pacifist constitution."
             },
             {
-                "title": "Japan's parliament passes contentious bills on state secrets",
+                "title": "Japan's Aging Population Presents Economic and Security Risks",
                 "risk_level": "Low",
-                "summary": "Japan's parliament has passed two bills aimed at tightening state secrets laws, but critics have raised concerns about the risks to freedom of information."
+                "summary": "Japan's rapidly aging population presents a complex challenge for the country's economic and security landscape. With a shrinking workforce and a growing burden on the healthcare system, Japan's leaders are facing difficult decisions about how to address these pressing issues."
             }
         ]
     }
