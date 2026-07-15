@@ -1,55 +1,93 @@
 {
     "updated": "2026-07-15",
     "scopes": {
+        "Global (All)": [
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "description": "",
+                "start_date": "",
+                "start_time": "",
+                "end_date": "",
+                "end_time": "",
+                "geolocation": {},
+                "organizations": []
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "description": "",
+                "start_date": "",
+                "start_time": "",
+                "end_date": "",
+                "end_time": "",
+                "geolocation": {},
+                "organizations": []
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "description": "",
+                "start_date": "",
+                "start_time": "",
+                "end_date": "",
+                "end_time": "",
+                "geolocation": {},
+                "organizations": []
+            }
+        ],
         "United States": [
             {
-                "title": "Ransomware Attack Hits Healthcare System in Florida",
+                "title": "Multiple States Sue Biden Administration Over Student Loan Forgiveness Plan",
                 "risk_level": "High",
-                "summary": "A severe ransomware attack has compromised the data of a major healthcare system in Florida, exposing sensitive patient information."
+                "summary": "At least seven states have filed lawsuits against the Biden administration's plan to forgive student loans, citing concerns over the legality and constitutionality of the program."
             },
             {
-                "title": "Supreme Court Ruling on Abortion Could Disrupt Healthcare Services",
-                "risk_level": "High",
-                "summary": "The recent Supreme Court ruling on abortion has raised concerns that it could disrupt healthcare services, particularly for women, in the US."
+                "title": "US and EU Reach Agreement to Address Global Semiconductor Shortage",
+                "risk_level": "Medium",
+                "summary": "The US and EU have reached an agreement to address the global semiconductor shortage, which has impacted industries such as technology and automotive."
             },
             {
-                "title": "Mass Shooting in Illinois Leaves Several Dead",
+                "title": "New Cyberattack Hits Multiple US Government Agencies",
                 "risk_level": "High",
-                "summary": "A mass shooting in Illinois has left several people dead, sparking concerns about gun violence and safety in the US."
+                "summary": "A new cyberattack has hit multiple US government agencies, including the Treasury and Commerce departments, in a breach that has exposed sensitive information."
             }
         ],
         "South Korea": [
             {
-                "title": "Tensions escalate between South Korea and North Korea over missile tests",
+                "title": "North Korea conducts intercontinental ballistic missile test, sparks global condemnation",
                 "risk_level": "High",
-                "summary": "North Korea fired multiple missiles off its east coast, prompting South Korea's military to conduct a live-fire drill in response. The move is seen as an escalation of tensions in the region."
+                "summary": "On June 29, 2023, North Korea fired an intercontinental ballistic missile (ICBM) into the Sea of Japan, in a provocative move that sparked widespread condemnation from the international community. The test, considered a potential threat to global security, sent shockwaves through the global political landscape."
             },
             {
-                "title": "Anti-government protests in South Korea turn violent",
+                "title": "Protests erupt in South Korea over labor reform bills",
                 "risk_level": "Medium",
-                "summary": "Protests against President Yoon Suk-yeol's government turned violent in Seoul, with riot police attempting to disperse the crowds. Several people were injured and arrested."
+                "summary": "In the past week, thousands of protesters have taken to the streets in South Korea to demonstrate against labor reform bills, which they claim will erode workers' rights and benefit large corporations. The protests have resulted in clashes between police and protesters, raising concerns about social stability in the country."
             },
             {
-                "title": "Cybersecurity breach affects major South Korean conglomerate",
-                "risk_level": "Low",
-                "summary": "A major South Korean conglomerate has been hit by a cybersecurity breach, with hackers gaining access to sensitive customer data. The company has apologized and is working to contain the damage."
+                "title": "US imposes sanctions on South Korean firms linked to North Korean regime",
+                "risk_level": "Medium",
+                "summary": "On June 25, 2023, the US Treasury Department announced sanctions against several South Korean companies for their alleged ties to the North Korean regime, sparking concerns about the impact on trade and economic relations between the two countries."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires multiple ballistic missiles towards Japan",
-                "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles towards Japan on July 6, 2024, heightening regional tensions and concerns about Japan's defense capabilities."
-            },
-            {
-                "title": "Japan's government approves new security legislation",
+                "title": "Japan sees surge in COVID-19 cases after Omicron surge subsides",
                 "risk_level": "Medium",
-                "summary": "Japan's government approved new security legislation on July 5, 2024, which aims to strengthen the country's defense posture and increase its involvement in regional security initiatives."
+                "summary": "Infectious disease experts have noted rising COVID-19 case numbers"
             },
             {
-                "title": "Protests against new Japanese government's policies",
-                "risk_level": "Low",
-                "summary": "Small-scale protests against the new Japanese government's policies took place in Tokyo and other cities on July 7, 2024, highlighting ongoing concerns about social and economic issues."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
