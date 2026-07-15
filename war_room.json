@@ -1,72 +1,55 @@
 {
     "updated": "2026-07-15",
     "scopes": {
-        "Global (All)": [
-            {
-                "title": "Cyber-attack on major tech firm",
-                "risk_level": "High",
-                "summary": "A major tech firm has been hit by a cyber-attack, potentially compromising millions of customer records."
-            },
-            {
-                "title": "Protests erupt in response to new government decree",
-                "risk_level": "Medium",
-                "summary": "Large-scale protests have broken out in response to a new government decree that opponents claim restricts civil liberties."
-            },
-            {
-                "title": "Global trade tensions escalate",
-                "risk_level": "High",
-                "summary": "Global trade tensions have escalated in the past 7 days, with multiple countries imposing tariffs on each other's goods."
-            }
-        ],
         "United States": [
             {
-                "title": "US Federal Reserve Raises Interest Rates to Combat Inflation",
-                "risk_level": "Medium",
-                "summary": "The US Federal Reserve has raised interest rates to combat inflation, which could impact economic growth and consumer spending."
+                "title": "Ransomware Attack Hits Healthcare System in Florida",
+                "risk_level": "High",
+                "summary": "A severe ransomware attack has compromised the data of a major healthcare system in Florida, exposing sensitive patient information."
             },
             {
-                "title": "Supreme Court Upholds Abortion Rights in Mississippi Case",
+                "title": "Supreme Court Ruling on Abortion Could Disrupt Healthcare Services",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has upheld abortion rights in a Mississippi case, providing protections for women's reproductive health and rights."
+                "summary": "The recent Supreme Court ruling on abortion has raised concerns that it could disrupt healthcare services, particularly for women, in the US."
             },
             {
-                "title": "California Wildfires Continue to Spread, Causing Evacuations",
+                "title": "Mass Shooting in Illinois Leaves Several Dead",
                 "risk_level": "High",
-                "summary": "Severe wildfires continue to spread in California, forcing evacuations and displacing residents, highlighting the need for climate action and disaster preparedness."
+                "summary": "A mass shooting in Illinois has left several people dead, sparking concerns about gun violence and safety in the US."
             }
         ],
         "South Korea": [
             {
-                "title": "Concerns over Kim Jong Un's Health Amid Speculation",
+                "title": "Tensions escalate between South Korea and North Korea over missile tests",
                 "risk_level": "High",
-                "summary": "Reports of Kim Jong Un's health have sparked concerns in South Korea, potentially posing a threat to regional stability."
+                "summary": "North Korea fired multiple missiles off its east coast, prompting South Korea's military to conduct a live-fire drill in response. The move is seen as an escalation of tensions in the region."
             },
             {
-                "title": "Seoul Raises Alert Level Over North Korea's Missile Threat",
-                "risk_level": "High",
-                "summary": "South Korea has heightened its alert level in response to North Korea's recent missile tests, citing a potential threat to national security."
-            },
-            {
-                "title": "South Korea's President Faces Calls for Improved Cybersecurity Measures",
+                "title": "Anti-government protests in South Korea turn violent",
                 "risk_level": "Medium",
-                "summary": "As South Korea continues to experience a surge in cyberattacks, the president faces increasing pressure to strengthen the country's cybersecurity defenses."
+                "summary": "Protests against President Yoon Suk-yeol's government turned violent in Seoul, with riot police attempting to disperse the crowds. Several people were injured and arrested."
+            },
+            {
+                "title": "Cybersecurity breach affects major South Korean conglomerate",
+                "risk_level": "Low",
+                "summary": "A major South Korean conglomerate has been hit by a cybersecurity breach, with hackers gaining access to sensitive customer data. The company has apologized and is working to contain the damage."
             }
         ],
         "Japan": [
             {
-                "title": "Tsunami Evacuation Drill Conducted in Japan",
-                "risk_level": "Medium",
-                "summary": "A nationwide tsunami evacuation drill was conducted in Japan on July 10, 2024, to test the country's emergency response preparedness."
-            },
-            {
-                "title": "Japan's Ruling Party Suffers Election Defeat",
+                "title": "North Korea fires multiple ballistic missiles towards Japan",
                 "risk_level": "High",
-                "summary": "Japan's ruling Liberal Democratic Party (LDP) suffered a significant defeat in the July 12, 2024, Upper House election, dealing a blow to Prime Minister's Fumio Kishida's grip on power."
+                "summary": "North Korea fired multiple ballistic missiles towards Japan on July 6, 2024, heightening regional tensions and concerns about Japan's defense capabilities."
             },
             {
-                "title": "Japan's Aging Population to Reach 30% by 2040",
+                "title": "Japan's government approves new security legislation",
+                "risk_level": "Medium",
+                "summary": "Japan's government approved new security legislation on July 5, 2024, which aims to strengthen the country's defense posture and increase its involvement in regional security initiatives."
+            },
+            {
+                "title": "Protests against new Japanese government's policies",
                 "risk_level": "Low",
-                "summary": "According to a recent report, Japan's population is expected to become 30% aged by 2040, posing significant socio-economic challenges for the country."
+                "summary": "Small-scale protests against the new Japanese government's policies took place in Tokyo and other cities on July 7, 2024, highlighting ongoing concerns about social and economic issues."
             }
         ]
     }
