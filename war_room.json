@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Tensions Escalate Over Taiwan",
+                "title": "Cyber-attack on major tech firm",
                 "risk_level": "High",
-                "summary": "Diplomatic efforts are underway to ease tensions between the US and China over Taiwan, but the situation remains volatile."
+                "summary": "A major tech firm has been hit by a cyber-attack, potentially compromising millions of customer records."
             },
             {
-                "title": "Global Energy Crisis Deepens",
-                "risk_level": "High",
-                "summary": "The global energy crisis continues to worsen, with oil prices hitting new highs and fuel shortages reported in several countries."
-            },
-            {
-                "title": "Facebook Hack Exposes User Data",
+                "title": "Protests erupt in response to new government decree",
                 "risk_level": "Medium",
-                "summary": "A cyberattack on Facebook's systems has exposed user data, sparking concerns about online security and data protection."
+                "summary": "Large-scale protests have broken out in response to a new government decree that opponents claim restricts civil liberties."
+            },
+            {
+                "title": "Global trade tensions escalate",
+                "risk_level": "High",
+                "summary": "Global trade tensions have escalated in the past 7 days, with multiple countries imposing tariffs on each other's goods."
             }
         ],
         "United States": [
             {
-                "title": "Rising Tensions Over US-China Trade Relations",
-                "risk_level": "High",
-                "summary": "The US imposed new sanctions on Chinese officials over human rights abuses in Xinjiang, escalating tensions between the two nations."
-            },
-            {
-                "title": "Supreme Court Decision on Gun Rights",
+                "title": "US Federal Reserve Raises Interest Rates to Combat Inflation",
                 "risk_level": "Medium",
-                "summary": "The Supreme Court ruled on a gun rights case, potentially expanding the Second Amendment rights of individuals in the US."
+                "summary": "The US Federal Reserve has raised interest rates to combat inflation, which could impact economic growth and consumer spending."
             },
             {
-                "title": "Protests and Insecurity in Chicago",
-                "risk_level": "Low",
-                "summary": "Protests and civil unrest in Chicago have resulted in security concerns and increased police presence in certain areas."
+                "title": "Supreme Court Upholds Abortion Rights in Mississippi Case",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has upheld abortion rights in a Mississippi case, providing protections for women's reproductive health and rights."
+            },
+            {
+                "title": "California Wildfires Continue to Spread, Causing Evacuations",
+                "risk_level": "High",
+                "summary": "Severe wildfires continue to spread in California, forcing evacuations and displacing residents, highlighting the need for climate action and disaster preparedness."
             }
         ],
         "South Korea": [
             {
-                "title": "Kim Jong Un calls for more nuclear tests to counter US pressure",
+                "title": "Concerns over Kim Jong Un's Health Amid Speculation",
                 "risk_level": "High",
-                "summary": "North Korea's leader Kim Jong Un called for more nuclear tests to counter growing US pressure, escalating tensions in the region."
+                "summary": "Reports of Kim Jong Un's health have sparked concerns in South Korea, potentially posing a threat to regional stability."
             },
             {
-                "title": "South Korean court sentences former president Park to 22 years in prison",
-                "risk_level": "Medium",
-                "summary": "A South Korean court sentenced former president Park Geun-hye to 22 years in prison for abuse of power, a decision seen as a major blow to the country's conservative establishment."
+                "title": "Seoul Raises Alert Level Over North Korea's Missile Threat",
+                "risk_level": "High",
+                "summary": "South Korea has heightened its alert level in response to North Korea's recent missile tests, citing a potential threat to national security."
             },
             {
-                "title": "South Korean opposition leader wins parliamentary vote, setting up coalition talks",
+                "title": "South Korea's President Faces Calls for Improved Cybersecurity Measures",
                 "risk_level": "Medium",
-                "summary": "South Korea's opposition leader Lee Jae-myung won a parliamentary vote, setting up coalition talks with other opposition parties and potentially ending the country's ruling party's four-year grip on power."
+                "summary": "As South Korea continues to experience a surge in cyberattacks, the president faces increasing pressure to strengthen the country's cybersecurity defenses."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Tsunami Evacuation Drill Conducted in Japan",
+                "risk_level": "Medium",
+                "summary": "A nationwide tsunami evacuation drill was conducted in Japan on July 10, 2024, to test the country's emergency response preparedness."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Japan's Ruling Party Suffers Election Defeat",
+                "risk_level": "High",
+                "summary": "Japan's ruling Liberal Democratic Party (LDP) suffered a significant defeat in the July 12, 2024, Upper House election, dealing a blow to Prime Minister's Fumio Kishida's grip on power."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Japan's Aging Population to Reach 30% by 2040",
+                "risk_level": "Low",
+                "summary": "According to a recent report, Japan's population is expected to become 30% aged by 2040, posing significant socio-economic challenges for the country."
             }
         ]
     }
