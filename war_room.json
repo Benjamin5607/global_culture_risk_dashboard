@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russian hackers suspected of breaching US federal agency",
+                "title": "US-China Tensions Escalate Over Taiwan",
                 "risk_level": "High",
-                "summary": "Russian hackers are suspected of breaching a US federal agency's network using a sophisticated phishing campaign, compromising sensitive personal data."
+                "summary": "Diplomatic efforts are underway to ease tensions between the US and China over Taiwan, but the situation remains volatile."
             },
             {
-                "title": "EU considers measures to reduce reliance on US dollar in Russia-Ukraine conflict",
+                "title": "Global Energy Crisis Deepens",
                 "risk_level": "High",
-                "summary": "The EU is considering measures to reduce its reliance on the US dollar in response to Russia's invasion of Ukraine, which could have far-reaching consequences for global trade and finance."
+                "summary": "The global energy crisis continues to worsen, with oil prices hitting new highs and fuel shortages reported in several countries."
             },
             {
-                "title": "Protest erupts in China over COVID-19 lockdowns, restrictions",
-                "risk_level": "High",
-                "summary": "Protests have erupted in several Chinese cities over the government's strict COVID-19 lockdowns and restrictions, which have sparked widespread discontent and calls for democratic reforms."
+                "title": "Facebook Hack Exposes User Data",
+                "risk_level": "Medium",
+                "summary": "A cyberattack on Facebook's systems has exposed user data, sparking concerns about online security and data protection."
             }
         ],
         "United States": [
             {
-                "title": "",
+                "title": "Rising Tensions Over US-China Trade Relations",
                 "risk_level": "High",
-                "summary": "US Federal Investigation Launched into Twitter Data Breach"
+                "summary": "The US imposed new sanctions on Chinese officials over human rights abuses in Xinjiang, escalating tensions between the two nations."
             },
             {
-                "title": "",
+                "title": "Supreme Court Decision on Gun Rights",
                 "risk_level": "Medium",
-                "summary": "US Racial Tensions Rise Amid Protests"
+                "summary": "The Supreme Court ruled on a gun rights case, potentially expanding the Second Amendment rights of individuals in the US."
             },
             {
-                "title": "",
+                "title": "Protests and Insecurity in Chicago",
                 "risk_level": "Low",
-                "summary": "US Supreme Court to Rule on Climate Change Case"
+                "summary": "Protests and civil unrest in Chicago have resulted in security concerns and increased police presence in certain areas."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "South Koreans stage protest against the proposed military intelligence bill, which critics say infringes on privacy rights and the freedom of the press."
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "North and South Korea exchange gunfire along the Demilitarized Zone (DMZ), with both sides reporting damage to each other's positions."
-            },
-            {
-                "title": "",
+                "title": "Kim Jong Un calls for more nuclear tests to counter US pressure",
                 "risk_level": "High",
-                "summary": "South Korea announces a plan to strengthen its military presence in the South China Sea to counter China's increasing activities in the region."
+                "summary": "North Korea's leader Kim Jong Un called for more nuclear tests to counter growing US pressure, escalating tensions in the region."
+            },
+            {
+                "title": "South Korean court sentences former president Park to 22 years in prison",
+                "risk_level": "Medium",
+                "summary": "A South Korean court sentenced former president Park Geun-hye to 22 years in prison for abuse of power, a decision seen as a major blow to the country's conservative establishment."
+            },
+            {
+                "title": "South Korean opposition leader wins parliamentary vote, setting up coalition talks",
+                "risk_level": "Medium",
+                "summary": "South Korea's opposition leader Lee Jae-myung won a parliamentary vote, setting up coalition talks with other opposition parties and potentially ending the country's ruling party's four-year grip on power."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo Reports 1,000+ New COVID-19 Cases Amid Rise in Omicron Subvariants",
-                "risk_level": "Low",
-                "summary": "A rise in Omicron subvariants is causing a surge in COVID-19 cases in Tokyo, with over 1,000 new cases reported."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Japan to Introduce 3-Year-Old Children to English Lessons in Public Schools",
-                "risk_level": "Low",
-                "summary": "The Japanese government has announced plans to introduce English lessons in public schools starting from 2027, which will benefit over 1 million children."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Typhoon Survivors in Japan Face Widespread Power Outages, Flood Damage",
-                "risk_level": "High",
-                "summary": "Residents of northeastern Japan are facing power outages and flood damage in the aftermath of Typhoon Noru."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
