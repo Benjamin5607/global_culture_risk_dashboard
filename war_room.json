@@ -4,90 +4,120 @@
         "Global (All)": [
             {
                 "title": "",
-                "risk_level": "",
-                "summary": "",
-                "description": "",
-                "start_date": "",
-                "start_time": "",
-                "end_date": "",
-                "end_time": "",
-                "geolocation": {},
-                "organizations": []
+                "risk_level": "High",
+                "summary": "US Dollar Weakens in the Past Week Amid Global Economic Fears"
             },
             {
                 "title": "",
-                "risk_level": "",
-                "summary": "",
-                "description": "",
-                "start_date": "",
-                "start_time": "",
-                "end_date": "",
-                "end_time": "",
-                "geolocation": {},
-                "organizations": []
+                "risk_level": "Medium",
+                "summary": "Rising Interest Rates in the US Impact Global Bond Markets"
             },
             {
                 "title": "",
-                "risk_level": "",
-                "summary": "",
-                "description": "",
-                "start_date": "",
-                "start_time": "",
-                "end_date": "",
-                "end_time": "",
-                "geolocation": {},
-                "organizations": []
+                "risk_level": "Low",
+                "summary": "Global Trade Volumes Continue to Recover From Pandemic Lows"
             }
         ],
         "United States": [
             {
-                "title": "Multiple States Sue Biden Administration Over Student Loan Forgiveness Plan",
-                "risk_level": "High",
-                "summary": "At least seven states have filed lawsuits against the Biden administration's plan to forgive student loans, citing concerns over the legality and constitutionality of the program."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "data": [
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": ""
+                    },
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": ""
+                    },
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": ""
+                    }
+                ]
             },
             {
-                "title": "US and EU Reach Agreement to Address Global Semiconductor Shortage",
-                "risk_level": "Medium",
-                "summary": "The US and EU have reached an agreement to address the global semiconductor shortage, which has impacted industries such as technology and automotive."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "data": [
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": ""
+                    },
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": ""
+                    },
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": ""
+                    }
+                ]
             },
             {
-                "title": "New Cyberattack Hits Multiple US Government Agencies",
-                "risk_level": "High",
-                "summary": "A new cyberattack has hit multiple US government agencies, including the Treasury and Commerce departments, in a breach that has exposed sensitive information."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "data": [
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": ""
+                    },
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": ""
+                    },
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": ""
+                    }
+                ]
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea conducts intercontinental ballistic missile test, sparks global condemnation",
+                "title": "Protest Against Government Corruption",
                 "risk_level": "High",
-                "summary": "On June 29, 2023, North Korea fired an intercontinental ballistic missile (ICBM) into the Sea of Japan, in a provocative move that sparked widespread condemnation from the international community. The test, considered a potential threat to global security, sent shockwaves through the global political landscape."
+                "summary": "Thousands of protesters gathered in Seoul to demand the resignation of President Yoon despite the government's efforts to quell the protests."
             },
             {
-                "title": "Protests erupt in South Korea over labor reform bills",
+                "title": "US-South Korea Joint Military Exercise Continues",
                 "risk_level": "Medium",
-                "summary": "In the past week, thousands of protesters have taken to the streets in South Korea to demonstrate against labor reform bills, which they claim will erode workers' rights and benefit large corporations. The protests have resulted in clashes between police and protesters, raising concerns about social stability in the country."
+                "summary": "The joint military exercise between the US and South Korea continues, drawing criticism from North Korea and other regional countries."
             },
             {
-                "title": "US imposes sanctions on South Korean firms linked to North Korean regime",
+                "title": "COVID-19 Outbreak in Gyeryong City",
                 "risk_level": "Medium",
-                "summary": "On June 25, 2023, the US Treasury Department announced sanctions against several South Korean companies for their alleged ties to the North Korean regime, sparking concerns about the impact on trade and economic relations between the two countries."
+                "summary": "A COVID-19 outbreak was reported in Gyeryong City, prompting the government to implement measures to contain the spread of the virus."
             }
         ],
         "Japan": [
             {
-                "title": "Japan sees surge in COVID-19 cases after Omicron surge subsides",
+                "title": "",
+                "risk_level": "Low",
+                "summary": "7/9/2024 - A recent report found that China's influence over Japan's security is rising, but Tokyo has yet to fully consider how this might impact its relations with the US."
+            },
+            {
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Infectious disease experts have noted rising COVID-19 case numbers"
+                "summary": "7/8/2024 - Japan's defense ministry warns of increasing North Korean military activities near the country's coastlines as tensions in the Korean Peninsula escalate."
             },
             {
                 "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "risk_level": "High",
+                "summary": "7/6/2024 - Japan's government has introduced a revised cybersecurity law aimed at enhancing its defenses against increasing threats"
             }
         ]
     }
