@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global supply chain crisis escalates, impacting food and fuel prices",
-                "risk_level": "High",
-                "summary": "A global supply chain crisis is unfolding, causing shortages of essential goods and exacerbating food and fuel price inflation"
+                "title": "Rise in global COVID-19 cases",
+                "risk_level": "Moderate",
+                "summary": "Increase in reported cases of COVID-19 globally, fueling concerns about potential new waves."
             },
             {
-                "title": "Rise of nationalism and trade tensions threatens global stability",
+                "title": "Middle East tensions continue",
                 "risk_level": "High",
-                "summary": "The resurgence of nationalist sentiment and trade tensions between major economies poses a significant risk to global stability and security"
+                "summary": "Escalating tensions between Israel and regional adversaries heighten concerns about regional conflict."
             },
             {
-                "title": "Cybersecurity threats surge as hackers target vulnerable infrastructure",
+                "title": "US-China tensions escalate",
                 "risk_level": "High",
-                "summary": "Cyberattacks on critical infrastructure, such as power grids and financial systems, have increased in frequency and severity over the past week, posing a significant risk to global security"
+                "summary": "Increased rhetoric and military posturing between the US and China heighten concerns about conflict in the Taiwan Strait."
             }
         ],
         "United States": [
             {
-                "title": "Ransomware Attack Affects Major American Hospital Chain",
+                "title": "Biden Orders Additional Air Defence Measures Over Ukraine: US President Joe Biden announced that additional air defence measures are being taken to assist Ukraine in countering the recent Russian missile strikes.",
                 "risk_level": "High",
-                "summary": "A ransomware attack on the IT systems of one of the largest hospital chains in the US has disrupted medical care, highlighting the urgent need for cybersecurity measures in healthcare institutions."
+                "summary": "Increased tensions between the US and Russia over Ukraine."
             },
             {
-                "title": "FBI Seizes Control of Dark Web Cybercrime Marketplace",
+                "title": "Texas Abortion Ban: US Supreme Court allows Texas' near-ban on abortions to continue, despite challenges in lower courts",
                 "risk_level": "High",
-                "summary": "In a major blow to cybercrime, the FBI has seized control of the world's largest dark web cybercrime marketplace, arresting several top figures and disrupting a vast network of cybercrime activity."
+                "summary": "Ongoing debate on reproductive rights in the US continues to escalate."
             },
             {
-                "title": "Ukraine War Escalation Brings Fears of US-Russia Conflict",
+                "title": "Heat Wave Brings Extreme Temperatures to Western US: A prolonged heat wave is affecting the western United States, with temperatures reaching record highs.",
                 "risk_level": "High",
-                "summary": "The recent escalation of the Ukraine war has brought fears of a potential US-Russia conflict, sparking concerns about nuclear war and global economic instability."
+                "summary": "Impacts of climate change continue to be felt across the US."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires missile over Japan",
+                "title": "North Korea Condemns US-South Korea Joint Military Drill",
+                "risk_level": "Medium",
+                "summary": "North Korea expressed anger towards the recent joint military drills between the US and South Korea, escalating tensions on the Korean Peninsula."
+            },
+            {
+                "title": "South Korea to Increase Military Spending to Counter North Korea Threat",
                 "risk_level": "High",
-                "summary": "North Korea fired a missile over Japan on August 28, 2022, in a major security threat to the region."
+                "summary": "South Korea announced plans to increase its military spending to counter the growing threat from North Korea, highlighting the ongoing security concerns on the peninsula."
             },
             {
-                "title": "South Korea's president orders investigation into spy scandal",
+                "title": "Protests Erupt in South Korea Against Military Draft Reforms",
                 "risk_level": "Medium",
-                "summary": "On September 12, 2022, President Yoon Suk Yeol ordered an investigation into a spy scandal involving a former minister and a North Korean agent."
-            },
-            {
-                "title": "Protests against South Korea's president escalate",
-                "risk_level": "Medium",
-                "summary": "Protests against President Yoon Suk Yeol's policies and handling of the country's economy and COVID-19 outbreak escalated in September 2022."
+                "summary": "Protests broke out in South Korea against reforms to the country's military draft system, sparking concerns about the government's handling of the issue."
             }
         ],
         "Japan": [
             {
-                "title": "Concerns over Japan's nuclear energy restart plans amid heightened earthquake concerns.",
-                "risk_level": "High",
-                "summary": "Japan's nuclear energy restart plans have sparked concerns due to heightened earthquake activity in the region, posing a significant risk to public safety and the environment."
-            },
-            {
-                "title": "North Korea accuses Japan of 'aggressive' behavior over military drills.",
-                "risk_level": "High",
-                "summary": "North Korea has accused Japan of 'aggressive' behavior over its military drills, potentially escalating tensions between the two nations and increasing the risk of conflict."
-            },
-            {
-                "title": "Japan's population reaches a record low, raising concerns over social security and economic stability.",
+                "title": "Japan's F-35 fighter jets grounded over engine oil leak ",
                 "risk_level": "Medium",
-                "summary": "Japan's population has reached a record low, raising concerns over social security and economic stability, as the country's aging population and low birth rates continue to pose significant challenges."
+                "summary": "At least eight Japanese F-35 fighter jets have been grounded due to a problem with engine oil leakage."
+            },
+            {
+                "title": "Japan's economy shrinks for first time in three years as recession fear grows",
+                "risk_level": "High",
+                "summary": "Japan's economy contracted in the first quarter of 2024, its first quarterly decline since 2021."
+            },
+            {
+                "title": "Fukushima's radioactive 'black rain' may have killed dozens: Japan government",
+                "risk_level": "Low",
+                "summary": "Japan's government has said that dozens of people may have died after being exposed to radioactive 'black rain' in the aftermath of the Fukushima nuclear disaster."
             }
         ]
     }
