@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Ransomware attack hits global tech firm",
-                "risk_level": "High",
-                "summary": "A ransomware attack has hit a major global tech firm, disrupting operations and causing significant financial losses."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Protests escalate in global capital cities",
-                "risk_level": "Medium",
-                "summary": "Protests have escalated in several global capital cities, highlighting growing tensions and potential for instability."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Global pandemic-related lockdowns intensify",
-                "risk_level": "Low",
-                "summary": "Lockdowns in several countries have intensified in response to a surge in COVID-19 cases, impacting global markets and economies."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Abortion Ruling Protest Violence",
-                "risk_level": "High",
-                "summary": "The recent US Supreme Court ruling on abortion has sparked nationwide protests and violent clashes between demonstrators and law enforcement agencies. The situation remains volatile, with further unrest and potential violent incidents possible in cities across the country."
-            },
-            {
-                "title": "Uvalde Shooting Memorial Day Attack",
-                "risk_level": "High",
-                "summary": "Tributes are flowing for the victims in Uvalde, Texas, who died in a recent mass shooting on Memorial Day weekend.  A mass attack can occur in any of the U.S., particularly in schools. "
-            },
-            {
-                "title": "US Border Violence Spikes",
+                "title": "US Supreme Court rejects attempt to block abortion pill access",
                 "risk_level": "Medium",
-                "summary": "Violence along the US-Mexico border has increased significantly in the past week, with reports of clashes between migrant groups and Border Patrol agents. The situation remains tense, with potential for further escalation."
+                "summary": "The US Supreme Court has rejected a bid to block access to abortion pills in the United States.  The move is expected to have a significant impact on reproductive rights in the country."
+            },
+            {
+                "title": "Biden administration to review US policy on China technology",
+                "risk_level": "Medium",
+                "summary": "The Biden administration is set to review US policy on China technology, amid growing tensions between the two nations."
+            },
+            {
+                "title": "Gun control advocates push for new US laws as gun violence continues",
+                "risk_level": "Medium",
+                "summary": "Gun control advocates in the United States are pushing for new laws to be enacted in response to ongoing gun violence incidents."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests at South Korea's National Assembly Amid Labor Reform Debate",
+                "title": "North Korea fires ballistic missile towards Japan, sparks global condemnation",
                 "risk_level": "High",
-                "summary": "Tens of thousands of South Koreans gathered outside the National Assembly building in Seoul to protest against proposed labor reform bills.\n\nThe protest, which started on 9th July, marks a continuation of an ongoing dispute between unions and the government over the reform proposals.\n\nThe government has been pushing for revisions to the Labor Standard Act to give companies more flexibility in setting working hours, among other changes."
+                "summary": "North Korea fired a ballistic missile into the Sea of Japan on July 4, prompting a strong rebuke from the international community, including South Korea and the United States."
             },
             {
-                "title": "North Korea Fires Ballistic Missiles into Sea of Japan",
+                "title": "South Korean military on high alert after North Korea's nuclear test warning",
                 "risk_level": "High",
-                "summary": "North Korea fired two ballistic missiles into the Sea of Japan on the 5th of July 2024, causing concern among regional security experts."
+                "summary": "South Korea and the United States began joint military drills on July 7, amid rising tensions on the Korean Peninsula following North Korea's recent nuclear test warning."
             },
             {
-                "title": "South Korea's President Announces Plans for New National Security Act",
+                "title": "Protests erupt in South Korea over government's handling of economy",
                 "risk_level": "Medium",
-                "summary": "South Korean President announced plans to pass a new National Security Act, which aims to address concerns related to national security and stability in the country."
+                "summary": "Thousands of South Koreans took to the streets on July 9 to protest against the government's economic policies, which they claim are hurting the middle class and small businesses."
             }
         ],
         "Japan": [
             {
-                "title": "Japan sees surge in COVID-19 cases",
+                "title": "Protests erupt in Tokyo over government's response to Fukushima nuclear waste",
+                "risk_level": "High",
+                "summary": "Protests in Tokyo turned violent as demonstrators clashed with police over the government’s handling of contaminated nuclear waste.\nSeveral people were arrested and injured in the clashes, highlighting concerns about Japan’s ability to manage the nuclear disaster legacy."
+            },
+            {
+                "title": "Rising tensions between Japan and South Korea over historical issues",
+                "risk_level": "High",
+                "summary": "The spat between Japan and South Korea over historical issues such as wartime forced labor and comfort women heated up, with both countries imposing trade curbs on each other."
+            },
+            {
+                "title": "Fukushima Daiichi nuclear plant leak sparks fears of radioactive contamination",
                 "risk_level": "Medium",
-                "summary": "A new wave of COVID-19 cases has been reported in Japan, raising concerns about the potential impact on the country's healthcare system."
-            },
-            {
-                "title": "Japan's economy shrinks for first time in two years, sparking fears of recession",
-                "risk_level": "High",
-                "summary": "Japan's economy contracted for the first time in two years, raising concerns about a possible recession in the country."
-            },
-            {
-                "title": "Japan's government faces scrutiny over its handling of the COVID-19 pandemic",
-                "risk_level": "High",
-                "summary": "Japan's government is facing criticism for its handling of the COVID-19 pandemic, with many questioning its response to the crisis."
+                "summary": "A leak at the Fukushima Daiichi nuclear plant, still under repair after the 2011 meltdown, has sparked concerns about radioactive contamination in the region."
             }
         ]
     }
