@@ -1,123 +1,72 @@
 {
-    "updated": "2026-07-15",
+    "updated": "2026-07-16",
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Global supply chain crisis escalates, impacting food and fuel prices",
                 "risk_level": "High",
-                "summary": "US Dollar Weakens in the Past Week Amid Global Economic Fears"
+                "summary": "A global supply chain crisis is unfolding, causing shortages of essential goods and exacerbating food and fuel price inflation"
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Rising Interest Rates in the US Impact Global Bond Markets"
+                "title": "Rise of nationalism and trade tensions threatens global stability",
+                "risk_level": "High",
+                "summary": "The resurgence of nationalist sentiment and trade tensions between major economies poses a significant risk to global stability and security"
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Global Trade Volumes Continue to Recover From Pandemic Lows"
+                "title": "Cybersecurity threats surge as hackers target vulnerable infrastructure",
+                "risk_level": "High",
+                "summary": "Cyberattacks on critical infrastructure, such as power grids and financial systems, have increased in frequency and severity over the past week, posing a significant risk to global security"
             }
         ],
         "United States": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "data": [
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": ""
-                    },
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": ""
-                    },
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": ""
-                    }
-                ]
+                "title": "Ransomware Attack Affects Major American Hospital Chain",
+                "risk_level": "High",
+                "summary": "A ransomware attack on the IT systems of one of the largest hospital chains in the US has disrupted medical care, highlighting the urgent need for cybersecurity measures in healthcare institutions."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "data": [
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": ""
-                    },
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": ""
-                    },
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": ""
-                    }
-                ]
+                "title": "FBI Seizes Control of Dark Web Cybercrime Marketplace",
+                "risk_level": "High",
+                "summary": "In a major blow to cybercrime, the FBI has seized control of the world's largest dark web cybercrime marketplace, arresting several top figures and disrupting a vast network of cybercrime activity."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "data": [
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": ""
-                    },
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": ""
-                    },
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": ""
-                    }
-                ]
+                "title": "Ukraine War Escalation Brings Fears of US-Russia Conflict",
+                "risk_level": "High",
+                "summary": "The recent escalation of the Ukraine war has brought fears of a potential US-Russia conflict, sparking concerns about nuclear war and global economic instability."
             }
         ],
         "South Korea": [
             {
-                "title": "Protest Against Government Corruption",
+                "title": "North Korea fires missile over Japan",
                 "risk_level": "High",
-                "summary": "Thousands of protesters gathered in Seoul to demand the resignation of President Yoon despite the government's efforts to quell the protests."
+                "summary": "North Korea fired a missile over Japan on August 28, 2022, in a major security threat to the region."
             },
             {
-                "title": "US-South Korea Joint Military Exercise Continues",
+                "title": "South Korea's president orders investigation into spy scandal",
                 "risk_level": "Medium",
-                "summary": "The joint military exercise between the US and South Korea continues, drawing criticism from North Korea and other regional countries."
+                "summary": "On September 12, 2022, President Yoon Suk Yeol ordered an investigation into a spy scandal involving a former minister and a North Korean agent."
             },
             {
-                "title": "COVID-19 Outbreak in Gyeryong City",
+                "title": "Protests against South Korea's president escalate",
                 "risk_level": "Medium",
-                "summary": "A COVID-19 outbreak was reported in Gyeryong City, prompting the government to implement measures to contain the spread of the virus."
+                "summary": "Protests against President Yoon Suk Yeol's policies and handling of the country's economy and COVID-19 outbreak escalated in September 2022."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "7/9/2024 - A recent report found that China's influence over Japan's security is rising, but Tokyo has yet to fully consider how this might impact its relations with the US."
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "7/8/2024 - Japan's defense ministry warns of increasing North Korean military activities near the country's coastlines as tensions in the Korean Peninsula escalate."
-            },
-            {
-                "title": "",
+                "title": "Concerns over Japan's nuclear energy restart plans amid heightened earthquake concerns.",
                 "risk_level": "High",
-                "summary": "7/6/2024 - Japan's government has introduced a revised cybersecurity law aimed at enhancing its defenses against increasing threats"
+                "summary": "Japan's nuclear energy restart plans have sparked concerns due to heightened earthquake activity in the region, posing a significant risk to public safety and the environment."
+            },
+            {
+                "title": "North Korea accuses Japan of 'aggressive' behavior over military drills.",
+                "risk_level": "High",
+                "summary": "North Korea has accused Japan of 'aggressive' behavior over its military drills, potentially escalating tensions between the two nations and increasing the risk of conflict."
+            },
+            {
+                "title": "Japan's population reaches a record low, raising concerns over social security and economic stability.",
+                "risk_level": "Medium",
+                "summary": "Japan's population has reached a record low, raising concerns over social security and economic stability, as the country's aging population and low birth rates continue to pose significant challenges."
             }
         ]
     }
