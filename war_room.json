@@ -3,53 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Ukraine-Russia Conflict Escalation",
+                "title": "Tensions Rise Over Taiwan Strait Travel Ban",
                 "risk_level": "High",
-                "summary": "Tensions between Ukraine and Russia have increased, with reports of military build-up and potential invasion."
+                "summary": "China has introduced new travel restrictions for Taiwanese residents, escalating tensions in the Taiwan Strait"
             },
             {
-                "title": "Global Economic Slowdown",
-                "risk_level": "Medium",
-                "summary": "The global economy is expected to slow down due to rising inflation and interest rates."
+                "title": "Global Economic Consequences of Ukraine Conflict Loom",
+                "risk_level": "High",
+                "summary": "The ongoing conflict in Ukraine has heightened concerns about potential disruptions to global trade and supply chains,"
             },
             {
-                "title": "Cyberattack on Major Technology Firm",
+                "title": "US-China Competition Heats Up in the South China Sea",
                 "risk_level": "High",
-                "summary": "A major technology firm has reported a significant cyberattack, compromising sensitive customer data."
+                "summary": "Increased military activity and tensions between the US and China in the South China Sea have raised concerns about regional stability"
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Limits EPA's Ability to Regulate Greenhouse Gas Emissions",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US Supreme Court delivered a significant blow to the Biden administration's climate agenda, limiting the Environmental Protection Agency's (EPA) ability to regulate greenhouse gas emissions. This decision has major implications for the country's ability to tackle climate change and may lead to increased tensions between the executive and legislative branches."
+                "summary": "US Supreme Court overturns Roe v. Wade, sparking widespread protests"
             },
             {
-                "title": "Federal Reserve Announces 0.5% Interest Rate Hike Amid Inflation Concerns",
-                "risk_level": "High",
-                "summary": "The US Federal Reserve raised interest rates by 0.5% to combat inflation, which has been a persistent concern in the country. This move may lead to increased borrowing costs, reduced consumer spending, and a potential recession."
-            },
-            {
-                "title": "US Congress Passes Resolution Condemning Iran's Nuclear Program",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "The US Congress passed a resolution condemning Iran's nuclear program, which has been a source of tension between the two countries for years. This development may lead to increased diplomatic efforts to resolve the issue and potentially reduce tensions."
+                "summary": "US House of Representatives passes gun control bill despite opposition from some Republican senators"
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "US Customs and Border Protection implements new biometric screening for all international travelers"
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Fires Missile Over Japan, Prompting Warning System Sirens",
-                "risk_level": "High",
-                "summary": "Tensions between North and South Korea are running high after a recent missile test by Pyongyang."
-            },
-            {
-                "title": "South Korea's Yoon Urges Tougher Line on North Korea, China",
-                "risk_level": "High",
-                "summary": "South Korean President Yoon Suk-yeol has emphasized the need for a more robust national defense strategy in the face of rising threats from North Korea and China."
-            },
-            {
-                "title": "South Korea's Inflation Hits 14-Year High, Raising Fears of Worsening Economic Conditions",
+                "title": "Seoul's Mayor Suspends Campaign Due to Embezzlement Probe",
                 "risk_level": "Medium",
-                "summary": "Inflation in South Korea has reached its highest level in over 14 years, sparking concerns about the country's economic prospects."
+                "summary": "South Korea's capital city of Seoul is facing a leadership crisis after its mayor suspended his election campaign amid an investigation into allegations of embezzlement."
+            },
+            {
+                "title": "North Korea Fires Ballistic Missiles Amid US-South Korea Drills",
+                "risk_level": "High",
+                "summary": "North Korea fired multiple ballistic missiles in the direction of the Sea of Japan, prompting a response from the international community, including the United States and South Korea, where joint military exercises are ongoing."
+            },
+            {
+                "title": "Anti-Government Protests Erupt in South Korea Over President's Handling of Economy)",
+                "risk_level": "Medium",
+                "summary": "Thousands of South Koreans took to the streets in major cities to protest President Yoon Suk-yeol's economic policies, which they claim have had a negative impact on the country's inflation."
+            }
+        ],
+        "Japan": [
+            {
+                "title": "Tokyo's Shinjuku district sees protests against Japan's COVID-19 response",
+                "risk_level": "Low",
+                "summary": "A small but vocal group of protesters gathered in Tokyo's Shinjuku district on 13 Jul to criticise Japan's COVID-19 policies, despite the country's low transmission rates. Protesters called for greater transparency and stricter measures to combat the spread of the virus."
+            },
+            {
+                "title": "North Korea claims it has test-fired new missiles capable of hitting Japan",
+                "risk_level": "High",
+                "summary": "Pyongyang claims that it has successfully test-fired two new missiles, capable of reaching Japan. The development comes as the Biden administration is expected to provide South Korea with advanced anti-ballistic missile systems to counter the North Korean threat."
+            },
+            {
+                "title": "Anti-whaling demonstrations in Japan ahead of whaling season",
+                "risk_level": "Medium",
+                "summary": "Environmental activists are staging a series of protests across Japan to call for an end to the country's whaling industry. The demonstrations come as Japan prepares to resume commercial whaling in the southern waters of the country."
             }
         ]
     }
