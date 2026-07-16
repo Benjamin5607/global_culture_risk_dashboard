@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rise in global COVID-19 cases",
-                "risk_level": "Moderate",
-                "summary": "Increase in reported cases of COVID-19 globally, fueling concerns about potential new waves."
+                "title": "Ransomware attack hits global tech firm",
+                "risk_level": "High",
+                "summary": "A ransomware attack has hit a major global tech firm, disrupting operations and causing significant financial losses."
             },
             {
-                "title": "Middle East tensions continue",
-                "risk_level": "High",
-                "summary": "Escalating tensions between Israel and regional adversaries heighten concerns about regional conflict."
+                "title": "Protests escalate in global capital cities",
+                "risk_level": "Medium",
+                "summary": "Protests have escalated in several global capital cities, highlighting growing tensions and potential for instability."
             },
             {
-                "title": "US-China tensions escalate",
-                "risk_level": "High",
-                "summary": "Increased rhetoric and military posturing between the US and China heighten concerns about conflict in the Taiwan Strait."
+                "title": "Global pandemic-related lockdowns intensify",
+                "risk_level": "Low",
+                "summary": "Lockdowns in several countries have intensified in response to a surge in COVID-19 cases, impacting global markets and economies."
             }
         ],
         "United States": [
             {
-                "title": "Biden Orders Additional Air Defence Measures Over Ukraine: US President Joe Biden announced that additional air defence measures are being taken to assist Ukraine in countering the recent Russian missile strikes.",
+                "title": "Supreme Court Abortion Ruling Protest Violence",
                 "risk_level": "High",
-                "summary": "Increased tensions between the US and Russia over Ukraine."
+                "summary": "The recent US Supreme Court ruling on abortion has sparked nationwide protests and violent clashes between demonstrators and law enforcement agencies. The situation remains volatile, with further unrest and potential violent incidents possible in cities across the country."
             },
             {
-                "title": "Texas Abortion Ban: US Supreme Court allows Texas' near-ban on abortions to continue, despite challenges in lower courts",
+                "title": "Uvalde Shooting Memorial Day Attack",
                 "risk_level": "High",
-                "summary": "Ongoing debate on reproductive rights in the US continues to escalate."
+                "summary": "Tributes are flowing for the victims in Uvalde, Texas, who died in a recent mass shooting on Memorial Day weekend.  A mass attack can occur in any of the U.S., particularly in schools. "
             },
             {
-                "title": "Heat Wave Brings Extreme Temperatures to Western US: A prolonged heat wave is affecting the western United States, with temperatures reaching record highs.",
-                "risk_level": "High",
-                "summary": "Impacts of climate change continue to be felt across the US."
+                "title": "US Border Violence Spikes",
+                "risk_level": "Medium",
+                "summary": "Violence along the US-Mexico border has increased significantly in the past week, with reports of clashes between migrant groups and Border Patrol agents. The situation remains tense, with potential for further escalation."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Condemns US-South Korea Joint Military Drill",
-                "risk_level": "Medium",
-                "summary": "North Korea expressed anger towards the recent joint military drills between the US and South Korea, escalating tensions on the Korean Peninsula."
-            },
-            {
-                "title": "South Korea to Increase Military Spending to Counter North Korea Threat",
+                "title": "Protests at South Korea's National Assembly Amid Labor Reform Debate",
                 "risk_level": "High",
-                "summary": "South Korea announced plans to increase its military spending to counter the growing threat from North Korea, highlighting the ongoing security concerns on the peninsula."
+                "summary": "Tens of thousands of South Koreans gathered outside the National Assembly building in Seoul to protest against proposed labor reform bills.\n\nThe protest, which started on 9th July, marks a continuation of an ongoing dispute between unions and the government over the reform proposals.\n\nThe government has been pushing for revisions to the Labor Standard Act to give companies more flexibility in setting working hours, among other changes."
             },
             {
-                "title": "Protests Erupt in South Korea Against Military Draft Reforms",
+                "title": "North Korea Fires Ballistic Missiles into Sea of Japan",
+                "risk_level": "High",
+                "summary": "North Korea fired two ballistic missiles into the Sea of Japan on the 5th of July 2024, causing concern among regional security experts."
+            },
+            {
+                "title": "South Korea's President Announces Plans for New National Security Act",
                 "risk_level": "Medium",
-                "summary": "Protests broke out in South Korea against reforms to the country's military draft system, sparking concerns about the government's handling of the issue."
+                "summary": "South Korean President announced plans to pass a new National Security Act, which aims to address concerns related to national security and stability in the country."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's F-35 fighter jets grounded over engine oil leak ",
+                "title": "Japan sees surge in COVID-19 cases",
                 "risk_level": "Medium",
-                "summary": "At least eight Japanese F-35 fighter jets have been grounded due to a problem with engine oil leakage."
+                "summary": "A new wave of COVID-19 cases has been reported in Japan, raising concerns about the potential impact on the country's healthcare system."
             },
             {
-                "title": "Japan's economy shrinks for first time in three years as recession fear grows",
+                "title": "Japan's economy shrinks for first time in two years, sparking fears of recession",
                 "risk_level": "High",
-                "summary": "Japan's economy contracted in the first quarter of 2024, its first quarterly decline since 2021."
+                "summary": "Japan's economy contracted for the first time in two years, raising concerns about a possible recession in the country."
             },
             {
-                "title": "Fukushima's radioactive 'black rain' may have killed dozens: Japan government",
-                "risk_level": "Low",
-                "summary": "Japan's government has said that dozens of people may have died after being exposed to radioactive 'black rain' in the aftermath of the Fukushima nuclear disaster."
+                "title": "Japan's government faces scrutiny over its handling of the COVID-19 pandemic",
+                "risk_level": "High",
+                "summary": "Japan's government is facing criticism for its handling of the COVID-19 pandemic, with many questioning its response to the crisis."
             }
         ]
     }
