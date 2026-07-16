@@ -3,70 +3,53 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Ukraine-Russia Conflict Escalation",
+                "risk_level": "High",
+                "summary": "Tensions between Ukraine and Russia have increased, with reports of military build-up and potential invasion."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Global Economic Slowdown",
+                "risk_level": "Medium",
+                "summary": "The global economy is expected to slow down due to rising inflation and interest rates."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Cyberattack on Major Technology Firm",
+                "risk_level": "High",
+                "summary": "A major technology firm has reported a significant cyberattack, compromising sensitive customer data."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court rejects attempt to block abortion pill access",
-                "risk_level": "Medium",
-                "summary": "The US Supreme Court has rejected a bid to block access to abortion pills in the United States.  The move is expected to have a significant impact on reproductive rights in the country."
+                "title": "US Supreme Court Limits EPA's Ability to Regulate Greenhouse Gas Emissions",
+                "risk_level": "High",
+                "summary": "The US Supreme Court delivered a significant blow to the Biden administration's climate agenda, limiting the Environmental Protection Agency's (EPA) ability to regulate greenhouse gas emissions. This decision has major implications for the country's ability to tackle climate change and may lead to increased tensions between the executive and legislative branches."
             },
             {
-                "title": "Biden administration to review US policy on China technology",
-                "risk_level": "Medium",
-                "summary": "The Biden administration is set to review US policy on China technology, amid growing tensions between the two nations."
+                "title": "Federal Reserve Announces 0.5% Interest Rate Hike Amid Inflation Concerns",
+                "risk_level": "High",
+                "summary": "The US Federal Reserve raised interest rates by 0.5% to combat inflation, which has been a persistent concern in the country. This move may lead to increased borrowing costs, reduced consumer spending, and a potential recession."
             },
             {
-                "title": "Gun control advocates push for new US laws as gun violence continues",
+                "title": "US Congress Passes Resolution Condemning Iran's Nuclear Program",
                 "risk_level": "Medium",
-                "summary": "Gun control advocates in the United States are pushing for new laws to be enacted in response to ongoing gun violence incidents."
+                "summary": "The US Congress passed a resolution condemning Iran's nuclear program, which has been a source of tension between the two countries for years. This development may lead to increased diplomatic efforts to resolve the issue and potentially reduce tensions."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires ballistic missile towards Japan, sparks global condemnation",
+                "title": "North Korea Fires Missile Over Japan, Prompting Warning System Sirens",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile into the Sea of Japan on July 4, prompting a strong rebuke from the international community, including South Korea and the United States."
+                "summary": "Tensions between North and South Korea are running high after a recent missile test by Pyongyang."
             },
             {
-                "title": "South Korean military on high alert after North Korea's nuclear test warning",
+                "title": "South Korea's Yoon Urges Tougher Line on North Korea, China",
                 "risk_level": "High",
-                "summary": "South Korea and the United States began joint military drills on July 7, amid rising tensions on the Korean Peninsula following North Korea's recent nuclear test warning."
+                "summary": "South Korean President Yoon Suk-yeol has emphasized the need for a more robust national defense strategy in the face of rising threats from North Korea and China."
             },
             {
-                "title": "Protests erupt in South Korea over government's handling of economy",
+                "title": "South Korea's Inflation Hits 14-Year High, Raising Fears of Worsening Economic Conditions",
                 "risk_level": "Medium",
-                "summary": "Thousands of South Koreans took to the streets on July 9 to protest against the government's economic policies, which they claim are hurting the middle class and small businesses."
-            }
-        ],
-        "Japan": [
-            {
-                "title": "Protests erupt in Tokyo over government's response to Fukushima nuclear waste",
-                "risk_level": "High",
-                "summary": "Protests in Tokyo turned violent as demonstrators clashed with police over the government’s handling of contaminated nuclear waste.\nSeveral people were arrested and injured in the clashes, highlighting concerns about Japan’s ability to manage the nuclear disaster legacy."
-            },
-            {
-                "title": "Rising tensions between Japan and South Korea over historical issues",
-                "risk_level": "High",
-                "summary": "The spat between Japan and South Korea over historical issues such as wartime forced labor and comfort women heated up, with both countries imposing trade curbs on each other."
-            },
-            {
-                "title": "Fukushima Daiichi nuclear plant leak sparks fears of radioactive contamination",
-                "risk_level": "Medium",
-                "summary": "A leak at the Fukushima Daiichi nuclear plant, still under repair after the 2011 meltdown, has sparked concerns about radioactive contamination in the region."
+                "summary": "Inflation in South Korea has reached its highest level in over 14 years, sparking concerns about the country's economic prospects."
             }
         ]
     }
