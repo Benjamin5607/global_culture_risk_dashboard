@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Global Supply Chain Disruptions Due to Covid-19 Pandemic",
                 "risk_level": "High",
-                "summary": "Global economic instability due to rising inflation rates."
+                "summary": "Ongoing global supply chain disruptions, partly due to the ongoing COVID-19 pandemic, resulting in widespread shortages and delivery delays across industries."
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Increased cyber-attacks targeting major financial institutions worldwide."
+                "title": "Increased Cyberattacks on Global Organizations",
+                "risk_level": "High",
+                "summary": "A significant rise in reported cyberattacks targeting various sectors, including finance and healthcare, posing a threat to sensitive data and business continuity."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Minor protests in several cities due to upcoming electoral reforms."
+                "title": "Escalating Global Famine and Food Shortages",
+                "risk_level": "High",
+                "summary": "A worsening global food crisis, partly due to droughts, floods, and conflict, leading to food price rises and famine in several countries."
             }
         ],
         "United States": [
             {
-                "title": "US Government Shutdown Continues with No End in Sight",
+                "title": "US Supreme Court Blocks Abortion Pill Ruling",
                 "risk_level": "High",
-                "summary": "The US government shutdown has entered its ninth day, with no resolution in sight. The shutdown has affected over 800,000 federal workers and has significant implications for the economy."
+                "summary": "The ruling blocks a lower court's decision that would have restricted access to the abortion pill mifepristone."
             },
             {
-                "title": "Protests Erupt in Front of Supreme Court Over Abortion Rights",
+                "title": "Biden Administration to Send Advanced Rocket Artillery to Ukraine",
                 "risk_level": "Medium",
-                "summary": "Protests have erupted in front of the Supreme Court as the court considers overturning Roe v. Wade, the landmark abortion rights case. The protests have been peaceful but large, with thousands in attendance."
+                "summary": "The move is part of the US's efforts to continue support for Ukraine in the ongoing conflict with Russia."
             },
             {
-                "title": "California Wildfires Continue to Spread, Burning Thousands of Acres",
-                "risk_level": "Low",
-                "summary": "The wildfires in California have continued to spread, burning thousands of acres and forcing thousands to evacuate. The fires have been fueled by hot and dry weather conditions."
+                "title": "US Senate Votes to Block $40 Billion in Aid for Israel",
+                "risk_level": "High",
+                "summary": "The vote comes as a surprise, as many lawmakers supported providing aid to Israel amid ongoing tensions."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests against President-elect Yoon's policies,",
-                "risk_level": "Medium",
-                "summary": "Thousands of protesters rallied against President-elect Yoon Suk-yeol's policies, including his promise to strengthen the military and crack down on dissent."
-            },
-            {
-                "title": "Kim Jong-un declares North Korea 'nuclear war deterrence state'",
+                "title": "Rallies against military draft reform bill",
                 "risk_level": "High",
-                "summary": "North Korean leader Kim Jong-un declared his country a 'nuclear war deterrence state,' further escalating tensions with neighboring South Korea and the international community."
+                "summary": "Thousands of protesters took to the streets in Seoul to oppose the military draft reform bill, highlighting the country's ongoing debate over national service."
             },
             {
-                "title": "South Korea's National Assembly passes contentious intelligence bill",
+                "title": "Cyberattack on Korean company",
+                "risk_level": "High",
+                "summary": "A Korean tech company was hacked, compromising sensitive customer data and exposing the vulnerability of the country's cyber defenses."
+            },
+            {
+                "title": "Protests against government response to COVID-19 outbreaks",
                 "risk_level": "Medium",
-                "summary": "South Korea's National Assembly passed a contentious intelligence bill that opponents claim will undermine civil liberties and further concentrate power in the hands of President-elect Yoon Suk-yeol and his allies."
+                "summary": "Anti-government protests erupted in several cities across South Korea as citizens expressed frustration with the government's handling of recent COVID-19 outbreaks."
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Warning Issued in Japan",
+                "title": "Tokyo holds emergency meeting to discuss North Korea missile launches",
                 "risk_level": "High",
-                "summary": "A typhoon warning has been issued for parts of Japan, with heavy rain and strong winds expected in the region."
+                "summary": "The Japanese government has summoned an emergency meeting to discuss the recent series of ballistic missile tests by North Korea, which have raised concerns about the country's military intentions."
             },
             {
-                "title": "Japan Seeks to Revise Pacifist Constitution",
+                "title": "Japan raises alert levels for North Korea missile threat",
                 "risk_level": "High",
-                "summary": "Japan's government is considering revisions to the country's pacifist constitution, which has been in place since the end of World War II."
+                "summary": "In response to recent missile tests by North Korea, Japan has raised its alert levels, warning citizens of the potential threat from the country's military activities."
             },
             {
-                "title": "Protests Erupt in Tokyo Over Proposed Security Laws",
+                "title": "Japan sees rise in COVID-19 cases due to BA.5 variant",
                 "risk_level": "Medium",
-                "summary": "Thousands of protesters have taken to the streets in Tokyo to oppose proposed security laws that would grant the military greater powers and allow for the deployment of troops overseas."
+                "summary": "Japan has reported a rise in COVID-19 cases, citing the spread of the BA.5 variant, which is a highly contagious sub-variant of Omicron. The government has urged citizens to take precautions and get vaccinated."
             }
         ]
     }
