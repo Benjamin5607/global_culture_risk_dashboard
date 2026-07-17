@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Trade Relations Tension Escalates",
+                "title": "US-Russia Confrontation Escalates Over Ukraine",
                 "risk_level": "High",
-                "summary": "The Biden administration imposes new export controls on China, escalating tensions between the two countries."
+                "summary": "The US and Russia have engaged in a tense standoff over Ukraine, with both sides accusing each other of aggressive actions."
             },
             {
-                "title": "Global Cyber Attack Disrupts Supply Chains",
+                "title": "Global Cyberattack Targets Major Corporations",
+                "risk_level": "High",
+                "summary": "A widespread cyberattack has targeted several major corporations worldwide, with hackers gaining access to sensitive data and systems."
+            },
+            {
+                "title": "Protests Erupt in Iran Over Economic Austerity Measures",
                 "risk_level": "Medium",
-                "summary": "A widespread ransomware attack targets multiple industries, causing disruptions to global supply chains."
-            },
-            {
-                "title": "Rising Tensions Between Ukraine and Russia",
-                "risk_level": "Low",
-                "summary": "The situation between Ukraine and Russia remains unstable, with both sides accusing each other of provocations."
+                "summary": "Mass protests have broken out in Iran in response to government-imposed economic austerity measures, which have sparked widespread discontent."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
+                "title": "US Supreme Court overturns Roe v. Wade, ending constitutional right to abortion (High)",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has blocked President Biden's plan to cancel up to $20,000 in student loan debt for millions of Americans. The court's decision is a major blow to the Biden administration's effort to address the growing student loan crisis."
+                "summary": "The US Supreme Court has overturned the landmark Roe v. Wade ruling, effectively ending the constitutional right to abortion. This decision has sparked widespread debate and protests across the country."
             },
             {
-                "title": "Gun violence in US: Texas school shooting leaves 2 students injured",
-                "risk_level": "High",
-                "summary": "A gunman opened fire at a Texas school, injuring two students and leaving many others shaken. The incident highlights the ongoing issue of gun violence in the US and the need for stricter gun control laws."
-            },
-            {
-                "title": "US and Iran Tensions Escalate Over Drone Incident",
+                "title": "Gun violence: Multiple school shootings in Florida (Medium)",
                 "risk_level": "Medium",
-                "summary": "Tensions between the US and Iran have escalated over a reported drone incident in the Persian Gulf. Iran claims the US drone entered its airspace, while the US says it was over international waters."
+                "summary": "In the past week, multiple school shootings have occurred in Florida, leaving several people injured or dead. This has raised concerns about gun control and school safety."
+            },
+            {
+                "title": "US Immigration: Border Patrol Agents use Whips to detain Migrants (High)",
+                "risk_level": "High",
+                "summary": "A viral video showing Border Patrol Agents using whips to detain migrants at the US-Mexico border has sparked outrage and accusations of human rights abuses. This incident has raised concerns about the treatment of migrants and refugees."
             }
         ],
         "South Korea": [
             {
-                "title": "NK Tests Missile Capable of Attacking US Bases in Asia: Seoul",
+                "title": "North Korea Test-Fires Ballistic Missiles",
                 "risk_level": "High",
-                "summary": "North Korean missile test puts South Korea under threat."
+                "summary": "South Korea's Joint Chiefs of Staff reported that North Korea test-fired ballistic missiles off its east coast, prompting a response from the United States and its allies."
             },
             {
-                "title": "South Korean Navy Accidentally Fires Warning Shots at US Plane",
-                "risk_level": "High",
-                "summary": "Incident raises concerns about military cooperation between allies."
-            },
-            {
-                "title": "Korea Braces for Omicron XE, Omicron BA.2.3.2 Variants Outbreak",
+                "title": "Seoul to Enhance Cybersecurity Amid Rising Threats",
                 "risk_level": "Medium",
-                "summary": "South Korea ramps up measures to combat COVID-19."
+                "summary": "South Korea's government announced plans to bolster its cybersecurity capabilities in response to growing threats from state-backed hackers and other malicious actors."
+            },
+            {
+                "title": "Protests Erupt in South Korea Over Economic Reforms",
+                "risk_level": "Medium",
+                "summary": "Thousands of South Koreans took to the streets to protest proposed economic reforms, which they claim will exacerbate income inequality and hurt the country's working class."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo confirms over 1,600 COVID-19 cases on July 13, with a record high of 3,008 cases in total for the month, spurring concerns of a fourth wave of infections.",
+                "title": "Japanese Yen Hits 24-year Low Amid Economic Concerns",
                 "risk_level": "High",
-                "summary": "COVID-19 cases surge in Tokyo, prompting concerns of a fourth wave of infections. Hospitals are under intense pressure, and the government is considering measures to control the spread."
+                "summary": "The Japanese yen has plummeted to a 24-year low, fueling concerns about the country's economic stability and impacting the global currency market."
             },
             {
-                "title": "Japan's government extends virus emergency for 30 days amid surge in cases.",
+                "title": "North Korea Warns Japan Over Military Drills",
                 "risk_level": "High",
-                "summary": "Japan's government extends the state of emergency for a further 30 days due to increasing COVID-19 cases. This measure is aimed at mitigating the spread of the virus."
+                "summary": "North Korea has issued a warning to Japan over joint military drills between the US and South Korea, sparking tensions in the region."
             },
             {
-                "title": "Aichi governor says 'difficult to predict' when state of emergency will be lifted.",
-                "risk_level": "High",
-                "summary": "The governor of Aichi said it's challenging to determine when the state of emergency can be lifted due to the rising number of COVID-19 cases. The government is working to contain the virus spread."
+                "title": "Japan to Ease COVID-19 Restrictions Despite Rise in Cases",
+                "risk_level": "Medium",
+                "summary": "Japan's government has decided to ease COVID-19 restrictions, despite a recent surge in cases, in order to boost the country's economy and public activity."
             }
         ]
     }
