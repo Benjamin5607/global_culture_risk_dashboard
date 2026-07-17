@@ -1,72 +1,72 @@
 {
-    "updated": "2026-07-16",
+    "updated": "2026-07-17",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Tensions Rise Over Taiwan Strait Travel Ban",
+                "title": "US-China Trade Relations Tension Escalates",
                 "risk_level": "High",
-                "summary": "China has introduced new travel restrictions for Taiwanese residents, escalating tensions in the Taiwan Strait"
+                "summary": "The Biden administration imposes new export controls on China, escalating tensions between the two countries."
             },
             {
-                "title": "Global Economic Consequences of Ukraine Conflict Loom",
-                "risk_level": "High",
-                "summary": "The ongoing conflict in Ukraine has heightened concerns about potential disruptions to global trade and supply chains,"
+                "title": "Global Cyber Attack Disrupts Supply Chains",
+                "risk_level": "Medium",
+                "summary": "A widespread ransomware attack targets multiple industries, causing disruptions to global supply chains."
             },
             {
-                "title": "US-China Competition Heats Up in the South China Sea",
-                "risk_level": "High",
-                "summary": "Increased military activity and tensions between the US and China in the South China Sea have raised concerns about regional stability"
+                "title": "Rising Tensions Between Ukraine and Russia",
+                "risk_level": "Low",
+                "summary": "The situation between Ukraine and Russia remains unstable, with both sides accusing each other of provocations."
             }
         ],
         "United States": [
             {
-                "title": "",
+                "title": "US Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
                 "risk_level": "High",
-                "summary": "US Supreme Court overturns Roe v. Wade, sparking widespread protests"
+                "summary": "The US Supreme Court has blocked President Biden's plan to cancel up to $20,000 in student loan debt for millions of Americans. The court's decision is a major blow to the Biden administration's effort to address the growing student loan crisis."
             },
             {
-                "title": "",
+                "title": "Gun violence in US: Texas school shooting leaves 2 students injured",
+                "risk_level": "High",
+                "summary": "A gunman opened fire at a Texas school, injuring two students and leaving many others shaken. The incident highlights the ongoing issue of gun violence in the US and the need for stricter gun control laws."
+            },
+            {
+                "title": "US and Iran Tensions Escalate Over Drone Incident",
                 "risk_level": "Medium",
-                "summary": "US House of Representatives passes gun control bill despite opposition from some Republican senators"
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "US Customs and Border Protection implements new biometric screening for all international travelers"
+                "summary": "Tensions between the US and Iran have escalated over a reported drone incident in the Persian Gulf. Iran claims the US drone entered its airspace, while the US says it was over international waters."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul's Mayor Suspends Campaign Due to Embezzlement Probe",
-                "risk_level": "Medium",
-                "summary": "South Korea's capital city of Seoul is facing a leadership crisis after its mayor suspended his election campaign amid an investigation into allegations of embezzlement."
-            },
-            {
-                "title": "North Korea Fires Ballistic Missiles Amid US-South Korea Drills",
+                "title": "NK Tests Missile Capable of Attacking US Bases in Asia: Seoul",
                 "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles in the direction of the Sea of Japan, prompting a response from the international community, including the United States and South Korea, where joint military exercises are ongoing."
+                "summary": "North Korean missile test puts South Korea under threat."
             },
             {
-                "title": "Anti-Government Protests Erupt in South Korea Over President's Handling of Economy)",
+                "title": "South Korean Navy Accidentally Fires Warning Shots at US Plane",
+                "risk_level": "High",
+                "summary": "Incident raises concerns about military cooperation between allies."
+            },
+            {
+                "title": "Korea Braces for Omicron XE, Omicron BA.2.3.2 Variants Outbreak",
                 "risk_level": "Medium",
-                "summary": "Thousands of South Koreans took to the streets in major cities to protest President Yoon Suk-yeol's economic policies, which they claim have had a negative impact on the country's inflation."
+                "summary": "South Korea ramps up measures to combat COVID-19."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo's Shinjuku district sees protests against Japan's COVID-19 response",
-                "risk_level": "Low",
-                "summary": "A small but vocal group of protesters gathered in Tokyo's Shinjuku district on 13 Jul to criticise Japan's COVID-19 policies, despite the country's low transmission rates. Protesters called for greater transparency and stricter measures to combat the spread of the virus."
-            },
-            {
-                "title": "North Korea claims it has test-fired new missiles capable of hitting Japan",
+                "title": "Tokyo confirms over 1,600 COVID-19 cases on July 13, with a record high of 3,008 cases in total for the month, spurring concerns of a fourth wave of infections.",
                 "risk_level": "High",
-                "summary": "Pyongyang claims that it has successfully test-fired two new missiles, capable of reaching Japan. The development comes as the Biden administration is expected to provide South Korea with advanced anti-ballistic missile systems to counter the North Korean threat."
+                "summary": "COVID-19 cases surge in Tokyo, prompting concerns of a fourth wave of infections. Hospitals are under intense pressure, and the government is considering measures to control the spread."
             },
             {
-                "title": "Anti-whaling demonstrations in Japan ahead of whaling season",
-                "risk_level": "Medium",
-                "summary": "Environmental activists are staging a series of protests across Japan to call for an end to the country's whaling industry. The demonstrations come as Japan prepares to resume commercial whaling in the southern waters of the country."
+                "title": "Japan's government extends virus emergency for 30 days amid surge in cases.",
+                "risk_level": "High",
+                "summary": "Japan's government extends the state of emergency for a further 30 days due to increasing COVID-19 cases. This measure is aimed at mitigating the spread of the virus."
+            },
+            {
+                "title": "Aichi governor says 'difficult to predict' when state of emergency will be lifted.",
+                "risk_level": "High",
+                "summary": "The governor of Aichi said it's challenging to determine when the state of emergency can be lifted due to the rising number of COVID-19 cases. The government is working to contain the virus spread."
             }
         ]
     }
