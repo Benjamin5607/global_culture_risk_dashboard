@@ -3,70 +3,79 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Supply Chain Disruptions Due to Covid-19 Pandemic",
+                "title": "Cyberattack on Ukrainian Government Websites",
                 "risk_level": "High",
-                "summary": "Ongoing global supply chain disruptions, partly due to the ongoing COVID-19 pandemic, resulting in widespread shortages and delivery delays across industries."
+                "summary": "Ukraine has reported a cyberattack on several government websites, prompting concerns about potential data breaches and disruptions to critical services."
             },
             {
-                "title": "Increased Cyberattacks on Global Organizations",
+                "title": "Increased Tensions Between US and China in South China Sea",
                 "risk_level": "High",
-                "summary": "A significant rise in reported cyberattacks targeting various sectors, including finance and healthcare, posing a threat to sensitive data and business continuity."
+                "summary": "The US has reportedly increased its military presence in the South China Sea, raising tensions with China and raising concerns about a potential conflict in the region."
             },
             {
-                "title": "Escalating Global Famine and Food Shortages",
+                "title": "Protests in Iran Over Water Shortages and Economic Crisis",
                 "risk_level": "High",
-                "summary": "A worsening global food crisis, partly due to droughts, floods, and conflict, leading to food price rises and famine in several countries."
+                "summary": "Protests have erupted in several cities across Iran over water shortages and economic hardship, highlighting social unrest and potential instability in the country."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Blocks Abortion Pill Ruling",
+                "title": "US Border Agents Use Whips on Haitian Refugees",
                 "risk_level": "High",
-                "summary": "The ruling blocks a lower court's decision that would have restricted access to the abortion pill mifepristone."
+                "summary": "Reports of US border agents using whips against Haitian refugees at the US-Mexico border sparked widespread outrage and calls for action. The incident has raised concerns about human rights abuses and increased scrutiny of the US immigration policy."
             },
             {
-                "title": "Biden Administration to Send Advanced Rocket Artillery to Ukraine",
-                "risk_level": "Medium",
-                "summary": "The move is part of the US's efforts to continue support for Ukraine in the ongoing conflict with Russia."
+                "title": "Texas School Shooting Leaves 21 Dead",
+                "risk_level": "High",
+                "summary": "A mass shooting at Robb Elementary School in Uvalde, Texas, left 21 people dead, including 19 children. The incident has reignited debates on gun control and school safety in the United States."
             },
             {
-                "title": "US Senate Votes to Block $40 Billion in Aid for Israel",
+                "title": "Supreme Court to Overturn Roe v. Wade",
                 "risk_level": "High",
-                "summary": "The vote comes as a surprise, as many lawmakers supported providing aid to Israel amid ongoing tensions."
+                "summary": "Leaked documents indicate that the US Supreme Court is poised to overturn Roe v. Wade, the landmark 1973 decision that legalized abortion across the United States. The move has sparked concerns about reproductive rights and the impact on women's health."
             }
         ],
         "South Korea": [
             {
-                "title": "Rallies against military draft reform bill",
-                "risk_level": "High",
-                "summary": "Thousands of protesters took to the streets in Seoul to oppose the military draft reform bill, highlighting the country's ongoing debate over national service."
-            },
-            {
-                "title": "Cyberattack on Korean company",
-                "risk_level": "High",
-                "summary": "A Korean tech company was hacked, compromising sensitive customer data and exposing the vulnerability of the country's cyber defenses."
-            },
-            {
-                "title": "Protests against government response to COVID-19 outbreaks",
+                "title": "South Korea Sees Surge in COVID-19 Infections Due to BA.5 Subvariant",
                 "risk_level": "Medium",
-                "summary": "Anti-government protests erupted in several cities across South Korea as citizens expressed frustration with the government's handling of recent COVID-19 outbreaks."
+                "summary": "A sudden surge in COVID-19 cases has been spotted in South Korea due to the BA.5 subvariant. Cases have been increasing rapidly, especially from the last week. The government has recommended taking precautions."
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": ""
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo holds emergency meeting to discuss North Korea missile launches",
+                "title": "Typhoon Nanmadol hits eastern Japan, killing 10 and leaving 11 missing",
                 "risk_level": "High",
-                "summary": "The Japanese government has summoned an emergency meeting to discuss the recent series of ballistic missile tests by North Korea, which have raised concerns about the country's military intentions."
+                "summary": "",
+                "source": "",
+                "date": "",
+                "location": "Eastern Japan"
             },
             {
-                "title": "Japan raises alert levels for North Korea missile threat",
+                "title": "Protest against government's security legislation plans escalate in Tokyo",
                 "risk_level": "High",
-                "summary": "In response to recent missile tests by North Korea, Japan has raised its alert levels, warning citizens of the potential threat from the country's military activities."
+                "summary": "",
+                "source": "",
+                "date": "",
+                "location": "Tokyo"
             },
             {
-                "title": "Japan sees rise in COVID-19 cases due to BA.5 variant",
-                "risk_level": "Medium",
-                "summary": "Japan has reported a rise in COVID-19 cases, citing the spread of the BA.5 variant, which is a highly contagious sub-variant of Omicron. The government has urged citizens to take precautions and get vaccinated."
+                "title": "North Korea fires ballistic missile over Japan, prompting alert system",
+                "risk_level": "High",
+                "summary": "",
+                "source": "",
+                "date": "",
+                "location": "Over Japan"
             }
         ]
     }
