@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global supply chains disrupted due to Russia-Ukraine conflict",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Conflict between Russia and Ukraine causes global disruption in supply chains leading to shortages in critical goods. Multiple countries affected."
+                "summary": "Global economic instability due to rising inflation rates."
             },
             {
-                "title": "Global rise in cyberattacks due to increased remote work",
-                "risk_level": "High",
-                "summary": "Cyberattacks increase globally as more employees work remotely, compromising company security and sensitive information."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Increased cyber-attacks targeting major financial institutions worldwide."
             },
             {
-                "title": "Global protests against government policies due to rising inflation",
-                "risk_level": "High",
-                "summary": "Global protests erupt in response to government policies and rising inflation rates, posing a threat to social stability and economic growth."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Minor protests in several cities due to upcoming electoral reforms."
             }
         ],
         "United States": [
             {
-                "title": "Tornadoes and Storm Damage in US",
+                "title": "US Government Shutdown Continues with No End in Sight",
                 "risk_level": "High",
-                "summary": "Severe weather, tornadoes, and significant storm damage reported across Southern and Midwest states. At least 8 fatalities and dozens injured."
+                "summary": "The US government shutdown has entered its ninth day, with no resolution in sight. The shutdown has affected over 800,000 federal workers and has significant implications for the economy."
             },
             {
-                "title": "Biden Admin. to Address Fentanyl Trafficking Amid Escalating US-Mexico Border Crisis",
-                "risk_level": "High",
-                "summary": "US government announces plan to tackle fentanyl trafficking, a major driver of the opioid epidemic. The move comes amid a growing migrant crisis on the US-Mexico border."
+                "title": "Protests Erupt in Front of Supreme Court Over Abortion Rights",
+                "risk_level": "Medium",
+                "summary": "Protests have erupted in front of the Supreme Court as the court considers overturning Roe v. Wade, the landmark abortion rights case. The protests have been peaceful but large, with thousands in attendance."
             },
             {
-                "title": "Major US Cities Experience Protests Over Police Brutality and Racial Injustice",
-                "risk_level": "High",
-                "summary": "Demonstrations erupt in cities across the United States, with protesters demanding reforms in policing practices and racial justice. Clashes between protesters and law enforcement reported in several areas."
+                "title": "California Wildfires Continue to Spread, Burning Thousands of Acres",
+                "risk_level": "Low",
+                "summary": "The wildfires in California have continued to spread, burning thousands of acres and forcing thousands to evacuate. The fires have been fueled by hot and dry weather conditions."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea launches ballistic missile",
+                "title": "Protests against President-elect Yoon's policies,",
+                "risk_level": "Medium",
+                "summary": "Thousands of protesters rallied against President-elect Yoon Suk-yeol's policies, including his promise to strengthen the military and crack down on dissent."
+            },
+            {
+                "title": "Kim Jong-un declares North Korea 'nuclear war deterrence state'",
                 "risk_level": "High",
-                "summary": "South Korea and the US conducted joint military drills in response to the missile launch, raising tensions in the region."
+                "summary": "North Korean leader Kim Jong-un declared his country a 'nuclear war deterrence state,' further escalating tensions with neighboring South Korea and the international community."
             },
             {
-                "title": "COVID-19 outbreak in Seoul increases concern for healthcare system",
+                "title": "South Korea's National Assembly passes contentious intelligence bill",
                 "risk_level": "Medium",
-                "summary": "The rapid spread of COVID-19 in Seoul has created concerns about the capacity of the healthcare system, with some reports of shortages of hospital beds and medical staff."
-            },
-            {
-                "title": "Government announces plans to ban cryptocurrency trading",
-                "risk_level": "Medium",
-                "summary": "The South Korean government has announced plans to ban cryptocurrency trading, citing concerns about illegal activities and market manipulation."
+                "summary": "South Korea's National Assembly passed a contentious intelligence bill that opponents claim will undermine civil liberties and further concentrate power in the hands of President-elect Yoon Suk-yeol and his allies."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Nuclear Regulator Criticized Amid Controversy Over Reactor Safety Assessments",
+                "title": "Typhoon Warning Issued in Japan",
                 "risk_level": "High",
-                "summary": "Japan's nuclear regulator has come under fire for its assessment of the safety of a reactor at the Ohi nuclear power plant, which has sparked concerns over the country's nuclear energy policy."
+                "summary": "A typhoon warning has been issued for parts of Japan, with heavy rain and strong winds expected in the region."
             },
             {
-                "title": "Japan's Economy at Risk as Global Economic Slowdown Bites",
-                "risk_level": "Medium",
-                "summary": "Japan's economy is vulnerable to the global economic slowdown, with trade tensions and a decline in technology imports posing significant challenges to the country's growth prospects."
+                "title": "Japan Seeks to Revise Pacifist Constitution",
+                "risk_level": "High",
+                "summary": "Japan's government is considering revisions to the country's pacifist constitution, which has been in place since the end of World War II."
             },
             {
-                "title": "Japan's COVID-19 Cases on the Rise as Summer Vacation Season Approaches",
+                "title": "Protests Erupt in Tokyo Over Proposed Security Laws",
                 "risk_level": "Medium",
-                "summary": "Japan is experiencing a resurgence of COVID-19 cases, with health authorities warning of a potential outbreak during the summer vacation season."
+                "summary": "Thousands of protesters have taken to the streets in Tokyo to oppose proposed security laws that would grant the military greater powers and allow for the deployment of troops overseas."
             }
         ]
     }

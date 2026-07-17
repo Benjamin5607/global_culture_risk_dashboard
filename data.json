@@ -1,5 +1,21 @@
 [
     {
+        "term": "Cap (lie)",
+        "group": "Gen Z",
+        "country": "USA",
+        "category": "Slang",
+        "risk_level": "Mild",
+        "trend_score": 7,
+        "status": "Current",
+        "first_detected": "2018",
+        "last_updated": "2022",
+        "context": {
+            "en": "to lie or exaggerate",
+            "ko": "엘입잰닱",
+            "ja": "サクーター"
+        }
+    },
+    {
         "term": "White Power Symbol",
         "group": null,
         "country": "Global",
