@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-Russia Confrontation Escalates Over Ukraine",
+                "title": "Global supply chains disrupted due to Russia-Ukraine conflict",
                 "risk_level": "High",
-                "summary": "The US and Russia have engaged in a tense standoff over Ukraine, with both sides accusing each other of aggressive actions."
+                "summary": "Conflict between Russia and Ukraine causes global disruption in supply chains leading to shortages in critical goods. Multiple countries affected."
             },
             {
-                "title": "Global Cyberattack Targets Major Corporations",
+                "title": "Global rise in cyberattacks due to increased remote work",
                 "risk_level": "High",
-                "summary": "A widespread cyberattack has targeted several major corporations worldwide, with hackers gaining access to sensitive data and systems."
+                "summary": "Cyberattacks increase globally as more employees work remotely, compromising company security and sensitive information."
             },
             {
-                "title": "Protests Erupt in Iran Over Economic Austerity Measures",
-                "risk_level": "Medium",
-                "summary": "Mass protests have broken out in Iran in response to government-imposed economic austerity measures, which have sparked widespread discontent."
+                "title": "Global protests against government policies due to rising inflation",
+                "risk_level": "High",
+                "summary": "Global protests erupt in response to government policies and rising inflation rates, posing a threat to social stability and economic growth."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court overturns Roe v. Wade, ending constitutional right to abortion (High)",
+                "title": "Tornadoes and Storm Damage in US",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has overturned the landmark Roe v. Wade ruling, effectively ending the constitutional right to abortion. This decision has sparked widespread debate and protests across the country."
+                "summary": "Severe weather, tornadoes, and significant storm damage reported across Southern and Midwest states. At least 8 fatalities and dozens injured."
             },
             {
-                "title": "Gun violence: Multiple school shootings in Florida (Medium)",
-                "risk_level": "Medium",
-                "summary": "In the past week, multiple school shootings have occurred in Florida, leaving several people injured or dead. This has raised concerns about gun control and school safety."
+                "title": "Biden Admin. to Address Fentanyl Trafficking Amid Escalating US-Mexico Border Crisis",
+                "risk_level": "High",
+                "summary": "US government announces plan to tackle fentanyl trafficking, a major driver of the opioid epidemic. The move comes amid a growing migrant crisis on the US-Mexico border."
             },
             {
-                "title": "US Immigration: Border Patrol Agents use Whips to detain Migrants (High)",
+                "title": "Major US Cities Experience Protests Over Police Brutality and Racial Injustice",
                 "risk_level": "High",
-                "summary": "A viral video showing Border Patrol Agents using whips to detain migrants at the US-Mexico border has sparked outrage and accusations of human rights abuses. This incident has raised concerns about the treatment of migrants and refugees."
+                "summary": "Demonstrations erupt in cities across the United States, with protesters demanding reforms in policing practices and racial justice. Clashes between protesters and law enforcement reported in several areas."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Test-Fires Ballistic Missiles",
+                "title": "North Korea launches ballistic missile",
                 "risk_level": "High",
-                "summary": "South Korea's Joint Chiefs of Staff reported that North Korea test-fired ballistic missiles off its east coast, prompting a response from the United States and its allies."
+                "summary": "South Korea and the US conducted joint military drills in response to the missile launch, raising tensions in the region."
             },
             {
-                "title": "Seoul to Enhance Cybersecurity Amid Rising Threats",
+                "title": "COVID-19 outbreak in Seoul increases concern for healthcare system",
                 "risk_level": "Medium",
-                "summary": "South Korea's government announced plans to bolster its cybersecurity capabilities in response to growing threats from state-backed hackers and other malicious actors."
+                "summary": "The rapid spread of COVID-19 in Seoul has created concerns about the capacity of the healthcare system, with some reports of shortages of hospital beds and medical staff."
             },
             {
-                "title": "Protests Erupt in South Korea Over Economic Reforms",
+                "title": "Government announces plans to ban cryptocurrency trading",
                 "risk_level": "Medium",
-                "summary": "Thousands of South Koreans took to the streets to protest proposed economic reforms, which they claim will exacerbate income inequality and hurt the country's working class."
+                "summary": "The South Korean government has announced plans to ban cryptocurrency trading, citing concerns about illegal activities and market manipulation."
             }
         ],
         "Japan": [
             {
-                "title": "Japanese Yen Hits 24-year Low Amid Economic Concerns",
+                "title": "Japan's Nuclear Regulator Criticized Amid Controversy Over Reactor Safety Assessments",
                 "risk_level": "High",
-                "summary": "The Japanese yen has plummeted to a 24-year low, fueling concerns about the country's economic stability and impacting the global currency market."
+                "summary": "Japan's nuclear regulator has come under fire for its assessment of the safety of a reactor at the Ohi nuclear power plant, which has sparked concerns over the country's nuclear energy policy."
             },
             {
-                "title": "North Korea Warns Japan Over Military Drills",
-                "risk_level": "High",
-                "summary": "North Korea has issued a warning to Japan over joint military drills between the US and South Korea, sparking tensions in the region."
-            },
-            {
-                "title": "Japan to Ease COVID-19 Restrictions Despite Rise in Cases",
+                "title": "Japan's Economy at Risk as Global Economic Slowdown Bites",
                 "risk_level": "Medium",
-                "summary": "Japan's government has decided to ease COVID-19 restrictions, despite a recent surge in cases, in order to boost the country's economy and public activity."
+                "summary": "Japan's economy is vulnerable to the global economic slowdown, with trade tensions and a decline in technology imports posing significant challenges to the country's growth prospects."
+            },
+            {
+                "title": "Japan's COVID-19 Cases on the Rise as Summer Vacation Season Approaches",
+                "risk_level": "Medium",
+                "summary": "Japan is experiencing a resurgence of COVID-19 cases, with health authorities warning of a potential outbreak during the summer vacation season."
             }
         ]
     }
