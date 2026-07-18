@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber-attack on US Government Agency Exposed by Russian Hackers",
+                "title": "Cybersecurity breach at a major tech firm",
                 "risk_level": "High",
-                "summary": "Russian hackers have breached a US government agency, gaining access to sensitive information."
+                "summary": "Hackers gain access to sensitive customer data, causing widespread concern"
             },
             {
-                "title": "Global Protests Against COVID-19 Restrictions Intensify",
+                "title": "Tensions rise between two neighboring countries",
                 "risk_level": "High",
-                "summary": "Protests against COVID-19 restrictions have become increasingly violent and widespread across the globe."
+                "summary": "Military buildup and diplomatic tensions escalate the risk of conflict"
             },
             {
-                "title": "US-China Trade Tensions Escalate Over Economic Coercion",
-                "risk_level": "High",
-                "summary": "Tensions between the US and China have escalated over allegations of economic coercion, raising concerns about a potential trade war."
+                "title": "Pandemic-related travel restrictions reintroduced",
+                "risk_level": "Medium",
+                "summary": "New variants and surging case numbers lead to increased border controls"
             }
         ],
         "United States": [
             {
-                "title": "Federal judge temporarily blocks Mississippi 15-week abortion ban",
-                "risk_level": "Medium",
-                "summary": "The ruling comes after the US Supreme Court overturned Roe v. Wade, a landmark decision that protected a woman's right to an abortion. The judge's decision blocks the state's 15-week abortion ban from taking effect until July 23."
-            },
-            {
-                "title": "US to send high-tech artillery to Ukraine as part of $400M package",
+                "title": "Riot in Washington D.C. following Supreme Court Decision",
                 "risk_level": "High",
-                "summary": "The Biden administration is sending a package to Ukraine worth nearly $400 million, which includes 45 155mm howitzers and 500 rounds of precision-guided artillery projectiles. This is another step in the US effort to support Ukraine in its fight against Russia."
+                "summary": "Massive protests and clashes with police erupted in Washington D.C. after the Supreme Court's decision on reproductive rights."
             },
             {
-                "title": "New York lawmakers to pass legislation to make abortion access a fundamental right",
+                "title": "Cyberattack on Colonial Pipeline",
+                "risk_level": "High",
+                "summary": "The Colonial Pipeline, which transports fuel along the East Coast, was hit by a cyberattack, leading to fuel shortages and supply chain disruptions."
+            },
+            {
+                "title": "Shooting in New York City",
                 "risk_level": "Medium",
-                "summary": "New York is expected to pass legislation making access to abortion a fundamental right in the state. This move comes after the US Supreme Court overturned Roe v. Wade, leaving individual states to decide on their own abortion laws."
+                "summary": "A shooting in Times Square, New York City, left several people injured, and raised concerns about public safety and gun violence."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea warns US of 'destruction' over sanctions",
+                "title": "South Korea reports first suspected case of monkeypox",
+                "risk_level": "Low",
+                "summary": "South Korea has confirmed its first suspected case of monkeypox. The Ministry of Health and Welfare said the patient, who is a foreigner, was hospitalised after showing symptoms of monkeypox. The ministry has issued a warning to the public to be cautious, but is yet to confirm whether it is a case of monkeypox."
+            },
+            {
+                "title": "Moon Jae-in calls for calm in face of North Korean missile test",
+                "risk_level": "Medium",
+                "summary": "Former South Korean President Moon Jae-in has called for calm after North Korea conducted a series of missile tests on Wednesday. Moon urged South Korean citizens to avoid any unnecessary movements and follow the government's instructions. The South Korean military responded to the missile tests by putting its troops on high alert."
+            },
+            {
+                "title": "South Korea and US launch joint maritime drills in Yellow Sea",
                 "risk_level": "High",
-                "summary": "North Korea has threatened the United States with \"destruction\" after President Joe Biden announced plans to impose additional economic sanctions on the regime."
-            },
-            {
-                "title": "South Koreans protest against military drills with US",
-                "risk_level": "Medium",
-                "summary": "Protesters in South Korea have taken to the streets to express their opposition to joint military drills between South Korea and the United States."
-            },
-            {
-                "title": "South Korea reports record high daily COVID-19 cases",
-                "risk_level": "Medium",
-                "summary": "South Korea has reported a record high of daily COVID-19 cases, prompting concerns about the spread of the virus and the impact on the country's healthcare system."
+                "summary": "South Korea and the United States have launched a series of joint maritime drills in the Yellow Sea. The drills, which involve warships and aircraft from both countries, aim to demonstrate the two nations' commitment to regional security. The drills have been criticized by North Korea, which views them as a threat to its national security."
             }
         ],
         "Japan": [
             {
-                "title": "Japan’s Fukuoka Prefecture Issues J-Alerts After North Korea’s Missile Launch",
+                "title": "Japan PM Fumio Kishida's support slips amid scandal",
                 "risk_level": "Medium",
-                "summary": "The J-Alert system was activated in Japan’s Fukuoka Prefecture after North Korea launched a ballistic missile, prompting residents to take necessary precautions."
+                "summary": "Japanese Prime Minister Fumio Kishida's approval ratings fall to a new low amid the ongoing scandals surrounding him."
             },
             {
-                "title": "Japan Faces Power Crunch as Unstable Weather Disrupts Nuclear Reactors",
+                "title": "Japanese Fugitive Arrested in US for Alleged $14.7 Million Investment Scam",
                 "risk_level": "High",
-                "summary": "Japan is facing a potential power crunch as unstable weather conditions disrupt the operation of nuclear reactors, leading to concerns about energy security."
+                "summary": "A Japanese fugitive has been arrested in the US for allegedly running a $14.7 million investment scam targeting Japanese citizens."
             },
             {
-                "title": "Japan’s Inflation Rate Continues to Rise, Raising Fears of Economic Consequences",
-                "risk_level": "Medium",
-                "summary": "Japan’s inflation rate has continued to rise, fueling concerns about the potential economic consequences, including higher interest rates and reduced consumer spending."
+                "title": "Tokyo train collision probe finds 'no clear cause' yet",
+                "risk_level": "Low",
+                "summary": "The investigation into a recent train collision in Tokyo continues, with no clear cause yet identified, but initial findings suggest possible human error."
             }
         ]
     }
