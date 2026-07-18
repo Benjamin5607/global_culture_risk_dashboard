@@ -1,81 +1,72 @@
 {
-    "updated": "2026-07-17",
+    "updated": "2026-07-18",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyberattack on Ukrainian Government Websites",
+                "title": "Cyber-attack on US Government Agency Exposed by Russian Hackers",
                 "risk_level": "High",
-                "summary": "Ukraine has reported a cyberattack on several government websites, prompting concerns about potential data breaches and disruptions to critical services."
+                "summary": "Russian hackers have breached a US government agency, gaining access to sensitive information."
             },
             {
-                "title": "Increased Tensions Between US and China in South China Sea",
+                "title": "Global Protests Against COVID-19 Restrictions Intensify",
                 "risk_level": "High",
-                "summary": "The US has reportedly increased its military presence in the South China Sea, raising tensions with China and raising concerns about a potential conflict in the region."
+                "summary": "Protests against COVID-19 restrictions have become increasingly violent and widespread across the globe."
             },
             {
-                "title": "Protests in Iran Over Water Shortages and Economic Crisis",
+                "title": "US-China Trade Tensions Escalate Over Economic Coercion",
                 "risk_level": "High",
-                "summary": "Protests have erupted in several cities across Iran over water shortages and economic hardship, highlighting social unrest and potential instability in the country."
+                "summary": "Tensions between the US and China have escalated over allegations of economic coercion, raising concerns about a potential trade war."
             }
         ],
         "United States": [
             {
-                "title": "US Border Agents Use Whips on Haitian Refugees",
-                "risk_level": "High",
-                "summary": "Reports of US border agents using whips against Haitian refugees at the US-Mexico border sparked widespread outrage and calls for action. The incident has raised concerns about human rights abuses and increased scrutiny of the US immigration policy."
+                "title": "Federal judge temporarily blocks Mississippi 15-week abortion ban",
+                "risk_level": "Medium",
+                "summary": "The ruling comes after the US Supreme Court overturned Roe v. Wade, a landmark decision that protected a woman's right to an abortion. The judge's decision blocks the state's 15-week abortion ban from taking effect until July 23."
             },
             {
-                "title": "Texas School Shooting Leaves 21 Dead",
+                "title": "US to send high-tech artillery to Ukraine as part of $400M package",
                 "risk_level": "High",
-                "summary": "A mass shooting at Robb Elementary School in Uvalde, Texas, left 21 people dead, including 19 children. The incident has reignited debates on gun control and school safety in the United States."
+                "summary": "The Biden administration is sending a package to Ukraine worth nearly $400 million, which includes 45 155mm howitzers and 500 rounds of precision-guided artillery projectiles. This is another step in the US effort to support Ukraine in its fight against Russia."
             },
             {
-                "title": "Supreme Court to Overturn Roe v. Wade",
-                "risk_level": "High",
-                "summary": "Leaked documents indicate that the US Supreme Court is poised to overturn Roe v. Wade, the landmark 1973 decision that legalized abortion across the United States. The move has sparked concerns about reproductive rights and the impact on women's health."
+                "title": "New York lawmakers to pass legislation to make abortion access a fundamental right",
+                "risk_level": "Medium",
+                "summary": "New York is expected to pass legislation making access to abortion a fundamental right in the state. This move comes after the US Supreme Court overturned Roe v. Wade, leaving individual states to decide on their own abortion laws."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea Sees Surge in COVID-19 Infections Due to BA.5 Subvariant",
+                "title": "North Korea warns US of 'destruction' over sanctions",
+                "risk_level": "High",
+                "summary": "North Korea has threatened the United States with \"destruction\" after President Joe Biden announced plans to impose additional economic sanctions on the regime."
+            },
+            {
+                "title": "South Koreans protest against military drills with US",
                 "risk_level": "Medium",
-                "summary": "A sudden surge in COVID-19 cases has been spotted in South Korea due to the BA.5 subvariant. Cases have been increasing rapidly, especially from the last week. The government has recommended taking precautions."
+                "summary": "Protesters in South Korea have taken to the streets to express their opposition to joint military drills between South Korea and the United States."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "South Korea reports record high daily COVID-19 cases",
+                "risk_level": "Medium",
+                "summary": "South Korea has reported a record high of daily COVID-19 cases, prompting concerns about the spread of the virus and the impact on the country's healthcare system."
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Nanmadol hits eastern Japan, killing 10 and leaving 11 missing",
-                "risk_level": "High",
-                "summary": "",
-                "source": "",
-                "date": "",
-                "location": "Eastern Japan"
+                "title": "Japan’s Fukuoka Prefecture Issues J-Alerts After North Korea’s Missile Launch",
+                "risk_level": "Medium",
+                "summary": "The J-Alert system was activated in Japan’s Fukuoka Prefecture after North Korea launched a ballistic missile, prompting residents to take necessary precautions."
             },
             {
-                "title": "Protest against government's security legislation plans escalate in Tokyo",
+                "title": "Japan Faces Power Crunch as Unstable Weather Disrupts Nuclear Reactors",
                 "risk_level": "High",
-                "summary": "",
-                "source": "",
-                "date": "",
-                "location": "Tokyo"
+                "summary": "Japan is facing a potential power crunch as unstable weather conditions disrupt the operation of nuclear reactors, leading to concerns about energy security."
             },
             {
-                "title": "North Korea fires ballistic missile over Japan, prompting alert system",
-                "risk_level": "High",
-                "summary": "",
-                "source": "",
-                "date": "",
-                "location": "Over Japan"
+                "title": "Japan’s Inflation Rate Continues to Rise, Raising Fears of Economic Consequences",
+                "risk_level": "Medium",
+                "summary": "Japan’s inflation rate has continued to rise, fueling concerns about the potential economic consequences, including higher interest rates and reduced consumer spending."
             }
         ]
     }
