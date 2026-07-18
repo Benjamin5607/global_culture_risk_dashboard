@@ -3,70 +3,79 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Conflict over disputed territories in Ukraine escalates",
-                "risk_level": "High",
-                "summary": "Russia has stepped up military actions in eastern Ukraine, causing widespread civilian casualties and increasing international tensions."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "date": "",
+                "geo": "",
+                "event_category": ""
             },
             {
-                "title": "Taliban seizes major city in Afghanistan",
-                "risk_level": "High",
-                "summary": "After days of heavy fighting, the Taliban has captured the city of Herat, marking a significant territorial gain in their ongoing insurgency."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "date": "",
+                "geo": "",
+                "event_category": ""
             },
             {
-                "title": "Cyberattack disrupts global supply chain",
-                "risk_level": "High",
-                "summary": "A sophisticated cyberattack has targeted major logistics companies, causing disruptions to global shipping and trade."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "date": "",
+                "geo": "",
+                "event_category": ""
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Abortion Ruling Protests Continue Across US",
-                "risk_level": "High",
-                "summary": "Protests against the US Supreme Court's decision to overturn Roe v. Wade continue across the United States, with demonstrations happening in cities such as New York, Los Angeles, and Washington D.C. The protests have attracted a significant number of participants and have resulted in several arrests."
-            },
-            {
-                "title": "US House of Representatives Votes to Send Impeachment Inquiry to Judiciary Committee",
+                "title": "Federal Judge Temporarily Blocks Abortion Ban in Alabama",
                 "risk_level": "Medium",
-                "summary": "The US House of Representatives has voted to send the impeachment inquiry into President Biden's handling of classified documents to the Judiciary Committee. The move marks a significant step in the impeachment process, which could lead to President Biden's removal from office."
+                "summary": "A federal judge has temporarily blocked a near-total abortion ban in Alabama, which had been enacted after the Supreme Court overturned Roe v. Wade. The ban was set to take effect immediately, but the judge's order halts its enforcement pending further litigation."
             },
             {
-                "title": "US Warns of Russia's Plans to Interfere in 2024 Elections",
+                "title": "Trump Organization Convicted in Tax Evasion Trial",
                 "risk_level": "High",
-                "summary": "The US has warned of Russia's plans to interfere in the 2024 presidential elections, with the Federal Bureau of Investigation (FBI) launching an investigation into potential Russian interference. The move comes amid concerns about Russia's increasing involvement in electoral politics."
+                "summary": "A jury in New York has convicted the Trump Organization of 17 tax-related charges, including conspiracy and falsifying business records. The conviction is a major blow to former President Donald Trump's business empire and raises questions about his personal finances."
+            },
+            {
+                "title": "US Government Reports Record High Border Apprehensions",
+                "risk_level": "High",
+                "summary": "The US government has reported a record high number of border apprehensions, with over 239,000 migrant encounters in June alone. The surge in border crossings has sparked concerns about national security and the capacity of US immigration authorities."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea-US Joint Military Drills Spark Tensions with North Korea",
+                "title": "North Korea fires ballistic missile",
                 "risk_level": "High",
-                "summary": "South Korea and the US conducted joint military drills on Sunday, sparking tensions with North Korea. The drills, which included air and land exercises, were meant to demonstrate the allies' ability to respond to any North Korean aggression."
+                "summary": "On July 7, 2024, North Korea fired a ballistic missile into the East Sea, prompting a strong warning from the US and South Korea. The missile landed in the Exclusive Economic Zone (EEZ) of South Korea, causing concerns about the escalating tensions between the two countries."
             },
             {
-                "title": "South Korea's Economy Grows at Slowest Pace in 9 Months Due to Semiconductor Downturn",
+                "title": "Protests erupt in Seoul over labor reform",
                 "risk_level": "Medium",
-                "summary": "South Korea's economy grew at its slowest pace in 9 months in April due to a decline in the semiconductor industry. The country's GDP expanded 0.3% on quarter, below expectations of a 0.5% gain."
+                "summary": "On July 10, 2024, thousands of protesters took to the streets in Seoul to demonstrate against the government's proposed labor reform bill, which they claim will undermine workers' rights. The protests turned violent, with several police officers and protesters injured."
             },
             {
-                "title": "South Korea's Government Urges People to be Precautious as COVID-19 Cases Rise",
-                "risk_level": "Medium",
-                "summary": "South Korea's government has urged people to be cautious and take precautions as COVID-19 cases rise. The country has reported a total of 250,000 cases and 2,000 deaths since the outbreak began in 2020."
+                "title": "Corruption scandal rocks South Korean government",
+                "risk_level": "High",
+                "summary": "On July 12, 2024, a high-ranking government official was arrested on corruption charges, sparking a major scandal that has shaken the confidence of the public. The official is accused of accepting bribes from a business conglomerate, which has been implicated in various scandals over the years."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires ballistic missile over Japan, sparking alarm",
+                "title": "North Korea Tests New ICBM in Response to Joint US-Japan Military Drills",
                 "risk_level": "High",
-                "summary": "North Korea launched a suspected ballistic missile that flew over Japan on Aug 28, 2022, prompting a warning from Japanese authorities to residents in the northern prefectures of Hokkaido, Aomori, and Ishikawa."
+                "summary": ""
             },
             {
-                "title": "Protesters in Japan clash with police over government's coronavirus response",
+                "title": "Japanese Government Cracks Down on Protests Against US Military Bases",
                 "risk_level": "Medium",
-                "summary": "Protesters clashed with police in Tokyo on April 17, 2022, as they protested against the Japanese government's handling of the COVID-19 pandemic and its decision to hold the 2021 Tokyo Olympics."
+                "summary": ""
             },
             {
-                "title": "Tensions rise as US and Japan stage joint military drills",
-                "risk_level": "Medium",
-                "summary": "The United States and Japan staged joint military drills in the South China Sea on July 6, 2022, amid rising tensions in the region over China's growing military presence."
+                "title": "Typhoon Hinnamor Brings Widespread Flooding and Power Outages to Japan",
+                "risk_level": "High",
+                "summary": ""
             }
         ]
     }
