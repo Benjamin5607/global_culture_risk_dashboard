@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cybersecurity breach at a major tech firm",
+                "title": "Conflict over disputed territories in Ukraine escalates",
                 "risk_level": "High",
-                "summary": "Hackers gain access to sensitive customer data, causing widespread concern"
+                "summary": "Russia has stepped up military actions in eastern Ukraine, causing widespread civilian casualties and increasing international tensions."
             },
             {
-                "title": "Tensions rise between two neighboring countries",
+                "title": "Taliban seizes major city in Afghanistan",
                 "risk_level": "High",
-                "summary": "Military buildup and diplomatic tensions escalate the risk of conflict"
+                "summary": "After days of heavy fighting, the Taliban has captured the city of Herat, marking a significant territorial gain in their ongoing insurgency."
             },
             {
-                "title": "Pandemic-related travel restrictions reintroduced",
-                "risk_level": "Medium",
-                "summary": "New variants and surging case numbers lead to increased border controls"
+                "title": "Cyberattack disrupts global supply chain",
+                "risk_level": "High",
+                "summary": "A sophisticated cyberattack has targeted major logistics companies, causing disruptions to global shipping and trade."
             }
         ],
         "United States": [
             {
-                "title": "Riot in Washington D.C. following Supreme Court Decision",
+                "title": "Supreme Court Abortion Ruling Protests Continue Across US",
                 "risk_level": "High",
-                "summary": "Massive protests and clashes with police erupted in Washington D.C. after the Supreme Court's decision on reproductive rights."
+                "summary": "Protests against the US Supreme Court's decision to overturn Roe v. Wade continue across the United States, with demonstrations happening in cities such as New York, Los Angeles, and Washington D.C. The protests have attracted a significant number of participants and have resulted in several arrests."
             },
             {
-                "title": "Cyberattack on Colonial Pipeline",
-                "risk_level": "High",
-                "summary": "The Colonial Pipeline, which transports fuel along the East Coast, was hit by a cyberattack, leading to fuel shortages and supply chain disruptions."
-            },
-            {
-                "title": "Shooting in New York City",
+                "title": "US House of Representatives Votes to Send Impeachment Inquiry to Judiciary Committee",
                 "risk_level": "Medium",
-                "summary": "A shooting in Times Square, New York City, left several people injured, and raised concerns about public safety and gun violence."
+                "summary": "The US House of Representatives has voted to send the impeachment inquiry into President Biden's handling of classified documents to the Judiciary Committee. The move marks a significant step in the impeachment process, which could lead to President Biden's removal from office."
+            },
+            {
+                "title": "US Warns of Russia's Plans to Interfere in 2024 Elections",
+                "risk_level": "High",
+                "summary": "The US has warned of Russia's plans to interfere in the 2024 presidential elections, with the Federal Bureau of Investigation (FBI) launching an investigation into potential Russian interference. The move comes amid concerns about Russia's increasing involvement in electoral politics."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea reports first suspected case of monkeypox",
-                "risk_level": "Low",
-                "summary": "South Korea has confirmed its first suspected case of monkeypox. The Ministry of Health and Welfare said the patient, who is a foreigner, was hospitalised after showing symptoms of monkeypox. The ministry has issued a warning to the public to be cautious, but is yet to confirm whether it is a case of monkeypox."
-            },
-            {
-                "title": "Moon Jae-in calls for calm in face of North Korean missile test",
-                "risk_level": "Medium",
-                "summary": "Former South Korean President Moon Jae-in has called for calm after North Korea conducted a series of missile tests on Wednesday. Moon urged South Korean citizens to avoid any unnecessary movements and follow the government's instructions. The South Korean military responded to the missile tests by putting its troops on high alert."
-            },
-            {
-                "title": "South Korea and US launch joint maritime drills in Yellow Sea",
+                "title": "South Korea-US Joint Military Drills Spark Tensions with North Korea",
                 "risk_level": "High",
-                "summary": "South Korea and the United States have launched a series of joint maritime drills in the Yellow Sea. The drills, which involve warships and aircraft from both countries, aim to demonstrate the two nations' commitment to regional security. The drills have been criticized by North Korea, which views them as a threat to its national security."
+                "summary": "South Korea and the US conducted joint military drills on Sunday, sparking tensions with North Korea. The drills, which included air and land exercises, were meant to demonstrate the allies' ability to respond to any North Korean aggression."
+            },
+            {
+                "title": "South Korea's Economy Grows at Slowest Pace in 9 Months Due to Semiconductor Downturn",
+                "risk_level": "Medium",
+                "summary": "South Korea's economy grew at its slowest pace in 9 months in April due to a decline in the semiconductor industry. The country's GDP expanded 0.3% on quarter, below expectations of a 0.5% gain."
+            },
+            {
+                "title": "South Korea's Government Urges People to be Precautious as COVID-19 Cases Rise",
+                "risk_level": "Medium",
+                "summary": "South Korea's government has urged people to be cautious and take precautions as COVID-19 cases rise. The country has reported a total of 250,000 cases and 2,000 deaths since the outbreak began in 2020."
             }
         ],
         "Japan": [
             {
-                "title": "Japan PM Fumio Kishida's support slips amid scandal",
-                "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida's approval ratings fall to a new low amid the ongoing scandals surrounding him."
-            },
-            {
-                "title": "Japanese Fugitive Arrested in US for Alleged $14.7 Million Investment Scam",
+                "title": "North Korea fires ballistic missile over Japan, sparking alarm",
                 "risk_level": "High",
-                "summary": "A Japanese fugitive has been arrested in the US for allegedly running a $14.7 million investment scam targeting Japanese citizens."
+                "summary": "North Korea launched a suspected ballistic missile that flew over Japan on Aug 28, 2022, prompting a warning from Japanese authorities to residents in the northern prefectures of Hokkaido, Aomori, and Ishikawa."
             },
             {
-                "title": "Tokyo train collision probe finds 'no clear cause' yet",
-                "risk_level": "Low",
-                "summary": "The investigation into a recent train collision in Tokyo continues, with no clear cause yet identified, but initial findings suggest possible human error."
+                "title": "Protesters in Japan clash with police over government's coronavirus response",
+                "risk_level": "Medium",
+                "summary": "Protesters clashed with police in Tokyo on April 17, 2022, as they protested against the Japanese government's handling of the COVID-19 pandemic and its decision to hold the 2021 Tokyo Olympics."
+            },
+            {
+                "title": "Tensions rise as US and Japan stage joint military drills",
+                "risk_level": "Medium",
+                "summary": "The United States and Japan staged joint military drills in the South China Sea on July 6, 2022, amid rising tensions in the region over China's growing military presence."
             }
         ]
     }

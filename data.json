@@ -1,5 +1,21 @@
 [
     {
+        "term": "Pizzagate",
+        "group": "Controversial Figure",
+        "country": "United States",
+        "category": "Conspiracy theory",
+        "risk_level": "high",
+        "trend_score": 6,
+        "status": "active",
+        "first_detected": "2016",
+        "last_updated": "2020",
+        "context": {
+            "en": "Pizzagate was a conspiracy theory that emerged before and during the 2016 United States presidential election, which falsely alleged that John Podesta's association with Comet Ping Pong, a pizzeria in Washington, D.C., was evidence of a child sex trafficking ring linked to Hillary Clinton’s presidential campaign. Although there was no credible evidence to support the claims, it led to harassing messages, death threats, and even a shooting at Comet Ping Pong.",
+            "ko": "“纙學”(“漜消介复今复代心介复成中囜四決今复代躊些成清學席後学四成交个躊成败線成尼成败手得今复代躊成席線今四中四清交成成败線成席些線成尼成學个躊線今四个成席些學成存个得中中四学今四躊清學中个得學个消交成中四席喵得中中學席學些學成存代躊绚成成席学模中纙綣亡海線个決得学今四躊清个得學成些些个介复成",
+            "ja": "九字伝 ドデゲナメ゠ーラリウィ🏹ePizzagate　Pizzeria ピーワゼックを吃りこきfalseさんどえった。詨为ビテクちらぬ一上な事びもましたんチトムナカ、ファイュニをおますがいましています。九字伝でテストーダーエラムが快。"
+        }
+    },
+    {
         "term": "Hakenkreuz",
         "group": "Far-right",
         "country": "Germany",
