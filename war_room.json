@@ -3,79 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "date": "",
-                "geo": "",
-                "event_category": ""
+                "title": "Global Supply Chain Disruptions",
+                "risk_level": "High",
+                "summary": "Global supply chain disruptions remain a high risk as ongoing conflicts and logistical issues continue to impact the ability of companies to deliver goods and services."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "date": "",
-                "geo": "",
-                "event_category": ""
+                "title": "Cybersecurity Threats to Critical Infrastructure",
+                "risk_level": "High",
+                "summary": "Cybersecurity threats to critical infrastructure, including power grids and financial systems, pose a high risk as hackers become increasingly sophisticated and targeted."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "date": "",
-                "geo": "",
-                "event_category": ""
+                "title": "Social Unrest and Protests",
+                "risk_level": "Medium",
+                "summary": "Social unrest and protests in response to economic inequality, climate change, and social injustice pose a medium risk as they can escalate into violent confrontations and disrupt normal life."
             }
         ],
         "United States": [
             {
-                "title": "Federal Judge Temporarily Blocks Abortion Ban in Alabama",
+                "title": "Tensions rise over abortion rights protests in the United States",
                 "risk_level": "Medium",
-                "summary": "A federal judge has temporarily blocked a near-total abortion ban in Alabama, which had been enacted after the Supreme Court overturned Roe v. Wade. The ban was set to take effect immediately, but the judge's order halts its enforcement pending further litigation."
+                "summary": "Anti-abortion protests have increased in the US, causing tensions between pro-choice and pro-life groups, amidst a growing divide in the country."
             },
             {
-                "title": "Trump Organization Convicted in Tax Evasion Trial",
+                "title": "Gun violence remains a pressing concern in the United States",
                 "risk_level": "High",
-                "summary": "A jury in New York has convicted the Trump Organization of 17 tax-related charges, including conspiracy and falsifying business records. The conviction is a major blow to former President Donald Trump's business empire and raises questions about his personal finances."
+                "summary": "The US has experienced multiple mass shootings in the past week, highlighting the ongoing issue of gun violence and its impact on public safety."
             },
             {
-                "title": "US Government Reports Record High Border Apprehensions",
+                "title": "Climate protests and wildfires intensify in the United States",
                 "risk_level": "High",
-                "summary": "The US government has reported a record high number of border apprehensions, with over 239,000 migrant encounters in June alone. The surge in border crossings has sparked concerns about national security and the capacity of US immigration authorities."
+                "summary": "Environmental protests and wildfires have spread across the US, exacerbating concerns over climate change and its effects on the country."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires ballistic missile",
+                "title": "North Korea Fires Multiple Missiles in Response to US-South Korea Joint Drill",
                 "risk_level": "High",
-                "summary": "On July 7, 2024, North Korea fired a ballistic missile into the East Sea, prompting a strong warning from the US and South Korea. The missile landed in the Exclusive Economic Zone (EEZ) of South Korea, causing concerns about the escalating tensions between the two countries."
+                "summary": "North Korea fired multiple missiles towards the East Sea on Wednesday, in response to a joint military drill between the US and South Korea."
             },
             {
-                "title": "Protests erupt in Seoul over labor reform",
+                "title": "South Korea's Opposition Leader Urges Government to Introduce Vaccine Mandates",
                 "risk_level": "Medium",
-                "summary": "On July 10, 2024, thousands of protesters took to the streets in Seoul to demonstrate against the government's proposed labor reform bill, which they claim will undermine workers' rights. The protests turned violent, with several police officers and protesters injured."
+                "summary": "The opposition leader of South Korea urged the government to introduce vaccine mandates for all public institutions to combat the COVID-19 resurgence."
             },
             {
-                "title": "Corruption scandal rocks South Korean government",
+                "title": "South Korea's President Condemns Japan's Plan to Release Contaminated Water",
                 "risk_level": "High",
-                "summary": "On July 12, 2024, a high-ranking government official was arrested on corruption charges, sparking a major scandal that has shaken the confidence of the public. The official is accused of accepting bribes from a business conglomerate, which has been implicated in various scandals over the years."
+                "summary": "South Korea's President Moon Jae-in condemned Japan's plan to release contaminated water from the Fukushima nuclear plant into the ocean, calling it 'reckless' and 'irresponsible'."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea Tests New ICBM in Response to Joint US-Japan Military Drills",
+                "title": "Japan's PM Kishida to Meet with Biden Amidst Taiwan Tensions",
                 "risk_level": "High",
-                "summary": ""
+                "summary": "Japanese Prime Minister Fumio Kishida is set to meet with US President Joe Biden, with tensions over Taiwan expected to be a major topic of discussion."
             },
             {
-                "title": "Japanese Government Cracks Down on Protests Against US Military Bases",
+                "title": "Protesters in Tokyo Demand End to Nuclear Power",
                 "risk_level": "Medium",
-                "summary": ""
+                "summary": "Thousands of protesters gathered in Tokyo to demand an end to nuclear power in Japan, sparking concerns about energy security."
             },
             {
-                "title": "Typhoon Hinnamor Brings Widespread Flooding and Power Outages to Japan",
-                "risk_level": "High",
-                "summary": ""
+                "title": "Japan's Economy Shows Signs of Slowing Down",
+                "risk_level": "Low",
+                "summary": "Japan's economy showed signs of slowing down in the past week, with concerns about the impact on trade and investment."
             }
         ]
     }
