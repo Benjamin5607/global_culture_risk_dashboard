@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyberattacks on European Institutions by Russia",
+                "title": "Global COVID-19 pandemic",
                 "risk_level": "High",
-                "summary": "Russia has been conducting a series of cyberattacks on European institutions, posing a significant risk to global security and stability."
+                "summary": "COVID-19 has spread globally, infecting millions and causing widespread death and economic disruption."
             },
             {
-                "title": "Ukraine-Turkey Tensions Escalate",
-                "risk_level": "Medium",
-                "summary": "Tensions between Ukraine and Turkey have escalated due to disagreements over trade and territorial disputes, potentially leading to instability in the region."
+                "title": "Climate Change",
+                "risk_level": "High",
+                "summary": "Global temperatures continue to rise, causing more frequent and severe weather events, and posing significant risks to human health and the environment."
             },
             {
-                "title": "Global Economic Sanctions on China",
+                "title": "Rise of Nationalism and Protectionism",
                 "risk_level": "High",
-                "summary": "Multiple countries have announced economic sanctions on China in response to human rights abuses, increasing economic uncertainty and trade tensions."
+                "summary": "A rise in nationalist and protectionist sentiment has been observed in many countries, leading to increased tensions and a decline in global cooperation."
             }
         ],
         "United States": [
             {
-                "title": "Ukraine Invasion: Russia-Ukraine Tensions Escalate; US Sanctions Imposed",
+                "title": "Mass Shooting in Highland Park, Illinois",
                 "risk_level": "High",
-                "summary": "The ongoing conflict between Russia and Ukraine has heightened international tensions, as the United States imposes additional sanctions on Russia."
+                "summary": "A mass shooting occurred in Highland Park, Illinois, during the Fourth of July parade, resulting in the deaths of at least 6 people and injuring dozens more. The shooter, later identified as Robert E. Crimo III, was arrested and charged with multiple counts of murder and attempted murder."
             },
             {
-                "title": "Inflation Rates in the US Reach 9.1%: Highest Level Since 1981",
+                "title": "Train Derailment and Chemical Leak in East Palestine, Ohio",
                 "risk_level": "High",
-                "summary": "A 9.1% inflation rate has been reported in the US, marking the highest level since 1981, with potential economic impacts and implications for consumers."
+                "summary": "A train derailment occurred in East Palestine, Ohio, resulting in a hazardous chemical leak. The leak caused a large fire and released toxic chemicals into the air, leading to the evacuation of nearby residents. The incident is still being investigated and cleaned up."
             },
             {
-                "title": "US Supreme Court Blocks Biden Administration's Student Debt Relief Plan",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has temporarily blocked President Biden's student debt relief plan, sparking controversy and legal challenges in the ongoing debate on student loan forgiveness."
+                "title": "Rising COVID-19 Cases and Hospitalizations",
+                "risk_level": "Medium",
+                "summary": "The United States has seen a recent surge in COVID-19 cases and hospitalizations, particularly among the unvaccinated and those who are immunocompromised. The rise in cases prompted some states to reinstate mask mandates and other restrictions."
             }
         ],
         "South Korea": [
             {
-                "title": "S.Korea's spy agency says it's been hacked by North Korea",
+                "title": "North Korea fires two missiles into Sea of Japan",
                 "risk_level": "High",
-                "summary": "South Korea's spy agency said on Wednesday that it had been hacked by North Korean cyber spies, marking the second time in a year that the agency has been targeted by a North Korean cyber attack."
+                "summary": "South Korea and the United States began joint military drills on April 1, in a move seen as a direct challenge to North Korea's military strength."
             },
             {
-                "title": "North Korea fires cruise missiles into sea, South Korea says",
-                "risk_level": "High",
-                "summary": "North Korea fired cruise missiles into the sea, South Korea's military said on Wednesday, in a move that comes as the two countries remain technically at war."
-            },
-            {
-                "title": "S.Korea's president calls for calm as tensions with North Korea rise",
+                "title": "South Korea reports highest daily COVID-19 cases in 8 months",
                 "risk_level": "Medium",
-                "summary": "South Korea's president called for calm on Wednesday as tensions between the two Koreas rise over North Korea's increasingly aggressive actions."
+                "summary": "The country has reported a spike in COVID-19 cases due to the delta and omicron variants."
+            },
+            {
+                "title": "South Korea and US conduct joint military exercises",
+                "risk_level": "High",
+                "summary": "The exercises come amid tensions with North Korea, which has threatened to retaliate against the drills."
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Nanmadol hits Japan causing power outages and flooding",
+                "title": "Typhoon Nanmadol brings strong winds and heavy rain to Western Japan",
                 "risk_level": "High",
-                "summary": "Typhoon Nanmadol made landfall in southern Japan on August 24, 2023, causing widespread power outages and flooding. The storm brought strong winds and heavy rainfall, affecting over 100,000 households."
+                "summary": "Typhoon Nanmadol made landfall on Kyushu, causing widespread disruptions and power outages."
             },
             {
-                "title": "Rising tensions between Japan and China over disputed islands",
+                "title": "Protesters clash with police in Tokyo over nuclear energy plans",
                 "risk_level": "Medium",
-                "summary": "Japan and China have been engaged in a dispute over the Senkaku/Diaoyu Islands in the East China Sea for years, but tensions have escalated in recent days with both countries conducting military exercises in the area."
+                "summary": "Demonstrators gathered in Tokyo to express concerns about the government's plan to restart nuclear reactors."
             },
             {
-                "title": "Japan's COVID-19 cases surge due to new Omicron variant",
+                "title": "Japan's economy shows signs of slowdown amidst global uncertainty",
                 "risk_level": "High",
-                "summary": "Japan has seen a significant increase in COVID-19 cases in the past week, with the new Omicron variant spreading rapidly across the country. The surge has put a strain on the country's healthcare system."
+                "summary": "Weakening exports and consumer spending have raised concerns about Japan's economic outlook."
             }
         ]
     }
