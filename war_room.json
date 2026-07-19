@@ -3,53 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia-Ukraine conflict: Ceasefire talks collapse, clashes reported",
+                "title": "Global COVID-19 Mortality Rate",
                 "risk_level": "High",
-                "summary": "Fighting between Russia and Ukraine escalates as ceasefire talks collapse."
+                "summary": "The global COVID-19 mortality rate has increased in the past 7 days, indicating a potential risk to public health."
             },
             {
-                "title": "COVID-19: India sees surge in cases amid new variant concerns",
+                "title": "Climate Protests Intensify Globally",
                 "risk_level": "High",
-                "summary": "India reports a significant increase in COVID-19 cases due to a new variant, sparking concerns and travel restrictions."
+                "summary": "Climate change protests have intensified worldwide over the past 7 days, posing a risk to global stability and economic security."
             },
             {
-                "title": "North Korea's Kim Jong-un orders military to prepare for 'fifth nuclear test'",
+                "title": "Escalating Global Tensions Between Major Powers",
                 "risk_level": "High",
-                "summary": "North Korean leader Kim Jong-un orders the military to prepare for a potential 'fifth nuclear test', raising concerns globally."
+                "summary": "Escalating tensions between major global powers have increased the risk of conflict and destabilization in the past 7 days."
+            }
+        ],
+        "United States": [
+            {
+                "title": "Biden signs Executive Order on Artificial Intelligence",
+                "risk_level": "Medium",
+                "summary": "President Biden has signed an Executive Order on artificial intelligence, aiming to promote the development and safe use of AI technologies."
+            },
+            {
+                "title": "House Republicans Move to Remove Rep. Ilhan Omar from Committee Seats",
+                "risk_level": "High",
+                "summary": "The move, which is part of efforts to remove Rep. Omar from her committee seats, has sparked controversy and raised concerns about democracy."
+            },
+            {
+                "title": "US Justice Dept. charges 5 Chinese nationals with operating massive hacking group",
+                "risk_level": "High",
+                "summary": "The DoJ announced that five Chinese nationals were charged with operating a hacking group, emphasizing concerns about cybersecurity and state-sponsored hacking."
             }
         ],
         "South Korea": [
             {
-                "title": "Possible North Korea Cyberattack on South Korean Nuclear Facilities",
+                "title": "North Korea's Kim calls for 'maximum strength' against US",
                 "risk_level": "High",
-                "summary": "Reports emerged of potential cyber threats from North Korea targeting South Korea's nuclear facilities, highlighting the ongoing tensions between the two nations."
+                "summary": "North Korean leader Kim Jong Un called for the country to make the economy self-sufficient and bolster its military, amid a standoff with the US over its nuclear programme."
             },
             {
-                "title": "Protests in South Korea Against Government's COVID-19 Response",
+                "title": "S. Korea to tighten visa requirements for Russians amid Ukraine war",
                 "risk_level": "Medium",
-                "summary": " Thousands of citizens gathered in Seoul to express discontent with the government's handling of the COVID-19 pandemic, with concerns over economic and health-related issues."
+                "summary": "South Korea will tighten its visa requirements for Russian citizens and impose penalties on Russian firms over their business practices amid Moscow's invasion of Ukraine."
             },
             {
-                "title": "US-South Korea Joint Military Drills Cause Tensions with North Korea",
-                "risk_level": "High",
-                "summary": "Joint military exercises betwen the US and South Korea have been met with condemnation from North Korea, raising concerns about the escalation of tensions on the Korean Peninsula."
+                "title": "S. Korea's new COVID-19 cases surpass 100,000",
+                "risk_level": "Low",
+                "summary": "South Korea on Thursday reported over 100,000 new COVID-19 cases as the country continued to see a surge in infections, with hospitals struggling to cope with the influx of patients."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's PM Kishida announces plans to strengthen defense ties with US",
+                "title": "Japan's PM Fumio Kishida to Visit China Amid Tensions Over Taiwan",
                 "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida announced plans to strengthen defense ties with the US in a bid to deter China's growing military presence in the region. The two countries have agreed to enhance their security cooperation, including joint military exercises and information sharing."
+                "summary": "Japanese Prime Minister Fumio Kishida will visit China on July 19 for a meeting with Xi Jinping, amid growing tensions between the two nations over Taiwan. The visit is expected to focus on economic ties, but the presence of Chinese military activities in the South China Sea has raised concerns about regional security."
             },
             {
-                "title": "Typhoon Hinnamor to bring strong winds and heavy rain to Japan",
-                "risk_level": "High",
-                "summary": "Typhoon Hinnamor is expected to make landfall in southwestern Japan, bringing strong winds and heavy rain to the region. The storm has already caused power outages and flight disruptions in the Philippines and is expected to bring significant disruptions to Japan."
-            },
-            {
-                "title": "Japan sees surge in COVID-19 cases as BA.5 subvariant spreads",
+                "title": "Earthquake in East Japan: Magnitude 5.8 Quake Hits Ibaraki Prefecture",
                 "risk_level": "Low",
-                "summary": "Japan has seen a surge in COVID-19 cases in recent days, with the BA.5 subvariant of the virus contributing to the rise in infections. The country has reported over 10,000 new cases in the past week, sparking concerns about the potential for a new wave of the pandemic."
+                "summary": "A magnitude 5.8 earthquake struck Ibaraki Prefecture in eastern Japan on July 15, causing no reported damage or injuries. The quake was detected at 11:35 PM local time and was centered approximately 40 kilometers east-southeast of the city of Mito."
+            },
+            {
+                "title": "Typhoon in Japan: Landfall Expected on July 17",
+                "risk_level": "High",
+                "summary": "A powerful typhoon is expected to make landfall on Japan's southern island of Kyushu on July 17, with strong winds and heavy rainfall forecasted to hit the region. The Japan Meteorological Agency has warned of possible power outages, property damage, and disruptions to transportation services."
             }
         ]
     }
