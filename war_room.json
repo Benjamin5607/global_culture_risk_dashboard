@@ -3,70 +3,79 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global COVID-19 pandemic",
+                "title": "Rising tensions between US and China over Taiwan",
                 "risk_level": "High",
-                "summary": "COVID-19 has spread globally, infecting millions and causing widespread death and economic disruption."
+                "summary": "The US and China have stepped up their rhetoric against each other over Taiwan, with the US promising to support Taiwan's defense and China vowing to take all necessary measures to prevent its independence."
             },
             {
-                "title": "Climate Change",
-                "risk_level": "High",
-                "summary": "Global temperatures continue to rise, causing more frequent and severe weather events, and posing significant risks to human health and the environment."
+                "title": "COVID-19 cases surge in several countries",
+                "risk_level": "Medium",
+                "summary": "Several countries have reported a surge in COVID-19 cases, causing concerns about the effectiveness of vaccination programs and the potential for new variants to spread."
             },
             {
-                "title": "Rise of Nationalism and Protectionism",
+                "title": "Protests and unrest in several African cities",
                 "risk_level": "High",
-                "summary": "A rise in nationalist and protectionist sentiment has been observed in many countries, leading to increased tensions and a decline in global cooperation."
+                "summary": "Protests and unrest have broken out in several cities across Africa, caused by issues such as poverty, corruption, and economic hardship."
             }
         ],
         "United States": [
             {
-                "title": "Mass Shooting in Highland Park, Illinois",
+                "title": "Multiple Fatalities in Highland Park July 4th Parade Shooting",
                 "risk_level": "High",
-                "summary": "A mass shooting occurred in Highland Park, Illinois, during the Fourth of July parade, resulting in the deaths of at least 6 people and injuring dozens more. The shooter, later identified as Robert E. Crimo III, was arrested and charged with multiple counts of murder and attempted murder."
+                "summary": "A gunman opened fire on a Fourth of July parade in a Chicago suburb, killing at least six people and wounding dozens more. The suspect fled the scene and was later arrested after a manhunt."
             },
             {
-                "title": "Train Derailment and Chemical Leak in East Palestine, Ohio",
-                "risk_level": "High",
-                "summary": "A train derailment occurred in East Palestine, Ohio, resulting in a hazardous chemical leak. The leak caused a large fire and released toxic chemicals into the air, leading to the evacuation of nearby residents. The incident is still being investigated and cleaned up."
+                "title": "Supreme Court Upholds Biden Administration's Student Loan Forgiveness Plan",
+                "risk_level": "Low",
+                "summary": "The Supreme Court ruled in a 5-4 decision that the Biden administration's student loan forgiveness plan is constitutional, rejecting a challenge from six Republican-led states."
             },
             {
-                "title": "Rising COVID-19 Cases and Hospitalizations",
+                "title": "TSA Extends Mask Mandate for Domestic Flights Despite CDC Recommendation",
                 "risk_level": "Medium",
-                "summary": "The United States has seen a recent surge in COVID-19 cases and hospitalizations, particularly among the unvaccinated and those who are immunocompromised. The rise in cases prompted some states to reinstate mask mandates and other restrictions."
+                "summary": "The Transportation Security Administration (TSA) announced that it will continue to require masks on domestic flights, despite the Centers for Disease Control and Prevention (CDC) recommending lifting the mandate."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires two missiles into Sea of Japan",
+                "title": "North Korea Missile Test",
                 "risk_level": "High",
-                "summary": "South Korea and the United States began joint military drills on April 1, in a move seen as a direct challenge to North Korea's military strength."
+                "summary": "North Korea launched an intercontinental ballistic missile (ICBM) into the Sea of Japan on July 4, 2023, raising concerns about its nuclear program and South Korea's national security."
             },
             {
-                "title": "South Korea reports highest daily COVID-19 cases in 8 months",
+                "title": "South Korea's Presidential Election Uncertainty",
                 "risk_level": "Medium",
-                "summary": "The country has reported a spike in COVID-19 cases due to the delta and omicron variants."
+                "summary": "The upcoming presidential election in South Korea on March 9, 2024, is creating uncertainty about the future direction of the country's politics, economy, and security."
             },
             {
-                "title": "South Korea and US conduct joint military exercises",
-                "risk_level": "High",
-                "summary": "The exercises come amid tensions with North Korea, which has threatened to retaliate against the drills."
+                "title": "COVID-19 Outbreak in South Korea's Military",
+                "risk_level": "Low",
+                "summary": "A COVID-19 outbreak in South Korea's military has raised concerns about the country's military readiness and public health."
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Nanmadol brings strong winds and heavy rain to Western Japan",
-                "risk_level": "High",
-                "summary": "Typhoon Nanmadol made landfall on Kyushu, causing widespread disruptions and power outages."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "event_id1": "Japanese Prime Minister's approval rating falls to lowest since 2022",
+                "risk_level1": "Medium",
+                "summary1": "'Fumio Kishida's approval rating has fallen, amid concerns over the ruling Liberal Democratic Party's management of the economy."
             },
             {
-                "title": "Protesters clash with police in Tokyo over nuclear energy plans",
-                "risk_level": "Medium",
-                "summary": "Demonstrators gathered in Tokyo to express concerns about the government's plan to restart nuclear reactors."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "event_id2": "Tokyo and Beijing engage in a new round of diplomatic tension",
+                "risk_level2": "High",
+                "summary2": "'The diplomatic standoff between China and Japan has intensified, amid a visit by a Japanese official to Taiwan, prompting protests in China."
             },
             {
-                "title": "Japan's economy shows signs of slowdown amidst global uncertainty",
-                "risk_level": "High",
-                "summary": "Weakening exports and consumer spending have raised concerns about Japan's economic outlook."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "event_id3": "Concerns mount over Japan's ageing population",
+                "risk_level3": "Medium",
+                "summary3": "'The country's population is shrinking rapidly, with serious implications for its tax base and pension system."
             }
         ]
     }
