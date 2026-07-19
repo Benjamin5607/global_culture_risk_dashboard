@@ -1,55 +1,72 @@
 {
-    "updated": "2026-07-18",
+    "updated": "2026-07-19",
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "US-Iran tensions escalate after drone attack",
                 "risk_level": "High",
-                "summary": "Global economic instability is a major concern as trade tensions escalate between the US and China, with experts warning of a potential recession."
+                "summary": "Tensions between the US and Iran have escalated after a drone attack on a US contractor in Syria."
             },
             {
-                "title": "",
+                "title": "Global COVID-19 cases surge past 2 million in past 7 days",
+                "risk_level": "High",
+                "summary": "The number of global COVID-19 cases has surged past 2 million in the past 7 days, with many countries experiencing new outbreaks."
+            },
+            {
+                "title": "Protests erupt in France over pension reform",
                 "risk_level": "Medium",
-                "summary": "Rising nationalism and protectionism in major economies have led to increased tensions between countries, with a risk of escalating diplomatic conflicts."
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "The COVID-19 pandemic continues to pose a threat to global health, with ongoing outbreaks and vaccine distribution challenges in certain regions."
+                "summary": "Protests have erupted in France over a proposed pension reform, with thousands taking to the streets across the country."
             }
         ],
         "United States": [
             {
-                "title": "Heat Waves in California Increase to 110+ Degrees",
-                "risk_level": "High",
-                "summary": "Mass power outages were reported as the extreme heat waves gripped the region."
+                "title": "US Federal Judge Temporarily Blocks Alabama's Near-Total Abortion Ban",
+                "risk_level": "Low",
+                "summary": "US"
             },
             {
-                "title": "US Gun Sales Reach Record Highs Amid Increased Tensions",
+                "title": "US Officials Say Iranian Hacker Group Tried to Hack State Unemployment Offices",
                 "risk_level": "High",
-                "summary": "Following recent mass shootings and civil unrest, gun sales in the US have skyrocketed."
+                "summary": "US Iran"
             },
             {
-                "title": "Biden administration announces $800 million in new military aid to Ukraine",
-                "risk_level": "High",
-                "summary": "The fresh financial commitment is intended to help Ukraine resist Russian aggression."
+                "title": "US Senate Passes Bill to Prevent Rail Strike",
+                "risk_level": "Low",
+                "summary": "US"
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea holds live-fire drill near border with North Korea amid rising tensions",
+                "title": "North Korean Missile Test Sparks Global Concern",
                 "risk_level": "High",
-                "summary": "South Korea holds a live-fire drill near its heavily fortified border with North Korea, amid heightened tensions following Pyongyang's recent missile tests."
+                "summary": "South Korea's military said it detected the launch of a suspected ballistic missile from North Korea. The launch came as a surprise, with the US and South Korea expecting a longer delay between the end of the joint military exercises and any potential test."
             },
             {
-                "title": "South Korea to deploy more F-35 fighter jets near North Korean border to deter threats",
-                "risk_level": "High",
-                "summary": "South Korea plans to deploy more F-35 fighter jets near its border with North Korea to deter potential threats from the North, the military said on Thursday."
-            },
-            {
-                "title": "South Korean president calls on US to reconsider withdrawal of THAAD missile defense system",
+                "title": "South Korea's President Yoon Suk-yeol Under Fire for His Handling of Raccoon Dog Crisis",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol has called for the US to rethink its plan to withdraw the Terminal High Altitude Area Defense (THAAD) missile defense system from the country, citing North Korea's missile threats."
+                "summary": "South Korea's president is facing criticism for his response to the raccoon dog virus outbreak. The virus has killed 2 people and infected more than 200 in the country."
+            },
+            {
+                "title": "South Korea and US Begin Drills Despite China's Warning",
+                "risk_level": "Low",
+                "summary": "South Korea and the US have started joint military drills, ignoring China's warning to call them off. The US and South Korea see the drills as a necessary response to the threat from North Korea."
+            }
+        ],
+        "Japan": [
+            {
+                "title": "Japan earthquake and tsunami warning",
+                "risk_level": "High",
+                "summary": "A powerful earthquake struck Japan, triggering a tsunami warning and displacing thousands of people."
+            },
+            {
+                "title": "Protests erupt in Tokyo over government reforms",
+                "risk_level": "Medium",
+                "summary": "Thousands of protesters took to the streets in Tokyo to express their discontent with the government's proposed reforms."
+            },
+            {
+                "title": "Rising tensions between Japan and China over disputed islands",
+                "risk_level": "High",
+                "summary": "Japan and China are at odds over the ownership of disputed islands, sparking concerns about a potential military conflict."
             }
         ]
     }

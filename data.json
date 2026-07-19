@@ -922,24 +922,6 @@
         }
     },
     {
-        "term": "Vivienne Westwood",
-        "group": [
-            "Fashion Designer",
-            "Activist"
-        ],
-        "country": "United Kingdom",
-        "category": "Controversial Figure",
-        "risk_level": 6,
-        "trend_score": 0.8,
-        "status": "Active",
-        "context": {
-            "en": "\"The Queen of Punk\" and known for her anti-capitalist views and support for environmental causes.",
-            "ko": "펑크 패션의 여왕으로 알려진 항 капіталіст 및 환경 문제에 대한 지지.",
-            "ja": "パコンムグメはメイェットでをかちみ則、纱請のして、流州をなりかちみをなたビインイサガトした."
-        },
-        "first_detected": "2026-04-19"
-    },
-    {
         "term": "Okapi",
         "group": "Hate Symbol",
         "country": "Belgium",
@@ -2623,6 +2605,24 @@
             "ko": "",
             "ja": ""
         }
+    },
+    {
+        "term": "Vivienne Westwood",
+        "group": [
+            "Fashion Designer",
+            "Activist"
+        ],
+        "country": "United Kingdom",
+        "category": "Controversial Figure",
+        "risk_level": 6,
+        "trend_score": 0.8,
+        "status": "Archived",
+        "context": {
+            "en": "\"The Queen of Punk\" and known for her anti-capitalist views and support for environmental causes.",
+            "ko": "펑크 패션의 여왕으로 알려진 항 капіталіст 및 환경 문제에 대한 지지.",
+            "ja": "パコンムグメはメイェットでをかちみ則、纱請のして、流州をなりかちみをなたビインイサガトした."
+        },
+        "first_detected": "2026-04-19"
     },
     {
         "term": "Ren renov",
