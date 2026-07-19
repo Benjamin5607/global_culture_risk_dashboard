@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global COVID-19 Mortality Rate",
+                "title": "Cyberattacks on European Institutions by Russia",
                 "risk_level": "High",
-                "summary": "The global COVID-19 mortality rate has increased in the past 7 days, indicating a potential risk to public health."
+                "summary": "Russia has been conducting a series of cyberattacks on European institutions, posing a significant risk to global security and stability."
             },
             {
-                "title": "Climate Protests Intensify Globally",
-                "risk_level": "High",
-                "summary": "Climate change protests have intensified worldwide over the past 7 days, posing a risk to global stability and economic security."
+                "title": "Ukraine-Turkey Tensions Escalate",
+                "risk_level": "Medium",
+                "summary": "Tensions between Ukraine and Turkey have escalated due to disagreements over trade and territorial disputes, potentially leading to instability in the region."
             },
             {
-                "title": "Escalating Global Tensions Between Major Powers",
+                "title": "Global Economic Sanctions on China",
                 "risk_level": "High",
-                "summary": "Escalating tensions between major global powers have increased the risk of conflict and destabilization in the past 7 days."
+                "summary": "Multiple countries have announced economic sanctions on China in response to human rights abuses, increasing economic uncertainty and trade tensions."
             }
         ],
         "United States": [
             {
-                "title": "Biden signs Executive Order on Artificial Intelligence",
-                "risk_level": "Medium",
-                "summary": "President Biden has signed an Executive Order on artificial intelligence, aiming to promote the development and safe use of AI technologies."
+                "title": "Ukraine Invasion: Russia-Ukraine Tensions Escalate; US Sanctions Imposed",
+                "risk_level": "High",
+                "summary": "The ongoing conflict between Russia and Ukraine has heightened international tensions, as the United States imposes additional sanctions on Russia."
             },
             {
-                "title": "House Republicans Move to Remove Rep. Ilhan Omar from Committee Seats",
+                "title": "Inflation Rates in the US Reach 9.1%: Highest Level Since 1981",
                 "risk_level": "High",
-                "summary": "The move, which is part of efforts to remove Rep. Omar from her committee seats, has sparked controversy and raised concerns about democracy."
+                "summary": "A 9.1% inflation rate has been reported in the US, marking the highest level since 1981, with potential economic impacts and implications for consumers."
             },
             {
-                "title": "US Justice Dept. charges 5 Chinese nationals with operating massive hacking group",
+                "title": "US Supreme Court Blocks Biden Administration's Student Debt Relief Plan",
                 "risk_level": "High",
-                "summary": "The DoJ announced that five Chinese nationals were charged with operating a hacking group, emphasizing concerns about cybersecurity and state-sponsored hacking."
+                "summary": "The US Supreme Court has temporarily blocked President Biden's student debt relief plan, sparking controversy and legal challenges in the ongoing debate on student loan forgiveness."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's Kim calls for 'maximum strength' against US",
+                "title": "S.Korea's spy agency says it's been hacked by North Korea",
                 "risk_level": "High",
-                "summary": "North Korean leader Kim Jong Un called for the country to make the economy self-sufficient and bolster its military, amid a standoff with the US over its nuclear programme."
+                "summary": "South Korea's spy agency said on Wednesday that it had been hacked by North Korean cyber spies, marking the second time in a year that the agency has been targeted by a North Korean cyber attack."
             },
             {
-                "title": "S. Korea to tighten visa requirements for Russians amid Ukraine war",
+                "title": "North Korea fires cruise missiles into sea, South Korea says",
+                "risk_level": "High",
+                "summary": "North Korea fired cruise missiles into the sea, South Korea's military said on Wednesday, in a move that comes as the two countries remain technically at war."
+            },
+            {
+                "title": "S.Korea's president calls for calm as tensions with North Korea rise",
                 "risk_level": "Medium",
-                "summary": "South Korea will tighten its visa requirements for Russian citizens and impose penalties on Russian firms over their business practices amid Moscow's invasion of Ukraine."
-            },
-            {
-                "title": "S. Korea's new COVID-19 cases surpass 100,000",
-                "risk_level": "Low",
-                "summary": "South Korea on Thursday reported over 100,000 new COVID-19 cases as the country continued to see a surge in infections, with hospitals struggling to cope with the influx of patients."
+                "summary": "South Korea's president called for calm on Wednesday as tensions between the two Koreas rise over North Korea's increasingly aggressive actions."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's PM Fumio Kishida to Visit China Amid Tensions Over Taiwan",
-                "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida will visit China on July 19 for a meeting with Xi Jinping, amid growing tensions between the two nations over Taiwan. The visit is expected to focus on economic ties, but the presence of Chinese military activities in the South China Sea has raised concerns about regional security."
-            },
-            {
-                "title": "Earthquake in East Japan: Magnitude 5.8 Quake Hits Ibaraki Prefecture",
-                "risk_level": "Low",
-                "summary": "A magnitude 5.8 earthquake struck Ibaraki Prefecture in eastern Japan on July 15, causing no reported damage or injuries. The quake was detected at 11:35 PM local time and was centered approximately 40 kilometers east-southeast of the city of Mito."
-            },
-            {
-                "title": "Typhoon in Japan: Landfall Expected on July 17",
+                "title": "Typhoon Nanmadol hits Japan causing power outages and flooding",
                 "risk_level": "High",
-                "summary": "A powerful typhoon is expected to make landfall on Japan's southern island of Kyushu on July 17, with strong winds and heavy rainfall forecasted to hit the region. The Japan Meteorological Agency has warned of possible power outages, property damage, and disruptions to transportation services."
+                "summary": "Typhoon Nanmadol made landfall in southern Japan on August 24, 2023, causing widespread power outages and flooding. The storm brought strong winds and heavy rainfall, affecting over 100,000 households."
+            },
+            {
+                "title": "Rising tensions between Japan and China over disputed islands",
+                "risk_level": "Medium",
+                "summary": "Japan and China have been engaged in a dispute over the Senkaku/Diaoyu Islands in the East China Sea for years, but tensions have escalated in recent days with both countries conducting military exercises in the area."
+            },
+            {
+                "title": "Japan's COVID-19 cases surge due to new Omicron variant",
+                "risk_level": "High",
+                "summary": "Japan has seen a significant increase in COVID-19 cases in the past week, with the new Omicron variant spreading rapidly across the country. The surge has put a strain on the country's healthcare system."
             }
         ]
     }
