@@ -1,5 +1,22 @@
 [
     {
+        "symbol": "The SS Runes",
+        "term": "White Supremacy",
+        "group": "Skinhead Movement",
+        "country": "Germany/USA",
+        "category": "Racist Symbolism",
+        "risk_level": "Critical",
+        "trend_score": "8/10",
+        "status": "Verified",
+        "first_detected": 1934,
+        "last_updated": "02-16-2021",
+        "context": {
+            "en": "A symbol used by the Nazi SS during World War II, now adopted by white supremacist groups to represent their ideology and allegiance.",
+            "ko": "세원의 소록 시었사닼 김상에을 주상지을",
+            "ja": "コアムニルを用了〄ナメイコムカートターを私でらがセタアイセンズに折叠した "
+        }
+    },
+    {
         "term": "OK sign (White Power Hand Sign)",
         "group": "racist/white supremacist",
         "country": "USA/International",

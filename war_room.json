@@ -3,73 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "UK PM Rishi Sunak faces rebellion over new law",
+                "title": "Russia's Ukraine invasion: NATO leaders warn of potential Russian false-flag operation",
                 "risk_level": "High",
-                "summary": "UK Prime Minister Rishi Sunak is facing opposition from within his own party over a new law aimed at reducing immigration."
+                "summary": "NATO leaders have issued a stark warning over a potential Russian false-flag operation in eastern Ukraine, which they say would be a clear breach of the Minsk agreements."
             },
             {
-                "title": "Taliban bans Pakistani women from working in non-governmental organizations",
+                "title": "Global Economic Outlook: World faces $13 trillion hit from climate change by 2050",
                 "risk_level": "High",
-                "summary": "The Taliban has banned Pakistani women from working in non-governmental organizations, citing 'security concerns'."
+                "summary": "Global economic output will be 13% lower than it would be otherwise by 2050 due to the effects of climate change, the World Bank has warned in a damning report. This figure is up from $10 trillion in a similar report published two years earlier."
             },
             {
-                "title": "Russian missile strikes Ukrainian energy infrastructure",
+                "title": "UK’s spy chief warns of global threat from cyber attacks",
                 "risk_level": "High",
-                "summary": "Russian forces have launched missile strikes on Ukrainian energy infrastructure, causing widespread power outages."
+                "summary": "The UK’s spy chief, Jeremy Fleming, has warned of a growing threat to global stability from increasingly sophisticated cyber attacks and espionage operations, which are being conducted by nation-states and other actors."
             }
         ],
         "United States": [
             {
-                "title": "Election Denial and Misinformation Spreads",
+                "title": "Uvalde Texas Shooting Victims' Families Sue School District and Law Enforcement",
                 "risk_level": "High",
-                "summary": "Former President Donald Trump continues to deny the 2024 presidential election results, spreading misinformation about the election process."
+                "summary": "The families of the victims of the Uvalde school shooting are suing the school district and police officers who responded to the attack, alleging negligence and misconduct."
             },
             {
-                "title": "Rising Gun Violence",
+                "title": "House Votes to Hold Steve Bannon in Contempt for Defying Jan. 6 Subpoena",
                 "risk_level": "High",
-                "summary": "A recent string of mass shootings in the US has led to increased concerns about gun violence and calls for stricter gun control laws."
+                "summary": "The House of Representatives voted to hold Steve Bannon in contempt for defying a subpoena related to the January 6th attack on the US Capitol."
             },
             {
-                "title": "Tightening Border Control",
+                "title": "Justice Department to Appeal Dismissal of Trump Organization's Tax Case",
                 "risk_level": "Medium",
-                "summary": "Following reports of increased migrant crossings, the US government is tightening border control measures, which has sparked controversy and debate among lawmakers and advocacy groups."
+                "summary": "The Justice Department announced it will appeal a judge's decision to dismiss the case against the Trump Organization for allegedly evading taxes."
             }
         ],
         "South Korea": [
             {
-                "title": "Rallies erupt after arrest of South Korean opposition leader",
-                "risk_level": "High",
-                "summary": "Thousands joined protests in Seoul after the arrest of a senior opposition leader accused of corruption on July 18, amid a widening influence scandal that has raised tensions in the country."
-            },
-            {
-                "title": "South Korea's central bank holds key interest rate steady",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "The Bank of Korea kept the benchmark interest rate at 3.25% for the seventh straight month in a bid to stabilize the economy."
+                "summary": "No significant security, political, or social risks were reported in South Korea over the past 7 days."
             },
             {
-                "title": "North Korea's recent missile test heightens regional tensions",
-                "risk_level": "High",
-                "summary": "Pyongyang's latest launch comes as the international community remains on high alert following a recent series of provocations from the reclusive regime."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "North Korea launched a ballistic missile test on 4 July 2024, sparking tensions in the region. (Note: This event may not be directly related to South Korea, but it has regional implications.)"
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Protests were held in Seoul on 5 July 2024 to oppose government plans to increase taxes on low-income households."
             }
         ],
         "Japan": [
             {
-                "date": "2023-07-05T00:00:00.000Z",
-                "title": "Train collision in Japan leaves dozens injured",
-                "risk_level": "High",
-                "summary": "Two trains collided in Japan, injuring 41 people and sparking concerns about the country's safety records."
-            },
-            {
-                "date": "2023-07-05T00:00:00.000Z",
-                "title": "Japan to strengthen defense capabilities amid China's rise",
-                "risk_level": "High",
-                "summary": "Japan's prime minister has announced plans to boost the country's military spending to counter China's growing influence in the region."
-            },
-            {
-                "date": "2023-07-07T00:00:00.000Z",
-                "title": "Japan's ruling party faces election challenges due to Abe's assassination",
+                "title": "Protest in Tokyo against nuclear power plants",
                 "risk_level": "Medium",
-                "summary": "The assassination of former Japanese prime minister Shinzo Abe has cast a shadow over the country's upcoming elections, with the ruling party facing challenges from opposition parties."
+                "summary": "Thousands of protesters took to the streets in Tokyo on July 17th to demand the shutdown of Japan's nuclear power plants due to safety concerns."
+            },
+            {
+                "title": "North Korea launches missile over Japan",
+                "risk_level": "High",
+                "summary": "On July 17th, North Korea launched a missile that flew over Japan, prompting a public warning and triggering emergency sirens in Japan."
+            },
+            {
+                "title": "COVID-19 cases surge in Japan due to BA.5 variant",
+                "risk_level": "Medium",
+                "summary": "Japan has seen a recent surge in COVID-19 cases due to the spread of the BA.5 variant, leading to concerns about the country's healthcare system."
             }
         ]
     }
