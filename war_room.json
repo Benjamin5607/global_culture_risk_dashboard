@@ -1,81 +1,75 @@
 {
-    "updated": "2026-07-19",
+    "updated": "2026-07-20",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rising tensions between US and China over Taiwan",
+                "title": "UK PM Rishi Sunak faces rebellion over new law",
                 "risk_level": "High",
-                "summary": "The US and China have stepped up their rhetoric against each other over Taiwan, with the US promising to support Taiwan's defense and China vowing to take all necessary measures to prevent its independence."
+                "summary": "UK Prime Minister Rishi Sunak is facing opposition from within his own party over a new law aimed at reducing immigration."
             },
             {
-                "title": "COVID-19 cases surge in several countries",
-                "risk_level": "Medium",
-                "summary": "Several countries have reported a surge in COVID-19 cases, causing concerns about the effectiveness of vaccination programs and the potential for new variants to spread."
+                "title": "Taliban bans Pakistani women from working in non-governmental organizations",
+                "risk_level": "High",
+                "summary": "The Taliban has banned Pakistani women from working in non-governmental organizations, citing 'security concerns'."
             },
             {
-                "title": "Protests and unrest in several African cities",
+                "title": "Russian missile strikes Ukrainian energy infrastructure",
                 "risk_level": "High",
-                "summary": "Protests and unrest have broken out in several cities across Africa, caused by issues such as poverty, corruption, and economic hardship."
+                "summary": "Russian forces have launched missile strikes on Ukrainian energy infrastructure, causing widespread power outages."
             }
         ],
         "United States": [
             {
-                "title": "Multiple Fatalities in Highland Park July 4th Parade Shooting",
+                "title": "Election Denial and Misinformation Spreads",
                 "risk_level": "High",
-                "summary": "A gunman opened fire on a Fourth of July parade in a Chicago suburb, killing at least six people and wounding dozens more. The suspect fled the scene and was later arrested after a manhunt."
+                "summary": "Former President Donald Trump continues to deny the 2024 presidential election results, spreading misinformation about the election process."
             },
             {
-                "title": "Supreme Court Upholds Biden Administration's Student Loan Forgiveness Plan",
-                "risk_level": "Low",
-                "summary": "The Supreme Court ruled in a 5-4 decision that the Biden administration's student loan forgiveness plan is constitutional, rejecting a challenge from six Republican-led states."
+                "title": "Rising Gun Violence",
+                "risk_level": "High",
+                "summary": "A recent string of mass shootings in the US has led to increased concerns about gun violence and calls for stricter gun control laws."
             },
             {
-                "title": "TSA Extends Mask Mandate for Domestic Flights Despite CDC Recommendation",
+                "title": "Tightening Border Control",
                 "risk_level": "Medium",
-                "summary": "The Transportation Security Administration (TSA) announced that it will continue to require masks on domestic flights, despite the Centers for Disease Control and Prevention (CDC) recommending lifting the mandate."
+                "summary": "Following reports of increased migrant crossings, the US government is tightening border control measures, which has sparked controversy and debate among lawmakers and advocacy groups."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Missile Test",
+                "title": "Rallies erupt after arrest of South Korean opposition leader",
                 "risk_level": "High",
-                "summary": "North Korea launched an intercontinental ballistic missile (ICBM) into the Sea of Japan on July 4, 2023, raising concerns about its nuclear program and South Korea's national security."
+                "summary": "Thousands joined protests in Seoul after the arrest of a senior opposition leader accused of corruption on July 18, amid a widening influence scandal that has raised tensions in the country."
             },
             {
-                "title": "South Korea's Presidential Election Uncertainty",
-                "risk_level": "Medium",
-                "summary": "The upcoming presidential election in South Korea on March 9, 2024, is creating uncertainty about the future direction of the country's politics, economy, and security."
-            },
-            {
-                "title": "COVID-19 Outbreak in South Korea's Military",
+                "title": "South Korea's central bank holds key interest rate steady",
                 "risk_level": "Low",
-                "summary": "A COVID-19 outbreak in South Korea's military has raised concerns about the country's military readiness and public health."
+                "summary": "The Bank of Korea kept the benchmark interest rate at 3.25% for the seventh straight month in a bid to stabilize the economy."
+            },
+            {
+                "title": "North Korea's recent missile test heightens regional tensions",
+                "risk_level": "High",
+                "summary": "Pyongyang's latest launch comes as the international community remains on high alert following a recent series of provocations from the reclusive regime."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "event_id1": "Japanese Prime Minister's approval rating falls to lowest since 2022",
-                "risk_level1": "Medium",
-                "summary1": "'Fumio Kishida's approval rating has fallen, amid concerns over the ruling Liberal Democratic Party's management of the economy."
+                "date": "2023-07-05T00:00:00.000Z",
+                "title": "Train collision in Japan leaves dozens injured",
+                "risk_level": "High",
+                "summary": "Two trains collided in Japan, injuring 41 people and sparking concerns about the country's safety records."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "event_id2": "Tokyo and Beijing engage in a new round of diplomatic tension",
-                "risk_level2": "High",
-                "summary2": "'The diplomatic standoff between China and Japan has intensified, amid a visit by a Japanese official to Taiwan, prompting protests in China."
+                "date": "2023-07-05T00:00:00.000Z",
+                "title": "Japan to strengthen defense capabilities amid China's rise",
+                "risk_level": "High",
+                "summary": "Japan's prime minister has announced plans to boost the country's military spending to counter China's growing influence in the region."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "event_id3": "Concerns mount over Japan's ageing population",
-                "risk_level3": "Medium",
-                "summary3": "'The country's population is shrinking rapidly, with serious implications for its tax base and pension system."
+                "date": "2023-07-07T00:00:00.000Z",
+                "title": "Japan's ruling party faces election challenges due to Abe's assassination",
+                "risk_level": "Medium",
+                "summary": "The assassination of former Japanese prime minister Shinzo Abe has cast a shadow over the country's upcoming elections, with the ruling party facing challenges from opposition parties."
             }
         ]
     }

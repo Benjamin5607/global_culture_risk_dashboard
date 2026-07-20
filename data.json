@@ -1,5 +1,21 @@
 [
     {
+        "term": "OK sign (White Power Hand Sign)",
+        "group": "racist/white supremacist",
+        "country": "USA/International",
+        "category": "hand gesture",
+        "risk_level": "high",
+        "trend_score": 0.8,
+        "status": "verified",
+        "first_detected": "2000s",
+        "last_updated": "2023",
+        "context": {
+            "en": "Originally used to express 'okay', it has been adopted as a white power symbol. The index finger and pinky finger are extended, while the other fingers are closed. This hand sign was made infamous by Donald Trump and his son Barron during a 2016 campaign event.",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Pizzagate",
         "group": "Controversial Figure",
         "country": "United States",
