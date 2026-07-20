@@ -3,70 +3,63 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber-Attack on Global Supply Chain Disrupts Operations, High",
+                "country": "",
+                "title": "Global economic growth slows down due to rising trade tensions",
                 "risk_level": "High",
-                "summary": "A global cyber-attack has targeted a major logistics company, leading to disruptions in supply chain operations. The attack has resulted in widespread outages and delays, causing significant economic losses."
+                "summary": "A recent report by the IMF suggests that global economic growth is expected to slow down due to rising trade tensions between major economies."
             },
             {
-                "title": "Social Media Platform Used to Spread Misinformation About Global Health Crisis, Medium",
+                "country": "",
+                "title": "Cyber attack compromises sensitive data of major corporation",
+                "risk_level": "High",
+                "summary": "A major corporation has reported that its systems were compromised in a recent cyber attack, resulting in the theft of sensitive customer data."
+            },
+            {
+                "country": "",
+                "title": "Social media platforms face backlash over fake news spread",
                 "risk_level": "Medium",
-                "summary": "A social media platform has been used to spread false information about the global health crisis, leading to widespread confusion and concern. The misinformation has been spread through fake news articles and videos."
-            },
-            {
-                "title": "Global Protests Erupt Over Economic Inequality, Low",
-                "risk_level": "Low",
-                "summary": "Global protests have erupted in response to economic inequality, with demonstrators calling for greater economic fairness and social justice. The protests have been largely peaceful, with some instances of property damage and clashes with law enforcement."
+                "summary": "Social media platforms are facing increased scrutiny over their handling of fake news, with some governments calling for greater regulation to combat the spread of misinformation."
             }
         ],
         "United States": [
             {
-                "title": "Federal Judge Blocks Biden Administration’s COVID-19 Vaccine Mandate for Healthcare Workers",
+                "title": "Ukraine says US-provided long-range missiles have damaged 23 Russian military sites, amid escalating tensions in the region",
                 "risk_level": "High",
-                "summary": "A federal judge has blocked the Biden administration’s COVID-19 vaccine mandate for healthcare workers in 10 states, citing concerns about the legality of the vaccine requirement."
+                "summary": "The US has been providing Ukraine with long-range missiles, which Ukraine says has damaged 23 Russian military sites. This escalation of tensions could lead to a larger conflict between Russia and Ukraine, potentially involving the US."
             },
             {
-                "title": "Texas Supreme Court Blocks Biden Administration’s Eviction Moratorium",
-                "risk_level": "High",
-                "summary": "The Texas Supreme Court has blocked the Biden administration’s eviction moratorium, which was put in place to protect millions of tenant households from eviction during the COVID-19 pandemic."
-            },
-            {
-                "title": "Biden Admin Proposes Rule to Reduce Methane Emissions in Oil and Gas Industry ",
+                "title": "US Supreme Court to hear case on whether states can limit abortion pills.",
                 "risk_level": "Medium",
-                "summary": "The Biden administration has proposed a new rule to reduce methane emissions in the oil and gas industry, which is a major contributor to climate change. The rule aims to decrease methane emissions by 75% by 2035."
+                "summary": "The US Supreme Court will hear a case on whether states can limit abortion pills, a potential blow to abortion rights. The ruling could have significant implications for reproductive rights in the US."
+            },
+            {
+                "title": "Biden Administration Faces Growing Backlash Over Border Management.",
+                "risk_level": "High",
+                "summary": "The Biden Administration is facing growing backlash over its border management policies, with critics accusing the administration of not doing enough to secure the border and address the surge in migrants. This could lead to increased tensions and opposition to the administration's policies."
             }
         ],
         "South Korea": [
             {
-                "title": "Possible North Korean Missile Launch",
-                "risk_level": "High",
-                "summary": "Reports suggest a possible North Korean missile launch, sparking international concern and increased tensions on the Korean Peninsula."
-            },
-            {
-                "title": "Seoul's COVID-19 Outbreak Worsens",
-                "risk_level": "Medium",
-                "summary": "South Korea's COVID-19 outbreak has worsened, with a significant increase in cases and hospitalizations, putting pressure on the healthcare system."
-            },
-            {
-                "title": "Opposition Party Leader Impeached",
-                "risk_level": "Medium",
-                "summary": "The opposition party leader in South Korea was impeached, leading to concerns about the stability of the government and potential social unrest."
+                "title": "",
+                "risk_level": "High|Medium|Low",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 6.0 earthquake strikes off Japan's northeastern coast",
+                "title": "Magnitude 6.0 Earthquake Strikes Northeastern Japan",
                 "risk_level": "High",
-                "summary": "A magnitude 6.0 earthquake struck off Japan's northeastern coast on 2023-12-06, causing no immediate reports of damage or tsunami warnings."
+                "summary": "A magnitude 6.0 earthquake hit Ibaraki Prefecture, northeastern Japan, causing widespread power outages and injuries."
             },
             {
-                "title": "Japan raises alert after North Korea missile launch",
-                "risk_level": "High",
-                "summary": "North Korea launched an intercontinental ballistic missile (ICBM) on 2023-11-18, which landed in the sea between Japan and the Korean Peninsula, prompting Tokyo to raise its alert level."
-            },
-            {
-                "title": "Japan's ruling party suffers defeat in election",
+                "title": "Japan's COVID-19 Cases Rise Amid Waning Demand for Vaccines",
                 "risk_level": "Medium",
-                "summary": "Japan's ruling Liberal Democratic Party (LDP) suffered a surprising defeat in a national election on 2023-11-12, dealing a blow to Prime Minister's Fumio Kishida's chances of a re-election."
+                "summary": "COVID-19 cases are increasing in Japan, partly due to the waning effectiveness of COVID-19 vaccines, prompting concerns about a potential resurgence of the virus."
+            },
+            {
+                "title": "Japan's Economy Contracts in Q2 Amid Global Uncertainty",
+                "risk_level": "High",
+                "summary": "Japan's economy contracted in the second quarter, with a decline in exports and a slowdown in domestic consumption, amid global economic uncertainty and rising interest rates."
             }
         ]
     }

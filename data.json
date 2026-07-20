@@ -1,5 +1,21 @@
 [
     {
+        "term": "The White Power Fist",
+        "group": "White supremacy",
+        "country": "USA",
+        "category": "Symbol",
+        "risk_level": "High",
+        "trend_score": 8.5,
+        "status": "Confirmed",
+        "first_detected": "1970",
+        "last_updated": "2022-01-01T00:00:00",
+        "context": {
+            "en": "Used by the American white power movement and in other countries.",
+            "ko": "화이트 파워 운동과 같은 미국의 백인의 권력 그리고 다른 국가에서 사용한다.",
+            "ja": "アメリカの白人権力運動と他の国々で使用される."
+        }
+    },
+    {
         "term": "Jong Un",
         "group": "Individual",
         "country": "North Korea",
