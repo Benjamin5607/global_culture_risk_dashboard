@@ -1,5 +1,21 @@
 [
     {
+        "term": "Jong Un",
+        "group": "Individual",
+        "country": "North Korea",
+        "category": "Controversial Figure",
+        "risk_level": 9,
+        "trend_score": 8,
+        "status": "active",
+        "first_detected": "2011-04-13",
+        "last_updated": "2023-01-01",
+        "context": {
+            "en": "Leader of North Korea known for his authoritarian and repressive rule, as well as his nuclear ambitions and provocations.",
+            "ko": "북한 최고 지도자로서 그의 권위주의적이고 억압적인 통치와 그의 대량살상무기 개발과 불통을 통해 국제사회의 주목을 받았다.",
+            "ja": "北朝鮮の最高指導者として、権威主義的で抑制的な統治と核拡散や挑発を通じて国際社会の注目を集めた指導者"
+        }
+    },
+    {
         "symbol": "The SS Runes",
         "term": "White Supremacy",
         "group": "Skinhead Movement",

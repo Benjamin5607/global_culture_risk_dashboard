@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia's Ukraine invasion: NATO leaders warn of potential Russian false-flag operation",
-                "risk_level": "High",
-                "summary": "NATO leaders have issued a stark warning over a potential Russian false-flag operation in eastern Ukraine, which they say would be a clear breach of the Minsk agreements."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Tensions rise between the US and Iran in the past week over a potential drone attack on a US airbase in Iraq."
             },
             {
-                "title": "Global Economic Outlook: World faces $13 trillion hit from climate change by 2050",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Global economic output will be 13% lower than it would be otherwise by 2050 due to the effects of climate change, the World Bank has warned in a damning report. This figure is up from $10 trillion in a similar report published two years earlier."
+                "summary": "China's military presence in Taiwan increases, heightening tensions in the region and sparking concerns of a potential invasion."
             },
             {
-                "title": "UK’s spy chief warns of global threat from cyber attacks",
-                "risk_level": "High",
-                "summary": "The UK’s spy chief, Jeremy Fleming, has warned of a growing threat to global stability from increasingly sophisticated cyber attacks and espionage operations, which are being conducted by nation-states and other actors."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Protests in Canada over a recent climate change policy turn violent, with several arrests made and property damage reported."
             }
         ],
         "United States": [
             {
-                "title": "Uvalde Texas Shooting Victims' Families Sue School District and Law Enforcement",
+                "title": "US Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
                 "risk_level": "High",
-                "summary": "The families of the victims of the Uvalde school shooting are suing the school district and police officers who responded to the attack, alleging negligence and misconduct."
+                "summary": "The US Supreme Court blocks President Biden's student loan forgiveness plan in a major blow to the administration's efforts to alleviate student debt. The ruling marks a significant setback for the White House and could have implications for the administration's domestic policy agenda."
             },
             {
-                "title": "House Votes to Hold Steve Bannon in Contempt for Defying Jan. 6 Subpoena",
+                "title": "US-China Trade Tensions Escalate as Biden Warns of 'Consequences' for Trade Practices",
                 "risk_level": "High",
-                "summary": "The House of Representatives voted to hold Steve Bannon in contempt for defying a subpoena related to the January 6th attack on the US Capitol."
+                "summary": "US President Biden warns China of severe consequences if it engages in unfair trade practices, amid growing tensions between the two nations. The comments come as bilateral trade tensions escalate, with the US and China engaging in a series of high-stakes negotiations over trade policies."
             },
             {
-                "title": "Justice Department to Appeal Dismissal of Trump Organization's Tax Case",
+                "title": "Arizona Governor Signs Bill Banning Transgender Athletes from Competing in Sports",
                 "risk_level": "Medium",
-                "summary": "The Justice Department announced it will appeal a judge's decision to dismiss the case against the Trump Organization for allegedly evading taxes."
+                "summary": "Arizona Governor Doug Ducey signs a bill banning transgender athletes from competing in sports, drawing widespread criticism from LGBTQ+ advocates and lawmakers. The move marks a significant escalation in the country's ongoing debate over transgender rights and access to sports."
             }
         ],
         "South Korea": [
             {
                 "title": "",
-                "risk_level": "Low",
-                "summary": "No significant security, political, or social risks were reported in South Korea over the past 7 days."
+                "risk_level": "High",
+                "summary": "North Korea has fired an unidentified projectile off its east coast, marking its third round of launches in a week. "
             },
             {
                 "title": "",
                 "risk_level": "Medium",
-                "summary": "North Korea launched a ballistic missile test on 4 July 2024, sparking tensions in the region. (Note: This event may not be directly related to South Korea, but it has regional implications.)"
+                "summary": "South Korea's military detected multiple North Korean military aircraft flying in the Demilitarized Zone (DMZ) between the two Koreas, raising tensions in the region. "
             },
             {
                 "title": "",
                 "risk_level": "Low",
-                "summary": "Protests were held in Seoul on 5 July 2024 to oppose government plans to increase taxes on low-income households."
+                "summary": "South Korea's government has announced plans to strengthen its biosecurity measures to prevent the spread of infectious diseases, including COVID-19 and influenza. "
             }
         ],
         "Japan": [
             {
-                "title": "Protest in Tokyo against nuclear power plants",
+                "title": "LDP leadership election: Nodaira and Koizumi win key positions within the party",
                 "risk_level": "Medium",
-                "summary": "Thousands of protesters took to the streets in Tokyo on July 17th to demand the shutdown of Japan's nuclear power plants due to safety concerns."
+                "summary": "The Liberal Democratic Party (LDP) is holding a leadership election to select its new president. Katsuyuki Suenaga has been confirmed as the winner, but the results of the election have raised concerns about the party's ability to govern effectively. This could lead to political instability in Japan."
             },
             {
-                "title": "North Korea launches missile over Japan",
+                "title": "Japan to increase defense spending due to security concerns",
                 "risk_level": "High",
-                "summary": "On July 17th, North Korea launched a missile that flew over Japan, prompting a public warning and triggering emergency sirens in Japan."
+                "summary": "The Japanese government has announced plans to increase defense spending to counter growing security concerns, including the situation with North Korea and the increasing presence of Chinese military in the region. This could lead to a rise in tensions in the region."
             },
             {
-                "title": "COVID-19 cases surge in Japan due to BA.5 variant",
+                "title": "Japan's government considering introducing a new law to restrict foreign workers",
                 "risk_level": "Medium",
-                "summary": "Japan has seen a recent surge in COVID-19 cases due to the spread of the BA.5 variant, leading to concerns about the country's healthcare system."
+                "summary": "The Japanese government is considering introducing a new law to restrict the entry of foreign workers into the country. This could lead to a shortage of skilled workers in certain industries, affecting Japan's economy and ability to compete globally."
             }
         ]
     }
