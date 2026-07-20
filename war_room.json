@@ -4,69 +4,69 @@
         "Global (All)": [
             {
                 "title": "",
-                "risk_level": "Medium",
-                "summary": "Tensions rise between the US and Iran in the past week over a potential drone attack on a US airbase in Iraq."
+                "risk_level": "High",
+                "summary": "Global economic instability and market downturn threaten the stability of the international financial system and could lead to a recession."
             },
             {
                 "title": "",
-                "risk_level": "High",
-                "summary": "China's military presence in Taiwan increases, heightening tensions in the region and sparking concerns of a potential invasion."
+                "risk_level": "Medium",
+                "summary": "Rising geopolitical tensions between major world powers could escalate into conflict, disrupting global trade and supply chains."
             },
             {
                 "title": "",
                 "risk_level": "Low",
-                "summary": "Protests in Canada over a recent climate change policy turn violent, with several arrests made and property damage reported."
+                "summary": "Social media continues to be a breeding ground for misinformation and disinformation, potentially leading to social unrest and increased polarization."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
+                "title": "Supreme Court Blocks Abortion Pills Ruling",
                 "risk_level": "High",
-                "summary": "The US Supreme Court blocks President Biden's student loan forgiveness plan in a major blow to the administration's efforts to alleviate student debt. The ruling marks a significant setback for the White House and could have implications for the administration's domestic policy agenda."
+                "summary": "The US Supreme Court ruled that a Trump administration regulation would remain in place, blocking access to abortion pills nationwide."
             },
             {
-                "title": "US-China Trade Tensions Escalate as Biden Warns of 'Consequences' for Trade Practices",
+                "title": "US Congress Passes Climate Bill",
                 "risk_level": "High",
-                "summary": "US President Biden warns China of severe consequences if it engages in unfair trade practices, amid growing tensions between the two nations. The comments come as bilateral trade tensions escalate, with the US and China engaging in a series of high-stakes negotiations over trade policies."
+                "summary": "The US Congress passed a major climate bill, aimed at reducing greenhouse gas emissions and promoting clean energy."
             },
             {
-                "title": "Arizona Governor Signs Bill Banning Transgender Athletes from Competing in Sports",
-                "risk_level": "Medium",
-                "summary": "Arizona Governor Doug Ducey signs a bill banning transgender athletes from competing in sports, drawing widespread criticism from LGBTQ+ advocates and lawmakers. The move marks a significant escalation in the country's ongoing debate over transgender rights and access to sports."
+                "title": "California Drought Emergency Declared",
+                "risk_level": "High",
+                "summary": "California Governor Gavin Newsom declared a drought emergency, as the state faces severe water shortages due to a prolonged drought."
             }
         ],
         "South Korea": [
             {
-                "title": "",
+                "title": "North Korea fires ballistic missile as S. Korea, US stage joint drill",
                 "risk_level": "High",
-                "summary": "North Korea has fired an unidentified projectile off its east coast, marking its third round of launches in a week. "
+                "summary": "North Korea fired a ballistic missile towards the East Sea on Wednesday, amid heightened tensions following a joint military drill between South Korea and the US."
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "South Korea's military detected multiple North Korean military aircraft flying in the Demilitarized Zone (DMZ) between the two Koreas, raising tensions in the region. "
+                "title": "S. Korea, US begin joint military drill amid North Korea tensions",
+                "risk_level": "High",
+                "summary": "South Korea and the US began their annual joint military exercise on Monday, despite North Korea's warning of a potential nuclear test."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "South Korea's government has announced plans to strengthen its biosecurity measures to prevent the spread of infectious diseases, including COVID-19 and influenza. "
+                "title": "S. Korean, US military personnel to stage joint drill near NLL",
+                "risk_level": "High",
+                "summary": "South Korean and US military personnel will conduct a joint drill at a military station near the Demarcation Line, or the Northern Limit Line, from Tuesday to Thursday, the Ministry of National Defence said."
             }
         ],
         "Japan": [
             {
-                "title": "LDP leadership election: Nodaira and Koizumi win key positions within the party",
-                "risk_level": "Medium",
-                "summary": "The Liberal Democratic Party (LDP) is holding a leadership election to select its new president. Katsuyuki Suenaga has been confirmed as the winner, but the results of the election have raised concerns about the party's ability to govern effectively. This could lead to political instability in Japan."
-            },
-            {
-                "title": "Japan to increase defense spending due to security concerns",
+                "title": "Japan's Population Decreases by 342,000 in 2023, Highest Since Records Began Amid Low Birthrate and Aging Society",
                 "risk_level": "High",
-                "summary": "The Japanese government has announced plans to increase defense spending to counter growing security concerns, including the situation with North Korea and the increasing presence of Chinese military in the region. This could lead to a rise in tensions in the region."
+                "summary": "Japan's population has declined by a record 342,000 in 2023, further exacerbating the country's low birthrate and aging society issues. This trend is concerning for the country's workforce, economy, and social security systems."
             },
             {
-                "title": "Japan's government considering introducing a new law to restrict foreign workers",
+                "title": "North Korea Fires Missile Over Japan, Prompting Warning Sirens",
+                "risk_level": "High",
+                "summary": "North Korea fired an unidentified projectile over Japan, prompting warning sirens and a strong rebuke from the Japanese government. The incident highlights growing tensions between Japan and North Korea."
+            },
+            {
+                "title": "Japanese Government to Introduce New Law Allowing Police to Monitor Online Activity",
                 "risk_level": "Medium",
-                "summary": "The Japanese government is considering introducing a new law to restrict the entry of foreign workers into the country. This could lead to a shortage of skilled workers in certain industries, affecting Japan's economy and ability to compete globally."
+                "summary": "The Japanese government plans to introduce a new law that would allow police to monitor online activity, raising concerns about privacy and surveillance. The law aims to combat cybercrime and terrorism but may infringe on individual freedoms."
             }
         ]
     }
