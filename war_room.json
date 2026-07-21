@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Concerns over US and Saudi diplomatic row escalate",
+                "title": "Global Cyberattack on Microsoft Exchange Email Systems",
                 "risk_level": "High",
-                "summary": "The diplomatic row between the US and Saudi Arabia continues to escalate, with concerns over oil supplies and regional stability growing."
+                "summary": "The global cybersecurity community warns of a devastating cyber attack that targets Microsoft Exchange email systems, compromising data for numerous organizations worldwide."
             },
             {
-                "title": "Rise of Anti-Government Protests in Iran",
+                "title": "Tensions Rise between the US and China in the South China Sea",
                 "risk_level": "High",
-                "summary": "Protests against the Iranian government have been growing in recent days, with reports of clashes between security forces and demonstrators."
+                "summary": "US-China tensions escalate in the South China Sea as the US Navy conducts a military operation near disputed territories, raising concerns about a potential escalation."
             },
             {
-                "title": "Cyberattack on major healthcare organizations in the US",
+                "title": "Protests in Peru over Fuel Price Hikes",
                 "risk_level": "High",
-                "summary": "Multiple major healthcare organizations in the US have been targeted in a significant cyberattack, with reports suggesting stolen sensitive patient data."
+                "summary": "Widespread protests erupt in Peru as citizens demand the government lower fuel prices, which have become unaffordable due to global economic instability."
             }
         ],
         "United States": [
             {
                 "title": "",
+                "risk_level": "Medium",
+                "summary": "Household debt reaches record high in the US, fueling concern about the financial stability of American families. "
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "Protests erupt after the overturn of Roe v. Wade in the US"
+                "summary": "Tensions remain high between the US and China over Taiwan and the Solomon Islands. "
             },
             {
                 "title": "",
-                "risk_level": "Medium",
-                "summary": "Violent clashes between police and far-right groups in Portland, Oregon"
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Gunman opens fire at a mall in Alabama, injuring multiple people"
+                "risk_level": "Low",
+                "summary": "The US Supreme Court temporarily blocks part of the Texas abortion law, allowing women to access medication abortion. "
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's Kim Jong Un makes first public appearance since July 2022 hospitalization",
+                "title": "South Korea's Yoon calls for stronger military in face of North Korean threats",
                 "risk_level": "High",
-                "summary": "North Korean leader Kim Jong Un has appeared in public for the first time in nearly a year, attending a ruling party meeting where he vowed to speed up military modernization, state media reported on July 17, 2023, raising concerns about regional tensions. "
+                "summary": "South Korea's President Yoon Suk-yeol has called for a stronger military to counter North Korea's growing nuclear and missile capabilities. The call comes as tensions between the two countries remain high, with North Korea conducting a series of missile tests in recent weeks."
             },
             {
-                "title": "South Korea's Yoon calls for stronger deterrence against North Korea",
-                "risk_level": "High",
-                "summary": "South Korean President Yoon Suk Yeol has called for a stronger military deterrence against North Korea on July 11, 2023, amid rising tensions in the region, warning Beijing against supporting Pyongyang."
+                "title": "South Korean prosecutors seek 18-month sentence for former justice minister",
+                "risk_level": "Medium",
+                "summary": "Prosecutors in South Korea have requested an 18-month sentence for a former justice minister accused of corruption. The case has sparked outrage in the country, with many calling for greater accountability in government."
             },
             {
-                "title": "South Korean President Yoon says Seoul to acquire F-35 fighter jets to counter North Korea",
-                "risk_level": "High",
-                "summary": "South Korea's President Yoon Suk-yeol has announced plans to acquire F-35 fighter jets to counter the military threat from North Korea on June 28, 2023, amid growing tensions in the region."
+                "title": "South Korean workers launch nationwide strike amid labor disputes",
+                "risk_level": "Medium",
+                "summary": "Thousands of workers in South Korea have launched a nationwide strike in demand for better wages and working conditions. The strike has brought major industries to a standstill, with many businesses forced to close or reduce operations."
             }
         ],
         "Japan": [
             {
-                "title": "Japan Arrests 3 Over Leak of State Secrets",
-                "risk_level": "Medium",
-                "summary": "Japan has arrested 3 men suspected of leaking classified information linked to Ukraine, the latest move in a series of cases involving state secrets."
-            },
-            {
-                "title": "Japan's Nikkei Falls to 28-Month Lows Due to Rising Global Tensions",
+                "title": "Japan's Defense Ministry Requests 2nd-Generation F-35B Fighter Jets Due to Concerns Over China's Military Buildup",
                 "risk_level": "High",
-                "summary": "Japan's benchmark Nikkei index fell to its lowest level in 28 months as investors grew increasingly wary of rising global tensions, particularly in relation to Ukraine."
+                "summary": "The request comes as tensions continue to escalate between Japan and China over the contested Senkaku/Diaoyu Islands. The addition of the 2nd-generation F-35B fighter jets is aimed at bolstering Japan's defense capabilities and deterring potential Chinese aggression."
             },
             {
-                "title": "Japan Sees Record 2,000 COVID-19 Cases as Omicron Wave Continues",
+                "title": "Rising Concerns Over Japan's Aging Population",
+                "risk_level": "High",
+                "summary": "Japan's aging population poses significant economic and social challenges. The country's shrinking workforce and growing demand for pensions and healthcare services will put a strain on its social security system, potentially leading to increased taxes, reduced benefits, or other structural reforms."
+            },
+            {
+                "title": "Tensions Between Japan and South Korea Continue Over Historical Disputes",
                 "risk_level": "Medium",
-                "summary": "Japan reported a record 2,000 COVID-19 cases on 13th July as the Omicron wave continues, raising concerns about hospital capacity."
+                "summary": "The two countries have been embroiled in a dispute over issues such as comfort women, forced labor, and territorial claims. Recent developments, including the passage of a law in Japan that restricts the export of high-tech materials to South Korea, have exacerbated tensions and raised concerns about a potential economic backlash."
             }
         ]
     }
