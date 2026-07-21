@@ -1,65 +1,72 @@
 {
-    "updated": "2026-07-20",
+    "updated": "2026-07-21",
     "scopes": {
         "Global (All)": [
             {
-                "country": "",
-                "title": "Global economic growth slows down due to rising trade tensions",
+                "title": "Taliban Claims of Capturing 2 Districts in Northern Balkh Province",
                 "risk_level": "High",
-                "summary": "A recent report by the IMF suggests that global economic growth is expected to slow down due to rising trade tensions between major economies."
+                "summary": null
             },
             {
-                "country": "",
-                "title": "Cyber attack compromises sensitive data of major corporation",
+                "title": "North Korea Seeks to Strengthen Ties with China Amid Russia Sanctions",
                 "risk_level": "High",
-                "summary": "A major corporation has reported that its systems were compromised in a recent cyber attack, resulting in the theft of sensitive customer data."
+                "summary": null
             },
             {
-                "country": "",
-                "title": "Social media platforms face backlash over fake news spread",
-                "risk_level": "Medium",
-                "summary": "Social media platforms are facing increased scrutiny over their handling of fake news, with some governments calling for greater regulation to combat the spread of misinformation."
+                "title": "Yemen's Houthis Say Attack on Saudi Arabia Was Carried Out by Drone",
+                "risk_level": "High",
+                "summary": null
             }
         ],
         "United States": [
             {
-                "title": "Ukraine says US-provided long-range missiles have damaged 23 Russian military sites, amid escalating tensions in the region",
+                "title": "Biden Announces Plan to Send Advanced Rocket Systems to Ukraine, Amid Ukraine-Russia Conflict",
                 "risk_level": "High",
-                "summary": "The US has been providing Ukraine with long-range missiles, which Ukraine says has damaged 23 Russian military sites. This escalation of tensions could lead to a larger conflict between Russia and Ukraine, potentially involving the US."
+                "summary": "US President Biden announced plans to send advanced rocket systems to Ukraine, escalating a longstanding conflict between Ukraine and Russia. The move has raised concerns about the potential for broader conflict in Eastern Europe and increased tensions between the US and Russia."
             },
             {
-                "title": "US Supreme Court to hear case on whether states can limit abortion pills.",
+                "title": "US Senate Votes to Keep Controversial F-16 Fighter Jets in Service, Amid Military Budget Debate",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court will hear a case on whether states can limit abortion pills, a potential blow to abortion rights. The ruling could have significant implications for reproductive rights in the US."
+                "summary": "The US Senate has voted to keep the F-16 fighter jet in service, despite concerns about the aircraft's age and maintenance costs. The move has sparked debate about the US military's budget priorities and the need for modernization."
             },
             {
-                "title": "Biden Administration Faces Growing Backlash Over Border Management.",
-                "risk_level": "High",
-                "summary": "The Biden Administration is facing growing backlash over its border management policies, with critics accusing the administration of not doing enough to secure the border and address the surge in migrants. This could lead to increased tensions and opposition to the administration's policies."
+                "title": "FBI Investigates Ransomware Attack on Ohio's Public Health Department, Amid Concerns About Cybersecurity Threats",
+                "risk_level": "Low",
+                "summary": "The FBI is investigating a ransomware attack on Ohio's public health department, which has compromised sensitive information and raised concerns about the potential for future cyber threats in the US healthcare sector."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "High|Medium|Low",
-                "summary": ""
+                "title": "South Korean President Yoon Suk-yeol tests positive for COVID-19",
+                "risk_level": "Low",
+                "summary": "South Korea's President Yoon Suk-yeol has tested positive for COVID-19, but is showing mild symptoms and is expected to continue working remotely. This development is unlikely to have a significant impact on the country's political or social stability."
+            },
+            {
+                "title": "North Korea fires suspected ballistic missile into sea, South Korea says",
+                "risk_level": "High",
+                "summary": "North Korea fired a suspected ballistic missile into the sea between the Korean Peninsula and Japan, South Korea said, in its latest military provocation. The move has raised concerns about regional security and the prospects for further escalation."
+            },
+            {
+                "title": "South Korea sees spike in COVID-19 cases, raises alert level",
+                "risk_level": "Medium",
+                "summary": "South Korea has seen a significant surge in COVID-19 cases, prompting the government to raise its alert level and impose additional restrictions to slow the spread of the virus. The move is seen as a precautionary measure to prevent a larger outbreak and maintain social distancing measures."
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 6.0 Earthquake Strikes Northeastern Japan",
+                "title": "Japan’s Economy Under Increasing Pressure Amid Trade Tensions with US",
                 "risk_level": "High",
-                "summary": "A magnitude 6.0 earthquake hit Ibaraki Prefecture, northeastern Japan, causing widespread power outages and injuries."
+                "summary": "The escalating trade tensions between Japan and the US have sent shockwaves through the Japanese economy, sparking fears of a potential recession. The yen has continued to appreciate, making exports more expensive and hindering the country’s already sluggish economy. The situation has raised concerns about the country’s ability to maintain its economic growth and stability."
             },
             {
-                "title": "Japan's COVID-19 Cases Rise Amid Waning Demand for Vaccines",
+                "title": "Protests Erupt in Japan over Government’s Handling of Fukushima Water Release",
                 "risk_level": "Medium",
-                "summary": "COVID-19 cases are increasing in Japan, partly due to the waning effectiveness of COVID-19 vaccines, prompting concerns about a potential resurgence of the virus."
+                "summary": "Hundreds of protesters gathered in Tokyo to express their opposition to the government’s decision to release treated Fukushima water into the ocean. The move has been met with widespread criticism from locals and international communities, citing concerns about the water’s safety and potential environmental impact."
             },
             {
-                "title": "Japan's Economy Contracts in Q2 Amid Global Uncertainty",
-                "risk_level": "High",
-                "summary": "Japan's economy contracted in the second quarter, with a decline in exports and a slowdown in domestic consumption, amid global economic uncertainty and rising interest rates."
+                "title": "Japan’s Healthcare System Faces Criticism over COVID-19 Response",
+                "risk_level": "Low",
+                "summary": "The Japanese government has faced criticism for its slow response to the COVID-19 pandemic, with many calling for improved healthcare infrastructure and emergency measures to protect vulnerable populations. Despite this, Japan has managed to control the spread of the virus, and the healthcare system has largely avoided collapse."
             }
         ]
     }
