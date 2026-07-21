@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Cyberattack on Microsoft Exchange Email Systems",
+                "title": "Global Economic Uncertainty",
                 "risk_level": "High",
-                "summary": "The global cybersecurity community warns of a devastating cyber attack that targets Microsoft Exchange email systems, compromising data for numerous organizations worldwide."
+                "summary": "Global economic uncertainty persists, fueled by rising interest rates and inflation concerns."
             },
             {
-                "title": "Tensions Rise between the US and China in the South China Sea",
-                "risk_level": "High",
-                "summary": "US-China tensions escalate in the South China Sea as the US Navy conducts a military operation near disputed territories, raising concerns about a potential escalation."
+                "title": "Cybersecurity Threats on the Rise",
+                "risk_level": "Medium",
+                "summary": "Cybersecurity threats continue to escalate, with hackers targeting sensitive data and high-profile companies."
             },
             {
-                "title": "Protests in Peru over Fuel Price Hikes",
-                "risk_level": "High",
-                "summary": "Widespread protests erupt in Peru as citizens demand the government lower fuel prices, which have become unaffordable due to global economic instability."
+                "title": "Social Unrest and Protests",
+                "risk_level": "Low",
+                "summary": "Social unrest and protests have broken out in several regions, with demonstrators demanding change and reform."
             }
         ],
         "United States": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Household debt reaches record high in the US, fueling concern about the financial stability of American families. "
-            },
-            {
-                "title": "",
+                "title": "US House Panel Investigates Facebook Over User Data Breaches.",
                 "risk_level": "High",
-                "summary": "Tensions remain high between the US and China over Taiwan and the Solomon Islands. "
+                "summary": "In the United States, a House panel has opened an investigation into Meta Platforms Inc\\'s Facebook over data breaches affecting millions of users."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "The US Supreme Court temporarily blocks part of the Texas abortion law, allowing women to access medication abortion. "
+                "title": "US President Biden Meets with EU Officials to Discuss Ukraine Conflict.",
+                "risk_level": "High",
+                "summary": "In a meeting with European Union officials, US President Biden reaffirmed the US commitment to supporting Ukraine in its conflict with Russia, raising concerns about a potential escalation of the crisis."
+            },
+            {
+                "title": "Protests Erupt in Washington DC Over Student Loan Forgiveness Plans.",
+                "risk_level": "Medium",
+                "summary": "Tens of thousands of students and activists gathered in Washington D.C. to protest the US student loan forgiveness plan, sparking heated debate about the merits of the proposal."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea's Yoon calls for stronger military in face of North Korean threats",
+                "title": "Protests against the Moon Jae-in administration escalate.",
+                "risk_level": "Medium",
+                "summary": "Rallies calling for Moon Jae-in's resignation continue, amid allegations of his family's involvement in a corruption scandal."
+            },
+            {
+                "title": "North Korea reports COVID-19 outbreak among ruling party officials.",
                 "risk_level": "High",
-                "summary": "South Korea's President Yoon Suk-yeol has called for a stronger military to counter North Korea's growing nuclear and missile capabilities. The call comes as tensions between the two countries remain high, with North Korea conducting a series of missile tests in recent weeks."
+                "summary": "The reported cases in Pyongyang, the capital, have raised concerns of a potential outbreak within the isolated nation."
             },
             {
-                "title": "South Korean prosecutors seek 18-month sentence for former justice minister",
-                "risk_level": "Medium",
-                "summary": "Prosecutors in South Korea have requested an 18-month sentence for a former justice minister accused of corruption. The case has sparked outrage in the country, with many calling for greater accountability in government."
-            },
-            {
-                "title": "South Korean workers launch nationwide strike amid labor disputes",
-                "risk_level": "Medium",
-                "summary": "Thousands of workers in South Korea have launched a nationwide strike in demand for better wages and working conditions. The strike has brought major industries to a standstill, with many businesses forced to close or reduce operations."
+                "title": "Concerns over rising tensions between South and North Korea.",
+                "risk_level": "High",
+                "summary": "Military officials warn of increased military activity near the Demilitarized Zone as tensions escalate."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Defense Ministry Requests 2nd-Generation F-35B Fighter Jets Due to Concerns Over China's Military Buildup",
+                "title": "Tensions rise between Japan and China over disputed Senkaku/Diaoyu Islands",
                 "risk_level": "High",
-                "summary": "The request comes as tensions continue to escalate between Japan and China over the contested Senkaku/Diaoyu Islands. The addition of the 2nd-generation F-35B fighter jets is aimed at bolstering Japan's defense capabilities and deterring potential Chinese aggression."
+                "summary": "China's increasing assertiveness in the South China Sea and its claims on Senkaku/Diaoyu Islands have sparked tensions with Japan, which has accused Beijing of violating its territorial airspace."
             },
             {
-                "title": "Rising Concerns Over Japan's Aging Population",
+                "title": "North Korea's missile launch tests spark concerns in Japan",
                 "risk_level": "High",
-                "summary": "Japan's aging population poses significant economic and social challenges. The country's shrinking workforce and growing demand for pensions and healthcare services will put a strain on its social security system, potentially leading to increased taxes, reduced benefits, or other structural reforms."
+                "summary": "North Korea's recent missile launch tests have raised concerns in Japan, with some experts fearing a potential threat to the country's security and stability in the region."
             },
             {
-                "title": "Tensions Between Japan and South Korea Continue Over Historical Disputes",
+                "title": "Japan's government faces criticism over slow response to ongoing floods in Western Japan",
                 "risk_level": "Medium",
-                "summary": "The two countries have been embroiled in a dispute over issues such as comfort women, forced labor, and territorial claims. Recent developments, including the passage of a law in Japan that restricts the export of high-tech materials to South Korea, have exacerbated tensions and raised concerns about a potential economic backlash."
+                "summary": "Japan's government has come under fire for its slow response to flooding in Western Japan, which has affected thousands of residents and caused significant damage to infrastructure and property."
             }
         ]
     }
