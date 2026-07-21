@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Hong Kong’s Economic and Political Crisis Escalates",
+                "title": "Concerns over US and Saudi diplomatic row escalate",
                 "risk_level": "High",
-                "summary": "Hong Kong's economy suffers as protests continue."
+                "summary": "The diplomatic row between the US and Saudi Arabia continues to escalate, with concerns over oil supplies and regional stability growing."
             },
             {
-                "title": "Riots in Cuba",
+                "title": "Rise of Anti-Government Protests in Iran",
                 "risk_level": "High",
-                "summary": "Anti-government protests in Cuba turn violent."
+                "summary": "Protests against the Iranian government have been growing in recent days, with reports of clashes between security forces and demonstrators."
             },
             {
-                "title": "North Korea and US Diplomatic Tensions",
-                "risk_level": "Medium",
-                "summary": "US-North Korea relations take strain."
+                "title": "Cyberattack on major healthcare organizations in the US",
+                "risk_level": "High",
+                "summary": "Multiple major healthcare organizations in the US have been targeted in a significant cyberattack, with reports suggesting stolen sensitive patient data."
             }
         ],
         "United States": [
             {
-                "title": "Texas school shooting: 3rd suspect arrested in aftermath of shooting at Robb Elementary School in Uvalde",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A third suspect has been arrested in connection with the Texas school shooting that killed 19 children and two teachers last week."
+                "summary": "Protests erupt after the overturn of Roe v. Wade in the US"
             },
             {
-                "title": "U.S. Supreme Court blocks Maine's vaccine mandate for healthcare workers",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "The High Court ruled that the mandate violated the Religious Freedom Restoration Act (RFRA) and the First Amendment."
+                "summary": "Violent clashes between police and far-right groups in Portland, Oregon"
             },
             {
-                "title": "U.S. economy grows at 2.6% annual rate in Q1, below expectations",
-                "risk_level": "Low",
-                "summary": "The Commerce Department reported that the U.S. economy expanded at a 2.6% annual rate in the first quarter, missing analyst forecasts."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Gunman opens fire at a mall in Alabama, injuring multiple people"
             }
         ],
         "South Korea": [
             {
-                "title": "Suspected North Korean Spy Detained in South Korea",
-                "risk_level": "Medium",
-                "summary": "South Korean authorities have detained a North Korean national suspected of espionage. The individual, a man in his 40s, was caught attempting to sneak into South Korea from China. His mission and goals are still unclear but authorities are investigating further."
-            },
-            {
-                "title": "South Korean Protesters Clash with Police over Economic Concerns",
+                "title": "North Korea's Kim Jong Un makes first public appearance since July 2022 hospitalization",
                 "risk_level": "High",
-                "summary": "Protests erupted in major cities across South Korea, with demonstrators demanding action on economic instability. The protesters, primarily concerned with rising inflation and unemployment, clashed with police in several instances."
+                "summary": "North Korean leader Kim Jong Un has appeared in public for the first time in nearly a year, attending a ruling party meeting where he vowed to speed up military modernization, state media reported on July 17, 2023, raising concerns about regional tensions. "
             },
             {
-                "title": "South Korea Raises Alert Levels for Possible COVID-19 Re-emergence",
-                "risk_level": "Low",
-                "summary": "As COVID-19 cases rise globally, South Korea has increased its alert levels, advising citizens to remain vigilant and take precautions. The government has also reintroduced some travel restrictions and mask mandates to prevent any potential outbreaks."
+                "title": "South Korea's Yoon calls for stronger deterrence against North Korea",
+                "risk_level": "High",
+                "summary": "South Korean President Yoon Suk Yeol has called for a stronger military deterrence against North Korea on July 11, 2023, amid rising tensions in the region, warning Beijing against supporting Pyongyang."
+            },
+            {
+                "title": "South Korean President Yoon says Seoul to acquire F-35 fighter jets to counter North Korea",
+                "risk_level": "High",
+                "summary": "South Korea's President Yoon Suk-yeol has announced plans to acquire F-35 fighter jets to counter the military threat from North Korea on June 28, 2023, amid growing tensions in the region."
             }
         ],
         "Japan": [
             {
-                "title": "Japan PM Kishida’s approval rating sinks to record low: Asahi poll",
-                "risk_level": "Low",
-                "summary": "Japan’s Prime Minister Fumio Kishida saw his approval ratings plummet to a record low, at 31%, according to an Asahi poll, dealing a blow to his government ahead of upper house elections."
-            },
-            {
-                "title": "Japan warns against traveling to US over COVID-19",
+                "title": "Japan Arrests 3 Over Leak of State Secrets",
                 "risk_level": "Medium",
-                "summary": "The Japanese government has raised its travel warning level for the US due to the spread of COVID-19, advising citizens to exercise caution when traveling there."
+                "summary": "Japan has arrested 3 men suspected of leaking classified information linked to Ukraine, the latest move in a series of cases involving state secrets."
             },
             {
-                "title": "Japan's 2023 defence budget to exceed 1% of GDP: reports",
+                "title": "Japan's Nikkei Falls to 28-Month Lows Due to Rising Global Tensions",
                 "risk_level": "High",
-                "summary": "Japan's 2023 defence budget is set to exceed 1% of its GDP for the first time, according to reports, as the country continues to bolster its military in response to regional security challenges."
+                "summary": "Japan's benchmark Nikkei index fell to its lowest level in 28 months as investors grew increasingly wary of rising global tensions, particularly in relation to Ukraine."
+            },
+            {
+                "title": "Japan Sees Record 2,000 COVID-19 Cases as Omicron Wave Continues",
+                "risk_level": "Medium",
+                "summary": "Japan reported a record 2,000 COVID-19 cases on 13th July as the Omicron wave continues, raising concerns about hospital capacity."
             }
         ]
     }
