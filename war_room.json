@@ -3,70 +3,86 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Uncertainty",
+                "title": "China Suspends US Warship Visits toHong Kong Amid Rising Tensions",
                 "risk_level": "High",
-                "summary": "Global economic uncertainty persists, fueled by rising interest rates and inflation concerns."
+                "date": "2022-12-15",
+                "country": "",
+                "category": "Political",
+                "description": "",
+                "tags": "",
+                "source": "",
+                "url": "",
+                "id": ""
             },
             {
-                "title": "Cybersecurity Threats on the Rise",
-                "risk_level": "Medium",
-                "summary": "Cybersecurity threats continue to escalate, with hackers targeting sensitive data and high-profile companies."
+                "title": "US Senate passes bill to limit Trump's nuclear authority",
+                "risk_level": "High",
+                "date": "2022-12-14",
+                "country": "",
+                "category": "Security",
+                "description": "",
+                "tags": "",
+                "source": "",
+                "url": "",
+                "id": ""
             },
             {
-                "title": "Social Unrest and Protests",
-                "risk_level": "Low",
-                "summary": "Social unrest and protests have broken out in several regions, with demonstrators demanding change and reform."
+                "title": "Russia says US plans to impose martial law in Ukraine",
+                "risk_level": "High",
+                "date": "2022-12-14",
+                "country": "",
+                "category": "Security",
+                "description": "",
+                "tags": "",
+                "source": "",
+                "url": "",
+                "id": ""
             }
         ],
         "United States": [
             {
-                "title": "US House Panel Investigates Facebook Over User Data Breaches.",
+                "title": "Supreme Court Leaked Draft Shows Plans to Overturn Abortion Rights",
                 "risk_level": "High",
-                "summary": "In the United States, a House panel has opened an investigation into Meta Platforms Inc\\'s Facebook over data breaches affecting millions of users."
+                "summary": "A leaked draft of a Supreme Court opinion shows that the court plans to overturn the landmark abortion case Roe v. Wade. The draft opinion was leaked to Politico and has sparked widespread outrage and protest."
             },
             {
-                "title": "US President Biden Meets with EU Officials to Discuss Ukraine Conflict.",
+                "title": "US Ransomware Attack Forces Healthcare System to Halt Services",
                 "risk_level": "High",
-                "summary": "In a meeting with European Union officials, US President Biden reaffirmed the US commitment to supporting Ukraine in its conflict with Russia, raising concerns about a potential escalation of the crisis."
+                "summary": "A ransomware attack has forced the University of Vermont Health Network to halt all of its services, including emergency care. The attack is a reminder of the growing threat of cyberattacks on critical infrastructure."
             },
             {
-                "title": "Protests Erupt in Washington DC Over Student Loan Forgiveness Plans.",
-                "risk_level": "Medium",
-                "summary": "Tens of thousands of students and activists gathered in Washington D.C. to protest the US student loan forgiveness plan, sparking heated debate about the merits of the proposal."
+                "title": "US House votes to pass bill to boost AI and computing R&D",
+                "risk_level": "Low",
+                "summary": "The US House of Representatives has voted to pass a bill to boost research and development in artificial intelligence and computing. The bill aims to increase funding for AI research and development."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests against the Moon Jae-in administration escalate.",
+                "title": "North Korea Conducts Ballistic Missile Test Amid Tensions With US",
+                "risk_level": "High",
+                "summary": "North Korea fired an intercontinental ballistic missile (ICBM) towards its eastern waters, prompting South Korea and the US to launch joint air exercises to demonstrate their military readiness."
+            },
+            {
+                "title": "Rise in COVID-19 Cases in South Korea",
                 "risk_level": "Medium",
-                "summary": "Rallies calling for Moon Jae-in's resignation continue, amid allegations of his family's involvement in a corruption scandal."
+                "summary": "South Korea reported a surge in COVID-19 cases due to the highly transmissible Delta variant, prompting concerns about the potential impact on the country's healthcare system and economy."
             },
             {
-                "title": "North Korea reports COVID-19 outbreak among ruling party officials.",
-                "risk_level": "High",
-                "summary": "The reported cases in Pyongyang, the capital, have raised concerns of a potential outbreak within the isolated nation."
-            },
-            {
-                "title": "Concerns over rising tensions between South and North Korea.",
-                "risk_level": "High",
-                "summary": "Military officials warn of increased military activity near the Demilitarized Zone as tensions escalate."
+                "title": "Protests Erupt in South Korea Over Minimum Wage Increase",
+                "risk_level": "Medium",
+                "summary": "Thousands of South Korean workers took to the streets to protest the government's decision to increase the minimum wage, fearing it will lead to job losses and inflation."
             }
         ],
         "Japan": [
             {
-                "title": "Tensions rise between Japan and China over disputed Senkaku/Diaoyu Islands",
+                "title": "North Korea missile test fuels Japan tensions",
                 "risk_level": "High",
-                "summary": "China's increasing assertiveness in the South China Sea and its claims on Senkaku/Diaoyu Islands have sparked tensions with Japan, which has accused Beijing of violating its territorial airspace."
+                "summary": "Japan's government on Thursday condemned North Korea's latest missile test, calling it a \"serious threat\" and urging Pyongyang to refrain from further provocative actions."
             },
             {
-                "title": "North Korea's missile launch tests spark concerns in Japan",
-                "risk_level": "High",
-                "summary": "North Korea's recent missile launch tests have raised concerns in Japan, with some experts fearing a potential threat to the country's security and stability in the region."
-            },
-            {
-                "title": "Japan's government faces criticism over slow response to ongoing floods in Western Japan",
+                "title": "Japan's Futenma base relocation delayed amid protests",
                 "risk_level": "Medium",
-                "summary": "Japan's government has come under fire for its slow response to flooding in Western Japan, which has affected thousands of residents and caused significant damage to infrastructure and property."
+                "summary": "The planned relocation of a US military base in Okinawa has been postponed indefinitely, amid ongoing protests from local residents."
             }
         ]
     }
