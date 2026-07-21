@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Taliban Claims of Capturing 2 Districts in Northern Balkh Province",
+                "title": "Hong Kong’s Economic and Political Crisis Escalates",
                 "risk_level": "High",
-                "summary": null
+                "summary": "Hong Kong's economy suffers as protests continue."
             },
             {
-                "title": "North Korea Seeks to Strengthen Ties with China Amid Russia Sanctions",
+                "title": "Riots in Cuba",
                 "risk_level": "High",
-                "summary": null
+                "summary": "Anti-government protests in Cuba turn violent."
             },
             {
-                "title": "Yemen's Houthis Say Attack on Saudi Arabia Was Carried Out by Drone",
-                "risk_level": "High",
-                "summary": null
+                "title": "North Korea and US Diplomatic Tensions",
+                "risk_level": "Medium",
+                "summary": "US-North Korea relations take strain."
             }
         ],
         "United States": [
             {
-                "title": "Biden Announces Plan to Send Advanced Rocket Systems to Ukraine, Amid Ukraine-Russia Conflict",
+                "title": "Texas school shooting: 3rd suspect arrested in aftermath of shooting at Robb Elementary School in Uvalde",
                 "risk_level": "High",
-                "summary": "US President Biden announced plans to send advanced rocket systems to Ukraine, escalating a longstanding conflict between Ukraine and Russia. The move has raised concerns about the potential for broader conflict in Eastern Europe and increased tensions between the US and Russia."
+                "summary": "A third suspect has been arrested in connection with the Texas school shooting that killed 19 children and two teachers last week."
             },
             {
-                "title": "US Senate Votes to Keep Controversial F-16 Fighter Jets in Service, Amid Military Budget Debate",
+                "title": "U.S. Supreme Court blocks Maine's vaccine mandate for healthcare workers",
                 "risk_level": "Medium",
-                "summary": "The US Senate has voted to keep the F-16 fighter jet in service, despite concerns about the aircraft's age and maintenance costs. The move has sparked debate about the US military's budget priorities and the need for modernization."
+                "summary": "The High Court ruled that the mandate violated the Religious Freedom Restoration Act (RFRA) and the First Amendment."
             },
             {
-                "title": "FBI Investigates Ransomware Attack on Ohio's Public Health Department, Amid Concerns About Cybersecurity Threats",
+                "title": "U.S. economy grows at 2.6% annual rate in Q1, below expectations",
                 "risk_level": "Low",
-                "summary": "The FBI is investigating a ransomware attack on Ohio's public health department, which has compromised sensitive information and raised concerns about the potential for future cyber threats in the US healthcare sector."
+                "summary": "The Commerce Department reported that the U.S. economy expanded at a 2.6% annual rate in the first quarter, missing analyst forecasts."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korean President Yoon Suk-yeol tests positive for COVID-19",
-                "risk_level": "Low",
-                "summary": "South Korea's President Yoon Suk-yeol has tested positive for COVID-19, but is showing mild symptoms and is expected to continue working remotely. This development is unlikely to have a significant impact on the country's political or social stability."
-            },
-            {
-                "title": "North Korea fires suspected ballistic missile into sea, South Korea says",
-                "risk_level": "High",
-                "summary": "North Korea fired a suspected ballistic missile into the sea between the Korean Peninsula and Japan, South Korea said, in its latest military provocation. The move has raised concerns about regional security and the prospects for further escalation."
-            },
-            {
-                "title": "South Korea sees spike in COVID-19 cases, raises alert level",
+                "title": "Suspected North Korean Spy Detained in South Korea",
                 "risk_level": "Medium",
-                "summary": "South Korea has seen a significant surge in COVID-19 cases, prompting the government to raise its alert level and impose additional restrictions to slow the spread of the virus. The move is seen as a precautionary measure to prevent a larger outbreak and maintain social distancing measures."
+                "summary": "South Korean authorities have detained a North Korean national suspected of espionage. The individual, a man in his 40s, was caught attempting to sneak into South Korea from China. His mission and goals are still unclear but authorities are investigating further."
+            },
+            {
+                "title": "South Korean Protesters Clash with Police over Economic Concerns",
+                "risk_level": "High",
+                "summary": "Protests erupted in major cities across South Korea, with demonstrators demanding action on economic instability. The protesters, primarily concerned with rising inflation and unemployment, clashed with police in several instances."
+            },
+            {
+                "title": "South Korea Raises Alert Levels for Possible COVID-19 Re-emergence",
+                "risk_level": "Low",
+                "summary": "As COVID-19 cases rise globally, South Korea has increased its alert levels, advising citizens to remain vigilant and take precautions. The government has also reintroduced some travel restrictions and mask mandates to prevent any potential outbreaks."
             }
         ],
         "Japan": [
             {
-                "title": "Japan’s Economy Under Increasing Pressure Amid Trade Tensions with US",
-                "risk_level": "High",
-                "summary": "The escalating trade tensions between Japan and the US have sent shockwaves through the Japanese economy, sparking fears of a potential recession. The yen has continued to appreciate, making exports more expensive and hindering the country’s already sluggish economy. The situation has raised concerns about the country’s ability to maintain its economic growth and stability."
-            },
-            {
-                "title": "Protests Erupt in Japan over Government’s Handling of Fukushima Water Release",
-                "risk_level": "Medium",
-                "summary": "Hundreds of protesters gathered in Tokyo to express their opposition to the government’s decision to release treated Fukushima water into the ocean. The move has been met with widespread criticism from locals and international communities, citing concerns about the water’s safety and potential environmental impact."
-            },
-            {
-                "title": "Japan’s Healthcare System Faces Criticism over COVID-19 Response",
+                "title": "Japan PM Kishida’s approval rating sinks to record low: Asahi poll",
                 "risk_level": "Low",
-                "summary": "The Japanese government has faced criticism for its slow response to the COVID-19 pandemic, with many calling for improved healthcare infrastructure and emergency measures to protect vulnerable populations. Despite this, Japan has managed to control the spread of the virus, and the healthcare system has largely avoided collapse."
+                "summary": "Japan’s Prime Minister Fumio Kishida saw his approval ratings plummet to a record low, at 31%, according to an Asahi poll, dealing a blow to his government ahead of upper house elections."
+            },
+            {
+                "title": "Japan warns against traveling to US over COVID-19",
+                "risk_level": "Medium",
+                "summary": "The Japanese government has raised its travel warning level for the US due to the spread of COVID-19, advising citizens to exercise caution when traveling there."
+            },
+            {
+                "title": "Japan's 2023 defence budget to exceed 1% of GDP: reports",
+                "risk_level": "High",
+                "summary": "Japan's 2023 defence budget is set to exceed 1% of its GDP for the first time, according to reports, as the country continues to bolster its military in response to regional security challenges."
             }
         ]
     }
