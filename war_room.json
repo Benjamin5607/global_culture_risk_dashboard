@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Ransomware Attack on Critical Infrastructure",
+                "title": "Global Cyberattacks on Ukraine Infrastructure Disrupts Critical Services",
                 "risk_level": "High",
-                "summary": "A highly sophisticated ransomware attack hit a critical infrastructure facility in Europe on 10 July, causing significant disruptions and prompting concerns about potential cascading effects on global supply chains."
+                "summary": "A series of debilitating cyberattacks hit Ukraine's critical infrastructure, affecting power systems, communication networks, and other vital services."
             },
             {
-                "title": "Deteriorating Relations Between Major Powers",
+                "title": "International Tensions Escalate as Russia-Ukraine Conflict Enters Critical Phase",
                 "risk_level": "High",
-                "summary": "Tensions have risen between two major world powers due to a recent series of diplomatic incidents, leading to increased military deployments and a heightened risk of conflict in the region."
+                "summary": "The prolonged conflict between Russia and Ukraine has taken a catastrophic turn, with both sides engaging in aggressive military maneuvers, escalating global tensions."
             },
             {
-                "title": "Escalating Protests and Unrest in a Major City",
+                "title": "Climate Change Protesters Block International Flights in Major Airports Worldwide",
                 "risk_level": "High",
-                "summary": "Protests and unrest have intensified in a major city over the past week, with reports of clashes between demonstrators and security forces, and a growing risk of further violence and instability."
+                "summary": "Climate change protesters staged a massive global action, blocking international flights and disrupting air travel in major airports, drawing international attention to the urgent need for climate action."
             }
         ],
         "United States": [
             {
-                "title": "US Justice Department investigates TikTok over China ties allegations",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US Justice Department is investigating TikTok over allegations that the social media app is sharing user data with China."
+                "summary": "Ukraine's President Volodymyr Zelensky says that Ukraine has 'no other option' but to negotiate with Russia as the war rages on. The conflict has led to increased tensions between the US and Russia."
             },
             {
-                "title": "Tensions rise as US and Russia clash over Ukraine and Nord Stream pipeline issues",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US and Russia are at odds over Ukraine and the Nord Stream pipeline, raising tensions in the region."
+                "summary": "The FBI issues a warning to US businesses, warning them about a potential cyberattack threat from a hacking group called 'DarkSide'. The group has been linked to recent ransomware attacks."
             },
             {
-                "title": "US Senate votes to block Saudi arms sale amid human rights concerns",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "The US Senate has voted to block a major arms sale to Saudi Arabia amid concerns over human rights abuses in Yemen."
+                "summary": "The US House of Representatives passes a bipartisan resolution denouncing a recent surge in hate crimes against Asian Americans, and calling for action to prevent violence."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea test-fires a missile off its east coast: Seoul",
+                "title": "North Korea says it fired ballistic missiles into the sea off its east coast, amid concerns over a potential seventh nuclear test.",
                 "risk_level": "High",
-                "summary": "North Korea test-fired a missile off its east coast on Sunday, triggering an emergency meeting of the United Nations Security Council, with the United States, Japan and South Korea condemning the launch as a reckless provocation."
+                "summary": "The launches, which Seoul's military said occurred on July 18, come as international pressure builds over a possible nuclear test by Pyongyang, which has not conducted such an explosion in years."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "South Korea and the US stage joint drills near the Demilitarized Zone with North Korea, despite a warning from Pyongyang that this could trigger conflict.",
+                "risk_level": "High",
+                "summary": "The exercises, which took place in the Gyeonggi Province just south of the Demilitarized Zone (DMZ) that separates the two Koreas, involved thousands of troops and involved simulated battles against an enemy force."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "South Korean police fire water cannons and smoke bombs to disperse protesters in Incheon as demonstrations over a major labor dispute turn violent.",
+                "risk_level": "Medium",
+                "summary": "The clashes, which occurred on July 15, marked the latest escalation in a long-running dispute between employers and workers at a major logistics center, with the two sides still negotiating a resolution."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea says it conducted a successful test of an intercontinental ballistic missile (ICBM) that could reach the US. ",
+                "title": "Japan's Kishida Warns of Global Threat from China",
                 "risk_level": "High",
-                "summary": "North Korea test-fired a new intercontinental ballistic missile, which its leader Kim Jong Un said was a 'great success.' The test sparked widespread condemnation from the international community, with the US, Japan, and South Korea issuing joint statement criticizing the move. The missile launch raised concerns about the growing threat of nuclear proliferation in the region and the potential for miscalculation that could lead to a conflict."
+                "summary": "Japanese Prime Minister Fumio Kishida warned about the global threat posed by China, citing its increasing military activities and aggressive behavior in the Asia-Pacific region."
             },
             {
-                "title": "Rise in COVID-19 cases in Japan",
+                "title": "Japan's Economy Shrank for Second Straight Quarter in 2023 Q2",
+                "risk_level": "High",
+                "summary": "Japan's economy shrank for the second consecutive quarter in 2023's quarter two, due to weak exports and a decline in business sentiment."
+            },
+            {
+                "title": "Japanese Prime Minister Kishida Set for Re-election as Party Leader",
                 "risk_level": "Medium",
-                "summary": "A surge in COVID-19 cases has sparked concerns about the spread of the virus in Japan, with experts warning of a potential 4th wave of infections. The government has taken measures to control the spread, including increased testing and vaccination efforts, but the situation remains fluid."
-            },
-            {
-                "title": "Tensions between Japan and China escalate over disputed islands",
-                "risk_level": "Low",
-                "summary": "A recent incident involving Chinese fishermen in disputed waters between Japan and China has raised tensions between the two nations. The incident has sparked concerns about the potential for miscalculation and the impact on regional stability, but so far, the situation has been managed peacefully."
+                "summary": "Japanese Prime Minister Fumio Kishida's bid for re-election as leader of the ruling Liberal Democratic Party (LDP) is gaining momentum, but faces opposition from other party members who want to see him replaced."
             }
         ]
     }
