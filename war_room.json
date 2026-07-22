@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Cyberattacks on Ukraine Infrastructure Disrupts Critical Services",
-                "risk_level": "High",
-                "summary": "A series of debilitating cyberattacks hit Ukraine's critical infrastructure, affecting power systems, communication networks, and other vital services."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "International Tensions Escalate as Russia-Ukraine Conflict Enters Critical Phase",
-                "risk_level": "High",
-                "summary": "The prolonged conflict between Russia and Ukraine has taken a catastrophic turn, with both sides engaging in aggressive military maneuvers, escalating global tensions."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Climate Change Protesters Block International Flights in Major Airports Worldwide",
-                "risk_level": "High",
-                "summary": "Climate change protesters staged a massive global action, blocking international flights and disrupting air travel in major airports, drawing international attention to the urgent need for climate action."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "United States": [
             {
                 "title": "",
                 "risk_level": "High",
-                "summary": "Ukraine's President Volodymyr Zelensky says that Ukraine has 'no other option' but to negotiate with Russia as the war rages on. The conflict has led to increased tensions between the US and Russia."
-            },
-            {
-                "title": "",
-                "risk_level": "High",
-                "summary": "The FBI issues a warning to US businesses, warning them about a potential cyberattack threat from a hacking group called 'DarkSide'. The group has been linked to recent ransomware attacks."
+                "summary": "Heat Wave Worsens, Excessive Heat Warning Issued in Multiple States (United States) - A severe heat wave has brought temperatures to record-high levels in several states, prompting a health alert from the National Weather Service."
             },
             {
                 "title": "",
                 "risk_level": "Medium",
-                "summary": "The US House of Representatives passes a bipartisan resolution denouncing a recent surge in hate crimes against Asian Americans, and calling for action to prevent violence."
+                "summary": "Supreme Court Ruling on Abortion Sparks Concerns (United States) - The Supreme Court's decision to strike down Roe v. Wade has sparked widespread protests and fears of increased access restrictions to reproductive healthcare."
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "Ransomware Attack Targets US Transportation Systems (United States) - A significant ransomware attack has compromised the data of several US transportation companies, raising concerns about cyber security and the potential for disruptions to crucial services."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea says it fired ballistic missiles into the sea off its east coast, amid concerns over a potential seventh nuclear test.",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The launches, which Seoul's military said occurred on July 18, come as international pressure builds over a possible nuclear test by Pyongyang, which has not conducted such an explosion in years."
+                "summary": "Demonstrators in South Korea have rallied against President Yoon Suk-yeol, calling for his impeachment over alleged misconduct, including mishandling the economy and mishandling North Korea tensions."
             },
             {
-                "title": "South Korea and the US stage joint drills near the Demilitarized Zone with North Korea, despite a warning from Pyongyang that this could trigger conflict.",
-                "risk_level": "High",
-                "summary": "The exercises, which took place in the Gyeonggi Province just south of the Demilitarized Zone (DMZ) that separates the two Koreas, involved thousands of troops and involved simulated battles against an enemy force."
-            },
-            {
-                "title": "South Korean police fire water cannons and smoke bombs to disperse protesters in Incheon as demonstrations over a major labor dispute turn violent.",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "The clashes, which occurred on July 15, marked the latest escalation in a long-running dispute between employers and workers at a major logistics center, with the two sides still negotiating a resolution."
+                "summary": "South Korea has launched a new naval drill near a disputed group of islets in the East Sea that are also claimed by North Korea and Japan."
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "The South Korean parliament has rejected a request by opposition lawmakers to hold an inquiry into a recent fire at a key naval base."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Kishida Warns of Global Threat from China",
+                "title": "Japan's Defense Ministry warns of N Korea missile threat",
                 "risk_level": "High",
-                "summary": "Japanese Prime Minister Fumio Kishida warned about the global threat posed by China, citing its increasing military activities and aggressive behavior in the Asia-Pacific region."
+                "summary": "Japan's Defense Ministry said it detected a North Korean ballistic missile launch, with the missile landing in Japan's exclusive economic zone."
             },
             {
-                "title": "Japan's Economy Shrank for Second Straight Quarter in 2023 Q2",
+                "title": "Tsunami warning issued in Japan after 7.3 magnitude earthquake",
                 "risk_level": "High",
-                "summary": "Japan's economy shrank for the second consecutive quarter in 2023's quarter two, due to weak exports and a decline in business sentiment."
+                "summary": "A 7.3 magnitude earthquake struck off the coast of Japan, prompting a tsunami warning for several regions."
             },
             {
-                "title": "Japanese Prime Minister Kishida Set for Re-election as Party Leader",
-                "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida's bid for re-election as leader of the ruling Liberal Democratic Party (LDP) is gaining momentum, but faces opposition from other party members who want to see him replaced."
+                "title": "North Korea fires intercontinental ballistic missile over Japan",
+                "risk_level": "High",
+                "summary": "North Korea fired an intercontinental ballistic missile (ICBM) over Japan, prompting Japan and South Korea to issue public warning systems."
             }
         ]
     }
