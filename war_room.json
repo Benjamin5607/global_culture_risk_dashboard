@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global COVID-19 Pandemic",
+                "title": "US-China Tech Cold War Escalates",
                 "risk_level": "High",
-                "summary": "WHO reports 3.2 million+ new COVID-19 cases in the past week."
+                "summary": "Tensions between the US and China intensified as the US blacklisted more Chinese tech firms on national security concerns."
             },
             {
-                "title": "Russian Invasion of Ukraine",
+                "title": "NATO Expands Into Eastern Europe",
                 "risk_level": "High",
-                "summary": "Multiple missile strikes hit Ukraine, causing widespread damage."
+                "summary": "NATO has expanded into Eastern Europe, fuelling concern of increased military tensions and potential conflict with Russia."
             },
             {
-                "title": "US-China Trade Tensions",
+                "title": "European Gas Prices Surge",
                 "risk_level": "Medium",
-                "summary": "US slaps new tariffs on Chinese imports, escalating trade tensions."
+                "summary": "As geopolitical tensions increase, so did European gas prices due to supply disruptions and logistical bottlenecks."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Blocks Biden Plan to End Title 42",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has blocked President Joe Biden's administration from ending the Title 42 border policy, a decision that could have a significant impact on immigration and border security."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "US House Votes to Limit Biden's National Emergency Declaration Power"
             },
             {
                 "title": "",
-                "risk_level": "",
-                "summary": ""
+                "risk_level": "Medium",
+                "summary": "US Senate Passes Bill to Prevent Rail Strike, Averting Economic Crisis"
             },
             {
-                "title": "US and Iran clash over Mahsa Amini's death",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US and Iran have clashed over the death of Mahsa Amini, a 22-year-old Iranian woman who was arrested and died while in custody. The US has imposed new sanctions on Iran in response to her death."
+                "summary": "Supreme Court Ruling on Abortion Expected to Have Far-Reaching Consequences"
             }
         ],
         "South Korea": [
             {
-                "title": "Severe weather warnings issued in South Korea amid heavy rain",
-                "risk_level": "Low",
-                "summary": "Severe weather warnings have been issued in South Korea amid heavy rain, with the Korea Meteorological Administration warning of torrential rain in several provinces. The rain is expected to cause disruptions to daily life, but no major incidents have been reported."
-            },
-            {
-                "title": "North Korea fires several ballistic missiles near South Korean territory",
+                "title": "Tensions rise with North Korea as US and South Korea hold joint military drills",
                 "risk_level": "High",
-                "summary": "North Korea has fired several ballistic missiles near South Korean territory, prompting a strong response from Seoul. The missile launch is seen as a provocation and a test of South Korea's military capabilities."
+                "summary": "The United States and South Korea have begun their largest joint military drills in months, amid rising tensions with North Korea."
             },
             {
-                "title": "South Korean court sentences former president to prison",
+                "title": "South Korea to strengthen surveillance to counter North Korea's cyber threats",
                 "risk_level": "Medium",
-                "summary": "A South Korean court has sentenced former President Park Geun-hye to prison for corruption. The sentence is seen as a major blow to the conservative opposition party, which had backed Park's policies."
+                "summary": "South Korea has plans to enhance its cybersecurity measures to counter North Korea's growing cyber threats and disrupt operations."
+            },
+            {
+                "title": "Pro-CHOE government protest in South Korea turns violent",
+                "risk_level": "High",
+                "summary": "Protest in South Korea against the new government escalated into clashes between the protesters and police on Monday, leaving several people injured."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Constitutional Reform Plan Sparks Protests",
+                "title": "Japan protests erupt over nuclear policy",
                 "risk_level": "Medium",
-                "summary": "Demonstrators clashed with police in Tokyo as thousands took to the streets to protest a proposed constitutional reform that would restrict individual freedoms."
+                "summary": "Opposition groups held rallies in Tokyo, calling for the government to adopt a more cautious nuclear energy approach."
             },
             {
-                "title": "North Korea Threatens to Attack Japan Amid Tensions",
+                "title": "North Korea tests missiles near Japan's territorial waters",
                 "risk_level": "High",
-                "summary": "North Korea's state media warned Japan of a 'tough response' after a Japanese military official reportedly made anti-Pyongyang remarks."
+                "summary": "Seoul and Washington condemn the latest provocation, with South Korea's military saying Tokyo and Seoul agreed to work together to protect their shared interests."
             },
             {
-                "title": "Tokyo's Covid-19 Outbreak Continues to Grow",
-                "risk_level": "Low",
-                "summary": "The Japanese capital reported a surge in new COVID-19 cases as the government prepares to lift some restrictions in the coming weeks."
+                "title": "Japan's ruling party leader faces opposition over support for Ukraine",
+                "risk_level": "Medium",
+                "summary": "Critics accuse the leader of the Liberal Democratic Party (LDP) of being overly sympathetic to Ukraine, sparking internal party divisions and external pressure from Moscow."
             }
         ]
     }
