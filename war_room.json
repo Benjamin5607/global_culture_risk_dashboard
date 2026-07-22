@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Tech Cold War Escalates",
+                "title": "Rise in global cyber attacks",
                 "risk_level": "High",
-                "summary": "Tensions between the US and China intensified as the US blacklisted more Chinese tech firms on national security concerns."
+                "summary": "A recent surge in global cyber attacks has been identified, with multiple high-profile targets affected."
             },
             {
-                "title": "NATO Expands Into Eastern Europe",
+                "title": "Escalating tensions between global superpowers",
                 "risk_level": "High",
-                "summary": "NATO has expanded into Eastern Europe, fuelling concern of increased military tensions and potential conflict with Russia."
+                "summary": "Tensions between major global superpowers have increased in the past week, sparking concerns about potential conflict."
             },
             {
-                "title": "European Gas Prices Surge",
+                "title": "Growing number of protests and civil unrest globally",
                 "risk_level": "Medium",
-                "summary": "As geopolitical tensions increase, so did European gas prices due to supply disruptions and logistical bottlenecks."
+                "summary": "Protests and civil unrest have been reported in multiple countries around the world, with demonstrators taking to the streets to express their discontent."
             }
         ],
         "United States": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "US House Votes to Limit Biden's National Emergency Declaration Power"
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "US Senate Passes Bill to Prevent Rail Strike, Averting Economic Crisis"
-            },
-            {
-                "title": "",
+                "title": "Tension Escalation Over US-China Trade Dispute",
                 "risk_level": "High",
-                "summary": "Supreme Court Ruling on Abortion Expected to Have Far-Reaching Consequences"
+                "summary": "The US and China remain at odds over trade agreements, with the US imposing additional tariffs on Chinese goods."
+            },
+            {
+                "title": "Federal Judge Temporarily Blocks Abortion Ban in Wyoming",
+                "risk_level": "Medium",
+                "summary": "A federal judge has temporarily blocked a ban on abortions in Wyoming, following a lawsuit filed by the American Civil Liberties Union (ACLU)."
+            },
+            {
+                "title": "Biden Administration Announces Plan to Address Infant Formula Shortage",
+                "risk_level": "Medium",
+                "summary": "The Biden administration has announced a plan to address the infant formula shortage in the US, including increased imports and emergency shipments."
             }
         ],
         "South Korea": [
             {
-                "title": "Tensions rise with North Korea as US and South Korea hold joint military drills",
-                "risk_level": "High",
-                "summary": "The United States and South Korea have begun their largest joint military drills in months, amid rising tensions with North Korea."
-            },
-            {
-                "title": "South Korea to strengthen surveillance to counter North Korea's cyber threats",
+                "title": "Anti-govt protesters clash with police in Seoul over labour reform plans",
                 "risk_level": "Medium",
-                "summary": "South Korea has plans to enhance its cybersecurity measures to counter North Korea's growing cyber threats and disrupt operations."
+                "summary": "Labor unions in South Korea plan to hold a massive rally in Seoul on Monday to protest the government's new labor reform plans, which they claim will lead to unfair dismissal."
             },
             {
-                "title": "Pro-CHOE government protest in South Korea turns violent",
-                "risk_level": "High",
-                "summary": "Protest in South Korea against the new government escalated into clashes between the protesters and police on Monday, leaving several people injured."
+                "title": "Yoon administration says it will take 'all necessary steps' to strengthen security",
+                "risk_level": "Medium",
+                "summary": "South Korean President Yoon Suk-yeol vowed to take \"all necessary steps\" to strengthen the country's security in the face of North Korea's increasing nuclear and missile threats."
+            },
+            {
+                "title": "South Korean, US navies hold exercises in Yellow Sea amid tensions with North",
+                "risk_level": "Medium",
+                "summary": "The South Korean and US navies conducted joint exercises in the Yellow Sea on Tuesday, a move likely aimed at deterring North Korea's recent military activities."
             }
         ],
         "Japan": [
             {
-                "title": "Japan protests erupt over nuclear policy",
-                "risk_level": "Medium",
-                "summary": "Opposition groups held rallies in Tokyo, calling for the government to adopt a more cautious nuclear energy approach."
-            },
-            {
-                "title": "North Korea tests missiles near Japan's territorial waters",
+                "title": "Japan's Fossil Fuel Policy Sparks Protests",
                 "risk_level": "High",
-                "summary": "Seoul and Washington condemn the latest provocation, with South Korea's military saying Tokyo and Seoul agreed to work together to protect their shared interests."
+                "summary": "Thousands of protesters have taken to the streets of Tokyo and other Japanese cities to voice their opposition to the government's plan to boost fossil fuel production, citing environmental concerns and climate change risks."
             },
             {
-                "title": "Japan's ruling party leader faces opposition over support for Ukraine",
+                "title": "Japan's Ruling Party Loses Majority, Risks Election Call",
                 "risk_level": "Medium",
-                "summary": "Critics accuse the leader of the Liberal Democratic Party (LDP) of being overly sympathetic to Ukraine, sparking internal party divisions and external pressure from Moscow."
+                "summary": "A surprise loss for Japan's ruling party in a parliamentary election has raised the prospect of a snap election, potentially destabilizing the country's politics and economic policies."
+            },
+            {
+                "title": "Japanese PM's Resignation Sparks Bidding War for Leadership",
+                "risk_level": "High",
+                "summary": "The resignation of Japanese Prime Minister Fumio Kishida has sparked a flurry of activity among potential successors, with several top politicians vying for the position and promising different policy agendas."
             }
         ]
     }
