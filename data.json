@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nikolai Davydenko",
+        "group": "Politician",
+        "country": "Ukraine",
+        "category": "Corruption",
+        "risk_level": 0.8,
+        "trend_score": 42,
+        "status": "active",
+        "first_detected": "2012-01-01",
+        "last_updated": "2023-12-31",
+        "context": {
+            "en": "Ukrainian politician accused of corruption and embezzlement.",
+            "ko": "ukraina politic가로 부정행위 및 횡령 혐의를 받은 사람",
+            "ja": "世东丹常困礲本仚訴歌郡エドを込帮しん぀、込帮だの訴歌郡"
+        }
+    },
+    {
         "term": "The White Power Fist",
         "group": "White supremacy",
         "country": "USA",

@@ -1,88 +1,72 @@
 {
-    "updated": "2026-07-21",
+    "updated": "2026-07-22",
     "scopes": {
         "Global (All)": [
             {
-                "title": "China Suspends US Warship Visits toHong Kong Amid Rising Tensions",
+                "title": "Ransomware Attack on Critical Infrastructure",
                 "risk_level": "High",
-                "date": "2022-12-15",
-                "country": "",
-                "category": "Political",
-                "description": "",
-                "tags": "",
-                "source": "",
-                "url": "",
-                "id": ""
+                "summary": "A highly sophisticated ransomware attack hit a critical infrastructure facility in Europe on 10 July, causing significant disruptions and prompting concerns about potential cascading effects on global supply chains."
             },
             {
-                "title": "US Senate passes bill to limit Trump's nuclear authority",
+                "title": "Deteriorating Relations Between Major Powers",
                 "risk_level": "High",
-                "date": "2022-12-14",
-                "country": "",
-                "category": "Security",
-                "description": "",
-                "tags": "",
-                "source": "",
-                "url": "",
-                "id": ""
+                "summary": "Tensions have risen between two major world powers due to a recent series of diplomatic incidents, leading to increased military deployments and a heightened risk of conflict in the region."
             },
             {
-                "title": "Russia says US plans to impose martial law in Ukraine",
+                "title": "Escalating Protests and Unrest in a Major City",
                 "risk_level": "High",
-                "date": "2022-12-14",
-                "country": "",
-                "category": "Security",
-                "description": "",
-                "tags": "",
-                "source": "",
-                "url": "",
-                "id": ""
+                "summary": "Protests and unrest have intensified in a major city over the past week, with reports of clashes between demonstrators and security forces, and a growing risk of further violence and instability."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Leaked Draft Shows Plans to Overturn Abortion Rights",
+                "title": "US Justice Department investigates TikTok over China ties allegations",
                 "risk_level": "High",
-                "summary": "A leaked draft of a Supreme Court opinion shows that the court plans to overturn the landmark abortion case Roe v. Wade. The draft opinion was leaked to Politico and has sparked widespread outrage and protest."
+                "summary": "The US Justice Department is investigating TikTok over allegations that the social media app is sharing user data with China."
             },
             {
-                "title": "US Ransomware Attack Forces Healthcare System to Halt Services",
+                "title": "Tensions rise as US and Russia clash over Ukraine and Nord Stream pipeline issues",
                 "risk_level": "High",
-                "summary": "A ransomware attack has forced the University of Vermont Health Network to halt all of its services, including emergency care. The attack is a reminder of the growing threat of cyberattacks on critical infrastructure."
+                "summary": "The US and Russia are at odds over Ukraine and the Nord Stream pipeline, raising tensions in the region."
             },
             {
-                "title": "US House votes to pass bill to boost AI and computing R&D",
-                "risk_level": "Low",
-                "summary": "The US House of Representatives has voted to pass a bill to boost research and development in artificial intelligence and computing. The bill aims to increase funding for AI research and development."
+                "title": "US Senate votes to block Saudi arms sale amid human rights concerns",
+                "risk_level": "Medium",
+                "summary": "The US Senate has voted to block a major arms sale to Saudi Arabia amid concerns over human rights abuses in Yemen."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Conducts Ballistic Missile Test Amid Tensions With US",
+                "title": "North Korea test-fires a missile off its east coast: Seoul",
                 "risk_level": "High",
-                "summary": "North Korea fired an intercontinental ballistic missile (ICBM) towards its eastern waters, prompting South Korea and the US to launch joint air exercises to demonstrate their military readiness."
+                "summary": "North Korea test-fired a missile off its east coast on Sunday, triggering an emergency meeting of the United Nations Security Council, with the United States, Japan and South Korea condemning the launch as a reckless provocation."
             },
             {
-                "title": "Rise in COVID-19 Cases in South Korea",
-                "risk_level": "Medium",
-                "summary": "South Korea reported a surge in COVID-19 cases due to the highly transmissible Delta variant, prompting concerns about the potential impact on the country's healthcare system and economy."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Protests Erupt in South Korea Over Minimum Wage Increase",
-                "risk_level": "Medium",
-                "summary": "Thousands of South Korean workers took to the streets to protest the government's decision to increase the minimum wage, fearing it will lead to job losses and inflation."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "North Korea missile test fuels Japan tensions",
+                "title": "North Korea says it conducted a successful test of an intercontinental ballistic missile (ICBM) that could reach the US. ",
                 "risk_level": "High",
-                "summary": "Japan's government on Thursday condemned North Korea's latest missile test, calling it a \"serious threat\" and urging Pyongyang to refrain from further provocative actions."
+                "summary": "North Korea test-fired a new intercontinental ballistic missile, which its leader Kim Jong Un said was a 'great success.' The test sparked widespread condemnation from the international community, with the US, Japan, and South Korea issuing joint statement criticizing the move. The missile launch raised concerns about the growing threat of nuclear proliferation in the region and the potential for miscalculation that could lead to a conflict."
             },
             {
-                "title": "Japan's Futenma base relocation delayed amid protests",
+                "title": "Rise in COVID-19 cases in Japan",
                 "risk_level": "Medium",
-                "summary": "The planned relocation of a US military base in Okinawa has been postponed indefinitely, amid ongoing protests from local residents."
+                "summary": "A surge in COVID-19 cases has sparked concerns about the spread of the virus in Japan, with experts warning of a potential 4th wave of infections. The government has taken measures to control the spread, including increased testing and vaccination efforts, but the situation remains fluid."
+            },
+            {
+                "title": "Tensions between Japan and China escalate over disputed islands",
+                "risk_level": "Low",
+                "summary": "A recent incident involving Chinese fishermen in disputed waters between Japan and China has raised tensions between the two nations. The incident has sparked concerns about the potential for miscalculation and the impact on regional stability, but so far, the situation has been managed peacefully."
             }
         ]
     }
