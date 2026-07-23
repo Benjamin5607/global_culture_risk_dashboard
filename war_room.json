@@ -1,55 +1,67 @@
 {
     "updated": "2026-07-23",
     "scopes": {
+        "Global (All)": [
+            {
+                "title": "Taiwan says China has carried out largest incursion yet into its air defence zone as tensions escalate",
+                "risk_level": "High",
+                "summary": "China has carried out its largest incursion yet into Taiwan\\u2019s air defence zone, with 71 Chinese aircraft entering the zone over the past 24 hours, the country\\u2019s military said."
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": ""
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": ""
+            }
+        ],
         "United States": [
             {
-                "title": "Heatwave affects Midwest and South US, causing power outages and water shortages",
+                "title": "Mass Shooting in Highland Park, Illinois",
                 "risk_level": "High",
-                "summary": "A prolonged heatwave has gripped the Midwest and South US, leading to power outages, water shortages, and health concerns."
+                "summary": "A mass shooting occurred in Highland Park, Illinois, on July 4, 2022, resulting in the deaths of six people."
             },
             {
-                "title": "Supreme Court ruling on Roe v. Wade anniversary sparks protests and abortion clinic attacks",
+                "title": "Escalation of Tensions between the US and China over Taiwan",
                 "risk_level": "High",
-                "summary": "The anniversary of the Supreme Court's decision to overturn Roe v. Wade sparked protests and attacks on abortion clinics across the US."
+                "summary": "The US has strengthened its military presence in Asia, heightening tensions with China, which claims Taiwan as its own."
             },
             {
-                "title": "US Supreme Court ruling on student loan forgiveness sparks controversy and protests",
-                "risk_level": "Medium",
-                "summary": "The US Supreme Court's ruling on student loan forgiveness has sparked controversy and protests across the country, with many calling for the Biden administration to take action to protect student loan debtors."
+                "title": "FBI Raid on Donald Trump's Mar-a-Lago Estate",
+                "risk_level": "High",
+                "summary": "The FBI conducted a search at former US President Donald Trump's Mar-a-Lago estate, sparking controversy and debate over executive privilege."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Fires Missile Over Japan",
+                "title": "North Korea launches ballistic missiles, sparks concerns in South Korea",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile over Japan on August 28-29, 2023, prompting the evacuation of two million people, according to the latest updates."
+                "summary": "North Korea has launched multiple ballistic missiles, prompting an emergency meeting of the United Nations Security Council and raising concerns about the potential for military action in South Korea."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "South Korea's president warns of 'grave consequences' over North Korea's nuclear program",
+                "risk_level": "High",
+                "summary": "South Korea's President has warned of 'grave consequences' if North Korea continues to develop its nuclear program, amid concerns about the potential for military conflict."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Protests erupt in South Korea over labor law reforms",
+                "risk_level": "Medium",
+                "summary": "Protests have erupted in South Korea over proposed labor law reforms, which opponents argue will weaken workers' rights and undermine the country's social safety net."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's government announces expansion of missile shield",
+                "title": "Japan PM Fumio Kishida Announces Plans to Reform Country's Retirement System",
                 "risk_level": "Medium",
-                "summary": "Tokyo expands missile defense shield in response to North Korea's increasing missile tests."
+                "summary": "Japanese Prime Minister Fumio Kishida has announced plans to reform the country's retirement system, which has been criticized for being overly complex and leading to poverty among the elderly. The reforms aim to simplify the system, increase benefits, and reduce bureaucracy."
             },
             {
-                "title": "Japan protests China's missile tests in disputed waters",
+                "title": "North Korea Fires Missile Over Japan, Triggering Air Raid Sirens in Tokyo",
                 "risk_level": "High",
-                "summary": "Tokyo lodges formal protest with Beijing over recent missile tests in disputed waters."
-            },
-            {
-                "title": "Japan sees rise in 'silent' abortions as abortion rights come under pressure",
-                "risk_level": "Low",
-                "summary": "Japan sees rise in women having abortions without hospital visits as strict laws and social pressures drive up 'silent' abortions"
+                "summary": "North Korea fired a missile over Japan on August 28, triggering air raid sirens in Tokyo and other major cities. The missile landed in the Pacific Ocean and did not cause any damage or injuries."
             }
         ]
     }
