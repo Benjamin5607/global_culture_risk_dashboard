@@ -1,72 +1,55 @@
 {
     "updated": "2026-07-23",
     "scopes": {
-        "Global (All)": [
-            {
-                "title": "US-China trade tensions escalate amid Taiwan tensions",
-                "risk_level": "High",
-                "summary": "US-China tensions over Taiwan have led to a worsening of trade relations, with both countries imposing new tariffs."
-            },
-            {
-                "title": "UN warns of unprecedented food shortages due to war in Ukraine",
-                "risk_level": "High",
-                "summary": "The UN has warned that food shortages due to the ongoing conflict in Ukraine are reaching catastrophic levels"
-            },
-            {
-                "title": "Brazil's Bolsonaro faces growing pressure from Congress",
-                "risk_level": "Medium",
-                "summary": "Brazil's President Bolsonaro is facing increasing pressure from Congress, which is pushing to remove him from office"
-            }
-        ],
         "United States": [
             {
-                "title": "Ukraine war: U.S. to send more tanks to Ukraine",
-                "risk_level": "Medium",
-                "summary": "The U.S. says it will send 31 M1 Abrams tanks to Ukraine, as part of a broader package of military aid. The move is seen as a significant escalation in the West's support for Ukraine in its conflict with Russia."
-            },
-            {
-                "title": "U.S. Capitol Police officer shot in Washington D.C.",
+                "title": "Heatwave affects Midwest and South US, causing power outages and water shortages",
                 "risk_level": "High",
-                "summary": "A U.S. Capitol Police officer was shot and injured in Washington D.C. during a domestic terrorism incident. The officer's condition is reported to be stable."
+                "summary": "A prolonged heatwave has gripped the Midwest and South US, leading to power outages, water shortages, and health concerns."
             },
             {
-                "title": "U.S. House passes bill to avert national rail strike",
+                "title": "Supreme Court ruling on Roe v. Wade anniversary sparks protests and abortion clinic attacks",
+                "risk_level": "High",
+                "summary": "The anniversary of the Supreme Court's decision to overturn Roe v. Wade sparked protests and attacks on abortion clinics across the US."
+            },
+            {
+                "title": "US Supreme Court ruling on student loan forgiveness sparks controversy and protests",
                 "risk_level": "Medium",
-                "summary": "The U.S. House of Representatives passed a bill to avert a national rail strike by imposing a tentative agreement on rail workers. The measure now goes to the Senate for consideration."
+                "summary": "The US Supreme Court's ruling on student loan forgiveness has sparked controversy and protests across the country, with many calling for the Biden administration to take action to protect student loan debtors."
             }
         ],
         "South Korea": [
             {
-                "title": "N. Korea fires ballistic missile into Japan's EEZ, sparks global condemnation",
+                "title": "North Korea Fires Missile Over Japan",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile into Japan's exclusive economic zone (EEZ) on January 24, 2023, prompting strong condemnation from the global community."
+                "summary": "North Korea fired a ballistic missile over Japan on August 28-29, 2023, prompting the evacuation of two million people, according to the latest updates."
             },
             {
-                "title": "Seoul's spy agency warns of potential N. Korea cyberattacks",
-                "risk_level": "Medium",
-                "summary": "South Korea's National Intelligence Service (NIS) has issued a warning about potential cyberattacks from North Korea, citing a surge in suspicious online activities."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Protest against Yoon government escalates in Seoul",
-                "risk_level": "Low",
-                "summary": "Hundreds of protesters gathered in front of the Presidential Palace in Seoul to express their opposition to President Yoon Suk-yeol's policies, leading to minor clashes with police."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Defence Ministry confirms 4 Chinese warships spotted in East China Sea",
+                "title": "Japan's government announces expansion of missile shield",
                 "risk_level": "Medium",
-                "summary": "Japanese Defence Ministry confirms the presence of 4 Chinese warships in the East China Sea, raising tensions in the region."
+                "summary": "Tokyo expands missile defense shield in response to North Korea's increasing missile tests."
             },
             {
-                "title": "Tokyo's Shinjuku district hit with suspected 'Ammunition explosion'; casualties reported",
+                "title": "Japan protests China's missile tests in disputed waters",
                 "risk_level": "High",
-                "summary": "An explosion in Tokyo's Shinjuku district is believed to be related to ammunition, resulting in reported casualties."
+                "summary": "Tokyo lodges formal protest with Beijing over recent missile tests in disputed waters."
             },
             {
-                "title": "Japan considers revising pacifist constitution to allow greater military involvement amid China threat",
-                "risk_level": "High",
-                "summary": "Japan is considering revisions to its pacifist constitution to allow for increased military involvement, driven by growing concern over China's regional ambitions."
+                "title": "Japan sees rise in 'silent' abortions as abortion rights come under pressure",
+                "risk_level": "Low",
+                "summary": "Japan sees rise in women having abortions without hospital visits as strict laws and social pressures drive up 'silent' abortions"
             }
         ]
     }
