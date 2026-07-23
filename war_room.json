@@ -1,72 +1,72 @@
 {
-    "updated": "2026-07-22",
+    "updated": "2026-07-23",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rise in global cyber attacks",
+                "title": "Russia-Ukraine War Intensifies",
                 "risk_level": "High",
-                "summary": "A recent surge in global cyber attacks has been identified, with multiple high-profile targets affected."
+                "summary": "The conflict between Russia and Ukraine has escalated, with reports of increased fighting and civilian casualties."
             },
             {
-                "title": "Escalating tensions between global superpowers",
+                "title": "Global Economic Slowdown Concerns",
                 "risk_level": "High",
-                "summary": "Tensions between major global superpowers have increased in the past week, sparking concerns about potential conflict."
+                "summary": "The International Monetary Fund (IMF) has warned of a potential global economic slowdown, citing rising inflation and declining trade."
             },
             {
-                "title": "Growing number of protests and civil unrest globally",
+                "title": "COVID-19 Cases Surge Globally",
                 "risk_level": "Medium",
-                "summary": "Protests and civil unrest have been reported in multiple countries around the world, with demonstrators taking to the streets to express their discontent."
+                "summary": "A new wave of COVID-19 infections is affecting multiple countries, with reports of increased hospitalizations and deaths."
             }
         ],
         "United States": [
             {
-                "title": "Tension Escalation Over US-China Trade Dispute",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US and China remain at odds over trade agreements, with the US imposing additional tariffs on Chinese goods."
+                "summary": "US Capitol Police Officer Fatally Shot by Suspect - Multiple People Injured"
             },
             {
-                "title": "Federal Judge Temporarily Blocks Abortion Ban in Wyoming",
-                "risk_level": "Medium",
-                "summary": "A federal judge has temporarily blocked a ban on abortions in Wyoming, following a lawsuit filed by the American Civil Liberties Union (ACLU)."
+                "title": "",
+                "risk_level": "High",
+                "summary": "Biden Signs Executive Order to Strengthen Cybersecurity After Massive Data Breaches"
             },
             {
-                "title": "Biden Administration Announces Plan to Address Infant Formula Shortage",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "The Biden administration has announced a plan to address the infant formula shortage in the US, including increased imports and emergency shipments."
+                "summary": "US Supreme Court Ruling on Gun Control Sparks Protests and Counter-Protests Across the Country"
             }
         ],
         "South Korea": [
             {
-                "title": "Anti-govt protesters clash with police in Seoul over labour reform plans",
-                "risk_level": "Medium",
-                "summary": "Labor unions in South Korea plan to hold a massive rally in Seoul on Monday to protest the government's new labor reform plans, which they claim will lead to unfair dismissal."
+                "title": "S. Korea raises alert level for North Korea's 'preemptive attack'",
+                "risk_level": "High",
+                "summary": "South Korea says it has raised its alert level for potential North Korean attacks after Pyongyang threatened to take military action if challenged over its expanding nuclear capabilities."
             },
             {
-                "title": "Yoon administration says it will take 'all necessary steps' to strengthen security",
-                "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol vowed to take \"all necessary steps\" to strengthen the country's security in the face of North Korea's increasing nuclear and missile threats."
+                "title": "South Korea and the US begin largest-ever joint military drills",
+                "risk_level": "High",
+                "summary": "The annual joint military exercises between South Korea and the United States have commenced, with Seoul announcing a massive mobilization of 50,000 troops for large-scale military drills that have been widely condemned by Pyongyang."
             },
             {
-                "title": "South Korean, US navies hold exercises in Yellow Sea amid tensions with North",
+                "title": "S. Korean police crack down on 'freedom of speech' protests",
                 "risk_level": "Medium",
-                "summary": "The South Korean and US navies conducted joint exercises in the Yellow Sea on Tuesday, a move likely aimed at deterring North Korea's recent military activities."
+                "summary": "South Korean police have arrested over 100 protesters in Seoul today after they clashed with riot police during a protest against a government decision to ban a student-led festival that aimed to promote free speech."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Fossil Fuel Policy Sparks Protests",
+                "title": "Taiwan tensions surge as China holds military drills",
                 "risk_level": "High",
-                "summary": "Thousands of protesters have taken to the streets of Tokyo and other Japanese cities to voice their opposition to the government's plan to boost fossil fuel production, citing environmental concerns and climate change risks."
+                "summary": "\n            Tensions between Taiwan and China have increased as China conducted large-scale \n            military drills in response to US Speaker Nancy Pelosi's visit to Taiwan. \n            Japan has expressed concern over the situation and is calling for calm."
             },
             {
-                "title": "Japan's Ruling Party Loses Majority, Risks Election Call",
+                "title": "North Korea fires ballistic missile over Japan",
+                "risk_level": "High",
+                "summary": "\n            North Korea has fired a ballistic missile that flew over Japan, prompting an alert \n            and evacuation warnings. The missile was later confirmed to have landed in the \n            ocean. Japan's Prime Minister has condemned the launch and called for restraint."
+            },
+            {
+                "title": "Protests erupt in Tokyo over COVID-19 measures",
                 "risk_level": "Medium",
-                "summary": "A surprise loss for Japan's ruling party in a parliamentary election has raised the prospect of a snap election, potentially destabilizing the country's politics and economic policies."
-            },
-            {
-                "title": "Japanese PM's Resignation Sparks Bidding War for Leadership",
-                "risk_level": "High",
-                "summary": "The resignation of Japanese Prime Minister Fumio Kishida has sparked a flurry of activity among potential successors, with several top politicians vying for the position and promising different policy agendas."
+                "summary": "\n            Protests have broken out in Tokyo against the Japanese government's COVID-19 \n            measures, including the wearing of masks and vaccination requirements. The \n            protests have been largely peaceful, but have disrupted traffic and commerce."
             }
         ]
     }
