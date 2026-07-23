@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Risk of cyberattack on critical infrastructure",
+                "title": "US-China trade tensions escalate amid Taiwan tensions",
                 "risk_level": "High",
-                "summary": "Threats detected targeting major energy companies' IT systems."
+                "summary": "US-China tensions over Taiwan have led to a worsening of trade relations, with both countries imposing new tariffs."
             },
             {
-                "title": "Growing protests in Eastern Europe",
+                "title": "UN warns of unprecedented food shortages due to war in Ukraine",
+                "risk_level": "High",
+                "summary": "The UN has warned that food shortages due to the ongoing conflict in Ukraine are reaching catastrophic levels"
+            },
+            {
+                "title": "Brazil's Bolsonaro faces growing pressure from Congress",
                 "risk_level": "Medium",
-                "summary": "Demonstrations escalate in several capital cities over economic concerns."
-            },
-            {
-                "title": "Tensions rise between nuclear powers",
-                "risk_level": "High",
-                "summary": "Increased military posturing and rhetoric raises global fears of conflict."
+                "summary": "Brazil's President Bolsonaro is facing increasing pressure from Congress, which is pushing to remove him from office"
             }
         ],
         "United States": [
             {
-                "title": "US Senate Republicans Introduce Bill to Ban TikTok",
-                "risk_level": "High",
-                "summary": "US senators have introduced a bill that would ban the popular social media app TikTok from the country due to concerns over data privacy and national security."
+                "title": "Ukraine war: U.S. to send more tanks to Ukraine",
+                "risk_level": "Medium",
+                "summary": "The U.S. says it will send 31 M1 Abrams tanks to Ukraine, as part of a broader package of military aid. The move is seen as a significant escalation in the West's support for Ukraine in its conflict with Russia."
             },
             {
-                "title": "Gun Control Groups Sue Florida Over 'Dangerous' Stand Your Ground Law Revisions",
+                "title": "U.S. Capitol Police officer shot in Washington D.C.",
                 "risk_level": "High",
-                "summary": "Gun control groups have filed a lawsuit against Florida, alleging that recent revisions to the state's stand your ground law put civilians at risk."
+                "summary": "A U.S. Capitol Police officer was shot and injured in Washington D.C. during a domestic terrorism incident. The officer's condition is reported to be stable."
             },
             {
-                "title": "Texas Supreme Court Allows Lawsuit Against City of Austin to Proceed, Overriding Lower Court Ruling",
-                "risk_level": "High",
-                "summary": "The Texas Supreme Court has allowed a lawsuit against the city of Austin to proceed, overruling a lower court's ruling that the case should be dismissed."
+                "title": "U.S. House passes bill to avert national rail strike",
+                "risk_level": "Medium",
+                "summary": "The U.S. House of Representatives passed a bill to avert a national rail strike by imposing a tentative agreement on rail workers. The measure now goes to the Senate for consideration."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul, South Korea holds emergency COVID-19 meeting due to rising Omicron cases",
-                "risk_level": "Medium",
-                "summary": "The Seoul city government called an emergency meeting to tackle the rising number of COVID-19 cases in the metropolitan area."
-            },
-            {
-                "title": "South Korean stocks and currency tumble due to concerns over US recession",
+                "title": "N. Korea fires ballistic missile into Japan's EEZ, sparks global condemnation",
                 "risk_level": "High",
-                "summary": "Concerns over a possible recession in the US have caused stocks and the currency in South Korea to plummet, with the Korean Won falling to its lowest point since 2009."
+                "summary": "North Korea fired a ballistic missile into Japan's exclusive economic zone (EEZ) on January 24, 2023, prompting strong condemnation from the global community."
             },
             {
-                "title": "Protests in South Korea over pension reform plans, thousands march in Seoul",
+                "title": "Seoul's spy agency warns of potential N. Korea cyberattacks",
                 "risk_level": "Medium",
-                "summary": "Thousands of people took to the streets in Seoul to protest against pension reform plans that have been proposed by the South Korean government."
+                "summary": "South Korea's National Intelligence Service (NIS) has issued a warning about potential cyberattacks from North Korea, citing a surge in suspicious online activities."
+            },
+            {
+                "title": "Protest against Yoon government escalates in Seoul",
+                "risk_level": "Low",
+                "summary": "Hundreds of protesters gathered in front of the Presidential Palace in Seoul to express their opposition to President Yoon Suk-yeol's policies, leading to minor clashes with police."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Japan detects Omicron subvariant XBB.1.5 in travelers"
-            },
-            {
-                "title": "",
+                "title": "Japan's Defence Ministry confirms 4 Chinese warships spotted in East China Sea",
                 "risk_level": "Medium",
-                "summary": "Tens of thousands of residents in Tokyo ordered to evacuate due to rising flood levels"
+                "summary": "Japanese Defence Ministry confirms the presence of 4 Chinese warships in the East China Sea, raising tensions in the region."
             },
             {
-                "title": "",
+                "title": "Tokyo's Shinjuku district hit with suspected 'Ammunition explosion'; casualties reported",
                 "risk_level": "High",
-                "summary": "Japan to increase defense spending by 8.5% amid Russia-Ukraine war"
+                "summary": "An explosion in Tokyo's Shinjuku district is believed to be related to ammunition, resulting in reported casualties."
+            },
+            {
+                "title": "Japan considers revising pacifist constitution to allow greater military involvement amid China threat",
+                "risk_level": "High",
+                "summary": "Japan is considering revisions to its pacifist constitution to allow for increased military involvement, driven by growing concern over China's regional ambitions."
             }
         ]
     }
