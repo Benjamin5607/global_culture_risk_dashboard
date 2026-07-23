@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Conflict Escalation",
+                "title": "Risk of cyberattack on critical infrastructure",
                 "risk_level": "High",
-                "summary": "There has been a recent escalation in global conflicts, leading to increased tensions and risk of further aggression."
+                "summary": "Threats detected targeting major energy companies' IT systems."
             },
             {
-                "title": "Cyber Attack on Critical Infrastructure",
+                "title": "Growing protests in Eastern Europe",
                 "risk_level": "Medium",
-                "summary": "A significant cyber attack has been reported on critical infrastructure, highlighting the vulnerability of modern systems."
+                "summary": "Demonstrations escalate in several capital cities over economic concerns."
             },
             {
-                "title": "Global Economic Instability",
+                "title": "Tensions rise between nuclear powers",
                 "risk_level": "High",
-                "summary": "Global economic instability has increased, with many countries experiencing declining growth and rising unemployment."
+                "summary": "Increased military posturing and rhetoric raises global fears of conflict."
             }
         ],
         "United States": [
             {
-                "title": "Federal Judge Blocks Biden's Student Loan Forgiveness Plan",
+                "title": "US Senate Republicans Introduce Bill to Ban TikTok",
                 "risk_level": "High",
-                "summary": "A federal judge has blocked President Biden's student loan forgiveness plan, dealing a blow to the administration's efforts to alleviate the burden of student debt on millions of Americans."
+                "summary": "US senators have introduced a bill that would ban the popular social media app TikTok from the country due to concerns over data privacy and national security."
             },
             {
-                "title": "U.S. and China Spar Over Balloon Surveillance",
+                "title": "Gun Control Groups Sue Florida Over 'Dangerous' Stand Your Ground Law Revisions",
                 "risk_level": "High",
-                "summary": "The U.S. and China are at odds over a surveillance balloon that China has admitted to sending over the U.S. to gather weather data."
+                "summary": "Gun control groups have filed a lawsuit against Florida, alleging that recent revisions to the state's stand your ground law put civilians at risk."
             },
             {
-                "title": "Florida's 'Don't Say Gay' Lawsuit Advances",
+                "title": "Texas Supreme Court Allows Lawsuit Against City of Austin to Proceed, Overriding Lower Court Ruling",
                 "risk_level": "High",
-                "summary": "A federal appeals court has allowed Florida's parental rights law, also known as the 'Don't Say Gay' law, to remain in effect while it is being challenged in court."
+                "summary": "The Texas Supreme Court has allowed a lawsuit against the city of Austin to proceed, overruling a lower court's ruling that the case should be dismissed."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's missile tests spark tensions with South Korea and Japan.",
-                "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles into the East Sea, which landed near South Korea and Japan. This move has raised tensions in the region."
-            },
-            {
-                "title": "Protests against the government continue in South Korea.",
+                "title": "Seoul, South Korea holds emergency COVID-19 meeting due to rising Omicron cases",
                 "risk_level": "Medium",
-                "summary": "Thousands of protesters gathered in Seoul to demonstrate against the government's handling of recent economic issues, and clashes with police have been reported."
+                "summary": "The Seoul city government called an emergency meeting to tackle the rising number of COVID-19 cases in the metropolitan area."
             },
             {
-                "title": "South Korea and the US hold joint military drills amidst North Korea tensions.",
+                "title": "South Korean stocks and currency tumble due to concerns over US recession",
                 "risk_level": "High",
-                "summary": "The South Korean and US militaries have begun a series of joint exercises in the region, in response to North Korea's recent missile tests and escalating tensions."
+                "summary": "Concerns over a possible recession in the US have caused stocks and the currency in South Korea to plummet, with the Korean Won falling to its lowest point since 2009."
+            },
+            {
+                "title": "Protests in South Korea over pension reform plans, thousands march in Seoul",
+                "risk_level": "Medium",
+                "summary": "Thousands of people took to the streets in Seoul to protest against pension reform plans that have been proposed by the South Korean government."
             }
         ],
         "Japan": [
             {
-                "title": "Tsunami warning system test causes confusion in Japan",
-                "risk_level": "Medium",
-                "summary": "A test of Japan's tsunami warning system on July 18, 2024, caused confusion among residents, as it was not clearly communicated that it was only a drill."
-            },
-            {
-                "title": "Anti-whaling activists protest in Tokyo",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "On July 20, 2024, a group of anti-whaling activists held a protest in Tokyo against Japan's continued whaling practices."
+                "summary": "Japan detects Omicron subvariant XBB.1.5 in travelers"
             },
             {
-                "title": "Japan's defense minister visits the Philippines",
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Tens of thousands of residents in Tokyo ordered to evacuate due to rising flood levels"
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "On July 22, 2024, Japan's defense minister visited the Philippines, a move seen as a key step in strengthening bilateral ties between the two countries."
+                "summary": "Japan to increase defense spending by 8.5% amid Russia-Ukraine war"
             }
         ]
     }
