@@ -1,67 +1,72 @@
 {
-    "updated": "2026-07-23",
+    "updated": "2026-07-24",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Taiwan says China has carried out largest incursion yet into its air defence zone as tensions escalate",
+                "title": "Rising Tensions between India and Pakistan over Kashmir",
                 "risk_level": "High",
-                "summary": "China has carried out its largest incursion yet into Taiwan\\u2019s air defence zone, with 71 Chinese aircraft entering the zone over the past 24 hours, the country\\u2019s military said."
+                "summary": "Escalating violence and diplomatic tensions between India and Pakistan over the disputed region of Kashmir. Increased risk of military action and global instability."
             },
             {
-                "title": "",
+                "title": "Global Economic Slowdown and Potential Recession",
+                "risk_level": "High",
+                "summary": "Growing concerns about a global economic slowdown, with several countries experiencing recession. Rising debt, trade tensions, and decreasing investor confidence."
+            },
+            {
+                "title": "Cyber Attack on Global Supply Chain",
                 "risk_level": "Medium",
-                "summary": ""
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "summary": "A sophisticated cyber attack on a major supply chain company, disrupting global trade and logistics. Increased risk of data breaches and supply chain disruptions."
             }
         ],
         "United States": [
             {
-                "title": "Mass Shooting in Highland Park, Illinois",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A mass shooting occurred in Highland Park, Illinois, on July 4, 2022, resulting in the deaths of six people."
+                "summary": "Supreme Court's conservative majority blocks Biden's student loan forgiveness plan on July 13, 2023. This has raised concerns about access to higher education for vulnerable communities."
             },
             {
-                "title": "Escalation of Tensions between the US and China over Taiwan",
-                "risk_level": "High",
-                "summary": "The US has strengthened its military presence in Asia, heightening tensions with China, which claims Taiwan as its own."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Tensions escalate between the White House and congressional Democrats over Biden's economic agenda, including a $430 billion spending package, on July 11, 2023. This has raised concerns about the country's fiscal responsibility and the ability to pass key legislation."
             },
             {
-                "title": "FBI Raid on Donald Trump's Mar-a-Lago Estate",
-                "risk_level": "High",
-                "summary": "The FBI conducted a search at former US President Donald Trump's Mar-a-Lago estate, sparking controversy and debate over executive privilege."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "A group of protesters clash with police during a demonstration against a proposed pipeline project in Oklahoma on July 15, 2023. While the incident was relatively contained, it highlights ongoing concerns about environmental activism and public safety."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea launches ballistic missiles, sparks concerns in South Korea",
+                "title": "North Korea Fires Six Ballistic Missiles into Sea",
                 "risk_level": "High",
-                "summary": "North Korea has launched multiple ballistic missiles, prompting an emergency meeting of the United Nations Security Council and raising concerns about the potential for military action in South Korea."
+                "summary": "North Korea fired six ballistic missiles into the sea between Korea and Japan, South Korea's military said, amid concerns the nuclear-armed state could soon conduct a long-range missile test."
             },
             {
-                "title": "South Korea's president warns of 'grave consequences' over North Korea's nuclear program",
-                "risk_level": "High",
-                "summary": "South Korea's President has warned of 'grave consequences' if North Korea continues to develop its nuclear program, amid concerns about the potential for military conflict."
-            },
-            {
-                "title": "Protests erupt in South Korea over labor law reforms",
+                "title": "South Korean Police Arrest 13 Protesters Over Anti-President Demonstrations",
                 "risk_level": "Medium",
-                "summary": "Protests have erupted in South Korea over proposed labor law reforms, which opponents argue will weaken workers' rights and undermine the country's social safety net."
+                "summary": "South Korean police arrested 13 protesters on Tuesday for participating in anti-president demonstrations that took place in Seoul, according to reports."
+            },
+            {
+                "title": "South Korea and US to Hold Military Drill as Tensions with North Korea Rise",
+                "risk_level": "High",
+                "summary": "South Korea and the US will hold a joint military drill next month, Seoul's defense ministry said on Wednesday, in what would be the largest such exercise in years, amid rising tensions with North Korea."
             }
         ],
         "Japan": [
             {
-                "title": "Japan PM Fumio Kishida Announces Plans to Reform Country's Retirement System",
-                "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida has announced plans to reform the country's retirement system, which has been criticized for being overly complex and leading to poverty among the elderly. The reforms aim to simplify the system, increase benefits, and reduce bureaucracy."
+                "title": "Protests in Tokyo Amid Labor Law Reforms",
+                "risk_level": "High",
+                "summary": "Thousands of protesters gathered in Tokyo to demonstrate against the Japanese government's proposed labor law reforms. The reforms have been met with strong opposition from workers' unions and opposition parties, sparking concerns about labor rights and social stability."
             },
             {
-                "title": "North Korea Fires Missile Over Japan, Triggering Air Raid Sirens in Tokyo",
+                "title": "North Korea Fires Missile Over Japan",
                 "risk_level": "High",
-                "summary": "North Korea fired a missile over Japan on August 28, triggering air raid sirens in Tokyo and other major cities. The missile landed in the Pacific Ocean and did not cause any damage or injuries."
+                "summary": "North Korea fired a ballistic missile over Japan, sparking a warning siren and evacuation orders in the country's west. The incident highlights the ongoing tensions between North Korea and Japan, and the risk of further escalations in the region."
+            },
+            {
+                "title": "Japan Faces Pressure Over Whaling Practices",
+                "risk_level": "Medium",
+                "summary": "Japan has come under intense international pressure over its whaling practices, with the International Court of Justice ordering the country to stop hunting whales in the Southern Ocean. The move has sparked concerns about Japan's commitment to international law and its impact on its relationship with other countries."
             }
         ]
     }
