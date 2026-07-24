@@ -3,70 +3,53 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber-Attack on Global Supply Chain",
+                "title": "Global economic growth concerns amid rising trade tensions",
                 "risk_level": "High",
-                "summary": "A global cyber-attack has been launched on critical infrastructure in the supply chain, disrupting operations and causing widespread economic losses."
+                "summary": "The ongoing trade tensions between the US and China, along with other major economies, have raised concerns about global economic growth."
             },
             {
-                "title": "Global Economic Downturn",
+                "title": "US-China tensions escalate over Taiwan",
                 "risk_level": "High",
-                "summary": "A global economic downturn has been predicted due to a combination of factors including rising interest rates and declining global demand."
+                "summary": "The US and China have escalated tensions over Taiwan, with the US sending a top diplomat to Taiwan and China responding with military drills."
             },
             {
-                "title": "Social Media Disinformation Campaign",
+                "title": "Social media platforms face scrutiny over hate speech and misinformation",
                 "risk_level": "Medium",
-                "summary": "A social media disinformation campaign has been launched to influence public opinion and sway the outcome of upcoming elections."
+                "summary": "Social media platforms have come under increasing scrutiny over their handling of hate speech and misinformation, with lawmakers calling for greater regulation."
             }
         ],
         "United States": [
             {
-                "title": "Tensions Escalate Between US and China Over Taiwan",
+                "title": "Mass Shooting in Highland Park, Illinois",
                 "risk_level": "High",
-                "summary": "China's military exercises near Taiwan have heightened tensions between Beijing and Washington, sparking concerns of a potential conflict."
+                "summary": "A mass shooting occurred in Highland Park, Illinois, on July 4, leaving 6 dead and 24 injured"
             },
             {
-                "title": "US Supreme Court Hands Down Ruling on Gun Control",
-                "risk_level": "Medium",
-                "summary": "The US Supreme Court has struck down a New York gun control law, sparking concerns about gun violence and gun rights."
-            },
-            {
-                "title": "Biden Administration Faces Pressure Over Border Security",
+                "title": "Tornado Outbreak in Midwest",
                 "risk_level": "High",
-                "summary": "The Biden administration is facing pressure from lawmakers and the public over the ongoing migrant crisis at the US-Mexico border."
-            }
-        ],
-        "South Korea": [
-            {
-                "title": "South Korean government warns of potential North Korean nuclear test",
-                "risk_level": "High",
-                "summary": "North Korea's recent missile tests have increased tensions in the region, and a nuclear test could lead to further escalation."
+                "summary": "A tornado outbreak occurred in the Midwest, causing widespread damage and 6 reported deaths"
             },
             {
-                "title": "Protests against Japan's education reform continue in South Korea",
+                "title": "Railway Safety Concerns Following Ohio Train Derailment",
                 "risk_level": "Medium",
-                "summary": "Tensions between South Korea and Japan have been escalating over Japan's treatment of Korean forced laborers during WWII, and protests in South Korea are expected to continue."
-            },
-            {
-                "title": "Corruption scandal affects South Korea's presidential election",
-                "risk_level": "Medium",
-                "summary": "A corruption scandal has rocked South Korea's presidential election, with several key figures implicated. This could lead to further instability in the country's politics."
+                "summary": "Concerns over railway safety have emerged following a train derailment in East Palestine, Ohio, releasing toxic chemicals into the environment"
             }
         ],
         "Japan": [
             {
                 "title": "",
-                "risk_level": "High",
-                "summary": "Magnitude 7.4 earthquake strikes off the coast of Japan's Hokkaido on July 22, prompting a tsunami warning and widespread power outages. Damage to infrastructure and potential nuclear accidents at a nearby plant are major concerns."
-            },
-            {
-                "title": "",
                 "risk_level": "Low",
-                "summary": "North Korea fires a ballistic missile into the Sea of Japan on July 24, but it splashes down in the water, causing no damage or casualties."
+                "summary": "At least 2,000 people have been stranded in flood-hit regions of Japan, amid warnings of further rain. Emergency services have rescued over 3,500 people. (Source: BBC, 16 Jul 2024)"
             },
             {
                 "title": "",
                 "risk_level": "Medium",
-                "summary": "A heatwave grips Japan, with temperatures reaching record highs in major cities, leading to concerns about public health and the impact on vulnerable populations."
+                "summary": "The Japan Meteorological Agency has issued a warning about heavy rain hitting western Japan, which is expected to continue until Tuesday. The rain has disrupted train services. (Source: Japan Today, 17 Jul 2024)"
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "Japan’s nuclear regulator has said that radioactive water leaks were detected at a Fukushima Daiichi nuclear power plant, with <10% of it containing radioactive substances. (Source: Kyodo News, 21 Jul 2024)"
             }
         ]
     }
