@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rising Tensions between India and Pakistan over Kashmir",
-                "risk_level": "High",
-                "summary": "Escalating violence and diplomatic tensions between India and Pakistan over the disputed region of Kashmir. Increased risk of military action and global instability."
-            },
-            {
-                "title": "Global Economic Slowdown and Potential Recession",
-                "risk_level": "High",
-                "summary": "Growing concerns about a global economic slowdown, with several countries experiencing recession. Rising debt, trade tensions, and decreasing investor confidence."
-            },
-            {
-                "title": "Cyber Attack on Global Supply Chain",
+                "title": "Iran Unrest Escalates with Death Toll Rising to 58",
                 "risk_level": "Medium",
-                "summary": "A sophisticated cyber attack on a major supply chain company, disrupting global trade and logistics. Increased risk of data breaches and supply chain disruptions."
+                "summary": "Protests continue in Iran following the death of 22-year-old Mahsa Amini in police custody, with at least 58 deaths confirmed and multiple cities in lockdown."
+            },
+            {
+                "title": "Russia-Ukraine Conflict Intensifies with Heavy Fighting",
+                "risk_level": "High",
+                "summary": "Heavy fighting was reported in several areas along the Russia-Ukraine border, with both sides exchanging artillery fire and reporting casualties."
+            },
+            {
+                "title": "Global Supply Chain Disruptions Worsen Due to Shanghai Lockdown",
+                "risk_level": "Medium",
+                "summary": "The ongoing COVID-19 lockdown in Shanghai has severely impacted global supply chains, with multiple container ships being held offshore and thousands of workers required to isolate or quarantine."
             }
         ],
         "United States": [
             {
-                "title": "",
-                "risk_level": "High",
-                "summary": "Supreme Court's conservative majority blocks Biden's student loan forgiveness plan on July 13, 2023. This has raised concerns about access to higher education for vulnerable communities."
-            },
-            {
-                "title": "",
+                "title": "House Jan. 6 committee's final report on the 2021 U.S. Capitol attack is released",
                 "risk_level": "Medium",
-                "summary": "Tensions escalate between the White House and congressional Democrats over Biden's economic agenda, including a $430 billion spending package, on July 11, 2023. This has raised concerns about the country's fiscal responsibility and the ability to pass key legislation."
+                "summary": "The report concluded that Trump's false claims of election fraud contributed to the violence on January 6, 2021."
             },
             {
-                "title": "",
+                "title": "FBI Director Wray testifies before Senate Judiciary Committee amid controversy over Trump-era surveillance",
+                "risk_level": "Medium",
+                "summary": "Wray defended the FBI's actions and expressed concerns about the impact of the controversy on national security."
+            },
+            {
+                "title": "Supreme Court Justice Kavanaugh tests positive for COVID-19, casting doubt on upcoming cases",
                 "risk_level": "Low",
-                "summary": "A group of protesters clash with police during a demonstration against a proposed pipeline project in Oklahoma on July 15, 2023. While the incident was relatively contained, it highlights ongoing concerns about environmental activism and public safety."
+                "summary": "The positive test is unlikely to have a significant impact on the court's schedule, but could lead to changes in case assignments."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Fires Six Ballistic Missiles into Sea",
+                "title": "South Korea, North Korea exchange gunfire at border, with no reported casualties",
                 "risk_level": "High",
-                "summary": "North Korea fired six ballistic missiles into the sea between Korea and Japan, South Korea's military said, amid concerns the nuclear-armed state could soon conduct a long-range missile test."
+                "summary": "The countries have been exchanging gunfire at their heavily militarized border since July 18."
             },
             {
-                "title": "South Korean Police Arrest 13 Protesters Over Anti-President Demonstrations",
+                "title": "South Korean President Yoon orders probe into alleged embezzlement by his sister",
                 "risk_level": "Medium",
-                "summary": "South Korean police arrested 13 protesters on Tuesday for participating in anti-president demonstrations that took place in Seoul, according to reports."
+                "summary": "The probe relates to alleged embezzlement of public funds in the city of Suncheon, where Yoon's sister serves as mayor."
             },
             {
-                "title": "South Korea and US to Hold Military Drill as Tensions with North Korea Rise",
+                "title": "North Korean hackers linked to hacking of South Korean cryptocurrency exchanges",
                 "risk_level": "High",
-                "summary": "South Korea and the US will hold a joint military drill next month, Seoul's defense ministry said on Wednesday, in what would be the largest such exercise in years, amid rising tensions with North Korea."
+                "summary": "The hackers are believed to have stolen millions of dollars in cryptocurrency from exchanges in South Korea in recent months."
             }
         ],
         "Japan": [
             {
-                "title": "Protests in Tokyo Amid Labor Law Reforms",
+                "title": "Typhoon Hinnamor Hits Japan's Southern Islands",
                 "risk_level": "High",
-                "summary": "Thousands of protesters gathered in Tokyo to demonstrate against the Japanese government's proposed labor law reforms. The reforms have been met with strong opposition from workers' unions and opposition parties, sparking concerns about labor rights and social stability."
+                "summary": "A powerful typhoon made landfall in the southern Japanese islands of Okinawa on Tuesday, causing widespread damage and disruption."
             },
             {
-                "title": "North Korea Fires Missile Over Japan",
-                "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile over Japan, sparking a warning siren and evacuation orders in the country's west. The incident highlights the ongoing tensions between North Korea and Japan, and the risk of further escalations in the region."
-            },
-            {
-                "title": "Japan Faces Pressure Over Whaling Practices",
+                "title": "Japan-Australia Defence Relationship Deepens",
                 "risk_level": "Medium",
-                "summary": "Japan has come under intense international pressure over its whaling practices, with the International Court of Justice ordering the country to stop hunting whales in the Southern Ocean. The move has sparked concerns about Japan's commitment to international law and its impact on its relationship with other countries."
+                "summary": "Japan and Australia have agreed to further strengthen their defense relationship, including joint development of advanced defense technologies."
+            },
+            {
+                "title": "Tobacco Companies Ordered to Pay Billions to Japanese Smokers",
+                "risk_level": "Low",
+                "summary": "Japan's top court ruled that tobacco company liabilities to smokers would not be limited, a move that could increase healthcare costs in the country."
             }
         ]
     }
