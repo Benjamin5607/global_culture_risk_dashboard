@@ -3,70 +3,100 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Iran Unrest Escalates with Death Toll Rising to 58",
-                "risk_level": "Medium",
-                "summary": "Protests continue in Iran following the death of 22-year-old Mahsa Amini in police custody, with at least 58 deaths confirmed and multiple cities in lockdown."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "risk_category": "",
+                "start_date": "",
+                "country": "Global (All)",
+                "location": "",
+                "latitude": "",
+                "longitude": "",
+                "risk_description": "",
+                "probability": "",
+                "impact": "",
+                "event_type": ""
             },
             {
-                "title": "Russia-Ukraine Conflict Intensifies with Heavy Fighting",
-                "risk_level": "High",
-                "summary": "Heavy fighting was reported in several areas along the Russia-Ukraine border, with both sides exchanging artillery fire and reporting casualties."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "risk_category": "",
+                "start_date": "",
+                "country": "Global (All)",
+                "location": "",
+                "latitude": "",
+                "longitude": "",
+                "risk_description": "",
+                "probability": "",
+                "impact": "",
+                "event_type": ""
             },
             {
-                "title": "Global Supply Chain Disruptions Worsen Due to Shanghai Lockdown",
-                "risk_level": "Medium",
-                "summary": "The ongoing COVID-19 lockdown in Shanghai has severely impacted global supply chains, with multiple container ships being held offshore and thousands of workers required to isolate or quarantine."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "risk_category": "",
+                "start_date": "",
+                "country": "Global (All)",
+                "location": "",
+                "latitude": "",
+                "longitude": "",
+                "risk_description": "",
+                "probability": "",
+                "impact": "",
+                "event_type": ""
             }
         ],
         "United States": [
             {
-                "title": "House Jan. 6 committee's final report on the 2021 U.S. Capitol attack is released",
-                "risk_level": "Medium",
-                "summary": "The report concluded that Trump's false claims of election fraud contributed to the violence on January 6, 2021."
+                "title": "",
+                "risk_level": "High",
+                "summary": "Gunman kills multiple people at a California church shooting, authorities say"
             },
             {
-                "title": "FBI Director Wray testifies before Senate Judiciary Committee amid controversy over Trump-era surveillance",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Wray defended the FBI's actions and expressed concerns about the impact of the controversy on national security."
+                "summary": "US Supreme Court declines case over vaccine mandates for federal contractors: report."
             },
             {
-                "title": "Supreme Court Justice Kavanaugh tests positive for COVID-19, casting doubt on upcoming cases",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "The positive test is unlikely to have a significant impact on the court's schedule, but could lead to changes in case assignments."
+                "summary": "US Senate confirms new Secretary of State, Antony Blinken's replacement, Robert Sherman."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea, North Korea exchange gunfire at border, with no reported casualties",
+                "title": "North Korea Fires Multiple Ballistic Missiles",
                 "risk_level": "High",
-                "summary": "The countries have been exchanging gunfire at their heavily militarized border since July 18."
+                "summary": "North Korea fired multiple ballistic missiles late at night on July 4, sparking alarm in South Korea and Japan; the missiles flew over the northern region of South Korea before falling into the ocean."
             },
             {
-                "title": "South Korean President Yoon orders probe into alleged embezzlement by his sister",
+                "title": "South Korea to Boost Military Presence in Key Region Amid North Korea Tensions",
+                "risk_level": "High",
+                "summary": "South Korea plans to increase its military presence in a key region near the Demilitarized Zone (DMZ) amid rising tensions with North Korea; the decision comes after a series of recent North Korean missile tests."
+            },
+            {
+                "title": "South Korea's President to Visit Japan to Promote Peace and Cooperation",
                 "risk_level": "Medium",
-                "summary": "The probe relates to alleged embezzlement of public funds in the city of Suncheon, where Yoon's sister serves as mayor."
-            },
-            {
-                "title": "North Korean hackers linked to hacking of South Korean cryptocurrency exchanges",
-                "risk_level": "High",
-                "summary": "The hackers are believed to have stolen millions of dollars in cryptocurrency from exchanges in South Korea in recent months."
+                "summary": "South Korea's President Yoon Suk-yeol is set to visit Japan this week to promote peace and cooperation between the two nations; the visit comes as relations between the two countries have been strained in recent years."
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Hinnamor Hits Japan's Southern Islands",
-                "risk_level": "High",
-                "summary": "A powerful typhoon made landfall in the southern Japanese islands of Okinawa on Tuesday, causing widespread damage and disruption."
-            },
-            {
-                "title": "Japan-Australia Defence Relationship Deepens",
+                "title": "Japan's PM Fumio Kishida Announces Support for Ukraine in Ongoing Conflict with Russia",
                 "risk_level": "Medium",
-                "summary": "Japan and Australia have agreed to further strengthen their defense relationship, including joint development of advanced defense technologies."
+                "summary": "On July 19, 2024, Japan's Prime Minister Fumio Kishida announced his country's support for Ukraine in the ongoing conflict with Russia. This move has increased tensions between Japan and Russia, and the security situation in the region remains unstable."
             },
             {
-                "title": "Tobacco Companies Ordered to Pay Billions to Japanese Smokers",
+                "title": "Tokyo Confirms New COVID-19 Cases Sparking Concerns Amidst Summer Festivals",
                 "risk_level": "Low",
-                "summary": "Japan's top court ruled that tobacco company liabilities to smokers would not be limited, a move that could increase healthcare costs in the country."
+                "summary": "On July 22, 2024, Tokyo confirmed new COVID-19 cases, sparking concerns amidst the ongoing summer festivals. The Japanese government has urged residents to remain vigilant and follow health measures to prevent the spread of the disease."
+            },
+            {
+                "title": "LPG Gas Shortage in Okinawa Due to Increased Demand from Disaster Zones",
+                "risk_level": "High",
+                "summary": "On July 20, 2024, a shortage of liquefied petroleum gas (LPG) was reported in Okinawa due to increased demand from disaster zones in northern Japan. The shortage has affected households and businesses, and the situation is being closely monitored by the government."
             }
         ]
     }
