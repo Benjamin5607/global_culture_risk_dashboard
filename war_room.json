@@ -3,100 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "risk_category": "",
-                "start_date": "",
-                "country": "Global (All)",
-                "location": "",
-                "latitude": "",
-                "longitude": "",
-                "risk_description": "",
-                "probability": "",
-                "impact": "",
-                "event_type": ""
+                "title": "Tensions Rise Between US and Russia Amid NATO Military Buildup",
+                "risk_level": "High",
+                "summary": "The United States and Russia have been engaged in a heated diplomatic exchange over NATO's military build-up in Eastern Europe, with both sides accusing each other of aggressive behavior."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "risk_category": "",
-                "start_date": "",
-                "country": "Global (All)",
-                "location": "",
-                "latitude": "",
-                "longitude": "",
-                "risk_description": "",
-                "probability": "",
-                "impact": "",
-                "event_type": ""
+                "title": "Global Economic Uncertainty Reigns Amidst Ongoing Trade Tensions and Inflation Concerns",
+                "risk_level": "High",
+                "summary": "Global economic uncertainty has persisted in the face of ongoing trade tensions and inflation concerns, with many investors remaining wary of the potential impact on the global economy."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "risk_category": "",
-                "start_date": "",
-                "country": "Global (All)",
-                "location": "",
-                "latitude": "",
-                "longitude": "",
-                "risk_description": "",
-                "probability": "",
-                "impact": "",
-                "event_type": ""
+                "title": "Cyberattacks on US Critical Infrastructure Rise Sharply in Past Week",
+                "risk_level": "Medium",
+                "summary": "In the past seven days, there has been a notable spike in cyberattacks on US critical infrastructure, highlighting the ongoing threat to national security and economic stability."
             }
         ],
         "United States": [
             {
-                "title": "",
+                "title": "Tensions between US and China escalate after Taiwan visit",
                 "risk_level": "High",
-                "summary": "Gunman kills multiple people at a California church shooting, authorities say"
+                "summary": "The visit by US House Speaker Nancy Pelosi to Taiwan heightened tensions between the US and China, raising concerns about a potential conflict in the region."
             },
             {
-                "title": "",
+                "title": "New York governor announces plan to combat gun violence",
                 "risk_level": "Medium",
-                "summary": "US Supreme Court declines case over vaccine mandates for federal contractors: report."
+                "summary": "New York Governor Kathy Hochul proposed a new initiative to address gun violence in the state, which has seen a surge in shootings and homicides."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "US Senate confirms new Secretary of State, Antony Blinken's replacement, Robert Sherman."
+                "title": "US Supreme Court issues ruling on abortion rights",
+                "risk_level": "High",
+                "summary": "The US Supreme Court's decision to overturn Roe v. Wade has sparked widespread protests and protests across the country, highlighting the ongoing controversy over abortion rights."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Fires Multiple Ballistic Missiles",
+                "title": "South Korea's Moon Jae-in faces corruption probe over alleged embezzlement.",
                 "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles late at night on July 4, sparking alarm in South Korea and Japan; the missiles flew over the northern region of South Korea before falling into the ocean."
+                "summary": "Former President Moon Jae-in is facing a corruption probe over an allegation of embezzlement, dealing a blow to his approval ratings."
             },
             {
-                "title": "South Korea to Boost Military Presence in Key Region Amid North Korea Tensions",
+                "title": "Seoul urges calm as North Korea warns of impending nuclear test amid US-South Korea drills.",
                 "risk_level": "High",
-                "summary": "South Korea plans to increase its military presence in a key region near the Demilitarized Zone (DMZ) amid rising tensions with North Korea; the decision comes after a series of recent North Korean missile tests."
+                "summary": "North Korea says a US-South Korea joint military exercise is a 'serious provocation' and warned of potential nuclear tests as tensions escalate."
             },
             {
-                "title": "South Korea's President to Visit Japan to Promote Peace and Cooperation",
+                "title": "South Korea's opposition leader suspended from parliament for 2 years due to embezzlement allegations.",
                 "risk_level": "Medium",
-                "summary": "South Korea's President Yoon Suk-yeol is set to visit Japan this week to promote peace and cooperation between the two nations; the visit comes as relations between the two countries have been strained in recent years."
+                "summary": "South Korean opposition leader, Lee Jae-myung, has been suspended from parliament for 2 years after being charged with embezzlement."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's PM Fumio Kishida Announces Support for Ukraine in Ongoing Conflict with Russia",
-                "risk_level": "Medium",
-                "summary": "On July 19, 2024, Japan's Prime Minister Fumio Kishida announced his country's support for Ukraine in the ongoing conflict with Russia. This move has increased tensions between Japan and Russia, and the security situation in the region remains unstable."
-            },
-            {
-                "title": "Tokyo Confirms New COVID-19 Cases Sparking Concerns Amidst Summer Festivals",
-                "risk_level": "Low",
-                "summary": "On July 22, 2024, Tokyo confirmed new COVID-19 cases, sparking concerns amidst the ongoing summer festivals. The Japanese government has urged residents to remain vigilant and follow health measures to prevent the spread of the disease."
-            },
-            {
-                "title": "LPG Gas Shortage in Okinawa Due to Increased Demand from Disaster Zones",
+                "title": "Magnitude 7.3 Earthquake Hits Japan, Triggering Tsunami Warnings",
                 "risk_level": "High",
-                "summary": "On July 20, 2024, a shortage of liquefied petroleum gas (LPG) was reported in Okinawa due to increased demand from disaster zones in northern Japan. The shortage has affected households and businesses, and the situation is being closely monitored by the government."
+                "summary": "On [date], a 7.3-magnitude earthquake struck Japan's eastern coast, prompting tsunami warnings and widespread power outages."
+            },
+            {
+                "title": "Anti-Abortion Demonstrators Clash with Police in Tokyo",
+                "risk_level": "High",
+                "summary": "Thousands of anti-abortion activists in Tokyo clashed with police on [date], as tensions over Japan's abortion laws continued to escalate."
+            },
+            {
+                "title": "Ruling Party Loses Local Election in Japan",
+                "risk_level": "Medium",
+                "summary": "On [date], Japan's ruling party suffered a significant loss in a local election, casting doubt on the party's prospects ahead of national elections."
             }
         ]
     }
