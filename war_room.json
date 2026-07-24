@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Tensions Rise Between US and Russia Amid NATO Military Buildup",
+                "title": "Cyber-Attack on Global Supply Chain",
                 "risk_level": "High",
-                "summary": "The United States and Russia have been engaged in a heated diplomatic exchange over NATO's military build-up in Eastern Europe, with both sides accusing each other of aggressive behavior."
+                "summary": "A global cyber-attack has been launched on critical infrastructure in the supply chain, disrupting operations and causing widespread economic losses."
             },
             {
-                "title": "Global Economic Uncertainty Reigns Amidst Ongoing Trade Tensions and Inflation Concerns",
+                "title": "Global Economic Downturn",
                 "risk_level": "High",
-                "summary": "Global economic uncertainty has persisted in the face of ongoing trade tensions and inflation concerns, with many investors remaining wary of the potential impact on the global economy."
+                "summary": "A global economic downturn has been predicted due to a combination of factors including rising interest rates and declining global demand."
             },
             {
-                "title": "Cyberattacks on US Critical Infrastructure Rise Sharply in Past Week",
+                "title": "Social Media Disinformation Campaign",
                 "risk_level": "Medium",
-                "summary": "In the past seven days, there has been a notable spike in cyberattacks on US critical infrastructure, highlighting the ongoing threat to national security and economic stability."
+                "summary": "A social media disinformation campaign has been launched to influence public opinion and sway the outcome of upcoming elections."
             }
         ],
         "United States": [
             {
-                "title": "Tensions between US and China escalate after Taiwan visit",
+                "title": "Tensions Escalate Between US and China Over Taiwan",
                 "risk_level": "High",
-                "summary": "The visit by US House Speaker Nancy Pelosi to Taiwan heightened tensions between the US and China, raising concerns about a potential conflict in the region."
+                "summary": "China's military exercises near Taiwan have heightened tensions between Beijing and Washington, sparking concerns of a potential conflict."
             },
             {
-                "title": "New York governor announces plan to combat gun violence",
+                "title": "US Supreme Court Hands Down Ruling on Gun Control",
                 "risk_level": "Medium",
-                "summary": "New York Governor Kathy Hochul proposed a new initiative to address gun violence in the state, which has seen a surge in shootings and homicides."
+                "summary": "The US Supreme Court has struck down a New York gun control law, sparking concerns about gun violence and gun rights."
             },
             {
-                "title": "US Supreme Court issues ruling on abortion rights",
+                "title": "Biden Administration Faces Pressure Over Border Security",
                 "risk_level": "High",
-                "summary": "The US Supreme Court's decision to overturn Roe v. Wade has sparked widespread protests and protests across the country, highlighting the ongoing controversy over abortion rights."
+                "summary": "The Biden administration is facing pressure from lawmakers and the public over the ongoing migrant crisis at the US-Mexico border."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea's Moon Jae-in faces corruption probe over alleged embezzlement.",
+                "title": "South Korean government warns of potential North Korean nuclear test",
                 "risk_level": "High",
-                "summary": "Former President Moon Jae-in is facing a corruption probe over an allegation of embezzlement, dealing a blow to his approval ratings."
+                "summary": "North Korea's recent missile tests have increased tensions in the region, and a nuclear test could lead to further escalation."
             },
             {
-                "title": "Seoul urges calm as North Korea warns of impending nuclear test amid US-South Korea drills.",
-                "risk_level": "High",
-                "summary": "North Korea says a US-South Korea joint military exercise is a 'serious provocation' and warned of potential nuclear tests as tensions escalate."
-            },
-            {
-                "title": "South Korea's opposition leader suspended from parliament for 2 years due to embezzlement allegations.",
+                "title": "Protests against Japan's education reform continue in South Korea",
                 "risk_level": "Medium",
-                "summary": "South Korean opposition leader, Lee Jae-myung, has been suspended from parliament for 2 years after being charged with embezzlement."
+                "summary": "Tensions between South Korea and Japan have been escalating over Japan's treatment of Korean forced laborers during WWII, and protests in South Korea are expected to continue."
+            },
+            {
+                "title": "Corruption scandal affects South Korea's presidential election",
+                "risk_level": "Medium",
+                "summary": "A corruption scandal has rocked South Korea's presidential election, with several key figures implicated. This could lead to further instability in the country's politics."
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 7.3 Earthquake Hits Japan, Triggering Tsunami Warnings",
+                "title": "",
                 "risk_level": "High",
-                "summary": "On [date], a 7.3-magnitude earthquake struck Japan's eastern coast, prompting tsunami warnings and widespread power outages."
+                "summary": "Magnitude 7.4 earthquake strikes off the coast of Japan's Hokkaido on July 22, prompting a tsunami warning and widespread power outages. Damage to infrastructure and potential nuclear accidents at a nearby plant are major concerns."
             },
             {
-                "title": "Anti-Abortion Demonstrators Clash with Police in Tokyo",
-                "risk_level": "High",
-                "summary": "Thousands of anti-abortion activists in Tokyo clashed with police on [date], as tensions over Japan's abortion laws continued to escalate."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "North Korea fires a ballistic missile into the Sea of Japan on July 24, but it splashes down in the water, causing no damage or casualties."
             },
             {
-                "title": "Ruling Party Loses Local Election in Japan",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "On [date], Japan's ruling party suffered a significant loss in a local election, casting doubt on the party's prospects ahead of national elections."
+                "summary": "A heatwave grips Japan, with temperatures reaching record highs in major cities, leading to concerns about public health and the impact on vulnerable populations."
             }
         ]
     }
