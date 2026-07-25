@@ -1,5 +1,21 @@
 [
     {
+        "term": "Oscar Wilde",
+        "group": "Historical Figures",
+        "country": "Ireland",
+        "category": "Controversial Figures",
+        "risk_level": "Medium",
+        "trend_score": 0.6,
+        "status": "Active",
+        "first_detected": "1980",
+        "last_updated": "2020",
+        "context": {
+            "en": "Oscar Wilde was a British poet and playwright, best known for his wit and clever sayings. His life was a mix of success and controversy due to his publicized relationship with Lord Alfred Douglas and his subsequent imprisonment for gross indecency.",
+            "ko": "오스カー 와일드는 영국의 시인과 극작가로, 그의 명료하고 재치 있는 구어체가 유명하다. 그의 삶은 그의 공개적인 관계인 로드 알프레드 도러스의 관계 및 그의 후속 수형으로 인하여 controveresy가 있었다.",
+            "ja": "オスカー・ワイルドはイギリスの詩人と劇作家で、有名な言语からも知られている。彼の生涯は、成功と議論の混交で、ロード・アルフレッド・ダグラスとの公的な関係と、それに続く恣意性の厳罰を経験した。"
+        }
+    },
+    {
         "term": "Nikolai Davydenko",
         "group": "Politician",
         "country": "Ukraine",

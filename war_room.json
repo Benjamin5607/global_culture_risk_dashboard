@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Stability Risks Rise Due to Rising Inflation",
+                "title": "Global Economic Concerns Due to Potential Global Energy Crisis",
                 "risk_level": "High",
-                "summary": "There have been concerns about global economic stability in the past week, with inflation rates continuing to rise and affecting various economies."
+                "summary": "Russia's decision to reduce gas supplies to Europe has led to a surge in global energy prices, sparking fears of a wider economic crisis."
             },
             {
-                "title": "Cybersecurity Breaches Continue to Haunt Major Companies",
+                "title": "Concerns Over Global Cybersecurity Threats to Sensitive Infrastructure",
+                "risk_level": "High",
+                "summary": "Recent reports indicate that multiple high-profile hacking incidents may be linked to a sophisticated nation-state cyber attack."
+            },
+            {
+                "title": "Increased Global Migration Due to Conflict in Key Regions",
                 "risk_level": "Medium",
-                "summary": "In the past week, several major companies have suffered significant cybersecurity breaches, resulting in financial losses and customer data exposure."
-            },
-            {
-                "title": "Tensions Between World Powers Heighten Amid Growing Geopolitical Tensions",
-                "risk_level": "High",
-                "summary": "The past week has seen a rise in tensions between major world powers, with several key events and statements contributing to a sense of unease and uncertainty."
+                "summary": "Escalating violence in the Middle East and Africa has led to a significant increase in refugee flows to neighboring countries, putting regional stability at risk."
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Blocks COVID-19 Vaccine Rule for Large Employers",
+                "title": "Tensions rise over US-China relations after Biden warning",
                 "risk_level": "High",
-                "summary": "The US Supreme Court blocks President Biden's COVID-19 vaccine rule for large employers on January 13, 2022."
+                "summary": "The US and China engage in a war of words over the future of Taiwan, with President Biden warning China against invading the island."
             },
             {
-                "title": "Texas School Shooting: 17 Dead in Uvalde Robb Elementary School Shooting",
+                "title": "Biden faces backlash over migrant crisis as border encounters surge",
                 "risk_level": "High",
-                "summary": "On May 24, 2022, 18-year-old Salvador Ramos opened fire at Robb Elementary School in Uvalde, Texas, killing 19 children and two teachers."
+                "summary": "President Biden is under pressure to address the growing number of migrants at the US-Mexico border, but his efforts have been met with resistance from Republicans and some Democrats."
             },
             {
-                "title": "Capitol Riot: January 6, 2021 Insurrection",
+                "title": "Supreme Court overturns Roe v Wade: What does it mean for US abortion rights?",
                 "risk_level": "High",
-                "summary": "On January 6, 2021, a group of supporters of then-US President Donald Trump stormed the United States Capitol in Washington, D.C., resulting in five deaths."
+                "summary": "The US Supreme Court's decision to overturn Roe v Wade has sent shockwaves across the country, leaving many wondering what the future holds for abortion rights."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korean missile launch sparks fear in South Korea",
+                "title": "COVID-19: South Korea confirms 200+ new cases over 7 days, including Omicron subvariant BA.2.3.2, prompting calls for renewed precautions",
                 "risk_level": "High",
-                "summary": "A North Korean ballistic missile launch has sparked fears in South Korea, with the country's military on high alert. The launch, which was detected by South Korean and US military forces, is seen as a threat to regional security and stability. The incident has raised tensions between North and South Korea, with the US calling for calm and restraint."
+                "summary": "The Korean government reports a significant spike in COVID-19 cases due to the spread of the Omicron subvariant BA.2.3.2."
             },
             {
-                "title": "South Korea's economy faces risks from Ukraine-Russia conflict",
+                "title": "Anti-gov't protests erupt in South Korea over labor law revisions",
                 "risk_level": "Medium",
-                "summary": "South Korea's economy is facing risks from the ongoing conflict between Ukraine and Russia, according to a report. The conflict has disrupted global supply chains and led to a surge in commodity prices, which could impact South Korea's economy. The country's government is working to mitigate the risks and ensure stability."
+                "summary": "A surge in anti-government protests has occurred in Seoul as South Koreans express opposition to revisions to labor laws."
             },
             {
-                "title": "South Korea's COVID-19 cases rise again, sparking concern",
-                "risk_level": "Low",
-                "summary": "South Korea has reported a rise in COVID-19 cases, sparking concern among the public and the government. The country's health authorities are working to contain the spread of the virus and prevent a wider outbreak. The increase in cases has led to a decrease in consumer confidence and a negative impact on the economy."
+                "title": "US, South Korea to hold large-scale joint military training",
+                "risk_level": "Medium",
+                "summary": "North Korea has expressed strong opposition to planned joint military drills between South Korea and the US."
             }
         ],
         "Japan": [
             {
-                "title": "Protests Against Fukuoka Mayor's Remarks on LGBTQ+ Issues",
+                "title": "Multiple Arrests Over Anti-Nuclear Protests Ahead of Tokyo Olympics",
                 "risk_level": "Medium",
-                "summary": "Protests have been held in Fukuoka against the mayor's recent comments on LGBTQ+ issues, sparking controversy and highlighting the country's ongoing debate on LGBTQ+ rights."
+                "summary": "More than 300 people have been arrested since early July for allegedly obstructing preparations for the Tokyo Olympics, mainly for protesting against Japan's nuclear policy."
             },
             {
-                "title": "North Korea Denounces Japan's Military Exercises",
+                "title": "LDP Lawmaker Arrested on Suspicion of Bribery",
                 "risk_level": "High",
-                "summary": "North Korea has condemned Japan's recent military exercises, citing concerns over the country's military buildup and potential escalation of tensions."
+                "summary": "A Liberal Democratic Party lawmaker was arrested on suspicion of receiving bribes from a construction company."
             },
             {
-                "title": "Okinawa Governor to Seek Re-election Amid Anti-Base Protests",
-                "risk_level": "Medium",
-                "summary": "The governor of Okinawa has announced plans to seek re-election, amidst ongoing protests against the relocation of a US military base in the region."
+                "title": "Protests Against Japan's Plan to Release Contaminated Water into the Sea",
+                "risk_level": "High",
+                "summary": "Anti-nuclear groups are protesting against Japan's plan to release contaminated water into the ocean, citing concerns over the impact on marine life and the fishing industry."
             }
         ]
     }
