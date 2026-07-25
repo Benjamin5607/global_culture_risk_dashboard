@@ -1,55 +1,72 @@
 {
-    "updated": "2026-07-24",
+    "updated": "2026-07-25",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global economic growth concerns amid rising trade tensions",
+                "title": "China Sees Widespread Protests Over COVID Lockdowns, Zero-COVID Policies",
                 "risk_level": "High",
-                "summary": "The ongoing trade tensions between the US and China, along with other major economies, have raised concerns about global economic growth."
+                "summary": "Protests erupted in multiple Chinese cities as people took to the streets to express their discontent with the government's COVID-19 lockdown policies, resulting in clashes with police and widespread arrests."
             },
             {
-                "title": "US-China tensions escalate over Taiwan",
-                "risk_level": "High",
-                "summary": "The US and China have escalated tensions over Taiwan, with the US sending a top diplomat to Taiwan and China responding with military drills."
-            },
-            {
-                "title": "Social media platforms face scrutiny over hate speech and misinformation",
+                "title": "Iran Cracks Down on Protests, Arrests Hundreds of Anti-Government Demonstrators",
                 "risk_level": "Medium",
-                "summary": "Social media platforms have come under increasing scrutiny over their handling of hate speech and misinformation, with lawmakers calling for greater regulation."
+                "summary": "Iranian security forces arrested hundreds of protesters and activists as they cracked down on anti-government demonstrations across the country, sparking international condemnation."
+            },
+            {
+                "title": "US-Russia Relations Hit New Low as Russia Expels American Diplomats",
+                "risk_level": "High",
+                "summary": "Russia expelled several American diplomats in retaliation for the US expelling Russian diplomats, further deteriorating relations between the two countries and exacerbating global tensions."
             }
         ],
         "United States": [
             {
-                "title": "Mass Shooting in Highland Park, Illinois",
-                "risk_level": "High",
-                "summary": "A mass shooting occurred in Highland Park, Illinois, on July 4, leaving 6 dead and 24 injured"
+                "title": "",
+                "risk_level": "Low",
+                "summary": "No active school shooting reports within the past 7 days in the United States."
             },
             {
-                "title": "Tornado Outbreak in Midwest",
-                "risk_level": "High",
-                "summary": "A tornado outbreak occurred in the Midwest, causing widespread damage and 6 reported deaths"
-            },
-            {
-                "title": "Railway Safety Concerns Following Ohio Train Derailment",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Concerns over railway safety have emerged following a train derailment in East Palestine, Ohio, releasing toxic chemicals into the environment"
+                "summary": "Recent cyberattacks against US government agencies and critical infrastructure, causing concerns about national security."
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "Protests and demonstrations against gun control laws and policies, leading to potential civil unrest and public safety risks."
+            }
+        ],
+        "South Korea": [
+            {
+                "title": "North Korea fires two ballistic missiles in apparent provocation as US and South Korea conduct large-scale military drills",
+                "risk_level": "High",
+                "summary": "North Korea conducted two ballistic missile tests on Monday, which landed in the Yellow Sea. The launches were seen as an apparent response to the US and South Korea's ongoing large-scale military drills in South Korea."
+            },
+            {
+                "title": "South Korea's ruling party proposes military reform to address North Korea threat",
+                "risk_level": "Medium",
+                "summary": "South Korea's ruling party has proposed a comprehensive military reform to strengthen the country's defense system in response to North Korea's growing military threats."
+            },
+            {
+                "title": "Activists call for investigation into alleged North Korean hacking of South Korean online gaming platform",
+                "risk_level": "Low",
+                "summary": "A group of South Korean activists has demanded an investigation into allegations of North Korea's involvement in the hacking of a popular online gaming platform in South Korea."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "At least 2,000 people have been stranded in flood-hit regions of Japan, amid warnings of further rain. Emergency services have rescued over 3,500 people. (Source: BBC, 16 Jul 2024)"
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "The Japan Meteorological Agency has issued a warning about heavy rain hitting western Japan, which is expected to continue until Tuesday. The rain has disrupted train services. (Source: Japan Today, 17 Jul 2024)"
-            },
-            {
-                "title": "",
+                "title": "Tensions rise between Japan and China over disputed islands",
                 "risk_level": "High",
-                "summary": "Japan’s nuclear regulator has said that radioactive water leaks were detected at a Fukushima Daiichi nuclear power plant, with <10% of it containing radioactive substances. (Source: Kyodo News, 21 Jul 2024)"
+                "summary": ""
+            },
+            {
+                "title": "Rising COVID-19 cases in Japan spark concern among tourists and residents",
+                "risk_level": "Medium",
+                "summary": ""
+            },
+            {
+                "title": "Japan's government faces criticism over handling of recent earthquake response",
+                "risk_level": "Medium",
+                "summary": ""
             }
         ]
     }
