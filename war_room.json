@@ -3,72 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Relations Suffer Significant Setback Amid Rising Tensions over Taiwan",
+                "title": "Cyber-attacks target major US infrastructure",
                 "risk_level": "High",
-                "summary": "The Biden administration has announced a long-awaited meeting between US and Chinese officials, sparking fears of rising tensions between the two nations. The tensions are further exacerbated by China's increasing assertiveness in the South China Sea."
+                "summary": "A series of coordinated cyber-attacks has been launched against critical US infrastructure, including power grids and financial systems, over the past week."
             },
             {
-                "title": "Global Food Prices Hit Record High Amid Ongoing Conflict in Ukraine",
+                "title": "Global economic warning as trade war tensions escalate",
                 "risk_level": "High",
-                "summary": "The ongoing conflict in Ukraine has led to a significant increase in global food prices, causing widespread economic instability and food shortages in many countries."
+                "summary": "The ongoing trade war between the US and China has reached a boiling point, sparking concerns of a potential global economic downturn."
             },
             {
-                "title": "European Union Mulls Introducing New Sanctions on Russia Amid Continued Aggression in Ukraine",
-                "risk_level": "High",
-                "summary": "The European Union is considering introducing new sanctions on Russia in response to its continued aggression in Ukraine. The sanctions would aim to isolate Russia economically and put pressure on the government to cease its military actions."
+                "title": "Climate protests spread globally as pressure mounts on governments",
+                "risk_level": "Medium",
+                "summary": "Massive climate protests have erupted across the world, demanding action from governments to address the worsening climate crisis."
             }
         ],
         "United States": [
             {
-                "title": "Rising Tensions between the US and China over Taiwan",
+                "title": "Florida Republican Sen. Rick Scott calls for the suspension of the US Constitution if Joe Biden and Kamala Harris are re-elected",
                 "risk_level": "High",
-                "summary": "The US has announced plans to provide Taiwan with additional military aid, prompting a strong response from China, which sees Taiwan as a part of its territory."
+                "summary": "Sen. Scott expressed his concerns if the 'election integrity' measures are not taken, and said the Constitution should be put 'on hold'. His statement was widely criticized by his Democratic colleagues and legal analysts, who pointed out that this would be a highly unconstitutional and undemocratic act."
             },
             {
-                "title": "Mass Shootings in Multiple US Cities",
+                "title": "Biden signs climate law extension, but Democrats fear it may not be enough to meet US targets",
                 "risk_level": "Medium",
-                "summary": "There have been reports of multiple mass shootings in US cities, including a shooting in a school in Wisconsin and a shooting at a nightclub in Illinois, raising concerns about gun violence in the country."
+                "summary": "The Inflation Reduction Act, signed by the US President, aims to reduce greenhouse gas emissions and invest in clean energy. However, some Democrats worry that the measures might not be sufficient to meet the country's climate goals, which could lead to further political tensions and environmental concerns."
             },
             {
-                "title": "US Supreme Court Abortion Decision Sparks Protests and Violence",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has overturned the landmark Roe v. Wade decision, sparking widespread protests and violence across the country as abortion rights activists clash with pro-life groups."
+                "title": "Supreme Court rejects Trump-backed challenge to student loan forgiveness plan",
+                "risk_level": "Low",
+                "summary": "The Supreme Court has ruled that the Biden administration's student loan forgiveness plan, championed by Trump, is lawful. This decision has been welcomed by many progressive groups, but some conservatives have expressed their disapproval, which could lead to further political divisions."
             }
         ],
         "South Korea": [
-            [
-                {
-                    "title": "North Korea warns South Korea and US against large military exercise",
-                    "risk_level": "High",
-                    "summary": "Pyongyang criticises planned drills, claiming they pose ‘a grave threat’ to the region."
-                },
-                {
-                    "title": "Seoul to expand military exercise with US after North Korea’s warning",
-                    "risk_level": "High",
-                    "summary": "South Korea and the US plan to conduct a larger military exercise in response to North Korea’s criticism."
-                },
-                {
-                    "title": "South Korea’s spy agency says North Korea likely to conduct nuclear test in second half of 2024",
-                    "risk_level": "High",
-                    "summary": "South Korea’s spy agency says North Korea likely to conduct nuclear test in second half of 2024."
-                }
-            ]
+            {
+                "title": "COVID-19 cases surge in South Korea despite eased restrictions",
+                "risk_level": "Medium",
+                "summary": "South Korea has reported a sudden rise in COVID-19 cases, with over 20,000 new infections in the past week. The surge has forced authorities to reimpose some restrictions, including increased mask-wearing and social distancing measures."
+            },
+            {
+                "title": "Protests erupt in Seoul over President Yoon's economic policies",
+                "risk_level": "High",
+                "summary": "Thousands of protesters took to the streets in Seoul to demonstrate against President Yoon's economic policies, which they claim favor the wealthy at the expense of the working class."
+            },
+            {
+                "title": "North Korea tests new missiles, tensions with South Korea escalate",
+                "risk_level": "High",
+                "summary": "North Korea has conducted a series of missile tests, including a possible intercontinental ballistic missile (ICBM), which has triggered a diplomatic response from South Korea and the international community."
+            }
         ],
         "Japan": [
             {
-                "title": "Japan's Government Denies Plan to Revoke Article 9",
-                "risk_level": "Low",
-                "summary": "Japanese government officials have denied reports that they are considering revising the country's post-war constitution, specifically Article 9, which renounces war as a means to settle international disputes. The denials come after a recent media report sparked concerns that the government could seek to reinterpret or revise the article, which has been in place since 1947."
-            },
-            {
-                "title": "Tokyo Olympics 2025 Bid Faces Funding Challenges",
-                "risk_level": "Medium",
-                "summary": "Tokyo's bid to host the 2025 Olympics is facing funding challenges, with the Japanese government considering alternative options like reducing the number of events or scaling back infrastructure plans to make the Games more financially sustainable."
-            },
-            {
-                "title": "Typhoon Haishen Makes Landfall in Japan, Causes Disruptions",
+                "title": "Nippon Ishin no Kai's Tokyo election win sparks controversy",
                 "risk_level": "High",
-                "summary": "Typhoon Haishen made landfall in Japan, causing disruptions to transportation and daily life. The storm caused widespread power outages, damaged homes, and disrupted communication services in the affected areas."
+                "summary": "The far-right Japan Innovation party's victory in Tokyo's regional election has generated heated debates over its potential implications on Japan's politics and society."
+            },
+            {
+                "title": "Tokyo sees record-breaking summer heatwave",
+                "risk_level": "Medium",
+                "summary": "Japan has experienced unprecedented temperatures, with Tokyo reaching a record high, sparking health concerns and power shortages."
+            },
+            {
+                "title": "Japan's defense ministry mulls over deploying military in response to China's military activity",
+                "risk_level": "High",
+                "summary": "The Japanese government's plan to deploy military in response to China's growing assertiveness in the South China Sea has raised tensions between the two nations."
             }
         ]
     }
