@@ -3,70 +3,72 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Concerns Due to Potential Global Energy Crisis",
+                "title": "US-China Relations Suffer Significant Setback Amid Rising Tensions over Taiwan",
                 "risk_level": "High",
-                "summary": "Russia's decision to reduce gas supplies to Europe has led to a surge in global energy prices, sparking fears of a wider economic crisis."
+                "summary": "The Biden administration has announced a long-awaited meeting between US and Chinese officials, sparking fears of rising tensions between the two nations. The tensions are further exacerbated by China's increasing assertiveness in the South China Sea."
             },
             {
-                "title": "Concerns Over Global Cybersecurity Threats to Sensitive Infrastructure",
+                "title": "Global Food Prices Hit Record High Amid Ongoing Conflict in Ukraine",
                 "risk_level": "High",
-                "summary": "Recent reports indicate that multiple high-profile hacking incidents may be linked to a sophisticated nation-state cyber attack."
+                "summary": "The ongoing conflict in Ukraine has led to a significant increase in global food prices, causing widespread economic instability and food shortages in many countries."
             },
             {
-                "title": "Increased Global Migration Due to Conflict in Key Regions",
-                "risk_level": "Medium",
-                "summary": "Escalating violence in the Middle East and Africa has led to a significant increase in refugee flows to neighboring countries, putting regional stability at risk."
+                "title": "European Union Mulls Introducing New Sanctions on Russia Amid Continued Aggression in Ukraine",
+                "risk_level": "High",
+                "summary": "The European Union is considering introducing new sanctions on Russia in response to its continued aggression in Ukraine. The sanctions would aim to isolate Russia economically and put pressure on the government to cease its military actions."
             }
         ],
         "United States": [
             {
-                "title": "Tensions rise over US-China relations after Biden warning",
+                "title": "Rising Tensions between the US and China over Taiwan",
                 "risk_level": "High",
-                "summary": "The US and China engage in a war of words over the future of Taiwan, with President Biden warning China against invading the island."
+                "summary": "The US has announced plans to provide Taiwan with additional military aid, prompting a strong response from China, which sees Taiwan as a part of its territory."
             },
             {
-                "title": "Biden faces backlash over migrant crisis as border encounters surge",
-                "risk_level": "High",
-                "summary": "President Biden is under pressure to address the growing number of migrants at the US-Mexico border, but his efforts have been met with resistance from Republicans and some Democrats."
+                "title": "Mass Shootings in Multiple US Cities",
+                "risk_level": "Medium",
+                "summary": "There have been reports of multiple mass shootings in US cities, including a shooting in a school in Wisconsin and a shooting at a nightclub in Illinois, raising concerns about gun violence in the country."
             },
             {
-                "title": "Supreme Court overturns Roe v Wade: What does it mean for US abortion rights?",
+                "title": "US Supreme Court Abortion Decision Sparks Protests and Violence",
                 "risk_level": "High",
-                "summary": "The US Supreme Court's decision to overturn Roe v Wade has sent shockwaves across the country, leaving many wondering what the future holds for abortion rights."
+                "summary": "The US Supreme Court has overturned the landmark Roe v. Wade decision, sparking widespread protests and violence across the country as abortion rights activists clash with pro-life groups."
             }
         ],
         "South Korea": [
-            {
-                "title": "COVID-19: South Korea confirms 200+ new cases over 7 days, including Omicron subvariant BA.2.3.2, prompting calls for renewed precautions",
-                "risk_level": "High",
-                "summary": "The Korean government reports a significant spike in COVID-19 cases due to the spread of the Omicron subvariant BA.2.3.2."
-            },
-            {
-                "title": "Anti-gov't protests erupt in South Korea over labor law revisions",
-                "risk_level": "Medium",
-                "summary": "A surge in anti-government protests has occurred in Seoul as South Koreans express opposition to revisions to labor laws."
-            },
-            {
-                "title": "US, South Korea to hold large-scale joint military training",
-                "risk_level": "Medium",
-                "summary": "North Korea has expressed strong opposition to planned joint military drills between South Korea and the US."
-            }
+            [
+                {
+                    "title": "North Korea warns South Korea and US against large military exercise",
+                    "risk_level": "High",
+                    "summary": "Pyongyang criticises planned drills, claiming they pose ‘a grave threat’ to the region."
+                },
+                {
+                    "title": "Seoul to expand military exercise with US after North Korea’s warning",
+                    "risk_level": "High",
+                    "summary": "South Korea and the US plan to conduct a larger military exercise in response to North Korea’s criticism."
+                },
+                {
+                    "title": "South Korea’s spy agency says North Korea likely to conduct nuclear test in second half of 2024",
+                    "risk_level": "High",
+                    "summary": "South Korea’s spy agency says North Korea likely to conduct nuclear test in second half of 2024."
+                }
+            ]
         ],
         "Japan": [
             {
-                "title": "Multiple Arrests Over Anti-Nuclear Protests Ahead of Tokyo Olympics",
+                "title": "Japan's Government Denies Plan to Revoke Article 9",
+                "risk_level": "Low",
+                "summary": "Japanese government officials have denied reports that they are considering revising the country's post-war constitution, specifically Article 9, which renounces war as a means to settle international disputes. The denials come after a recent media report sparked concerns that the government could seek to reinterpret or revise the article, which has been in place since 1947."
+            },
+            {
+                "title": "Tokyo Olympics 2025 Bid Faces Funding Challenges",
                 "risk_level": "Medium",
-                "summary": "More than 300 people have been arrested since early July for allegedly obstructing preparations for the Tokyo Olympics, mainly for protesting against Japan's nuclear policy."
+                "summary": "Tokyo's bid to host the 2025 Olympics is facing funding challenges, with the Japanese government considering alternative options like reducing the number of events or scaling back infrastructure plans to make the Games more financially sustainable."
             },
             {
-                "title": "LDP Lawmaker Arrested on Suspicion of Bribery",
+                "title": "Typhoon Haishen Makes Landfall in Japan, Causes Disruptions",
                 "risk_level": "High",
-                "summary": "A Liberal Democratic Party lawmaker was arrested on suspicion of receiving bribes from a construction company."
-            },
-            {
-                "title": "Protests Against Japan's Plan to Release Contaminated Water into the Sea",
-                "risk_level": "High",
-                "summary": "Anti-nuclear groups are protesting against Japan's plan to release contaminated water into the ocean, citing concerns over the impact on marine life and the fishing industry."
+                "summary": "Typhoon Haishen made landfall in Japan, causing disruptions to transportation and daily life. The storm caused widespread power outages, damaged homes, and disrupted communication services in the affected areas."
             }
         ]
     }
