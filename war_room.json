@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "China Sees Widespread Protests Over COVID Lockdowns, Zero-COVID Policies",
-                "risk_level": "High",
-                "summary": "Protests erupted in multiple Chinese cities as people took to the streets to express their discontent with the government's COVID-19 lockdown policies, resulting in clashes with police and widespread arrests."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Iran Cracks Down on Protests, Arrests Hundreds of Anti-Government Demonstrators",
-                "risk_level": "Medium",
-                "summary": "Iranian security forces arrested hundreds of protesters and activists as they cracked down on anti-government demonstrations across the country, sparking international condemnation."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "US-Russia Relations Hit New Low as Russia Expels American Diplomats",
-                "risk_level": "High",
-                "summary": "Russia expelled several American diplomats in retaliation for the US expelling Russian diplomats, further deteriorating relations between the two countries and exacerbating global tensions."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "United States": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "No active school shooting reports within the past 7 days in the United States."
-            },
-            {
-                "title": "",
+                "title": "Florida's 'Don't Say Gay' Law Blocked in its Tracks by the US Supreme Court",
                 "risk_level": "Medium",
-                "summary": "Recent cyberattacks against US government agencies and critical infrastructure, causing concerns about national security."
+                "summary": "The US Supreme Court temporarily blocks a lower court's ruling, allowing Florida's 'Don't Say Gay' law to remain in effect while it's being appealed. The law, passed in 2022, restricts classroom discussions on sexual orientation and gender identity in schools. "
             },
             {
-                "title": "",
+                "title": "U.S. Government Reaches $85 Million Settlement with Families and Survivors of the 2014 Ferguson Unrest",
+                "risk_level": "Medium",
+                "summary": "The U.S. government has reached a settlement of $85 million with the families and survivors of the 2014 Ferguson unrest. The unrest occurred after the police shooting of Michael Brown, an unarmed black teenager, by a white police officer. "
+            },
+            {
+                "title": "Florida Man Arrested after Threatening to Kill Federal Judge and FBI Agents",
                 "risk_level": "High",
-                "summary": "Protests and demonstrations against gun control laws and policies, leading to potential civil unrest and public safety risks."
+                "summary": "A Florida man was arrested for threatening to kill a federal judge and FBI agents. According to officials, the man made the threats over the phone and in person, prompting a federal investigation and charges of threatening to harm a federal official. "
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires two ballistic missiles in apparent provocation as US and South Korea conduct large-scale military drills",
+                "title": "South Korean Police Detain North Korean Defector Over Suspected Espionage",
                 "risk_level": "High",
-                "summary": "North Korea conducted two ballistic missile tests on Monday, which landed in the Yellow Sea. The launches were seen as an apparent response to the US and South Korea's ongoing large-scale military drills in South Korea."
+                "summary": "The South Korean police detained a North Korean defector over suspected espionage. The defector was reportedly caught attempting to sell military secrets to a North Korean agent."
             },
             {
-                "title": "South Korea's ruling party proposes military reform to address North Korea threat",
+                "title": "North Korea Fires Multiple Ballistic Missiles into Sea, South Korean Military Says",
+                "risk_level": "High",
+                "summary": "North Korea fired multiple ballistic missiles into the sea, the South Korean military said. This move is seen as a provocation and a challenge to regional stability."
+            },
+            {
+                "title": "South Korea's Yoon Vows to Improve Relations with Japan, North Korea",
                 "risk_level": "Medium",
-                "summary": "South Korea's ruling party has proposed a comprehensive military reform to strengthen the country's defense system in response to North Korea's growing military threats."
-            },
-            {
-                "title": "Activists call for investigation into alleged North Korean hacking of South Korean online gaming platform",
-                "risk_level": "Low",
-                "summary": "A group of South Korean activists has demanded an investigation into allegations of North Korea's involvement in the hacking of a popular online gaming platform in South Korea."
+                "summary": "South Korean President Yoon Suk Yeol expressed commitment to improving relations with both Japan and North Korea. He acknowledged the significance of diplomacy in resolving pressing issues in the region."
             }
         ],
         "Japan": [
             {
-                "title": "Tensions rise between Japan and China over disputed islands",
+                "title": "Japan's PM Fumio Kishida Faces Mounting Pressure to Address Economic Woes",
                 "risk_level": "High",
-                "summary": ""
+                "summary": "As Japan's PM Fumio Kishida struggles to contain a worsening economic situation, concerns over the country's stability and leadership grow."
             },
             {
-                "title": "Rising COVID-19 cases in Japan spark concern among tourists and residents",
+                "title": "Tokyo Confirms 5,000 COVID-19 Cases Amid Rising Hospitalizations",
                 "risk_level": "Medium",
-                "summary": ""
+                "summary": "Tokyo reported a surge in COVID-19 cases, raising concerns about the impact on the healthcare system and overall societal stability."
             },
             {
-                "title": "Japan's government faces criticism over handling of recent earthquake response",
-                "risk_level": "Medium",
-                "summary": ""
+                "title": "Japan's Supreme Court Upholds Ban on Collective Bargaining for Public Workers",
+                "risk_level": "Low",
+                "summary": "The Japanese Supreme Court's ruling on collective bargaining has been met with criticism from labor unions, potentially exacerbating existing social tensions."
             }
         ]
     }
