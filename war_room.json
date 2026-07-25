@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Global Economic Stability Risks Rise Due to Rising Inflation",
+                "risk_level": "High",
+                "summary": "There have been concerns about global economic stability in the past week, with inflation rates continuing to rise and affecting various economies."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Cybersecurity Breaches Continue to Haunt Major Companies",
+                "risk_level": "Medium",
+                "summary": "In the past week, several major companies have suffered significant cybersecurity breaches, resulting in financial losses and customer data exposure."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Tensions Between World Powers Heighten Amid Growing Geopolitical Tensions",
+                "risk_level": "High",
+                "summary": "The past week has seen a rise in tensions between major world powers, with several key events and statements contributing to a sense of unease and uncertainty."
             }
         ],
         "United States": [
             {
-                "title": "Florida's 'Don't Say Gay' Law Blocked in its Tracks by the US Supreme Court",
-                "risk_level": "Medium",
-                "summary": "The US Supreme Court temporarily blocks a lower court's ruling, allowing Florida's 'Don't Say Gay' law to remain in effect while it's being appealed. The law, passed in 2022, restricts classroom discussions on sexual orientation and gender identity in schools. "
-            },
-            {
-                "title": "U.S. Government Reaches $85 Million Settlement with Families and Survivors of the 2014 Ferguson Unrest",
-                "risk_level": "Medium",
-                "summary": "The U.S. government has reached a settlement of $85 million with the families and survivors of the 2014 Ferguson unrest. The unrest occurred after the police shooting of Michael Brown, an unarmed black teenager, by a white police officer. "
-            },
-            {
-                "title": "Florida Man Arrested after Threatening to Kill Federal Judge and FBI Agents",
+                "title": "Supreme Court Blocks COVID-19 Vaccine Rule for Large Employers",
                 "risk_level": "High",
-                "summary": "A Florida man was arrested for threatening to kill a federal judge and FBI agents. According to officials, the man made the threats over the phone and in person, prompting a federal investigation and charges of threatening to harm a federal official. "
+                "summary": "The US Supreme Court blocks President Biden's COVID-19 vaccine rule for large employers on January 13, 2022."
+            },
+            {
+                "title": "Texas School Shooting: 17 Dead in Uvalde Robb Elementary School Shooting",
+                "risk_level": "High",
+                "summary": "On May 24, 2022, 18-year-old Salvador Ramos opened fire at Robb Elementary School in Uvalde, Texas, killing 19 children and two teachers."
+            },
+            {
+                "title": "Capitol Riot: January 6, 2021 Insurrection",
+                "risk_level": "High",
+                "summary": "On January 6, 2021, a group of supporters of then-US President Donald Trump stormed the United States Capitol in Washington, D.C., resulting in five deaths."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korean Police Detain North Korean Defector Over Suspected Espionage",
+                "title": "North Korean missile launch sparks fear in South Korea",
                 "risk_level": "High",
-                "summary": "The South Korean police detained a North Korean defector over suspected espionage. The defector was reportedly caught attempting to sell military secrets to a North Korean agent."
+                "summary": "A North Korean ballistic missile launch has sparked fears in South Korea, with the country's military on high alert. The launch, which was detected by South Korean and US military forces, is seen as a threat to regional security and stability. The incident has raised tensions between North and South Korea, with the US calling for calm and restraint."
             },
             {
-                "title": "North Korea Fires Multiple Ballistic Missiles into Sea, South Korean Military Says",
-                "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles into the sea, the South Korean military said. This move is seen as a provocation and a challenge to regional stability."
-            },
-            {
-                "title": "South Korea's Yoon Vows to Improve Relations with Japan, North Korea",
+                "title": "South Korea's economy faces risks from Ukraine-Russia conflict",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk Yeol expressed commitment to improving relations with both Japan and North Korea. He acknowledged the significance of diplomacy in resolving pressing issues in the region."
+                "summary": "South Korea's economy is facing risks from the ongoing conflict between Ukraine and Russia, according to a report. The conflict has disrupted global supply chains and led to a surge in commodity prices, which could impact South Korea's economy. The country's government is working to mitigate the risks and ensure stability."
+            },
+            {
+                "title": "South Korea's COVID-19 cases rise again, sparking concern",
+                "risk_level": "Low",
+                "summary": "South Korea has reported a rise in COVID-19 cases, sparking concern among the public and the government. The country's health authorities are working to contain the spread of the virus and prevent a wider outbreak. The increase in cases has led to a decrease in consumer confidence and a negative impact on the economy."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's PM Fumio Kishida Faces Mounting Pressure to Address Economic Woes",
-                "risk_level": "High",
-                "summary": "As Japan's PM Fumio Kishida struggles to contain a worsening economic situation, concerns over the country's stability and leadership grow."
-            },
-            {
-                "title": "Tokyo Confirms 5,000 COVID-19 Cases Amid Rising Hospitalizations",
+                "title": "Protests Against Fukuoka Mayor's Remarks on LGBTQ+ Issues",
                 "risk_level": "Medium",
-                "summary": "Tokyo reported a surge in COVID-19 cases, raising concerns about the impact on the healthcare system and overall societal stability."
+                "summary": "Protests have been held in Fukuoka against the mayor's recent comments on LGBTQ+ issues, sparking controversy and highlighting the country's ongoing debate on LGBTQ+ rights."
             },
             {
-                "title": "Japan's Supreme Court Upholds Ban on Collective Bargaining for Public Workers",
-                "risk_level": "Low",
-                "summary": "The Japanese Supreme Court's ruling on collective bargaining has been met with criticism from labor unions, potentially exacerbating existing social tensions."
+                "title": "North Korea Denounces Japan's Military Exercises",
+                "risk_level": "High",
+                "summary": "North Korea has condemned Japan's recent military exercises, citing concerns over the country's military buildup and potential escalation of tensions."
+            },
+            {
+                "title": "Okinawa Governor to Seek Re-election Amid Anti-Base Protests",
+                "risk_level": "Medium",
+                "summary": "The governor of Okinawa has announced plans to seek re-election, amidst ongoing protests against the relocation of a US military base in the region."
             }
         ]
     }
