@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rising Tensions Between US and Iran",
+                "title": "Global Outbreak of Omicron variant",
                 "risk_level": "High",
-                "summary": "Tensions between the US and Iran have escalated in the past week, with both countries engaging in a series of provocative military operations."
+                "summary": "Cases are spiking globally due to the new variant, causing widespread outbreaks."
             },
             {
-                "title": "Cyberattack on Global Banking System",
+                "title": "Cyber Attack Targeting Global Supply Chain",
                 "risk_level": "High",
-                "summary": "A sophisticated cyberattack has been unleashed on the global banking system, causing widespread disruptions and financial losses."
+                "summary": "A new strain of malware has been detected in the global supply chain, threatening critical infrastructure."
             },
             {
-                "title": "Social Media Platform Hack Exposes User Data",
+                "title": "Rise in Global Civil Unrest Due to Economic Downturn",
                 "risk_level": "Medium",
-                "summary": "A major social media platform has been hacked, exposing sensitive user data and sparking concerns over online security and privacy."
+                "summary": "Protests are erupting globally as citizens respond to the economic downturn, leading to increased instability."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court to hear case on Biden's student loan forgiveness plan",
+                "title": "House Committee Votes to Hold Mark Zuckerberg in Contempt Over Meta Data Requests",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court has agreed to hear arguments on Biden's student loan forgiveness plan, which could impact millions of Americans. The plan, which was blocked by lower courts, would forgive up to $20,000 in student loans for borrowers who meet certain income requirements."
+                "summary": "A House committee voted to hold Mark Zuckerberg in contempt of Congress over Meta’s refusal to comply with a subpoena related to the company’s data collection practices."
             },
             {
-                "title": "Tensions flare between US and China over Taiwan military exercises",
+                "title": "US Charges Chinese National in Massive Hacking Scheme",
                 "risk_level": "High",
-                "summary": "Tensions between the US and China escalated over the weekend as China conducted large-scale military exercises in the Taiwan Strait. The exercises, which included Chinese bombers and fighter jets, were seen as a response to a visit by a US congressional delegation to Taiwan last week."
+                "summary": "The US Department of Justice has charged a Chinese national with being part of a massive hacking scheme that targeted over 100 companies and government agencies worldwide."
             },
             {
-                "title": "US imposes sanctions on Russian oligarch linked to Kremlin",
-                "risk_level": "High",
-                "summary": "The US Treasury Department imposed sanctions on a Russian oligarch linked to the Kremlin, accusing him of laundering money through the US financial system. The sanctions are part of a broader effort by the US to crack down on Russian oligarchs who have close ties to the Kremlin."
+                "title": "White House Says FBI Director Wray Will Testify on Domestic Terrorism",
+                "risk_level": "Low",
+                "summary": "The White House has announced that FBI Director Christopher Wray will testify on Capitol Hill about domestic terrorism, amid growing concerns about the threat of extremism in the US."
             }
         ],
         "South Korea": [
             {
-                "title": "",
+                "title": "North Korean Ballistic Missile Test Fails Mid-Flight",
                 "risk_level": "Medium",
-                "summary": "Anti-vaccine mandate protests turn violent in South Korea with over 1,500 protesters arrested. Riots damage buildings, buses and other vehicles in major cities, including Seoul. Police respond with force, further escalating tensions."
+                "summary": "North Korea's latest ballistic missile test ended in failure, with the rocket exploding mid-air, increasing tensions on the Korean Peninsula."
             },
             {
-                "title": "",
+                "title": "Samsung Leader Lee Jae-Yong Sentenced to 5.5 Years in Prison",
                 "risk_level": "High",
-                "summary": "North Korea fires ballistic missile over Japan, prompting warnings from Japanese authorities. South Korean military puts units on high alert in response to the launch. International community condemns the launch, with US, Japan and South Korea vowing to take steps to address the issue."
+                "summary": "Samsung heir Lee Jae-yong has been sentenced to 5.5 years in prison for his role in a 2017 corruption scandal involving South Korean President Park Geun-hye, sparking fears of economic instability."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "South Korean prosecutors launch new investigation into President Yoon Suk-yeol over corruption allegations. Opposition parties call for his resignation as scrutiny of his administration deepens."
+                "title": "South Korea's Yoon Suk-yeol Warns of 'Grave and Critical' Security Threat from North Korea",
+                "risk_level": "High",
+                "summary": "South Korean President Yoon Suk-yeol has expressed his concerns over North Korea's military advancements, describing the security threat as 'grave and critical', amidst growing tensions between the two nations."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's PM Suggests State of Emergency in Response to COVID-19 Outbreak",
-                "risk_level": "High",
-                "summary": "Japanese Prime Minister Fumio Kishida hinted at a possible state of emergency in response to a rapid increase in COVID-19 cases. The country continues to struggle with infections, mainly due to the highly contagious omicron subvariant BA.2."
-            },
-            {
-                "title": "Japanese Government Allocates $1.5 Billion to Support Companies Affected by Chip Shortage",
+                "title": "Japan Extradites Ex-Military Officer to Japan Over Alleged Spies",
                 "risk_level": "Medium",
-                "summary": "As part of efforts to mitigate a global semiconductor shortage, the Japanese government has allocated $1.5 billion in support of companies impacted by the crisis."
+                "summary": "Japan has extradited a former US military intelligence officer to Japan, where they will face charges related to alleged espionage. The US has requested the extradition, but the details of the allegations have not been disclosed."
             },
             {
-                "title": "Japan's Population Shrinks by 643,000 in Last Year, Reports Ministry of Internal Affairs and Communications",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "According to recent data published by the Ministry of Internal Affairs and Communications, Japan's population declined by 643,000 over the past year, further exacerbating concerns about the country's demographics and economic future."
+                "summary": "No updates"
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "No updates"
             }
         ]
     }
