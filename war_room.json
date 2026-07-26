@@ -5,68 +5,68 @@
             {
                 "title": "",
                 "risk_level": "High",
-                "summary": "Conflict in Ukraine: Russia has launched a military operation in Ukraine, leading to increased tensions between Russia and the West. The conflict has resulted in significant human rights violations, displacement of people, and economic instability."
+                "summary": "China and US Relations at 25-year low after US House Speaker visit to Taiwan."
             },
             {
                 "title": "",
                 "risk_level": "High",
-                "summary": "Global Economic Downturn: The global economy is facing a significant downturn due to various factors such as high inflation, supply chain disruptions, and declining consumer confidence. This has led to increased unemployment, business closures, and a decline in economic growth."
+                "summary": "Biden Announces Plan to Send F-16 Fighter Jets to Ukraine as Ukraine and Russia Conflict Escalates"
             },
             {
                 "title": "",
                 "risk_level": "Medium",
-                "summary": "Cybersecurity Attacks on Critical Infrastructure: There have been several instances of cybersecurity attacks on critical infrastructure such as power grids, water treatment plants, and healthcare systems. This has resulted in disruptions to services, data breaches, and potential harm to people's lives."
+                "summary": "Russian and Belarusian forces continue to amass at the Ukraine border."
             }
         ],
         "United States": [
             {
-                "title": "Gun Control Bills Fail in U.S. Congress",
-                "risk_level": "High",
-                "summary": "A package of gun control bills failed to pass in the U.S. Congress, leaving the country without stricter gun laws."
+                "title": "Russian Diplomat Ejected from Washington After Confrontation",
+                "risk_level": "Medium",
+                "summary": "A senior Russian diplomat was ejected from the United States after a confrontation with a State Department security officer. The incident occurred on July 24, 2024, at the Russian Embassy in Washington, D.C. The diplomat's actions were deemed a threat to safety, leading to his removal from the country."
             },
             {
-                "title": "Supreme Court to Hear Case on Abortion Rights",
+                "title": "US-China Trade Tensions Escalate Over Rare Earth Export",
                 "risk_level": "High",
-                "summary": "The U.S. Supreme Court agreed to hear a case that could potentially overturn Roe v. Wade, the landmark decision that established a woman's right to an abortion."
+                "summary": "Tensions between the United States and China have escalated over the export of rare earth minerals. China has restricted the export of these critical minerals, which are essential for the production of advanced technologies. The move has raised concerns about the impact on the global supply chain and has sparked fears of a renewed trade war between the two nations."
             },
             {
-                "title": "FBI Raids Trump's Mar-a-Lago Estate",
-                "risk_level": "High",
-                "summary": "The FBI raided Donald Trump's Mar-a-Lago estate, leading to speculation about potential charges related to the handling of presidential documents."
+                "title": "Gun Laws to Get Review After Texas Mass Shooting",
+                "risk_level": "Low",
+                "summary": "Following a recent mass shooting in Texas, President Biden has announced plans to review and potentially reform gun laws in the United States. The president has expressed his commitment to taking action to reduce gun violence and prevent such tragedies from occurring in the future."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires multiple cruise missiles in response to US-South Korea drills",
+                "title": "North Korea says new Covid-19 cases found, but still no outbreaks: KCNA",
+                "risk_level": "Medium",
+                "summary": "SEOUL - North Korea reported new Covid-19 cases in a recent outbreak but has no symptoms of the disease, the official KCNA news agency reported on Tuesday."
+            },
+            {
+                "title": "North Korea's Kim orders more lockdowns to curb COVID-19 spread",
                 "risk_level": "High",
-                "summary": "North Korea fired multiple cruise missiles in response to joint drills between the US and South Korea, escalating tensions on the Korean Peninsula."
+                "summary": "SEOUL (Reuters) - North Korean leader Kim Jong Un ordered more lockdowns to control the spread of COVID-19, state media said on Sunday, as the country reported 8,180 new cases over the past week."
             },
             {
-                "title": "Concerns over South Korean presidential election integrity grow as voting irregularities reported",
-                "risk_level": "Medium",
-                "summary": "Reports of voting irregularities and concerns over the integrity of the South Korean presidential election process have sparked worries about the legitimacy of the outcome."
-            },
-            {
-                "title": "Protests erupt in South Korea over proposed labor laws that critics say threaten workers' rights",
-                "risk_level": "Medium",
-                "summary": "Thousands of South Korean workers and activists took to the streets to protest proposed labor laws that critics argue will erode workers' rights and exacerbate income inequality."
+                "title": "North Korea fires ballistic missile off east coast, Japan Coast Guard says",
+                "risk_level": "High",
+                "summary": "The Japan Coast Guard said that North Korea fired a ballistic missile off its east coast on Thursday."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires two suspected ballistic missiles into sea off Japan",
-                "risk_level": "High",
-                "summary": "According to Japanese officials, North Korea fired two suspected ballistic missiles into the sea off Japan's western coast, which is in violation of U.N. resolutions. The launch is seen as an escalation by the Japanese government and its allies, which are urging Pyongyang to return to talks on its nuclear and missile programs. The missiles flew for approximately 400 km (250 miles), and the Japanese government is urging citizens to remain calm."
-            },
-            {
-                "title": "Japan's ruling party suffers major defeat in local elections",
-                "risk_level": "Medium",
-                "summary": "Japan's ruling party, the Liberal Democratic Party (LDP), suffered a significant defeat in local elections held on Sunday, with the opposition party winning control of several key municipalities. The LDP, which has been in power for over a decade, lost several key prefectures, including the Tokyo metropolitan area and the western island of Okinawa."
-            },
-            {
-                "title": "Japan to deploy additional troops to Ukraine as part of international effort",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "Japan has announced plans to deploy additional troops to Ukraine as part of the international effort to support the country. The move comes as Japan seeks to strengthen its position as a security provider in the region and demonstrate its commitment to supporting Ukraine's sovereignty. The Japanese government has not yet specified the number of troops that will be deployed."
+                "summary": "Typhoon warning lifted for most of Japan after Typhoon Shanshan moves out to sea."
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Japan's ruling party wins election but fails to secure a majority, casting doubt on its ability to maintain power."
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "North Korea fires unidentified projectiles, but it's unclear whether they were ballistic missiles or surface-to-air missiles."
             }
         ]
     }
