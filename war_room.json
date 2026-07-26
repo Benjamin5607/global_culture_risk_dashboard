@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber-Attack on European Banking System",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A recent cyber-attack on European banks has caused significant disruptions to financial services, highlighting the increasing threat of cyberattacks on critical infrastructure."
+                "summary": "Conflict in Ukraine: Russia has launched a military operation in Ukraine, leading to increased tensions between Russia and the West. The conflict has resulted in significant human rights violations, displacement of people, and economic instability."
             },
             {
-                "title": "Global Economic Instability",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Global economic instability continues to rise, driven by factors such as high inflation, supply chain disruptions, and geo-political tensions."
+                "summary": "Global Economic Downturn: The global economy is facing a significant downturn due to various factors such as high inflation, supply chain disruptions, and declining consumer confidence. This has led to increased unemployment, business closures, and a decline in economic growth."
             },
             {
-                "title": "Rise of Global Food Insecurity",
-                "risk_level": "High",
-                "summary": "Global food insecurity is on the rise due to factors such as droughts, wars, and climate change, threatening social stability and economic growth."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Cybersecurity Attacks on Critical Infrastructure: There have been several instances of cybersecurity attacks on critical infrastructure such as power grids, water treatment plants, and healthcare systems. This has resulted in disruptions to services, data breaches, and potential harm to people's lives."
             }
         ],
         "United States": [
             {
-                "title": "US Congress holds hearing on Chinese surveillance balloons",
+                "title": "Gun Control Bills Fail in U.S. Congress",
                 "risk_level": "High",
-                "summary": "In a tense hearing, US lawmakers grilled Biden administration officials about the delayed response to Chinese surveillance balloons over US airspace."
+                "summary": "A package of gun control bills failed to pass in the U.S. Congress, leaving the country without stricter gun laws."
             },
             {
-                "title": "Rise in fentanyl-related deaths in US prompts calls for stricter border controls",
+                "title": "Supreme Court to Hear Case on Abortion Rights",
                 "risk_level": "High",
-                "summary": "Fentanyl-related deaths are on the rise in the US, prompting calls for stricter border controls to prevent the influx of this deadly synthetic opioid."
+                "summary": "The U.S. Supreme Court agreed to hear a case that could potentially overturn Roe v. Wade, the landmark decision that established a woman's right to an abortion."
             },
             {
-                "title": "US Supreme Court to consider overturning Roe v. Wade",
+                "title": "FBI Raids Trump's Mar-a-Lago Estate",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has agreed to hear a case that could potentially overturn Roe v. Wade, the landmark decision that established a woman's right to choose an abortion."
+                "summary": "The FBI raided Donald Trump's Mar-a-Lago estate, leading to speculation about potential charges related to the handling of presidential documents."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests Against President Yoon's Visit to Japan",
+                "title": "North Korea fires multiple cruise missiles in response to US-South Korea drills",
                 "risk_level": "High",
-                "summary": "Thousands of South Koreans protested against President Yoon Suk-yeol's visit to Japan, amid concerns over the two countries' historical disputes."
+                "summary": "North Korea fired multiple cruise missiles in response to joint drills between the US and South Korea, escalating tensions on the Korean Peninsula."
             },
             {
-                "title": "Rise of COVID-19 Cases in South Korea",
+                "title": "Concerns over South Korean presidential election integrity grow as voting irregularities reported",
                 "risk_level": "Medium",
-                "summary": "South Korea reported a surge in COVID-19 cases, with the country's daily tally reaching its highest level since March 2020."
+                "summary": "Reports of voting irregularities and concerns over the integrity of the South Korean presidential election process have sparked worries about the legitimacy of the outcome."
             },
             {
-                "title": "Government Crackdown on Online Gambling",
-                "risk_level": "Low",
-                "summary": "The South Korean government launched a crackdown on online gambling, with authorities arresting several individuals involved in the industry."
+                "title": "Protests erupt in South Korea over proposed labor laws that critics say threaten workers' rights",
+                "risk_level": "Medium",
+                "summary": "Thousands of South Korean workers and activists took to the streets to protest proposed labor laws that critics argue will erode workers' rights and exacerbate income inequality."
             }
         ],
         "Japan": [
             {
-                "title": "Rising COVID-19 cases in Japan",
-                "risk_level": "Medium",
-                "summary": "Japan reports 1,447 new COVID-19 cases, the highest number since January."
-            },
-            {
-                "title": "North Korea's missile tests pose threat to Japan",
+                "title": "North Korea fires two suspected ballistic missiles into sea off Japan",
                 "risk_level": "High",
-                "summary": "North Korea fired an intercontinental ballistic missile, highlighting the risk of a potential conflict with Japan."
+                "summary": "According to Japanese officials, North Korea fired two suspected ballistic missiles into the sea off Japan's western coast, which is in violation of U.N. resolutions. The launch is seen as an escalation by the Japanese government and its allies, which are urging Pyongyang to return to talks on its nuclear and missile programs. The missiles flew for approximately 400 km (250 miles), and the Japanese government is urging citizens to remain calm."
             },
             {
-                "title": "Protest against government's COVID-19 measures",
+                "title": "Japan's ruling party suffers major defeat in local elections",
+                "risk_level": "Medium",
+                "summary": "Japan's ruling party, the Liberal Democratic Party (LDP), suffered a significant defeat in local elections held on Sunday, with the opposition party winning control of several key municipalities. The LDP, which has been in power for over a decade, lost several key prefectures, including the Tokyo metropolitan area and the western island of Okinawa."
+            },
+            {
+                "title": "Japan to deploy additional troops to Ukraine as part of international effort",
                 "risk_level": "Low",
-                "summary": "Hundreds of protesters in Tokyo rally against Japan's COVID-19 measures, such as vaccination requirements and mask mandates."
+                "summary": "Japan has announced plans to deploy additional troops to Ukraine as part of the international effort to support the country. The move comes as Japan seeks to strengthen its position as a security provider in the region and demonstrate its commitment to supporting Ukraine's sovereignty. The Japanese government has not yet specified the number of troops that will be deployed."
             }
         ]
     }
