@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Rising Tensions Between US and Iran",
                 "risk_level": "High",
-                "summary": "China and US Relations at 25-year low after US House Speaker visit to Taiwan."
+                "summary": "Tensions between the US and Iran have escalated in the past week, with both countries engaging in a series of provocative military operations."
             },
             {
-                "title": "",
+                "title": "Cyberattack on Global Banking System",
                 "risk_level": "High",
-                "summary": "Biden Announces Plan to Send F-16 Fighter Jets to Ukraine as Ukraine and Russia Conflict Escalates"
+                "summary": "A sophisticated cyberattack has been unleashed on the global banking system, causing widespread disruptions and financial losses."
             },
             {
-                "title": "",
+                "title": "Social Media Platform Hack Exposes User Data",
                 "risk_level": "Medium",
-                "summary": "Russian and Belarusian forces continue to amass at the Ukraine border."
+                "summary": "A major social media platform has been hacked, exposing sensitive user data and sparking concerns over online security and privacy."
             }
         ],
         "United States": [
             {
-                "title": "Russian Diplomat Ejected from Washington After Confrontation",
+                "title": "US Supreme Court to hear case on Biden's student loan forgiveness plan",
                 "risk_level": "Medium",
-                "summary": "A senior Russian diplomat was ejected from the United States after a confrontation with a State Department security officer. The incident occurred on July 24, 2024, at the Russian Embassy in Washington, D.C. The diplomat's actions were deemed a threat to safety, leading to his removal from the country."
+                "summary": "The US Supreme Court has agreed to hear arguments on Biden's student loan forgiveness plan, which could impact millions of Americans. The plan, which was blocked by lower courts, would forgive up to $20,000 in student loans for borrowers who meet certain income requirements."
             },
             {
-                "title": "US-China Trade Tensions Escalate Over Rare Earth Export",
+                "title": "Tensions flare between US and China over Taiwan military exercises",
                 "risk_level": "High",
-                "summary": "Tensions between the United States and China have escalated over the export of rare earth minerals. China has restricted the export of these critical minerals, which are essential for the production of advanced technologies. The move has raised concerns about the impact on the global supply chain and has sparked fears of a renewed trade war between the two nations."
+                "summary": "Tensions between the US and China escalated over the weekend as China conducted large-scale military exercises in the Taiwan Strait. The exercises, which included Chinese bombers and fighter jets, were seen as a response to a visit by a US congressional delegation to Taiwan last week."
             },
             {
-                "title": "Gun Laws to Get Review After Texas Mass Shooting",
-                "risk_level": "Low",
-                "summary": "Following a recent mass shooting in Texas, President Biden has announced plans to review and potentially reform gun laws in the United States. The president has expressed his commitment to taking action to reduce gun violence and prevent such tragedies from occurring in the future."
+                "title": "US imposes sanctions on Russian oligarch linked to Kremlin",
+                "risk_level": "High",
+                "summary": "The US Treasury Department imposed sanctions on a Russian oligarch linked to the Kremlin, accusing him of laundering money through the US financial system. The sanctions are part of a broader effort by the US to crack down on Russian oligarchs who have close ties to the Kremlin."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea says new Covid-19 cases found, but still no outbreaks: KCNA",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "SEOUL - North Korea reported new Covid-19 cases in a recent outbreak but has no symptoms of the disease, the official KCNA news agency reported on Tuesday."
+                "summary": "Anti-vaccine mandate protests turn violent in South Korea with over 1,500 protesters arrested. Riots damage buildings, buses and other vehicles in major cities, including Seoul. Police respond with force, further escalating tensions."
             },
             {
-                "title": "North Korea's Kim orders more lockdowns to curb COVID-19 spread",
+                "title": "",
                 "risk_level": "High",
-                "summary": "SEOUL (Reuters) - North Korean leader Kim Jong Un ordered more lockdowns to control the spread of COVID-19, state media said on Sunday, as the country reported 8,180 new cases over the past week."
+                "summary": "North Korea fires ballistic missile over Japan, prompting warnings from Japanese authorities. South Korean military puts units on high alert in response to the launch. International community condemns the launch, with US, Japan and South Korea vowing to take steps to address the issue."
             },
             {
-                "title": "North Korea fires ballistic missile off east coast, Japan Coast Guard says",
-                "risk_level": "High",
-                "summary": "The Japan Coast Guard said that North Korea fired a ballistic missile off its east coast on Thursday."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "South Korean prosecutors launch new investigation into President Yoon Suk-yeol over corruption allegations. Opposition parties call for his resignation as scrutiny of his administration deepens."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Typhoon warning lifted for most of Japan after Typhoon Shanshan moves out to sea."
+                "title": "Japan's PM Suggests State of Emergency in Response to COVID-19 Outbreak",
+                "risk_level": "High",
+                "summary": "Japanese Prime Minister Fumio Kishida hinted at a possible state of emergency in response to a rapid increase in COVID-19 cases. The country continues to struggle with infections, mainly due to the highly contagious omicron subvariant BA.2."
             },
             {
-                "title": "",
+                "title": "Japanese Government Allocates $1.5 Billion to Support Companies Affected by Chip Shortage",
                 "risk_level": "Medium",
-                "summary": "Japan's ruling party wins election but fails to secure a majority, casting doubt on its ability to maintain power."
+                "summary": "As part of efforts to mitigate a global semiconductor shortage, the Japanese government has allocated $1.5 billion in support of companies impacted by the crisis."
             },
             {
-                "title": "",
+                "title": "Japan's Population Shrinks by 643,000 in Last Year, Reports Ministry of Internal Affairs and Communications",
                 "risk_level": "Low",
-                "summary": "North Korea fires unidentified projectiles, but it's unclear whether they were ballistic missiles or surface-to-air missiles."
+                "summary": "According to recent data published by the Ministry of Internal Affairs and Communications, Japan's population declined by 643,000 over the past year, further exacerbating concerns about the country's demographics and economic future."
             }
         ]
     }
