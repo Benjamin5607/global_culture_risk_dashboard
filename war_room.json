@@ -1,72 +1,72 @@
 {
-    "updated": "2026-07-25",
+    "updated": "2026-07-26",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber-attacks target major US infrastructure",
+                "title": "Cyber-Attack on European Banking System",
                 "risk_level": "High",
-                "summary": "A series of coordinated cyber-attacks has been launched against critical US infrastructure, including power grids and financial systems, over the past week."
+                "summary": "A recent cyber-attack on European banks has caused significant disruptions to financial services, highlighting the increasing threat of cyberattacks on critical infrastructure."
             },
             {
-                "title": "Global economic warning as trade war tensions escalate",
+                "title": "Global Economic Instability",
                 "risk_level": "High",
-                "summary": "The ongoing trade war between the US and China has reached a boiling point, sparking concerns of a potential global economic downturn."
+                "summary": "Global economic instability continues to rise, driven by factors such as high inflation, supply chain disruptions, and geo-political tensions."
             },
             {
-                "title": "Climate protests spread globally as pressure mounts on governments",
-                "risk_level": "Medium",
-                "summary": "Massive climate protests have erupted across the world, demanding action from governments to address the worsening climate crisis."
+                "title": "Rise of Global Food Insecurity",
+                "risk_level": "High",
+                "summary": "Global food insecurity is on the rise due to factors such as droughts, wars, and climate change, threatening social stability and economic growth."
             }
         ],
         "United States": [
             {
-                "title": "Florida Republican Sen. Rick Scott calls for the suspension of the US Constitution if Joe Biden and Kamala Harris are re-elected",
+                "title": "US Congress holds hearing on Chinese surveillance balloons",
                 "risk_level": "High",
-                "summary": "Sen. Scott expressed his concerns if the 'election integrity' measures are not taken, and said the Constitution should be put 'on hold'. His statement was widely criticized by his Democratic colleagues and legal analysts, who pointed out that this would be a highly unconstitutional and undemocratic act."
+                "summary": "In a tense hearing, US lawmakers grilled Biden administration officials about the delayed response to Chinese surveillance balloons over US airspace."
             },
             {
-                "title": "Biden signs climate law extension, but Democrats fear it may not be enough to meet US targets",
-                "risk_level": "Medium",
-                "summary": "The Inflation Reduction Act, signed by the US President, aims to reduce greenhouse gas emissions and invest in clean energy. However, some Democrats worry that the measures might not be sufficient to meet the country's climate goals, which could lead to further political tensions and environmental concerns."
+                "title": "Rise in fentanyl-related deaths in US prompts calls for stricter border controls",
+                "risk_level": "High",
+                "summary": "Fentanyl-related deaths are on the rise in the US, prompting calls for stricter border controls to prevent the influx of this deadly synthetic opioid."
             },
             {
-                "title": "Supreme Court rejects Trump-backed challenge to student loan forgiveness plan",
-                "risk_level": "Low",
-                "summary": "The Supreme Court has ruled that the Biden administration's student loan forgiveness plan, championed by Trump, is lawful. This decision has been welcomed by many progressive groups, but some conservatives have expressed their disapproval, which could lead to further political divisions."
+                "title": "US Supreme Court to consider overturning Roe v. Wade",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has agreed to hear a case that could potentially overturn Roe v. Wade, the landmark decision that established a woman's right to choose an abortion."
             }
         ],
         "South Korea": [
             {
-                "title": "COVID-19 cases surge in South Korea despite eased restrictions",
+                "title": "Protests Against President Yoon's Visit to Japan",
+                "risk_level": "High",
+                "summary": "Thousands of South Koreans protested against President Yoon Suk-yeol's visit to Japan, amid concerns over the two countries' historical disputes."
+            },
+            {
+                "title": "Rise of COVID-19 Cases in South Korea",
                 "risk_level": "Medium",
-                "summary": "South Korea has reported a sudden rise in COVID-19 cases, with over 20,000 new infections in the past week. The surge has forced authorities to reimpose some restrictions, including increased mask-wearing and social distancing measures."
+                "summary": "South Korea reported a surge in COVID-19 cases, with the country's daily tally reaching its highest level since March 2020."
             },
             {
-                "title": "Protests erupt in Seoul over President Yoon's economic policies",
-                "risk_level": "High",
-                "summary": "Thousands of protesters took to the streets in Seoul to demonstrate against President Yoon's economic policies, which they claim favor the wealthy at the expense of the working class."
-            },
-            {
-                "title": "North Korea tests new missiles, tensions with South Korea escalate",
-                "risk_level": "High",
-                "summary": "North Korea has conducted a series of missile tests, including a possible intercontinental ballistic missile (ICBM), which has triggered a diplomatic response from South Korea and the international community."
+                "title": "Government Crackdown on Online Gambling",
+                "risk_level": "Low",
+                "summary": "The South Korean government launched a crackdown on online gambling, with authorities arresting several individuals involved in the industry."
             }
         ],
         "Japan": [
             {
-                "title": "Nippon Ishin no Kai's Tokyo election win sparks controversy",
-                "risk_level": "High",
-                "summary": "The far-right Japan Innovation party's victory in Tokyo's regional election has generated heated debates over its potential implications on Japan's politics and society."
-            },
-            {
-                "title": "Tokyo sees record-breaking summer heatwave",
+                "title": "Rising COVID-19 cases in Japan",
                 "risk_level": "Medium",
-                "summary": "Japan has experienced unprecedented temperatures, with Tokyo reaching a record high, sparking health concerns and power shortages."
+                "summary": "Japan reports 1,447 new COVID-19 cases, the highest number since January."
             },
             {
-                "title": "Japan's defense ministry mulls over deploying military in response to China's military activity",
+                "title": "North Korea's missile tests pose threat to Japan",
                 "risk_level": "High",
-                "summary": "The Japanese government's plan to deploy military in response to China's growing assertiveness in the South China Sea has raised tensions between the two nations."
+                "summary": "North Korea fired an intercontinental ballistic missile, highlighting the risk of a potential conflict with Japan."
+            },
+            {
+                "title": "Protest against government's COVID-19 measures",
+                "risk_level": "Low",
+                "summary": "Hundreds of protesters in Tokyo rally against Japan's COVID-19 measures, such as vaccination requirements and mask mandates."
             }
         ]
     }
