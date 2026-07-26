@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Outbreak of Omicron variant",
+                "title": "China's Economic Slowdown Concerns Global Markets",
                 "risk_level": "High",
-                "summary": "Cases are spiking globally due to the new variant, causing widespread outbreaks."
+                "summary": "China's economic data shows slowed growth, raising concerns among investors about the global economic impact."
             },
             {
-                "title": "Cyber Attack Targeting Global Supply Chain",
+                "title": "Increased Tension Between US and Iran",
                 "risk_level": "High",
-                "summary": "A new strain of malware has been detected in the global supply chain, threatening critical infrastructure."
+                "summary": "The US and Iran engage in a tense standoff, raising concerns about the possibility of military conflict."
             },
             {
-                "title": "Rise in Global Civil Unrest Due to Economic Downturn",
+                "title": "Global Cybersecurity Threats on the Rise",
                 "risk_level": "Medium",
-                "summary": "Protests are erupting globally as citizens respond to the economic downturn, leading to increased instability."
+                "summary": "Recent data shows a significant increase in global cybersecurity threats, with many countries affected."
             }
         ],
         "United States": [
             {
-                "title": "House Committee Votes to Hold Mark Zuckerberg in Contempt Over Meta Data Requests",
-                "risk_level": "Medium",
-                "summary": "A House committee voted to hold Mark Zuckerberg in contempt of Congress over Meta’s refusal to comply with a subpoena related to the company’s data collection practices."
-            },
-            {
-                "title": "US Charges Chinese National in Massive Hacking Scheme",
+                "title": "Florida school shooting: Second incident in days leaves one dead and another injured",
                 "risk_level": "High",
-                "summary": "The US Department of Justice has charged a Chinese national with being part of a massive hacking scheme that targeted over 100 companies and government agencies worldwide."
+                "summary": "A shooting occurred at a school in Florida, leaving one dead and another injured, raising concerns about school safety."
             },
             {
-                "title": "White House Says FBI Director Wray Will Testify on Domestic Terrorism",
-                "risk_level": "Low",
-                "summary": "The White House has announced that FBI Director Christopher Wray will testify on Capitol Hill about domestic terrorism, amid growing concerns about the threat of extremism in the US."
+                "title": "Supreme Court takes up major abortion case that could limit access nationwide",
+                "risk_level": "High",
+                "summary": "The US Supreme Court is set to hear a major case that could limit access to abortion nationwide, sparking concerns about reproductive rights."
+            },
+            {
+                "title": "US and allies impose fresh sanctions on North Korea over rocket tests",
+                "risk_level": "High",
+                "summary": "The US, along with its allies, imposed fresh sanctions on North Korea over recent rocket tests, escalating tensions between the two nations."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korean Ballistic Missile Test Fails Mid-Flight",
+                "title": "Pro-Russian protests at Busan pier, South Korea, as Putin visit canceled",
+                "risk_level": "High",
+                "summary": "Large crowds gather at the Busan pier to protest Russian President Putin's canceled visit, as South Korea continues to navigate its complex relationship with Russia."
+            },
+            {
+                "title": "South Korea reports record-high number of COVID-19 cases in recent weeks",
                 "risk_level": "Medium",
-                "summary": "North Korea's latest ballistic missile test ended in failure, with the rocket exploding mid-air, increasing tensions on the Korean Peninsula."
+                "summary": "As South Korea struggles with the ongoing COVID-19 pandemic, the country reports a record-high number of new cases in recent weeks, raising concerns about the spread of the virus."
             },
             {
-                "title": "Samsung Leader Lee Jae-Yong Sentenced to 5.5 Years in Prison",
+                "title": "South Korean military holds drills in response to North Korean missile launches",
                 "risk_level": "High",
-                "summary": "Samsung heir Lee Jae-yong has been sentenced to 5.5 years in prison for his role in a 2017 corruption scandal involving South Korean President Park Geun-hye, sparking fears of economic instability."
-            },
-            {
-                "title": "South Korea's Yoon Suk-yeol Warns of 'Grave and Critical' Security Threat from North Korea",
-                "risk_level": "High",
-                "summary": "South Korean President Yoon Suk-yeol has expressed his concerns over North Korea's military advancements, describing the security threat as 'grave and critical', amidst growing tensions between the two nations."
+                "summary": "The South Korean military holds large-scale drills in response to recent missile launches from North Korea, as tensions between the two countries continue to escalate."
             }
         ],
         "Japan": [
             {
-                "title": "Japan Extradites Ex-Military Officer to Japan Over Alleged Spies",
+                "title": "Protests held in Japan over new security laws",
+                "risk_level": "High",
+                "summary": "Opposition parties held protests last week against the Japanese government's new security laws, which critics argue would give Tokyo too much power under the current state of emergency."
+            },
+            {
+                "title": "Japan's defense minister vows to increase military presence in region",
                 "risk_level": "Medium",
-                "summary": "Japan has extradited a former US military intelligence officer to Japan, where they will face charges related to alleged espionage. The US has requested the extradition, but the details of the allegations have not been disclosed."
+                "summary": "Japan's defense minister has stated that Tokyo will increase its military presence in the region in response to rising tensions with China and North Korea."
             },
             {
-                "title": "",
+                "title": "Japan's new government faces criticism over COVID-19 policies",
                 "risk_level": "Low",
-                "summary": "No updates"
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "No updates"
+                "summary": "Japan's new government has faced criticism over its COVID-19 policies, with some experts accusing them of being too soft and not doing enough to control the spread of the virus."
             }
         ]
     }
