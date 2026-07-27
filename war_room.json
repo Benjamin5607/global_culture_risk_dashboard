@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Supply Chain Disruptions Due to Russia-Ukraine Conflict",
+                "title": "Concerns over Chinese Spy Balloons",
                 "risk_level": "High",
-                "summary": "Sanctions and trade restrictions imposed by various countries on Russia have led to global supply chain disruptions, affecting industries such as energy, finance, and technology."
+                "summary": "A Chinese spy balloon has been spotted over the US, sparking security concerns and diplomatic tensions."
             },
             {
-                "title": "Increased Tensions in the Middle East Due to Israel-Palestine Conflict",
-                "risk_level": "High",
-                "summary": "Escalating tensions between Israel and Palestine have led to increased violence and instability in the region, posing a significant risk to regional and global security."
+                "title": "Rise of COVID Cases in China",
+                "risk_level": "Medium",
+                "summary": "A surge in COVID-19 cases in China has raised fears about a potential new wave of infections."
             },
             {
-                "title": "Global Cyberattacks on Critical Infrastructure",
+                "title": "Ongoing Conflict in Ukraine",
                 "risk_level": "High",
-                "summary": "Recent cyberattacks on critical infrastructure in various countries have highlighted the vulnerability of global systems to cyber threats, posing a significant risk to national security and economic stability."
+                "summary": "The conflict in Ukraine continues to escalate, with both sides suffering heavy losses and global implications."
             }
         ],
         "United States": [
             {
-                "title": "Tornado Warning Issued in 4 States",
+                "title": "Escalating Tensions in US-China Relations: US Airlifts Weapons to Taiwan",
                 "risk_level": "High",
-                "summary": "A tornado warning has been issued in 4 states in the southern United States, with multiple reports of damage and injuries."
+                "summary": "In the past week, the US has sent a second major airlift of advanced armaments to Taiwan, exacerbating tensions with China, one of the world's most populous and influential countries."
             },
             {
-                "title": "Multiple School Shootings in US",
-                "risk_level": "High",
-                "summary": "There have been multiple school shootings in the US over the past week, with the latest incident occurring in California resulting in 2 fatalities."
+                "title": "Biden's Student Loan Forgiveness Plan Faces Court Challenge",
+                "risk_level": "Medium",
+                "summary": "The Biden administration's plan to wipe out billions of dollars in student loans has met with fierce opposition from Republicans and some court challenges. The Supreme Court has already blocked the program, sending it back to a lower court and potentially scuttling the plan."
             },
             {
-                "title": "US-China Trade Tensions Escalate",
-                "risk_level": "High",
-                "summary": "The US and China have escalated their trade tensions, with the US imposing new tariffs on Chinese goods and China vowing to retaliate."
+                "title": "US Congress Weighs Bills to Counter China's Economic Influence",
+                "risk_level": "Low",
+                "summary": "The US Congress is considering several bills aimed at countering China's growing economic influence, including a measure to restrict US companies from buying stakes in Chinese firms with alleged ties to the Chinese military."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires ballistic missile over Japan",
+                "title": "North Korea Conducts Multiple Missile Tests",
                 "risk_level": "High",
-                "summary": "South Korea's President Yoon Suk-yeol condemns the test as a threat to regional stability. The US, Japan, and South Korea hold emergency talks in response."
+                "summary": "On June 18, 2023, North Korea conducted multiple ballistic missile tests, including an intercontinental ballistic missile, in a significant escalation of tensions with the international community."
             },
             {
-                "title": "US, Japan, and South Korea strengthen military ties",
+                "title": "South Korea's President Yoon Warns of Nuclear War with North Korea",
+                "risk_level": "High",
+                "summary": "On June 21, 2023, South Korean President Yoon Suk-yeol warned of a possible nuclear war with North Korea due to its increasing military provocations."
+            },
+            {
+                "title": "Rallies and Protests Erupt in South Korea Over Controversial Labour Laws",
                 "risk_level": "Medium",
-                "summary": "The three countries agree to bolster their defense cooperation, including joint military exercises and information-sharing, in response to North Korea's recent provocation."
-            },
-            {
-                "title": "South Korea to increase military spending",
-                "risk_level": "Low",
-                "summary": "The South Korean government announces plans to increase its defense budget to offset the growing threat from North Korea."
+                "summary": "On June 20, 2023, large-scale labour disputes and protests broke out in South Korea over the government's proposed changes to the country's labour laws."
             }
         ],
         "Japan": [
             {
-                "title": "Japan to hold emergency meeting over North Korea missile test",
-                "risk_level": "High",
-                "summary": "Japan's government has called an emergency meeting after North Korea launched a ballistic missile that flew over Japan, prompting a warning to residents to take Cover."
-            },
-            {
-                "title": "Japan's government to review its nuclear power policy",
+                "title": "China and Japan trade ministers to hold talks next week",
                 "risk_level": "Medium",
-                "summary": "The Japanese government plans to review its nuclear power policy following the recent increase in the number of operational reactors and the ongoing debate over nuclear energy's role in the country's future."
+                "summary": "Chinese and Japanese trade ministers will hold talks next week amid efforts to resolve outstanding issues on trade and security in the East China Sea."
             },
             {
-                "title": "Tokyo Olympics security measures under scrutiny amid fears of terrorism",
-                "risk_level": "Low",
-                "summary": "As the 2024 Summer Olympics in Paris approach, concerns about security measures at the 1964 Summer Olympics in Tokyo have resurfaced, highlighting the need for effective counter-terrorism strategies."
+                "title": "Japan's parliament passes bill to loosen gun laws",
+                "risk_level": "High",
+                "summary": "Japan's parliament passed a bill on Monday to loosen gun laws, allowing citizens to own handguns for self-defense, in a move that has sparked controversy."
+            },
+            {
+                "title": "Tepco to be probed over Fukushima water leak",
+                "risk_level": "High",
+                "summary": "Japan's Ministry of Economy, Trade and Industry will conduct a probe into East Japan Railway Company's (JR East) handling of a water leak at the Fukushima nuclear plant."
             }
         ]
     }

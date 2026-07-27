@@ -1,5 +1,21 @@
 [
     {
+        "term": " Lit",
+        "group": "Gen Z",
+        "country": "USA",
+        "category": "Adjective",
+        "risk_level": "Low",
+        "trend_score": 0.8,
+        "status": "Current",
+        "first_detected": 2017,
+        "last_updated": 2022,
+        "context": {
+            "en": "Used to describe something as exciting or cool",
+            "ko": "",
+            "ja": ""
+        }
+    },
+    {
         "term": "Oscar Wilde",
         "group": "Historical Figures",
         "country": "Ireland",
