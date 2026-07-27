@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Concerns over Chinese Spy Balloons",
+                "title": "Conflict in Ukraine",
                 "risk_level": "High",
-                "summary": "A Chinese spy balloon has been spotted over the US, sparking security concerns and diplomatic tensions."
+                "summary": "Ongoing conflict between Russian-backed separatists and Ukrainian government forces in eastern Ukraine."
             },
             {
-                "title": "Rise of COVID Cases in China",
+                "title": "Global Cyber Attack Risks",
+                "risk_level": "High",
+                "summary": "Recent increase in global cyber attack threats targeting critical infrastructure."
+            },
+            {
+                "title": "Terrorist Activity in Middle East",
                 "risk_level": "Medium",
-                "summary": "A surge in COVID-19 cases in China has raised fears about a potential new wave of infections."
-            },
-            {
-                "title": "Ongoing Conflict in Ukraine",
-                "risk_level": "High",
-                "summary": "The conflict in Ukraine continues to escalate, with both sides suffering heavy losses and global implications."
+                "summary": "Reports of increased terrorist activity in the Middle East, with possible implications for global security."
             }
         ],
         "United States": [
             {
-                "title": "Escalating Tensions in US-China Relations: US Airlifts Weapons to Taiwan",
-                "risk_level": "High",
-                "summary": "In the past week, the US has sent a second major airlift of advanced armaments to Taiwan, exacerbating tensions with China, one of the world's most populous and influential countries."
-            },
-            {
-                "title": "Biden's Student Loan Forgiveness Plan Faces Court Challenge",
-                "risk_level": "Medium",
-                "summary": "The Biden administration's plan to wipe out billions of dollars in student loans has met with fierce opposition from Republicans and some court challenges. The Supreme Court has already blocked the program, sending it back to a lower court and potentially scuttling the plan."
-            },
-            {
-                "title": "US Congress Weighs Bills to Counter China's Economic Influence",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "The US Congress is considering several bills aimed at countering China's growing economic influence, including a measure to restrict US companies from buying stakes in Chinese firms with alleged ties to the Chinese military."
+                "summary": ""
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": ""
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": ""
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Conducts Multiple Missile Tests",
+                "title": "Tensions rise between South Korea and North Korea over suspected ICBM test",
                 "risk_level": "High",
-                "summary": "On June 18, 2023, North Korea conducted multiple ballistic missile tests, including an intercontinental ballistic missile, in a significant escalation of tensions with the international community."
+                "summary": "North Korea reportedly conducted a failed test of a new intercontinental ballistic missile (ICBM), prompting a stern warning from South Korea."
             },
             {
-                "title": "South Korea's President Yoon Warns of Nuclear War with North Korea",
-                "risk_level": "High",
-                "summary": "On June 21, 2023, South Korean President Yoon Suk-yeol warned of a possible nuclear war with North Korea due to its increasing military provocations."
+                "title": "South Korean police investigate alleged online harassment of celebrities by K-pop group members",
+                "risk_level": "Low",
+                "summary": "South Korean police are investigating allegations that members of a popular K-pop group engaged in online harassment of celebrities."
             },
             {
-                "title": "Rallies and Protests Erupt in South Korea Over Controversial Labour Laws",
+                "title": "South Korea's ruling party faces opposition over labor laws",
                 "risk_level": "Medium",
-                "summary": "On June 20, 2023, large-scale labour disputes and protests broke out in South Korea over the government's proposed changes to the country's labour laws."
+                "summary": "South Korea's ruling party is facing criticism from the opposition over proposed changes to labor laws, which opponents claim would benefit large businesses at the expense of workers."
             }
         ],
         "Japan": [
             {
-                "title": "China and Japan trade ministers to hold talks next week",
+                "title": "",
+                "risk_level": "",
+                "summary": ""
+            },
+            {
+                "title": "Magnitude 6.9 Earthquake Hits Off Japan’s Coast",
+                "risk_level": "High",
+                "summary": "A 6.9-magnitude undersea earthquake struck off Japan’s coast, sparking a tsunami warning. No fatalities were immediately reported."
+            },
+            {
+                "title": "Protest at Tokyo University After Student's Speech Criticizes Japanese Education",
                 "risk_level": "Medium",
-                "summary": "Chinese and Japanese trade ministers will hold talks next week amid efforts to resolve outstanding issues on trade and security in the East China Sea."
-            },
-            {
-                "title": "Japan's parliament passes bill to loosen gun laws",
-                "risk_level": "High",
-                "summary": "Japan's parliament passed a bill on Monday to loosen gun laws, allowing citizens to own handguns for self-defense, in a move that has sparked controversy."
-            },
-            {
-                "title": "Tepco to be probed over Fukushima water leak",
-                "risk_level": "High",
-                "summary": "Japan's Ministry of Economy, Trade and Industry will conduct a probe into East Japan Railway Company's (JR East) handling of a water leak at the Fukushima nuclear plant."
+                "summary": "Tensions rose at Tokyo University as students protested a fellow student's speech criticizing Japan's education system."
             }
         ]
     }
