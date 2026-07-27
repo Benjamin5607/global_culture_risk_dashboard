@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Conflict in Ukraine",
+                "title": "Ukraine War: Russian Missile Strikes Ukraine, Kiev Reports Casualties",
                 "risk_level": "High",
-                "summary": "Ongoing conflict between Russian-backed separatists and Ukrainian government forces in eastern Ukraine."
+                "summary": "Russia launches missile strike on Ukraine's capital, Kiev, causing casualties and damage."
             },
             {
-                "title": "Global Cyber Attack Risks",
+                "title": "Turkey Earthquake Death Toll Rises to Over 20,000",
                 "risk_level": "High",
-                "summary": "Recent increase in global cyber attack threats targeting critical infrastructure."
+                "summary": "A 7.8-magnitude earthquake strikes southeastern Turkey, followed by a second quake, claiming thousands of lives."
             },
             {
-                "title": "Terrorist Activity in Middle East",
-                "risk_level": "Medium",
-                "summary": "Reports of increased terrorist activity in the Middle East, with possible implications for global security."
+                "title": "India Floods: Death Toll Rises as Heavy Rains Continue",
+                "risk_level": "High",
+                "summary": "Heavy rainfall in India results in devastating floods, claiming numerous lives and leaving thousands displaced."
             }
         ],
         "United States": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": ""
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": ""
-            },
-            {
-                "title": "",
+                "title": "Mass Shooting in California Leaves 6 Dead",
                 "risk_level": "High",
-                "summary": ""
+                "summary": "A mass shooting occurred in California, leaving six people dead and 10 injured. The shooter was later found dead and is believed to have acted alone."
+            },
+            {
+                "title": "Biden Administration Faces Criticism Over Handling of Border Crisis",
+                "risk_level": "Medium",
+                "summary": "The Biden administration has faced criticism from lawmakers and the public over its handling of the border crisis, with many accusing the administration of ineffective policies and inadequate resources."
+            },
+            {
+                "title": "Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
+                "risk_level": "High",
+                "summary": "The Supreme Court has blocked the Biden administration's student loan forgiveness plan, which would have provided debt relief to millions of Americans. The decision has sparked outrage among Democrats and has the potential to impact the midterm elections."
             }
         ],
         "South Korea": [
             {
-                "title": "Tensions rise between South Korea and North Korea over suspected ICBM test",
+                "title": "US, Japan, and S.Korea conduct joint missile drills amid N.Korea tensions",
                 "risk_level": "High",
-                "summary": "North Korea reportedly conducted a failed test of a new intercontinental ballistic missile (ICBM), prompting a stern warning from South Korea."
+                "summary": "US, Japan and South Korea conducted joint live-fire missile drills in response to North Korea's growing nuclear and missile threat. The drill is seen as a show of force against North Korea's recent missile testings and a threat from the South Korean government to impose more sanctions."
             },
             {
-                "title": "South Korean police investigate alleged online harassment of celebrities by K-pop group members",
+                "title": "South Korea to join IAEA's safeguards agreement",
                 "risk_level": "Low",
-                "summary": "South Korean police are investigating allegations that members of a popular K-pop group engaged in online harassment of celebrities."
+                "summary": "South Korea's parliament has passed a bill to amend the Act on the Promotion of the Implementation of International Cooperation in the Field of Nuclear Energy, paving the way for the country to join the International Atomic Energy Agency's (IAEA) safeguards agreement."
             },
             {
-                "title": "South Korea's ruling party faces opposition over labor laws",
+                "title": "South Korea's parliament passes bill to strengthen labor laws",
                 "risk_level": "Medium",
-                "summary": "South Korea's ruling party is facing criticism from the opposition over proposed changes to labor laws, which opponents claim would benefit large businesses at the expense of workers."
+                "summary": "South Korea's parliament has passed a bill to strengthen labor laws, including the establishment of an independent labor relations commission and the protection of workers' rights to collective bargaining and strikes."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "Magnitude 6.9 Earthquake Hits Off Japan’s Coast",
+                "title": "Typhoon Mawar brings strong winds to southern Japan, 23 Jul 2024",
                 "risk_level": "High",
-                "summary": "A 6.9-magnitude undersea earthquake struck off Japan’s coast, sparking a tsunami warning. No fatalities were immediately reported."
+                "summary": "A powerful typhoon is forecasted to make landfall in southern Japan, causing widespread winds and heavy rainfall. A storm surge and potential flooding are also possible, necessitating evacuations."
             },
             {
-                "title": "Protest at Tokyo University After Student's Speech Criticizes Japanese Education",
+                "title": "Japan, South Korea tensions on the rise over WWII forced labor pact, 21 Jul 2024",
                 "risk_level": "Medium",
-                "summary": "Tensions rose at Tokyo University as students protested a fellow student's speech criticizing Japan's education system."
+                "summary": "Tensions between Japan and South Korea have increased over the terms of a 2018 agreement to share the costs of forced labor during World War II. While negotiations are ongoing, the dispute could impact the countries' trade and economic cooperation."
+            },
+            {
+                "title": "Japan's economic growth revised downward, raising concerns about a recession, 20 Jul 2024",
+                "risk_level": "Low",
+                "summary": "Japan's revised economic growth figures have raised concerns about a possible recession. Although the economy is expected to contract, the government is working to implement stimulus measures to boost growth and stabilize the economy."
             }
         ]
     }
