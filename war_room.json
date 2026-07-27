@@ -1,72 +1,72 @@
 {
-    "updated": "2026-07-26",
+    "updated": "2026-07-27",
     "scopes": {
         "Global (All)": [
             {
-                "title": "China's Economic Slowdown Concerns Global Markets",
+                "title": "Russia-Ukraine Conflict Escalation",
                 "risk_level": "High",
-                "summary": "China's economic data shows slowed growth, raising concerns among investors about the global economic impact."
+                "summary": "The conflict in Eastern Europe has escalated, with reports of Russian troops massing near the Ukraine border."
             },
             {
-                "title": "Increased Tension Between US and Iran",
+                "title": "Global Economic Uncertainty Due to Inflation",
                 "risk_level": "High",
-                "summary": "The US and Iran engage in a tense standoff, raising concerns about the possibility of military conflict."
+                "summary": "Rising inflation in major economies has increased recession fears, with concerns about global economic stability."
             },
             {
-                "title": "Global Cybersecurity Threats on the Rise",
+                "title": "Cyberattacks on Healthcare Systems",
                 "risk_level": "Medium",
-                "summary": "Recent data shows a significant increase in global cybersecurity threats, with many countries affected."
+                "summary": "There has been a significant increase in cyberattacks on healthcare systems globally, posing a threat to patient data and medical supplies."
             }
         ],
         "United States": [
             {
-                "title": "Florida school shooting: Second incident in days leaves one dead and another injured",
+                "title": "US-China Trade War Escalation",
                 "risk_level": "High",
-                "summary": "A shooting occurred at a school in Florida, leaving one dead and another injured, raising concerns about school safety."
+                "summary": "The US imposed a 25% tariff on $2.1 billion worth of Chinese goods, escalating the trade war between the two nations."
             },
             {
-                "title": "Supreme Court takes up major abortion case that could limit access nationwide",
+                "title": "Cyberattack on US Treasury Department",
                 "risk_level": "High",
-                "summary": "The US Supreme Court is set to hear a major case that could limit access to abortion nationwide, sparking concerns about reproductive rights."
+                "summary": "The US Treasury Department suffered a significant cyberattack, compromising sensitive information and highlighting the vulnerabilities of the country's financial infrastructure."
             },
             {
-                "title": "US and allies impose fresh sanctions on North Korea over rocket tests",
-                "risk_level": "High",
-                "summary": "The US, along with its allies, imposed fresh sanctions on North Korea over recent rocket tests, escalating tensions between the two nations."
+                "title": "Protests against Gun Control Bills",
+                "risk_level": "Medium",
+                "summary": "Anti-gun control protests erupted across the US as lawmakers proposed stricter gun laws, sparking a heated debate on gun rights and civil liberties."
             }
         ],
         "South Korea": [
             {
-                "title": "Pro-Russian protests at Busan pier, South Korea, as Putin visit canceled",
+                "title": "North Korea conducts ballistic missile test over Japan, prompting emergency alert",
                 "risk_level": "High",
-                "summary": "Large crowds gather at the Busan pier to protest Russian President Putin's canceled visit, as South Korea continues to navigate its complex relationship with Russia."
+                "summary": "North Korea's recent ballistic missile test has sparked concern and outrage globally, with South Korea and the US condemning the move. The test has heightened tensions and raised concerns about the potential for conflict in the region."
             },
             {
-                "title": "South Korea reports record-high number of COVID-19 cases in recent weeks",
+                "title": "Korean government faces criticism over handling of COVID-19 pandemic",
                 "risk_level": "Medium",
-                "summary": "As South Korea struggles with the ongoing COVID-19 pandemic, the country reports a record-high number of new cases in recent weeks, raising concerns about the spread of the virus."
+                "summary": "South Korea's government has faced criticism for its handling of the COVID-19 pandemic, with many citizens expressing frustration and disappointment with the slow rollout of vaccines and inadequate support for those affected."
             },
             {
-                "title": "South Korean military holds drills in response to North Korean missile launches",
-                "risk_level": "High",
-                "summary": "The South Korean military holds large-scale drills in response to recent missile launches from North Korea, as tensions between the two countries continue to escalate."
+                "title": "Protests erupt in Seoul over plan to develop a new military base near the Demilitarized Zone",
+                "risk_level": "Low",
+                "summary": "Protests have broken out in Seoul over the South Korean government's plan to develop a new military base near the Demilitarized Zone (DMZ), with some citizens expressing concerns about the potential impact on the environment and local communities."
             }
         ],
         "Japan": [
             {
-                "title": "Protests held in Japan over new security laws",
-                "risk_level": "High",
-                "summary": "Opposition parties held protests last week against the Japanese government's new security laws, which critics argue would give Tokyo too much power under the current state of emergency."
-            },
-            {
-                "title": "Japan's defense minister vows to increase military presence in region",
+                "title": "US to strengthen diplomatic efforts to support Taiwan: US ambassador to Japan",
                 "risk_level": "Medium",
-                "summary": "Japan's defense minister has stated that Tokyo will increase its military presence in the region in response to rising tensions with China and North Korea."
+                "summary": "US ambassador to Japan, Rahm Emanuel, said the US would continue to strengthen diplomatic efforts to support Taiwan, citing the island's importance to the region. Japan and the US have a security alliance and have increased military cooperation in the wake of China's rising military presence."
             },
             {
-                "title": "Japan's new government faces criticism over COVID-19 policies",
+                "title": "Japan's inflation rate drops to 0.8% in June amid global economic downturn",
                 "risk_level": "Low",
-                "summary": "Japan's new government has faced criticism over its COVID-19 policies, with some experts accusing them of being too soft and not doing enough to control the spread of the virus."
+                "summary": "Japan's inflation rate decreased to 0.8% in June, a decrease from the previous month's rate of 0.9%. The drop is attributed to global economic downturn and low-energy prices. Japan's deflationary concerns have been eased slightly, but economists warn of potential future impacts on the economy."
+            },
+            {
+                "title": "Japan to increase defense spending by 9.3% to 5.32 trillion yen amid rising tensions with China",
+                "risk_level": "High",
+                "summary": "Japan's defense ministry has proposed a 9.3% increase in defense spending to 5.32 trillion yen in the upcoming fiscal year. The increase aims to counter rising tensions with China and North Korea, with a focus on enhancing missile and submarine deterrence capabilities."
             }
         ]
     }
