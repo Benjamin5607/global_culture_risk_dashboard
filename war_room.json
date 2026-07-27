@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia-Ukraine Conflict Escalation",
+                "title": "Global Fears of US-China Conflict Escalation",
                 "risk_level": "High",
-                "summary": "The conflict in Eastern Europe has escalated, with reports of Russian troops massing near the Ukraine border."
+                "summary": "The risk of a US-China conflict escalating into a full-blown war has increased, with both nations engaging in a series of aggressive actions in the past week."
             },
             {
-                "title": "Global Economic Uncertainty Due to Inflation",
+                "title": "Rise of Global Economic Uncertainty",
                 "risk_level": "High",
-                "summary": "Rising inflation in major economies has increased recession fears, with concerns about global economic stability."
+                "summary": "The global economy is facing increased uncertainty, with several major economies experiencing slowdowns and downturns, leading to concerns about a possible global recession."
             },
             {
-                "title": "Cyberattacks on Healthcare Systems",
+                "title": "Increase in Cyber Attacks on Critical Infrastructure",
                 "risk_level": "Medium",
-                "summary": "There has been a significant increase in cyberattacks on healthcare systems globally, posing a threat to patient data and medical supplies."
+                "summary": "There has been a significant increase in cyber attacks on critical infrastructure in the past week, highlighting the growing threat of cyber attacks on global systems and networks."
             }
         ],
         "United States": [
             {
-                "title": "US-China Trade War Escalation",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US imposed a 25% tariff on $2.1 billion worth of Chinese goods, escalating the trade war between the two nations."
+                "summary": "US House of Representatives Speaker Kevin McCarthy has reached a deal with Democratic leaders to avoid a federal default"
             },
             {
-                "title": "Cyberattack on US Treasury Department",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US Treasury Department suffered a significant cyberattack, compromising sensitive information and highlighting the vulnerabilities of the country's financial infrastructure."
+                "summary": "A US appeals court ruled that a key part of California's assault weapons ban is unconstitutional"
             },
             {
-                "title": "Protests against Gun Control Bills",
-                "risk_level": "Medium",
-                "summary": "Anti-gun control protests erupted across the US as lawmakers proposed stricter gun laws, sparking a heated debate on gun rights and civil liberties."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "A US Senate panel approved a $430 billion spending bill for the Pentagon and defense-related activities"
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea conducts ballistic missile test over Japan, prompting emergency alert",
+                "title": "North Korea Launches Multiple Ballistic Missiles into Sea of Japan",
                 "risk_level": "High",
-                "summary": "North Korea's recent ballistic missile test has sparked concern and outrage globally, with South Korea and the US condemning the move. The test has heightened tensions and raised concerns about the potential for conflict in the region."
+                "summary": "North Korea fired multiple ballistic missiles into the Sea of Japan, prompting concerns about regional security and South Korea's military readiness."
             },
             {
-                "title": "Korean government faces criticism over handling of COVID-19 pandemic",
+                "title": "Protests Erupt in South Korea Over Labor Law Changes",
                 "risk_level": "Medium",
-                "summary": "South Korea's government has faced criticism for its handling of the COVID-19 pandemic, with many citizens expressing frustration and disappointment with the slow rollout of vaccines and inadequate support for those affected."
+                "summary": "Demonstrations are unfolding across South Korea as workers protest changes to the country's labor law, which they fear will erode their rights and benefits."
             },
             {
-                "title": "Protests erupt in Seoul over plan to develop a new military base near the Demilitarized Zone",
-                "risk_level": "Low",
-                "summary": "Protests have broken out in Seoul over the South Korean government's plan to develop a new military base near the Demilitarized Zone (DMZ), with some citizens expressing concerns about the potential impact on the environment and local communities."
+                "title": "Rising Tensions Between South Korea and Japan Over History and Trade",
+                "risk_level": "Medium",
+                "summary": "Ongoing tensions between South Korea and Japan are escalating, fueled by disputes over historical issues and trade agreements, which could impact regional stability and economic cooperation."
             }
         ],
         "Japan": [
             {
-                "title": "US to strengthen diplomatic efforts to support Taiwan: US ambassador to Japan",
-                "risk_level": "Medium",
-                "summary": "US ambassador to Japan, Rahm Emanuel, said the US would continue to strengthen diplomatic efforts to support Taiwan, citing the island's importance to the region. Japan and the US have a security alliance and have increased military cooperation in the wake of China's rising military presence."
-            },
-            {
-                "title": "Japan's inflation rate drops to 0.8% in June amid global economic downturn",
-                "risk_level": "Low",
-                "summary": "Japan's inflation rate decreased to 0.8% in June, a decrease from the previous month's rate of 0.9%. The drop is attributed to global economic downturn and low-energy prices. Japan's deflationary concerns have been eased slightly, but economists warn of potential future impacts on the economy."
-            },
-            {
-                "title": "Japan to increase defense spending by 9.3% to 5.32 trillion yen amid rising tensions with China",
+                "title": "Floods in Western Japan Cause Widespread Damage",
                 "risk_level": "High",
-                "summary": "Japan's defense ministry has proposed a 9.3% increase in defense spending to 5.32 trillion yen in the upcoming fiscal year. The increase aims to counter rising tensions with China and North Korea, with a focus on enhancing missile and submarine deterrence capabilities."
+                "summary": "Heavy rainfall in western Japan has caused severe flooding in several prefectures, resulting in numerous fatalities and significant property damage."
+            },
+            {
+                "title": "Tokyo Olympic Games Legacy Sparks Social Concerns",
+                "risk_level": "Medium",
+                "summary": "The legacy of the Tokyo Olympic Games has sparked concerns over public debt, urban planning, and social inequality in Japan."
+            },
+            {
+                "title": "Japan's COVID-19 Case Numbers Rise Amid New Variants",
+                "risk_level": "Medium",
+                "summary": "Japan has recorded an increase in COVID-19 cases due to the spread of new variants, prompting concerns over the country's healthcare system."
             }
         ]
     }
