@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Fears of US-China Conflict Escalation",
+                "title": "Global Supply Chain Disruptions Due to Russia-Ukraine Conflict",
                 "risk_level": "High",
-                "summary": "The risk of a US-China conflict escalating into a full-blown war has increased, with both nations engaging in a series of aggressive actions in the past week."
+                "summary": "Sanctions and trade restrictions imposed by various countries on Russia have led to global supply chain disruptions, affecting industries such as energy, finance, and technology."
             },
             {
-                "title": "Rise of Global Economic Uncertainty",
+                "title": "Increased Tensions in the Middle East Due to Israel-Palestine Conflict",
                 "risk_level": "High",
-                "summary": "The global economy is facing increased uncertainty, with several major economies experiencing slowdowns and downturns, leading to concerns about a possible global recession."
+                "summary": "Escalating tensions between Israel and Palestine have led to increased violence and instability in the region, posing a significant risk to regional and global security."
             },
             {
-                "title": "Increase in Cyber Attacks on Critical Infrastructure",
-                "risk_level": "Medium",
-                "summary": "There has been a significant increase in cyber attacks on critical infrastructure in the past week, highlighting the growing threat of cyber attacks on global systems and networks."
+                "title": "Global Cyberattacks on Critical Infrastructure",
+                "risk_level": "High",
+                "summary": "Recent cyberattacks on critical infrastructure in various countries have highlighted the vulnerability of global systems to cyber threats, posing a significant risk to national security and economic stability."
             }
         ],
         "United States": [
             {
-                "title": "",
+                "title": "Tornado Warning Issued in 4 States",
                 "risk_level": "High",
-                "summary": "US House of Representatives Speaker Kevin McCarthy has reached a deal with Democratic leaders to avoid a federal default"
+                "summary": "A tornado warning has been issued in 4 states in the southern United States, with multiple reports of damage and injuries."
             },
             {
-                "title": "",
+                "title": "Multiple School Shootings in US",
                 "risk_level": "High",
-                "summary": "A US appeals court ruled that a key part of California's assault weapons ban is unconstitutional"
+                "summary": "There have been multiple school shootings in the US over the past week, with the latest incident occurring in California resulting in 2 fatalities."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "A US Senate panel approved a $430 billion spending bill for the Pentagon and defense-related activities"
+                "title": "US-China Trade Tensions Escalate",
+                "risk_level": "High",
+                "summary": "The US and China have escalated their trade tensions, with the US imposing new tariffs on Chinese goods and China vowing to retaliate."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Launches Multiple Ballistic Missiles into Sea of Japan",
+                "title": "North Korea fires ballistic missile over Japan",
                 "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles into the Sea of Japan, prompting concerns about regional security and South Korea's military readiness."
+                "summary": "South Korea's President Yoon Suk-yeol condemns the test as a threat to regional stability. The US, Japan, and South Korea hold emergency talks in response."
             },
             {
-                "title": "Protests Erupt in South Korea Over Labor Law Changes",
+                "title": "US, Japan, and South Korea strengthen military ties",
                 "risk_level": "Medium",
-                "summary": "Demonstrations are unfolding across South Korea as workers protest changes to the country's labor law, which they fear will erode their rights and benefits."
+                "summary": "The three countries agree to bolster their defense cooperation, including joint military exercises and information-sharing, in response to North Korea's recent provocation."
             },
             {
-                "title": "Rising Tensions Between South Korea and Japan Over History and Trade",
-                "risk_level": "Medium",
-                "summary": "Ongoing tensions between South Korea and Japan are escalating, fueled by disputes over historical issues and trade agreements, which could impact regional stability and economic cooperation."
+                "title": "South Korea to increase military spending",
+                "risk_level": "Low",
+                "summary": "The South Korean government announces plans to increase its defense budget to offset the growing threat from North Korea."
             }
         ],
         "Japan": [
             {
-                "title": "Floods in Western Japan Cause Widespread Damage",
+                "title": "Japan to hold emergency meeting over North Korea missile test",
                 "risk_level": "High",
-                "summary": "Heavy rainfall in western Japan has caused severe flooding in several prefectures, resulting in numerous fatalities and significant property damage."
+                "summary": "Japan's government has called an emergency meeting after North Korea launched a ballistic missile that flew over Japan, prompting a warning to residents to take Cover."
             },
             {
-                "title": "Tokyo Olympic Games Legacy Sparks Social Concerns",
+                "title": "Japan's government to review its nuclear power policy",
                 "risk_level": "Medium",
-                "summary": "The legacy of the Tokyo Olympic Games has sparked concerns over public debt, urban planning, and social inequality in Japan."
+                "summary": "The Japanese government plans to review its nuclear power policy following the recent increase in the number of operational reactors and the ongoing debate over nuclear energy's role in the country's future."
             },
             {
-                "title": "Japan's COVID-19 Case Numbers Rise Amid New Variants",
-                "risk_level": "Medium",
-                "summary": "Japan has recorded an increase in COVID-19 cases due to the spread of new variants, prompting concerns over the country's healthcare system."
+                "title": "Tokyo Olympics security measures under scrutiny amid fears of terrorism",
+                "risk_level": "Low",
+                "summary": "As the 2024 Summer Olympics in Paris approach, concerns about security measures at the 1964 Summer Olympics in Tokyo have resurfaced, highlighting the need for effective counter-terrorism strategies."
             }
         ]
     }
