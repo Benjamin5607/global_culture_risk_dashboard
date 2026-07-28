@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Risk of COVID-19 Spread and Outbreaks Amid Easing Restrictions",
+                "title": "Cyber attacks on Ukraine's critical infrastructure",
                 "risk_level": "High",
-                "summary": "The spread of COVID-19 remains a global concern, particularly in areas where restrictions have been eased. The World Health Organization (WHO) reports a rise in cases, and governments are struggling to balance public health concerns with economic pressures."
+                "summary": "State-sponsored attackers launched a cyber attack on Ukraine's power grid and other critical infrastructure systems in an attempt to disrupt operations and spread fear. Ukraine's cyber defense agency reported that multiple attacks were ongoing and that the attackers were using custom-made malware."
             },
             {
-                "title": "Tensions Escalate Between US and China Over Trade and Security",
-                "risk_level": "High",
-                "summary": "The ongoing trade dispute between the US and China has taken a turn for the worse, with both sides imposing new tariffs and restrictions. The conflict has sparked concerns of a global economic slowdown and increased tensions in the Asia-Pacific region."
-            },
-            {
-                "title": "Protests and Unrest Continue in Several Countries Amid Government Crackdowns",
+                "title": "Global Supply Chain Disruptions due to US-China Trade Tensions",
                 "risk_level": "Medium",
-                "summary": "Protests and unrest have broken out in several countries, including India, Thailand, and Belarus, as residents express frustration with governments and economic conditions. The situations remain volatile, with reports of violence and arrests."
+                "summary": "The ongoing trade tensions between the US and China have led to global supply chain disruptions, affecting the production and delivery of goods worldwide."
+            },
+            {
+                "title": "European Migrant Crisis Worsens as Tensions Rise",
+                "risk_level": "High",
+                "summary": "The migrant crisis in Europe has worsened, with thousands of migrants arriving at the Greek-Turkish border, leading to increased tensions and a humanitarian crisis."
             }
         ],
         "United States": [
             {
-                "title": "US Rapper Young Dolph Murdered in Memphis Shootout",
+                "title": "Mass Shooting in Highland Park, Illinois",
                 "risk_level": "High",
-                "summary": "Young Dolph, a prominent rapper, was tragically killed in a shootout in Memphis, sparking widespread outrage and concern for public safety."
+                "summary": "On July 4, 2022, a mass shooting occurred in Highland Park, Illinois, with multiple casualties. The shooter used an AR-15-style rifle and fired at a crowd of people attending a Fourth of July parade."
             },
             {
-                "title": "US Midterm Elections: Ongoing Tensions and Voting Irregularities",
+                "title": "Tensions Rise Over Supreme Court's Abortion Ruling",
                 "risk_level": "High",
-                "summary": "Tensions are running high in the US as the midterm elections drew to a close, with reports of voting irregularities and disputes over ballot recounts."
+                "summary": "The Dobbs v. Jackson Women's Health Organization decision by the US Supreme Court in June 2022 to overturn Roe v. Wade sparked widespread protests and heated debates across the United States, threatening to escalate into further social unrest."
             },
             {
-                "title": "Twitter Data Breach Exposes Personal Info of over 400M Users",
+                "title": "Rising Inflation and Economic Concerns in the US",
                 "risk_level": "High",
-                "summary": "A massive data breach at Twitter has exposed the personal information of over 400 million users, sparking concerns over data security and potential identity theft."
+                "summary": "The US is experiencing a period of high inflation, driven in part by the COVID-19 pandemic and ongoing supply chain disruptions. This has led to concerns about the economic stability of the country and potential impacts on consumer confidence and financial markets."
             }
         ],
         "South Korea": [
             {
-                "title": "Korea-US FTA review sparks backlash in South Korea",
-                "risk_level": "Medium",
-                "summary": "The Korea-US Free Trade Agreement (FTA) review has sparked a backlash in South Korea, with opposition parties and civic groups protesting the potential consequences of the agreement. The review has sparked concerns among South Koreans about job losses, income inequality, and national sovereignty."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "South Korea's spy agency confirms North Korea behind cyberattack",
-                "risk_level": "High",
-                "summary": "South Korea's National Intelligence Service (NIS) has confirmed that North Korea was responsible for a recent cyberattack on a South Korean cryptocurrency exchange. The attack highlights the ongoing threat of North Korean cyberattacks and the vulnerability of South Korea's critical infrastructure."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "South Korea to strengthen security cooperation with Southeast Asian countries",
-                "risk_level": "Low",
-                "summary": "South Korea has announced plans to strengthen security cooperation with Southeast Asian countries, including Indonesia, Vietnam, and Thailand. The move is seen as a move to counterbalance China's growing influence in the region and promote South Korea's security interests."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 6.9 Earthquake Hits off East Coast of Fukushima, Japan",
-                "risk_level": "High",
-                "summary": "A powerful earthquake with a magnitude of 6.9 struck off the east coast of Fukushima, Japan, causing widespread power outages and triggering tsunami warnings."
-            },
-            {
-                "title": "Anti-Abortion Protestors Clashes with Police in Tokyo, Japan",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Anti-abortion protestor groups clash with police in the Tokyo district, sparking a tense standoff."
+                "summary": "7/22/22 - Japan's government has asked citizens not to travel to parts of the country due to landslides caused by heavy rainfall "
             },
             {
-                "title": "Japan's Consumer Price Index (CPI) Surges to 3.3% in July, Topping Expectations",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "Japan's Consumer Price Index (CPI) for July surged past market expectations to 3.3%, raising concerns about further monetary policy intervention."
+                "summary": "7/22/22 - Japan's economy has continued to recover due to increased domestic consumption"
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "7/24/22 - Japanese Prime Minister Fumio Kishida has vowed to increase defense spending to counter potential threats from China and Russia "
             }
         ]
     }
