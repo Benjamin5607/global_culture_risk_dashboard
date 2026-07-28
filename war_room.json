@@ -1,72 +1,72 @@
 {
-    "updated": "2026-07-27",
+    "updated": "2026-07-28",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Ukraine War: Russian Missile Strikes Ukraine, Kiev Reports Casualties",
+                "title": "Global supply chains remain under pressure due to Russia-Ukraine conflict",
                 "risk_level": "High",
-                "summary": "Russia launches missile strike on Ukraine's capital, Kiev, causing casualties and damage."
+                "summary": "Ongoing conflict between Russia and Ukraine continues to disrupt global supply chains, with risks to trade and economic growth"
             },
             {
-                "title": "Turkey Earthquake Death Toll Rises to Over 20,000",
+                "title": "COVID-19 cases surge in Asia, straining healthcare systems",
                 "risk_level": "High",
-                "summary": "A 7.8-magnitude earthquake strikes southeastern Turkey, followed by a second quake, claiming thousands of lives."
+                "summary": "Rapid spread of COVID-19 in several Asian countries has put additional pressure on already strained healthcare systems, leading to supply chain disruptions and economic impact"
             },
             {
-                "title": "India Floods: Death Toll Rises as Heavy Rains Continue",
-                "risk_level": "High",
-                "summary": "Heavy rainfall in India results in devastating floods, claiming numerous lives and leaving thousands displaced."
+                "title": "Cyber attack against major retailer exposes sensitive customer data",
+                "risk_level": "Medium",
+                "summary": "Cyber attackers breached the systems of a well-known retailer, compromising sensitive customer data and highlighting the need for robust cybersecurity measures"
             }
         ],
         "United States": [
             {
-                "title": "Mass Shooting in California Leaves 6 Dead",
+                "title": "Protests against Roe v Wade reversal lead to arrests and violence",
                 "risk_level": "High",
-                "summary": "A mass shooting occurred in California, leaving six people dead and 10 injured. The shooter was later found dead and is believed to have acted alone."
+                "summary": "Protests against the US Supreme Court's decision to overturn Roe v. Wade have led to arrests, violence, and property damage across the country."
             },
             {
-                "title": "Biden Administration Faces Criticism Over Handling of Border Crisis",
+                "title": "Florida's 'Don't Say Gay' bill controversy",
+                "risk_level": "High",
+                "summary": "The 'Don't Say Gay' bill in Florida has sparked controversy and opposition from LGBTQ+ groups, with concerns about the bill's impact on education and civil rights."
+            },
+            {
+                "title": "US government shutdown looms as Congress deadlocks",
                 "risk_level": "Medium",
-                "summary": "The Biden administration has faced criticism from lawmakers and the public over its handling of the border crisis, with many accusing the administration of ineffective policies and inadequate resources."
-            },
-            {
-                "title": "Supreme Court Blocks Biden's Student Loan Forgiveness Plan",
-                "risk_level": "High",
-                "summary": "The Supreme Court has blocked the Biden administration's student loan forgiveness plan, which would have provided debt relief to millions of Americans. The decision has sparked outrage among Democrats and has the potential to impact the midterm elections."
+                "summary": "The US government is at risk of a shutdown as Congress deadlocks over budget and spending issues, with potential impacts on federal services and the economy."
             }
         ],
         "South Korea": [
             {
-                "title": "US, Japan, and S.Korea conduct joint missile drills amid N.Korea tensions",
+                "title": "North Korea's missile test: US and South Korea respond",
                 "risk_level": "High",
-                "summary": "US, Japan and South Korea conducted joint live-fire missile drills in response to North Korea's growing nuclear and missile threat. The drill is seen as a show of force against North Korea's recent missile testings and a threat from the South Korean government to impose more sanctions."
+                "summary": "North Korea fired a ballistic missile into the sea between Japan and the Korean peninsula, prompting a joint statement from the US and South Korea condemning the launch."
             },
             {
-                "title": "South Korea to join IAEA's safeguards agreement",
-                "risk_level": "Low",
-                "summary": "South Korea's parliament has passed a bill to amend the Act on the Promotion of the Implementation of International Cooperation in the Field of Nuclear Energy, paving the way for the country to join the International Atomic Energy Agency's (IAEA) safeguards agreement."
-            },
-            {
-                "title": "South Korea's parliament passes bill to strengthen labor laws",
+                "title": "COVID-19 restrictions tighten in South Korea amid surge in cases",
                 "risk_level": "Medium",
-                "summary": "South Korea's parliament has passed a bill to strengthen labor laws, including the establishment of an independent labor relations commission and the protection of workers' rights to collective bargaining and strikes."
+                "summary": "South Korea sees a surge in COVID-19 cases, prompting the government to tighten restrictions and increase vaccination efforts."
+            },
+            {
+                "title": "South Korea's economy shows signs of slowing down",
+                "risk_level": "Low",
+                "summary": "South Korea's GDP growth slows down due to external uncertainty and domestic policy challenges."
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Mawar brings strong winds to southern Japan, 23 Jul 2024",
+                "title": "Magnitude 6.2 Earthquake Hits Japan",
                 "risk_level": "High",
-                "summary": "A powerful typhoon is forecasted to make landfall in southern Japan, causing widespread winds and heavy rainfall. A storm surge and potential flooding are also possible, necessitating evacuations."
+                "summary": "A 6.2 magnitude earthquake shook southwestern Japan, causing widespread disruptions and triggering landslides. No immediate casualties were reported, but the quake highlighted Japan's ongoing seismic risks."
             },
             {
-                "title": "Japan, South Korea tensions on the rise over WWII forced labor pact, 21 Jul 2024",
+                "title": "North Korea Fires Ballistic Missile over Japan",
+                "risk_level": "High",
+                "summary": "North Korea fired a ballistic missile that flew over Japan's northern island of Hokkaido, sparking warnings and disrupting flights. The move further escalated tensions between North Korea and Japan."
+            },
+            {
+                "title": "Tokyo Records Highest COVID-19 Case Count in Over 2 Months",
                 "risk_level": "Medium",
-                "summary": "Tensions between Japan and South Korea have increased over the terms of a 2018 agreement to share the costs of forced labor during World War II. While negotiations are ongoing, the dispute could impact the countries' trade and economic cooperation."
-            },
-            {
-                "title": "Japan's economic growth revised downward, raising concerns about a recession, 20 Jul 2024",
-                "risk_level": "Low",
-                "summary": "Japan's revised economic growth figures have raised concerns about a possible recession. Although the economy is expected to contract, the government is working to implement stimulus measures to boost growth and stabilize the economy."
+                "summary": "Tokyo reported its highest daily COVID-19 case count in over two months, leading to concerns about a potential resurgence of the pandemic in the city."
             }
         ]
     }
