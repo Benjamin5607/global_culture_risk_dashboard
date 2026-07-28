@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Taiwan says China sent 28 warplanes near island in one day, a new high - Reuters",
                 "risk_level": "High",
-                "summary": "Global Economic Crisis Looms Due to US-China Trade War"
+                "summary": "The incident marked the largest single-day incursion of Chinese aircraft into the island's air defense zone since the two sides began keeping records in 2020. China has not commented on the matter"
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Global Cyberattacks on Critical Infrastructure Rise by 30% in Past Week"
+                "title": "US to send 'additional defensive capabilities' to Ukraine, Biden says as he meets Zelensky in Kyiv",
+                "risk_level": "High",
+                "summary": "US President Joe Biden and Ukrainian President Volodymyr Zelensky meet in Kyiv as Biden pledges to send additional military aid to Ukraine to help counter Russian aggression in the region."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Global Protests against Inequality and Unemployment Continue in Multiple Countries"
+                "title": "Germany's Scholz visits Kyiv for first time, signs deal with Zelenskiy",
+                "risk_level": "High",
+                "summary": "The meeting between German Chancellor Olaf Scholz and Ukrainian President Volodymyr Zelenskiy follows growing pressure on Scholz to increase Germany's military support for Ukraine in the ongoing conflict with Russia"
             }
         ],
         "United States": [
             {
-                "title": "Rising Tensions Between US and North Korea",
+                "title": "Federal Judge Rules Against Abortion Pill Restrictions in the US, Ruling Has Potential to Impact Midterm Elections",
                 "risk_level": "High",
-                "summary": "The US and North Korea have been involved in a heated verbal exchange, with the US warning of significant consequences if North Korea continues to develop its nuclear program."
+                "summary": "A federal judge in the US has ruled against restrictions on the abortion pill in a move that could potentially impact the upcoming midterm elections."
             },
             {
-                "title": "Gun Violence in US Continues to Climb",
+                "title": "Gun Safety Reform Bill Fails to Pass in US Senate, Raising Fears of Future Mass Shootings",
                 "risk_level": "High",
-                "summary": "Another mass shooting occurred in the US last week, resulting in multiple fatalities and injuries. This incident highlights the ongoing issue of gun violence in the US."
+                "summary": "A gun safety reform bill has failed to pass in the US Senate, sparking concerns over the potential for future mass shootings in the country."
             },
             {
-                "title": "Supreme Court Leak Sparks Concerns Over Democracy",
+                "title": "US Government to Release Report on January 6 Capitol Attack, Expected to Highlight Security Failures",
                 "risk_level": "Medium",
-                "summary": "A leaked Supreme Court draft has sparked concerns over democracy and the rule of law in the US. The leak has led to calls for reforms to ensure the integrity of the judicial process."
+                "summary": "The US government is set to release a report on the January 6 Capitol attack, which is expected to highlight security failures during the riot."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea to consider extending pandemic-era laws to combat cyber threats",
+                "title": "North Korea Conducts Ballistic Missile Test Amid Global Concerns",
+                "risk_level": "High",
+                "summary": "On June 18, 2023, North Korea launched a ballistic missile into the sea off its east coast, amid increased tensions in the region. The move has sparked international condemnation and concerns about regional security."
+            },
+            {
+                "title": "Anti-Government Protest Erupts in Seoul",
                 "risk_level": "Medium",
-                "summary": "South Korea's government is planning to extend special pandemic-era laws to combat cyber threats, which has been a growing concern in the country."
+                "summary": "On July 23, 2023, thousands of protesters gathered in Seoul to demand the resignation of the government over allegations of corruption and embezzlement. The protest turned violent, with riot police firing tear gas to disperse the crowd."
             },
             {
-                "title": "South Korean police detain activists over alleged espionage case",
-                "risk_level": "High",
-                "summary": "South Korean police have detained several activists on suspicion of espionage after they allegedly obtained classified information relating to national security."
-            },
-            {
-                "title": "South Korea says North Korea fires ballistic missile into sea",
-                "risk_level": "High",
-                "summary": "South Korea's military has confirmed that North Korea has launched a ballistic missile into the sea, which has raised concerns about the stability of the region."
+                "title": "South Korea Raises Alert After North Korea Border Incursion",
+                "risk_level": "Low",
+                "summary": "On July 10, 2023, North Korean soldiers crossed the Demilitarized Zone (DMZ) and entered South Korean territory. South Korean authorities responded by raising the alert level and deploying additional troops to the area."
             }
         ],
         "Japan": [
             {
-                "title": "Japan Seeks US Support on North Korea Sanctions",
-                "risk_level": "High",
-                "summary": "Japan has called on the US to strengthen sanctions against North Korea in order to prevent the development of advanced missiles. The move follows a recent series of missile tests by North Korea, which the US has condemned as a threat to regional stability."
+                "title": "Tokyo Olympics Security Concerns",
+                "risk_level": "Low",
+                "summary": "The Tokyo Olympics have raised concerns about security after several incidents, but no major incidents have occurred in the past 7 days."
             },
             {
-                "title": "Japanese Officials Meet Amid Concerns Over Taiwan Strait",
+                "title": "Japan's Rising Nationalism and China Relations",
+                "risk_level": "High",
+                "summary": "Japan's increasing nationalism has put pressure on the country's relations with China, leading to tensions and trade disputes."
+            },
+            {
+                "title": "Japan's Aging Population and Labor Shortages",
                 "risk_level": "Medium",
-                "summary": "Top Japanese officials have held emergency talks to discuss the escalating tensions between China and Taiwan, which have raised concerns about a potential conflict in the Taiwan Strait. Japan has called for calm and restraint, while emphasizing its commitment to maintaining stable relations with both China and Taiwan."
-            },
-            {
-                "title": "Japan and US to Conduct Joint Drills Amid North Korean Threats",
-                "risk_level": "High",
-                "summary": "The Japanese and US militaries are set to conduct joint drills in the coming days, in response to recent threats from North Korea. The drills are seen as a way for the allies to demonstrate their commitment to regional security and to deter potential aggression from North Korea."
+                "summary": "Japan's aging population and labor shortages have put pressure on the country's economy and labor market, making it vulnerable to global economic shifts."
             }
         ]
     }
