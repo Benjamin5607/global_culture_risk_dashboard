@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber attacks on Ukraine's critical infrastructure",
+                "title": "US warns of possible Russian cyber attack",
                 "risk_level": "High",
-                "summary": "State-sponsored attackers launched a cyber attack on Ukraine's power grid and other critical infrastructure systems in an attempt to disrupt operations and spread fear. Ukraine's cyber defense agency reported that multiple attacks were ongoing and that the attackers were using custom-made malware."
+                "summary": "The US government has warned of a potential Russian cyber attack on critical infrastructure, which could have significant implications for global security."
             },
             {
-                "title": "Global Supply Chain Disruptions due to US-China Trade Tensions",
-                "risk_level": "Medium",
-                "summary": "The ongoing trade tensions between the US and China have led to global supply chain disruptions, affecting the production and delivery of goods worldwide."
+                "title": "UK government faces rebellion over Huawei 5G ban",
+                "risk_level": "High",
+                "summary": "A rebellion by Conservative MPs could block a bid by the UK government to ban Huawei from the country's 5G network, sparking concerns over national security."
             },
             {
-                "title": "European Migrant Crisis Worsens as Tensions Rise",
+                "title": "Iran's water crisis turns deadly as drought worsens",
                 "risk_level": "High",
-                "summary": "The migrant crisis in Europe has worsened, with thousands of migrants arriving at the Greek-Turkish border, leading to increased tensions and a humanitarian crisis."
+                "summary": "A drought in Iran is causing widespread water shortages, leading to a surge in violence and deaths as citizens clash over access to limited resources."
             }
         ],
         "United States": [
             {
-                "title": "Mass Shooting in Highland Park, Illinois",
-                "risk_level": "High",
-                "summary": "On July 4, 2022, a mass shooting occurred in Highland Park, Illinois, with multiple casualties. The shooter used an AR-15-style rifle and fired at a crowd of people attending a Fourth of July parade."
+                "title": "Biden Administration Files Brief to Supreme Court in Abortion Case",
+                "risk_level": "Medium",
+                "summary": "The Biden administration has filed a brief to the Supreme Court in the Dobbs v. Jackson Women's Health Organization case, arguing that a Mississippi law restricting abortion is unconstitutional."
             },
             {
-                "title": "Tensions Rise Over Supreme Court's Abortion Ruling",
+                "title": "US Senate Passes $700 Billion Spending Bill Amid Government Shutdown Threat",
                 "risk_level": "High",
-                "summary": "The Dobbs v. Jackson Women's Health Organization decision by the US Supreme Court in June 2022 to overturn Roe v. Wade sparked widespread protests and heated debates across the United States, threatening to escalate into further social unrest."
+                "summary": "The US Senate has passed a $700 billion spending bill, averting a government shutdown but delaying some key policy issues."
             },
             {
-                "title": "Rising Inflation and Economic Concerns in the US",
+                "title": "US to Impose Sanctions on Iranians Accused of Plotting Assassination",
                 "risk_level": "High",
-                "summary": "The US is experiencing a period of high inflation, driven in part by the COVID-19 pandemic and ongoing supply chain disruptions. This has led to concerns about the economic stability of the country and potential impacts on consumer confidence and financial markets."
+                "summary": "The US will impose sanctions on several Iranians accused of plotting to assassinate an exiled Iranian opposition figure and former Iranian official."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Rise in COVID-19 cases sparks fears of new omicron variant in South Korea",
+                "risk_level": "Medium",
+                "summary": "South Korea is experiencing an increase in COVID-19 cases, with officials warning of a potential new omicron variant."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "North Korea's missile tests prompt UN condemnation",
+                "risk_level": "High",
+                "summary": "North Korea's recent missile tests have been widely condemned by the international community, including the UN."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "South Korea's president faces criticism over handling of economy",
+                "risk_level": "Medium",
+                "summary": "South Korea's president is facing criticism for her handling of the economy, with experts warning of a potential recession."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "7/22/22 - Japan's government has asked citizens not to travel to parts of the country due to landslides caused by heavy rainfall "
+                "title": "North Korea warns of nuclear war over US-South Korea joint drills",
+                "risk_level": "High",
+                "summary": "North Korea has warned of a nuclear war over joint military drills between the US and South Korea."
             },
             {
-                "title": "",
+                "title": "Japanese Prime Minister's approval rating falls to 29% amid controversy over vaccine",
+                "risk_level": "Medium",
+                "summary": "The approval rating of Japanese Prime Minister Fumio Kishida has fallen to 29% due to controversy over COVID-19 vaccination policies."
+            },
+            {
+                "title": "Japanese court orders government to provide better care for intellectually disabled patients",
                 "risk_level": "Low",
-                "summary": "7/22/22 - Japan's economy has continued to recover due to increased domestic consumption"
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "7/24/22 - Japanese Prime Minister Fumio Kishida has vowed to increase defense spending to counter potential threats from China and Russia "
+                "summary": "A Japanese court has ordered the government to provide better living conditions and care for patients with intellectual disabilities."
             }
         ]
     }
