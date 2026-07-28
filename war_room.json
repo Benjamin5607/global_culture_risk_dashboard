@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global supply chains remain under pressure due to Russia-Ukraine conflict",
+                "title": "Risk of COVID-19 Spread and Outbreaks Amid Easing Restrictions",
                 "risk_level": "High",
-                "summary": "Ongoing conflict between Russia and Ukraine continues to disrupt global supply chains, with risks to trade and economic growth"
+                "summary": "The spread of COVID-19 remains a global concern, particularly in areas where restrictions have been eased. The World Health Organization (WHO) reports a rise in cases, and governments are struggling to balance public health concerns with economic pressures."
             },
             {
-                "title": "COVID-19 cases surge in Asia, straining healthcare systems",
+                "title": "Tensions Escalate Between US and China Over Trade and Security",
                 "risk_level": "High",
-                "summary": "Rapid spread of COVID-19 in several Asian countries has put additional pressure on already strained healthcare systems, leading to supply chain disruptions and economic impact"
+                "summary": "The ongoing trade dispute between the US and China has taken a turn for the worse, with both sides imposing new tariffs and restrictions. The conflict has sparked concerns of a global economic slowdown and increased tensions in the Asia-Pacific region."
             },
             {
-                "title": "Cyber attack against major retailer exposes sensitive customer data",
+                "title": "Protests and Unrest Continue in Several Countries Amid Government Crackdowns",
                 "risk_level": "Medium",
-                "summary": "Cyber attackers breached the systems of a well-known retailer, compromising sensitive customer data and highlighting the need for robust cybersecurity measures"
+                "summary": "Protests and unrest have broken out in several countries, including India, Thailand, and Belarus, as residents express frustration with governments and economic conditions. The situations remain volatile, with reports of violence and arrests."
             }
         ],
         "United States": [
             {
-                "title": "Protests against Roe v Wade reversal lead to arrests and violence",
+                "title": "US Rapper Young Dolph Murdered in Memphis Shootout",
                 "risk_level": "High",
-                "summary": "Protests against the US Supreme Court's decision to overturn Roe v. Wade have led to arrests, violence, and property damage across the country."
+                "summary": "Young Dolph, a prominent rapper, was tragically killed in a shootout in Memphis, sparking widespread outrage and concern for public safety."
             },
             {
-                "title": "Florida's 'Don't Say Gay' bill controversy",
+                "title": "US Midterm Elections: Ongoing Tensions and Voting Irregularities",
                 "risk_level": "High",
-                "summary": "The 'Don't Say Gay' bill in Florida has sparked controversy and opposition from LGBTQ+ groups, with concerns about the bill's impact on education and civil rights."
+                "summary": "Tensions are running high in the US as the midterm elections drew to a close, with reports of voting irregularities and disputes over ballot recounts."
             },
             {
-                "title": "US government shutdown looms as Congress deadlocks",
-                "risk_level": "Medium",
-                "summary": "The US government is at risk of a shutdown as Congress deadlocks over budget and spending issues, with potential impacts on federal services and the economy."
+                "title": "Twitter Data Breach Exposes Personal Info of over 400M Users",
+                "risk_level": "High",
+                "summary": "A massive data breach at Twitter has exposed the personal information of over 400 million users, sparking concerns over data security and potential identity theft."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's missile test: US and South Korea respond",
-                "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile into the sea between Japan and the Korean peninsula, prompting a joint statement from the US and South Korea condemning the launch."
-            },
-            {
-                "title": "COVID-19 restrictions tighten in South Korea amid surge in cases",
+                "title": "Korea-US FTA review sparks backlash in South Korea",
                 "risk_level": "Medium",
-                "summary": "South Korea sees a surge in COVID-19 cases, prompting the government to tighten restrictions and increase vaccination efforts."
+                "summary": "The Korea-US Free Trade Agreement (FTA) review has sparked a backlash in South Korea, with opposition parties and civic groups protesting the potential consequences of the agreement. The review has sparked concerns among South Koreans about job losses, income inequality, and national sovereignty."
             },
             {
-                "title": "South Korea's economy shows signs of slowing down",
+                "title": "South Korea's spy agency confirms North Korea behind cyberattack",
+                "risk_level": "High",
+                "summary": "South Korea's National Intelligence Service (NIS) has confirmed that North Korea was responsible for a recent cyberattack on a South Korean cryptocurrency exchange. The attack highlights the ongoing threat of North Korean cyberattacks and the vulnerability of South Korea's critical infrastructure."
+            },
+            {
+                "title": "South Korea to strengthen security cooperation with Southeast Asian countries",
                 "risk_level": "Low",
-                "summary": "South Korea's GDP growth slows down due to external uncertainty and domestic policy challenges."
+                "summary": "South Korea has announced plans to strengthen security cooperation with Southeast Asian countries, including Indonesia, Vietnam, and Thailand. The move is seen as a move to counterbalance China's growing influence in the region and promote South Korea's security interests."
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 6.2 Earthquake Hits Japan",
+                "title": "Magnitude 6.9 Earthquake Hits off East Coast of Fukushima, Japan",
                 "risk_level": "High",
-                "summary": "A 6.2 magnitude earthquake shook southwestern Japan, causing widespread disruptions and triggering landslides. No immediate casualties were reported, but the quake highlighted Japan's ongoing seismic risks."
+                "summary": "A powerful earthquake with a magnitude of 6.9 struck off the east coast of Fukushima, Japan, causing widespread power outages and triggering tsunami warnings."
             },
             {
-                "title": "North Korea Fires Ballistic Missile over Japan",
-                "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile that flew over Japan's northern island of Hokkaido, sparking warnings and disrupting flights. The move further escalated tensions between North Korea and Japan."
-            },
-            {
-                "title": "Tokyo Records Highest COVID-19 Case Count in Over 2 Months",
+                "title": "Anti-Abortion Protestors Clashes with Police in Tokyo, Japan",
                 "risk_level": "Medium",
-                "summary": "Tokyo reported its highest daily COVID-19 case count in over two months, leading to concerns about a potential resurgence of the pandemic in the city."
+                "summary": "Anti-abortion protestor groups clash with police in the Tokyo district, sparking a tense standoff."
+            },
+            {
+                "title": "Japan's Consumer Price Index (CPI) Surges to 3.3% in July, Topping Expectations",
+                "risk_level": "Low",
+                "summary": "Japan's Consumer Price Index (CPI) for July surged past market expectations to 3.3%, raising concerns about further monetary policy intervention."
             }
         ]
     }
