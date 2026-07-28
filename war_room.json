@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US warns of possible Russian cyber attack",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US government has warned of a potential Russian cyber attack on critical infrastructure, which could have significant implications for global security."
+                "summary": "Global Economic Crisis Looms Due to US-China Trade War"
             },
             {
-                "title": "UK government faces rebellion over Huawei 5G ban",
-                "risk_level": "High",
-                "summary": "A rebellion by Conservative MPs could block a bid by the UK government to ban Huawei from the country's 5G network, sparking concerns over national security."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Global Cyberattacks on Critical Infrastructure Rise by 30% in Past Week"
             },
             {
-                "title": "Iran's water crisis turns deadly as drought worsens",
-                "risk_level": "High",
-                "summary": "A drought in Iran is causing widespread water shortages, leading to a surge in violence and deaths as citizens clash over access to limited resources."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Global Protests against Inequality and Unemployment Continue in Multiple Countries"
             }
         ],
         "United States": [
             {
-                "title": "Biden Administration Files Brief to Supreme Court in Abortion Case",
+                "title": "Rising Tensions Between US and North Korea",
+                "risk_level": "High",
+                "summary": "The US and North Korea have been involved in a heated verbal exchange, with the US warning of significant consequences if North Korea continues to develop its nuclear program."
+            },
+            {
+                "title": "Gun Violence in US Continues to Climb",
+                "risk_level": "High",
+                "summary": "Another mass shooting occurred in the US last week, resulting in multiple fatalities and injuries. This incident highlights the ongoing issue of gun violence in the US."
+            },
+            {
+                "title": "Supreme Court Leak Sparks Concerns Over Democracy",
                 "risk_level": "Medium",
-                "summary": "The Biden administration has filed a brief to the Supreme Court in the Dobbs v. Jackson Women's Health Organization case, arguing that a Mississippi law restricting abortion is unconstitutional."
-            },
-            {
-                "title": "US Senate Passes $700 Billion Spending Bill Amid Government Shutdown Threat",
-                "risk_level": "High",
-                "summary": "The US Senate has passed a $700 billion spending bill, averting a government shutdown but delaying some key policy issues."
-            },
-            {
-                "title": "US to Impose Sanctions on Iranians Accused of Plotting Assassination",
-                "risk_level": "High",
-                "summary": "The US will impose sanctions on several Iranians accused of plotting to assassinate an exiled Iranian opposition figure and former Iranian official."
+                "summary": "A leaked Supreme Court draft has sparked concerns over democracy and the rule of law in the US. The leak has led to calls for reforms to ensure the integrity of the judicial process."
             }
         ],
         "South Korea": [
             {
-                "title": "Rise in COVID-19 cases sparks fears of new omicron variant in South Korea",
+                "title": "South Korea to consider extending pandemic-era laws to combat cyber threats",
                 "risk_level": "Medium",
-                "summary": "South Korea is experiencing an increase in COVID-19 cases, with officials warning of a potential new omicron variant."
+                "summary": "South Korea's government is planning to extend special pandemic-era laws to combat cyber threats, which has been a growing concern in the country."
             },
             {
-                "title": "North Korea's missile tests prompt UN condemnation",
+                "title": "South Korean police detain activists over alleged espionage case",
                 "risk_level": "High",
-                "summary": "North Korea's recent missile tests have been widely condemned by the international community, including the UN."
+                "summary": "South Korean police have detained several activists on suspicion of espionage after they allegedly obtained classified information relating to national security."
             },
             {
-                "title": "South Korea's president faces criticism over handling of economy",
-                "risk_level": "Medium",
-                "summary": "South Korea's president is facing criticism for her handling of the economy, with experts warning of a potential recession."
+                "title": "South Korea says North Korea fires ballistic missile into sea",
+                "risk_level": "High",
+                "summary": "South Korea's military has confirmed that North Korea has launched a ballistic missile into the sea, which has raised concerns about the stability of the region."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea warns of nuclear war over US-South Korea joint drills",
+                "title": "Japan Seeks US Support on North Korea Sanctions",
                 "risk_level": "High",
-                "summary": "North Korea has warned of a nuclear war over joint military drills between the US and South Korea."
+                "summary": "Japan has called on the US to strengthen sanctions against North Korea in order to prevent the development of advanced missiles. The move follows a recent series of missile tests by North Korea, which the US has condemned as a threat to regional stability."
             },
             {
-                "title": "Japanese Prime Minister's approval rating falls to 29% amid controversy over vaccine",
+                "title": "Japanese Officials Meet Amid Concerns Over Taiwan Strait",
                 "risk_level": "Medium",
-                "summary": "The approval rating of Japanese Prime Minister Fumio Kishida has fallen to 29% due to controversy over COVID-19 vaccination policies."
+                "summary": "Top Japanese officials have held emergency talks to discuss the escalating tensions between China and Taiwan, which have raised concerns about a potential conflict in the Taiwan Strait. Japan has called for calm and restraint, while emphasizing its commitment to maintaining stable relations with both China and Taiwan."
             },
             {
-                "title": "Japanese court orders government to provide better care for intellectually disabled patients",
-                "risk_level": "Low",
-                "summary": "A Japanese court has ordered the government to provide better living conditions and care for patients with intellectual disabilities."
+                "title": "Japan and US to Conduct Joint Drills Amid North Korean Threats",
+                "risk_level": "High",
+                "summary": "The Japanese and US militaries are set to conduct joint drills in the coming days, in response to recent threats from North Korea. The drills are seen as a way for the allies to demonstrate their commitment to regional security and to deter potential aggression from North Korea."
             }
         ]
     }
