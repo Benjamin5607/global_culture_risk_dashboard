@@ -3,70 +3,76 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Cybersecurity Risks Rise Following Major Hacking Incident",
-                "risk_level": "High",
-                "summary": "Rise in global cybersecurity risks as a result of a major hacking incident."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "description": "",
+                "date": ""
             },
             {
-                "title": "Middle East Tensions Escalate Amid Regional Conflict",
-                "risk_level": "High",
-                "summary": "Escalating tensions in the Middle East amid ongoing regional conflict."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "description": "",
+                "date": ""
             },
             {
-                "title": "Global Food Security Threats Intensify Due to Weather Disasters",
-                "risk_level": "High",
-                "summary": "Global food security threats intensify due to weather disasters."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "description": "",
+                "date": ""
             }
         ],
         "United States": [
             {
-                "title": "Tensions rise over TikTok's data collection practices",
+                "title": "US House Committee Holds Impeachment Inquiry Hearing",
                 "risk_level": "High",
-                "summary": "The US Senate has launched an investigation into TikTok's data collection practices, citing concerns over national security."
+                "summary": "The US House committee held an impeachment inquiry hearing, with a Democratic witness accusing former US President Donald Trump's lawyer of witness tampering."
             },
             {
-                "title": "Supreme Court blocks House subpoena for Trump's financial records",
-                "risk_level": "Medium",
-                "summary": "The US Supreme Court has blocked a House subpoena for Donald Trump's financial records, a move that could have major implications for presidential power."
+                "title": "US Justice Department Seeks To Unseal Additional Trump Documents",
+                "risk_level": "High",
+                "summary": "The US Justice Department filed a motion to unseal additional documents from the Trump Mar-a-Lago search, potentially revealing more classified information about the former President."
             },
             {
-                "title": "DOJ sues Arizona county over ballot rejection practices",
+                "title": "Biden Administration To Release Plan To Counter Threats From China In Space",
                 "risk_level": "Medium",
-                "summary": "The US Department of Justice has sued an Arizona county over its practices for rejecting ballots, alleging that it discriminates against minority voters."
+                "summary": "The Biden administration is set to release a plan to counter threats from China in space, amid growing concerns about the risks of a space war."
             }
         ],
         "South Korea": [
             {
-                "title": "Thousands protest against President Yoon's visit to the US",
-                "risk_level": "High",
-                "summary": "Thousands of protesters gathered in Seoul to demonstrate against President Yoon's visit to the US, calling for stronger action against the US for its failure to provide adequate diplomatic support to South Korea in its response to North Korea's recent missile tests."
-            },
-            {
-                "title": "Seoul Mayor Oh Se-hoon's COVID-19 vaccination controversy escalates",
+                "title": "Protests against government's education policy continue in Seoul, with students and teachers demanding reforms",
                 "risk_level": "Medium",
-                "summary": "Seoul Mayor Oh Se-hoon has come under fire for allegedly receiving preferential treatment during the COVID-19 vaccination rollout, with critics calling on him to resign over the scandal."
+                "summary": "Thousands of students and teachers continued to protest in Seoul, demanding reforms to the government's education policy, which they claim is unfair and stressful."
             },
             {
-                "title": "South Korean court sentences ex-President Park Geun-hye to additional 8 years in prison",
+                "title": "North Korea fires ballistic missile into Sea of Japan, prompting condemnation from South Korea and US",
+                "risk_level": "High",
+                "summary": "North Korea launched a ballistic missile into the Sea of Japan, prompting a strong condemnation from South Korea and the US."
+            },
+            {
+                "title": "South Korea reports spike in COVID-19 cases, with authorities urging citizens to get vaccinated",
                 "risk_level": "Low",
-                "summary": "A South Korean court has sentenced former President Park Geun-hye to an additional 8 years in prison for corruption and embezzlement, capping off a long-running scandal that led to her impeachment in 2017."
+                "summary": "South Korea reported a spike in COVID-19 cases, with authorities urging citizens to get vaccinated and take necessary precautions to prevent the spread of the virus."
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Nanmadol hits Japan",
+                "title": "North Korea fires ballistic missile over Japan, prompting evacuation orders",
                 "risk_level": "High",
-                "summary": "A powerful typhoon has caused widespread disruptions across southern Japan."
+                "summary": "Japan's government said it detected a 'possible imminent threat' after a ballistic missile was launched, and a 'danger zone' was set up in several locations. Residents in northern Japan were evacuated as the missile flew over the country's main island"
             },
             {
-                "title": "Japan PM Fumio Kishida survives no-confidence vote",
+                "title": "Tens of Thousands of Pro-Democracy Protesters March in Tokyo",
                 "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida has survived a no-confidence vote, allowing him to continue leading the country."
+                "summary": "Protesters gathered in multiple locations in Tokyo to protest against the Japanese government's plan to revise the constitution and other national security laws. They held various banners and chanted slogans in front of the Tokyo Metropolitan Government building and other locations"
             },
             {
-                "title": "Japan to consider reactivating nuclear reactors",
-                "risk_level": "Medium",
-                "summary": "The Japanese government has announced it will consider reactivating some of its nuclear reactors to address energy concerns."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
