@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "North Korea: Kim Jong-un's sister hints at nuclear tests",
+                "title": "Rise in COVID-19 Cases in Global (All): 40% increase over past week",
                 "risk_level": "High",
-                "summary": "North Korea's sister of leader Kim Jong-un has hinted that the country could stage a nuclear test in the near future, in a speech in which she also praised the \"unforgettable feat\" achieved by her brother's \"invincible people's army\"."
+                "summary": "The spread of COVID-19 has accelerated globally, with a 40% increase in cases over the past week. This surge is attributed to the highly contagious Omicron variant and relaxed mask-wearing policies in some regions."
             },
             {
-                "title": "China's Xi Jinping extends tenure as Communist Party leader",
-                "risk_level": "High",
-                "summary": "China's president Xi Jinping has extended his tenure as leader of the country's ruling Communist Party, securing a historic third term and setting him up to rule as president for life."
+                "title": "Unrest in Global (All): 23% increase in protests over past week",
+                "risk_level": "Medium",
+                "summary": "There has been a 23% increase in protests globally over the past week, with demonstrators demanding economic reform, improved healthcare, and an end to corruption. The heightened tensions have resulted in violent clashes between protesters and law enforcement."
             },
             {
-                "title": "Taiwan: Chinese warplanes fly near island as US official visits",
+                "title": "Global Cyberattacks on Rise: 27% increase over past week",
                 "risk_level": "High",
-                "summary": "Chinese warplanes have flown near Taiwan as a US official visited the island, amid growing tensions between Taipei and Beijing."
+                "summary": "Global cyberattacks have seen a 27% increase over the past week, targeting major corporations and government institutions. The attacks are believed to be state-sponsored, aiming to disrupt critical infrastructure and steal sensitive data."
             }
         ],
         "United States": [
             {
-                "title": "US Congress Passes Bill to Restrict TikTok's Operations",
+                "title": "US Supreme Court Blocks Biden's Student Loan Debt Forgiveness Plan",
                 "risk_level": "High",
-                "summary": "The US Congress has passed a bill aimed at restricting TikTok's operations in the country, citing national security concerns."
+                "summary": "The US Supreme Court has blocked President Joe Biden's plan to cancel millions of dollars in student loan debt, dealing a major blow to the administration's efforts to make college more affordable."
             },
             {
-                "title": "Gun violence in Chicago leaves multiple injured or dead",
+                "title": "Texas Governor Signs New Abortion Law With No Exceptions for Rape or Incest",
                 "risk_level": "High",
-                "summary": "A series of gun violence incidents in Chicago have left multiple individuals injured or dead, sparking concerns about public safety."
+                "summary": "Texas Governor Greg Abbott has signed a new abortion law that makes it a felony to perform an abortion, with no exceptions for rape or incest."
             },
             {
-                "title": "Twitter Suspends Accounts of Chinese Diplomats After US Warns",
+                "title": "FBI Searches Home of Former President Donald Trump as Part of Documents Probe",
                 "risk_level": "High",
-                "summary": "Twitter has suspended the accounts of several Chinese diplomats after the US government warned the company to take action against suspected bot accounts."
+                "summary": "The FBI has searched the home of former President Donald Trump as part of an investigation into whether Trump improperly kept classified documents at his Florida estate."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Protests against military conscription reform in South Korea: Amidst ongoing protests, South Korean authorities arrested 11 activists for allegedly planning mass disruptions."
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Rallies against COVID-19 vaccination mandates in South Korea see significant turnout: Anti-vaccine mandate protests across the nation have heightened political tensions, with authorities imposing new restrictions."
-            },
-            {
-                "title": "",
+                "title": "Anti-government protesters clash with police in Seoul over labor rights",
                 "risk_level": "High",
-                "summary": "Seoul city council passes bill to strengthen whistleblower protection laws: In a bid to bolster trust in government, Seoul's municipal assembly passed a bill aimed at shielding public servants and other employees from retaliation for reporting wrongdoing."
+                "summary": "Tensions rose in Seoul as protesters clashed with police over labor rights, with reports of injuries and arrests."
+            },
+            {
+                "title": "North Korea's missile test sparks concerns in South Korea",
+                "risk_level": "High",
+                "summary": "North Korea's recent missile test has raised concerns in South Korea, with the government urging citizens to remain vigilant."
+            },
+            {
+                "title": "Riots erupt in Busan over planned demolition of historic buildings",
+                "risk_level": "Medium",
+                "summary": "Residents in Busan have taken to the streets to protest the planned demolition of historic buildings, leading to clashes with authorities."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Fugitive Former Defence Official Arrested on Suspicion of Leaking Secrets",
-                "risk_level": "High",
-                "summary": "Japanese authorities arrested a former defense ministry official who has been on the run for a week on suspicion of leaking classified information, as the government grapples with a series of high-profile security breaches."
+                "title": "Typhoon Muifa Makes Landfall in Eastern China, Japan on Alert for Heavy Rains and Tropical Storm Conditions",
+                "risk_level": "Medium",
+                "summary": "Japan's Meteorological Agency has issued warnings for heavy rains and strong winds as Typhoon Muifa makes landfall in eastern China, with parts of Japan bracing for tropical storm conditions."
             },
             {
-                "title": "Japan's opposition to consider no-confidence motion against government over corruption",
+                "title": "North Korea Fires Missile Over Japan, South Korea Scrambles Fighter Jets",
                 "risk_level": "High",
-                "summary": "Japan's main opposition party said it would consider a no-confidence motion against the government over corruption scandals, in a move that could potentially topple Prime Minister Fumio Kishida's administration."
+                "summary": "North Korea fired a ballistic missile over Japan on Wednesday, triggering Japanese air raid sirens and South Korea scrambling fighter jets in response, raising concerns about regional security."
             },
             {
-                "title": "Japan's Fukuoka region issues evacuation advisory for 140,000 residents amid heavy rain",
-                "risk_level": "High",
-                "summary": "Japanese authorities issued an evacuation advisory for around 140,000 residents in the Fukuoka region on Wednesday, as heavy rain battered the area."
+                "title": "Protests Against Japanese Emperor's Visit to Estonia Turn Violent",
+                "risk_level": "Medium",
+                "summary": "Protests against Japanese Emperor Naruhito's visit to Estonia turned violent on Tuesday, with demonstrators and police clashing in the capital city of Tallinn."
             }
         ]
     }
