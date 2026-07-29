@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Tensions between US and China escalate over Taiwan",
+                "title": "Tensions Rise in Middle East as Iran Tests Ballistic Missile",
                 "risk_level": "High",
-                "summary": "The US and China have been involved in a diplomatic row over Taiwan, with the US sending a delegation to the island and China issuing a warning against any official contact between the US and Taiwanese officials."
+                "summary": "Iran has conducted a ballistic missile test, raising concerns about regional stability and potential conflicts."
             },
             {
-                "title": "Russia-Ukraine conflict continues with no signs of de-escalation",
+                "title": "Cyberattack on US Government Agency Exposes Sensitive Data",
                 "risk_level": "High",
-                "summary": "The conflict between Russia and Ukraine has been ongoing for several weeks, with both sides exchanging blows and no signs of a resolution in sight."
+                "summary": "A cyberattack on a US government agency has resulted in the exposure of sensitive data, highlighting vulnerabilities in the country's cyberdefenses."
             },
             {
-                "title": "Protests in Peru turn violent after presidential election results announced",
+                "title": "Global Outbreak of Avian Flu Raises Health Concerns",
                 "risk_level": "Medium",
-                "summary": "Protests have broken out in Peru's capital city after the presidential election results were announced, with some turning violent and clashes between protesters and police reported."
+                "summary": "A global outbreak of avian flu has been reported, with cases confirmed in several countries, raising concerns about human health and economic impact."
             }
         ],
         "United States": [
             {
-                "title": "Gun Safety Bill Advances in U.S. Senate After Buffalo Shooting",
+                "title": "Supreme Court Ruling on Student Loan Forgiveness",
                 "risk_level": "High",
-                "summary": "A gun safety bill narrowly advanced in the U.S. Senate on Thursday, following a mass shooting in Buffalo"
+                "summary": "A recent Supreme Court decision has sparked controversy over student loan forgiveness, posing a significant risk to higher education and the economy in the United States."
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": ""
+                "title": "Mass Shooting in Los Angeles",
+                "risk_level": "High",
+                "summary": "A mass shooting in Los Angeles has left several individuals dead and injured, highlighting the ongoing issue of gun violence in the United States and the need for stricter gun control laws."
             },
             {
-                "title": "Justice Department to Investigate Police Shooting of Janine Frost",
+                "title": "National Security Memo on China",
                 "risk_level": "High",
-                "summary": "The Justice Department announced on Thursday that it will investigate the fatal police shooting of Janine Frost"
+                "summary": "The White House has released a memo on national security concerns related to China, sparking concerns over the escalating tensions between the two nations and potential implications for the global economy."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul's Han River bridge partially closed due to security concerns",
+                "title": "Protest by opposition parties over presidential election law reform",
                 "risk_level": "High",
-                "summary": "A 20-meter section of the Cheongui-dong Bridge was closed on July 26 after authorities received a report of a suspicious object, but no explosive device was found."
+                "summary": "Tens of thousands gather in Seoul to demand a revamp of the election law."
             },
             {
-                "title": "S. Korea to strengthen security cooperation with Mongolia for North Korea",
-                "risk_level": "High",
-                "summary": "South Korea said it will strengthen security cooperation with Mongolia to address regional threats posed by North Korea and bolster trilateral ties with the US."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "N. Korean defector found dead in S. Korea",
-                "risk_level": "Medium",
-                "summary": "A North Korean defector was found dead in a park in the southeastern city of Jinju, officials said, with the exact cause of death yet to be determined."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Japan's government is considering revising its export control law to restrict shipments of semiconductor manufacturing equipment to China. The move is part of a broader effort to curb Chinese access to cutting-edge technology."
-            },
-            {
-                "title": "",
+                "title": "North Korea reports 6th suspected case of anthrax as country battles mystery outbreak",
                 "risk_level": "Medium",
-                "summary": "Typhoon Hinnamor made landfall in Japan on July 24, causing widespread power outages and injuring several people. The storm caused significant damage to buildings and infrastructure, particularly in the southern island of Kyushu."
+                "summary": "A suspected anthrax outbreak has been reported in North Korea, according to state media, amid growing concerns over public health and safety."
             },
             {
-                "title": "",
+                "title": "Japan warns of potential North Korea missile threat in days",
                 "risk_level": "High",
-                "summary": "A group of activists has released a video showing the alleged mistreatment of Japanese whaling ships in the Antarctic region. The footage appears to show the ships dumping large amounts of garbage and waste into the ocean, sparking outrage and condemnation from animal welfare groups and environmental organizations."
+                "summary": "Japan's government has issued a warning of a potential North Korean missile threat in the coming days, citing increased tensions between the two countries."
+            },
+            {
+                "title": "North Korea fires missile, lands in Sea of Japan",
+                "risk_level": "High",
+                "summary": "North Korea has fired a missile into the Sea of Japan, prompting a warning from Japan's military and a response from the Japanese government."
             }
         ]
     }
