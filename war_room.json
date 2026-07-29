@@ -3,76 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "description": "",
-                "date": ""
+                "title": "North Korea: Kim Jong-un's sister hints at nuclear tests",
+                "risk_level": "High",
+                "summary": "North Korea's sister of leader Kim Jong-un has hinted that the country could stage a nuclear test in the near future, in a speech in which she also praised the \"unforgettable feat\" achieved by her brother's \"invincible people's army\"."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "description": "",
-                "date": ""
+                "title": "China's Xi Jinping extends tenure as Communist Party leader",
+                "risk_level": "High",
+                "summary": "China's president Xi Jinping has extended his tenure as leader of the country's ruling Communist Party, securing a historic third term and setting him up to rule as president for life."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "description": "",
-                "date": ""
+                "title": "Taiwan: Chinese warplanes fly near island as US official visits",
+                "risk_level": "High",
+                "summary": "Chinese warplanes have flown near Taiwan as a US official visited the island, amid growing tensions between Taipei and Beijing."
             }
         ],
         "United States": [
             {
-                "title": "US House Committee Holds Impeachment Inquiry Hearing",
+                "title": "US Congress Passes Bill to Restrict TikTok's Operations",
                 "risk_level": "High",
-                "summary": "The US House committee held an impeachment inquiry hearing, with a Democratic witness accusing former US President Donald Trump's lawyer of witness tampering."
+                "summary": "The US Congress has passed a bill aimed at restricting TikTok's operations in the country, citing national security concerns."
             },
             {
-                "title": "US Justice Department Seeks To Unseal Additional Trump Documents",
+                "title": "Gun violence in Chicago leaves multiple injured or dead",
                 "risk_level": "High",
-                "summary": "The US Justice Department filed a motion to unseal additional documents from the Trump Mar-a-Lago search, potentially revealing more classified information about the former President."
+                "summary": "A series of gun violence incidents in Chicago have left multiple individuals injured or dead, sparking concerns about public safety."
             },
             {
-                "title": "Biden Administration To Release Plan To Counter Threats From China In Space",
-                "risk_level": "Medium",
-                "summary": "The Biden administration is set to release a plan to counter threats from China in space, amid growing concerns about the risks of a space war."
+                "title": "Twitter Suspends Accounts of Chinese Diplomats After US Warns",
+                "risk_level": "High",
+                "summary": "Twitter has suspended the accounts of several Chinese diplomats after the US government warned the company to take action against suspected bot accounts."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests against government's education policy continue in Seoul, with students and teachers demanding reforms",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Thousands of students and teachers continued to protest in Seoul, demanding reforms to the government's education policy, which they claim is unfair and stressful."
+                "summary": "Protests against military conscription reform in South Korea: Amidst ongoing protests, South Korean authorities arrested 11 activists for allegedly planning mass disruptions."
             },
             {
-                "title": "North Korea fires ballistic missile into Sea of Japan, prompting condemnation from South Korea and US",
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Rallies against COVID-19 vaccination mandates in South Korea see significant turnout: Anti-vaccine mandate protests across the nation have heightened political tensions, with authorities imposing new restrictions."
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "North Korea launched a ballistic missile into the Sea of Japan, prompting a strong condemnation from South Korea and the US."
-            },
-            {
-                "title": "South Korea reports spike in COVID-19 cases, with authorities urging citizens to get vaccinated",
-                "risk_level": "Low",
-                "summary": "South Korea reported a spike in COVID-19 cases, with authorities urging citizens to get vaccinated and take necessary precautions to prevent the spread of the virus."
+                "summary": "Seoul city council passes bill to strengthen whistleblower protection laws: In a bid to bolster trust in government, Seoul's municipal assembly passed a bill aimed at shielding public servants and other employees from retaliation for reporting wrongdoing."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires ballistic missile over Japan, prompting evacuation orders",
+                "title": "Japan's Fugitive Former Defence Official Arrested on Suspicion of Leaking Secrets",
                 "risk_level": "High",
-                "summary": "Japan's government said it detected a 'possible imminent threat' after a ballistic missile was launched, and a 'danger zone' was set up in several locations. Residents in northern Japan were evacuated as the missile flew over the country's main island"
+                "summary": "Japanese authorities arrested a former defense ministry official who has been on the run for a week on suspicion of leaking classified information, as the government grapples with a series of high-profile security breaches."
             },
             {
-                "title": "Tens of Thousands of Pro-Democracy Protesters March in Tokyo",
-                "risk_level": "Medium",
-                "summary": "Protesters gathered in multiple locations in Tokyo to protest against the Japanese government's plan to revise the constitution and other national security laws. They held various banners and chanted slogans in front of the Tokyo Metropolitan Government building and other locations"
+                "title": "Japan's opposition to consider no-confidence motion against government over corruption",
+                "risk_level": "High",
+                "summary": "Japan's main opposition party said it would consider a no-confidence motion against the government over corruption scandals, in a move that could potentially topple Prime Minister Fumio Kishida's administration."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Japan's Fukuoka region issues evacuation advisory for 140,000 residents amid heavy rain",
+                "risk_level": "High",
+                "summary": "Japanese authorities issued an evacuation advisory for around 140,000 residents in the Fukuoka region on Wednesday, as heavy rain battered the area."
             }
         ]
     }
