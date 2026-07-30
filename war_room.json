@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Concerns Over Russia's Possible U.S. Invasion Plan Exposed",
-                "risk_level": "High",
-                "summary": "Reports suggest that a U.S. invasion plan for Russia has been exposed, heightening tensions."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "China's Growing Presence in Africa Sparks Concerns",
-                "risk_level": "Medium",
-                "summary": "Beijing's increasing investment and military presence in Africa is raising concerns among Western nations."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Ongoing Protests in Iran Amidst Economic Crisis",
-                "risk_level": "High",
-                "summary": "Protests continue in Iran, fuelled by economic hardship and discontent with the government."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "United States": [
             {
-                "title": "Heatwaves and wildfires across the US, exacerbating drought conditions",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US is experiencing extreme heatwaves and wildfires, particularly in the western states, which is worsening drought conditions and posing risks to human health, infrastructure, and wildlife."
+                "summary": "Gunman opens fire at a LGBTQ bar in South Florida, killing 2 and injuring 9 others."
             },
             {
-                "title": "US-Russia tensions escalate over Ukraine",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Tensions between the US and Russia continue to rise over Ukraine, with both countries engaging in military exercises and diplomatic maneuvers that increase the risk of conflict."
+                "summary": "Federal agents arrest 18 people for allegedly planning to attack schools, infrastructure targets, and government facilities in the United States."
             },
             {
-                "title": "Gun control debate reignites after mass shooting in California",
-                "risk_level": "Medium",
-                "summary": "A mass shooting in California has reignited the debate over gun control in the US, with politicians and advocacy groups calling for stricter laws to prevent similar incidents."
+                "title": "",
+                "risk_level": "High",
+                "summary": "A group of armed men storms a bank in California, leading to a standoff with the police and the release of several hostages."
             }
         ],
         "South Korea": [
             {
-                "title": "Nuclear Enrichment: Seoul Requests UN Meeting",
+                "title": "North Korea fires ballistic missile off eastern coast, triggering warning siren in South Korea",
                 "risk_level": "High",
-                "summary": "South Korea has requested an urgent meeting at the UN Security Council after North Korea began reprocessing nuclear fuel. This has heightened tensions between the two nations."
+                "summary": "A ballistic missile was fired from North Korea's east coast direction towards the Japanese coast, prompting an alert in South Korea. Japanese authorities detected the missile after it flew into Japanese airspace"
             },
             {
-                "title": "Protests Against New Social Media Law",
+                "title": "South Korea's parliament passes law banning dog meat consumption",
                 "risk_level": "Medium",
-                "summary": "Opposition parties in South Korea have organized protests against the newly proposed social media law, which they say violates free speech. The law aims to reduce online hate speech and misinformation."
+                "summary": "South Korea's National Assembly has passed a bill banning the trade and consumption of dog meat. Opponents fear this may be another example of foreign influence eroding the country's unique cultural habits."
             },
             {
-                "title": "South Korea-India Trade Deal",
-                "risk_level": "Low",
-                "summary": "South Korea and India have signed a bilateral trade agreement, which includes increased trade in electronics, automobiles, and pharmaceuticals. This deal is expected to boost economic ties between the two nations."
+                "title": "South Korea reports record number of COVID-19 cases as Omicron spreads",
+                "risk_level": "Medium",
+                "summary": "South Korea is facing a surge in COVID-19 cases as the highly contagious Omicron variant continues to spread. Cases have been detected across the country, prompting concerns about the potential for another wave of infections."
             }
         ],
         "Japan": [
             {
-                "title": "Rising tensions between Japan and China over the Senkaku/Diaoyu Islands",
+                "title": "North Korea fires ballistic missile over Japan",
                 "risk_level": "High",
-                "summary": "China has been increasing its military presence in the East China Sea, causing tensions to rise with Japan over the disputed islands."
+                "summary": "North Korea fired a ballistic missile into the Sea of Japan early on August 5, 2022, causing a significant emergency alert to sound in Japan and prompting a US aircraft carrier to sail into the area."
             },
             {
-                "title": "Protests erupt in Japan over government's handling of COVID-19",
+                "title": "Japanese PM Kishida to visit US for Quad summit",
                 "risk_level": "Medium",
-                "summary": "Thousands of protesters gathered in Tokyo to express their dissatisfaction with the government's handling of the COVID-19 pandemic, highlighting tensions between citizens and the government."
+                "summary": "Japanese Prime Minister Fumio Kishida will visit the United States in May 2022 to participate in a summit of the Quadrilateral Security Dialogue, or Quad, along with leaders of the US, Australia, and India."
             },
             {
-                "title": "LDP's Yoshihide Suga faces criticism for handling of Olympic pandemic preparedness",
-                "risk_level": "Low",
-                "summary": "Opposition parties have criticized LDP leader Yoshihide Suga's handling of pandemic preparedness for the Tokyo Olympics, citing concerns about the potential for future outbreaks."
+                "title": "US, Japan, South Korea launch joint military exercise",
+                "risk_level": "Medium",
+                "summary": "The United States, Japan, and South Korea have launched a joint military exercise in waters east of South Korea, with the goal of improving the allies' military readiness and interoperability."
             }
         ]
     }
