@@ -1,72 +1,62 @@
 {
-    "updated": "2026-07-29",
+    "updated": "2026-07-30",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Tensions Rise in Middle East as Iran Tests Ballistic Missile",
-                "risk_level": "High",
-                "summary": "Iran has conducted a ballistic missile test, raising concerns about regional stability and potential conflicts."
-            },
-            {
-                "title": "Cyberattack on US Government Agency Exposes Sensitive Data",
-                "risk_level": "High",
-                "summary": "A cyberattack on a US government agency has resulted in the exposure of sensitive data, highlighting vulnerabilities in the country's cyberdefenses."
-            },
-            {
-                "title": "Global Outbreak of Avian Flu Raises Health Concerns",
-                "risk_level": "Medium",
-                "summary": "A global outbreak of avian flu has been reported, with cases confirmed in several countries, raising concerns about human health and economic impact."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "No major security/political/social risks identified for Global (All) from the Past 7 Days"
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court Ruling on Student Loan Forgiveness",
+                "title": "US Supreme Court to Hear Cases on Abortion and Gun Control",
                 "risk_level": "High",
-                "summary": "A recent Supreme Court decision has sparked controversy over student loan forgiveness, posing a significant risk to higher education and the economy in the United States."
+                "summary": "The US Supreme Court has agreed to hear two cases related to abortion and gun control, which could potentially have a significant impact on the country's laws and social dynamics."
             },
             {
-                "title": "Mass Shooting in Los Angeles",
+                "title": "Rise in Gun Violence",
                 "risk_level": "High",
-                "summary": "A mass shooting in Los Angeles has left several individuals dead and injured, highlighting the ongoing issue of gun violence in the United States and the need for stricter gun control laws."
+                "summary": "There has been a significant increase in gun violence in the US over the past week, with multiple mass shootings reported across the country."
             },
             {
-                "title": "National Security Memo on China",
+                "title": "Protests Erupt Over Climate Change",
                 "risk_level": "High",
-                "summary": "The White House has released a memo on national security concerns related to China, sparking concerns over the escalating tensions between the two nations and potential implications for the global economy."
+                "summary": "Protests and demonstrations have taken place across the US to raise awareness about climate change and demand action from the government to address the issue."
             }
         ],
         "South Korea": [
             {
-                "title": "Protest by opposition parties over presidential election law reform",
+                "title": "North Korea Conducts Missile Test, South Korea Prepares for Possible Response",
                 "risk_level": "High",
-                "summary": "Tens of thousands gather in Seoul to demand a revamp of the election law."
+                "summary": "North Korea fired an intercontinental ballistic missile (ICBM) on July 3, 2023, prompting South Korea to raise its military alert level to Prepare. The US and South Korea conducted a joint military exercise, and tensions remain high."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Government Protests in South Korea Turn Violent",
+                "risk_level": "Medium",
+                "summary": "Thousands of South Koreans joined protests against the government's handling of the economy in late March, 2023, leading to violent clashes between protesters and police. While the protests have calmed, discontent remains high"
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "South Korea to Boost Military Spending Amid North Korea Tensions",
+                "risk_level": "High",
+                "summary": "South Korea announced a significant increase in military spending in February 2023, aimed at bolstering its defenses against North Korea's military build-up. This move highlights growing concerns about regional security."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea reports 6th suspected case of anthrax as country battles mystery outbreak",
+                "title": "Japan's Prime Minister Fumio Kishida Announces Early Elections Over Ukraine Tensions",
                 "risk_level": "Medium",
-                "summary": "A suspected anthrax outbreak has been reported in North Korea, according to state media, amid growing concerns over public health and safety."
+                "summary": "Japanese PM Fumio Kishida called for snap elections in the wake of tensions between Russia and Ukraine, raising concerns about the country's stability."
             },
             {
-                "title": "Japan warns of potential North Korea missile threat in days",
-                "risk_level": "High",
-                "summary": "Japan's government has issued a warning of a potential North Korean missile threat in the coming days, citing increased tensions between the two countries."
+                "title": "Japan's Trade Deficit Widens Amid Global Economic Uncertainty",
+                "risk_level": "Medium",
+                "summary": "A widening trade deficit in Japan is raising concerns about the country's economic stability as global economic uncertainty continues to weigh on markets."
             },
             {
-                "title": "North Korea fires missile, lands in Sea of Japan",
+                "title": "Anti-LGBTQ+ Comments from Japanese Politician Spark Backlash and Calls for Accountability",
                 "risk_level": "High",
-                "summary": "North Korea has fired a missile into the Sea of Japan, prompting a warning from Japan's military and a response from the Japanese government."
+                "summary": "A series of derogatory comments about the LGBTQ+ community made by a prominent Japanese politician have sparked widespread outrage and calls for greater accountability in the country."
             }
         ]
     }
