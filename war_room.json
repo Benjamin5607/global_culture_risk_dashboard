@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber-attack on Global Supply Chain",
+                "title": "North Korea conducts missile test",
                 "risk_level": "High",
-                "summary": "A major cyber-attack on a global supply chain has exposed sensitive information and disrupted business operations."
+                "summary": "North Korea has conducted a ballistic missile test, raising concerns about regional security and global tensions."
             },
             {
-                "title": "Global Economic Uncertainty",
+                "title": "European Union imposes sanctions on Russia",
                 "risk_level": "High",
-                "summary": "The global economy is facing uncertainty due to rising inflation, interest rates, and trade tensions."
+                "summary": "The European Union has imposed new sanctions on Russia in response to its actions in Ukraine, escalating tensions between the two sides."
             },
             {
-                "title": "Social Unrest in Europe",
+                "title": "Protests erupt in major Chinese cities",
                 "risk_level": "Medium",
-                "summary": "Social unrest and protests have been reported in several European countries due to economic inequality and governance issues."
+                "summary": "Anti-government protests have broken out in several major Chinese cities, highlighting growing discontent with the ruling Communist Party."
             }
         ],
         "United States": [
             {
-                "title": "Florida Officials Urge Caution as Mysterious Brain-Eating Amoeba Cases Rise",
-                "risk_level": "Medium",
-                "summary": "In the past week, several cases of a rare brain-eating amoeba have been reported in Florida. While the source of the amoeba is still unknown, local authorities are warning residents to take precautions when swimming and diving in freshwater bodies.  "
-            },
-            {
-                "title": "California Governor Gavin Newsom Signs Executive Order to Bolster State's Defense Against Cyberattacks",
+                "title": "Tensions between the US and Iran rise over alleged attack on American drone",
                 "risk_level": "High",
-                "summary": "In response to growing concerns about cybersecurity threats, California Governor Gavin Newsom has signed an executive order aimed at strengthening the state's defenses against cyberattacks. The order requires state agencies to implement robust cybersecurity measures and conduct regular threat assessments. "
+                "summary": "The US military releases footage of the unmanned aircraft being shot down in international airspace, escalating tensions between Tehran and Washington."
             },
             {
-                "title": "US Supreme Court Upholds Biden's Student Loan Debt Forgiveness Program",
-                "risk_level": "Low",
-                "summary": "The US Supreme Court has ruled in favor of President Biden's student loan debt forgiveness program, allowing the program to move forward. The ruling is seen as a significant victory for the administration and a major relief for student loan borrowers. "
+                "title": "US Supreme Court blocks vaccine mandate for large employers",
+                "risk_level": "High",
+                "summary": "The high court rules 6-3 that the Occupational Safety and Health Administration does not have the authority to impose the mandate."
+            },
+            {
+                "title": "US House Republicans launch ethics probe into Biden's handling of classified documents",
+                "risk_level": "Medium",
+                "summary": "The House Republicans are scrutinizing the president's handling of the sensitive materials found at his Delaware home, further politicizing the issue."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea reports 2nd highest number of COVID-19 cases since July 2022",
+                "title": "Seoul's COVID-19 outbreak: Authorities confirm new variant",
                 "risk_level": "Medium",
-                "summary": "South Korea reported 5,352 new COVID-19 cases on Wednesday"
+                "summary": "Seoul's authorities have confirmed a new COVID-19 variant. The authorities are racing to contain the outbreak and prevent further spread. Residents are advised to take precautions and follow health guidelines."
             },
             {
-                "title": "S. Korea’s Yoon vows to boost ties with U.S., Japan, amid security, economic worries",
+                "title": "South Korea-US joint military exercises spark tension with North Korea",
                 "risk_level": "High",
-                "summary": "South Korean President Yoon Suk-yeol on Wednesday reaffirmed his commitment to strengthening ties with the United States and Japan, amid growing geopolitical tensions"
+                "summary": "South Korea and the US launched joint military exercises, prompting a strong reaction from North Korea. The North Korean government has threatened retaliation, raising concerns about regional stability."
             },
             {
-                "title": "S. Korean President Yoon to visit Australia, Fiji in July for climate talks",
-                "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol is set to visit Australia and Fiji in July for climate talks, Yoon’s office said on Monday"
+                "title": "Anti-government protests erupt in South Korea over economic concerns",
+                "risk_level": "High",
+                "summary": "Anti-government protests broke out in major cities across South Korea, with demonstrators expressing frustration over the country's economic woes and high inflation. The protests have led to clashes with police, with several injured."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Abe assassination: Gunman was former colleague with grudge",
+                "title": "Typhoon Mawar hits Japan",
                 "risk_level": "High",
-                "summary": "On 8 July, Shinzo Abe was assassinated, and a former colleague was arrested with a grudge against him"
+                "summary": "Typhoon Mawar made landfall in Japan on July 23, 2024, causing widespread damage and disruptions. The storm brought strong winds and heavy rains, leading to power outages and flooding in several regions."
             },
             {
-                "title": "Typhoon Mira causes flooding and landslides in Japan",
+                "title": "Rising COVID-19 cases in Japan",
                 "risk_level": "Medium",
-                "summary": "Typhoon Mira made landfall in Japan's southwestern region on July 24, causing flooding and landslides"
+                "summary": "Japan has seen a rise in COVID-19 cases in the past week, with several clusters reported in major cities. Health officials have urged residents to take precautions and get vaccinated."
             },
             {
-                "title": "Japan's consumer prices rise 2.1% in June, marking 9-month high",
+                "title": "Protests against government policies in Tokyo",
                 "risk_level": "Low",
-                "summary": "Japan's consumer prices rose 2.1% in June, marking a 9-month high due to food and energy price increases"
+                "summary": "Small-scale protests against the Japanese government's policies have been reported in Tokyo in the past week. Demonstrators have been expressing concerns over issues such as economic inequality and labor rights."
             }
         ]
     }
