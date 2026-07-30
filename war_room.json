@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Russia-Ukraine Conflict: Escalation Continues",
+                "risk_level": "High",
+                "summary": "The Russia-Ukraine conflict continues to escalate with ongoing fighting and no signs of a ceasefire."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "COVID-19: Global Outbreak Continues",
+                "risk_level": "High",
+                "summary": "The COVID-19 pandemic continues to spread globally, with new variants and outbreaks reported worldwide."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "China-US Trade Tensions: Escalation Expected",
+                "risk_level": "Medium",
+                "summary": "Tensions between China and the US are escalating, with trade wars and tariffs expected to continue in the coming days."
             }
         ],
         "United States": [
             {
                 "title": "",
-                "risk_level": "High",
-                "summary": "Gunman opens fire at a LGBTQ bar in South Florida, killing 2 and injuring 9 others."
+                "risk_level": "Medium",
+                "summary": "US-China tensions rise ahead of Biden-Xi meeting"
             },
             {
                 "title": "",
                 "risk_level": "High",
-                "summary": "Federal agents arrest 18 people for allegedly planning to attack schools, infrastructure targets, and government facilities in the United States."
+                "summary": "Mass shooting in Sacramento, California kills 6 people"
             },
             {
                 "title": "",
-                "risk_level": "High",
-                "summary": "A group of armed men storms a bank in California, leading to a standoff with the police and the release of several hostages."
+                "risk_level": "Low",
+                "summary": "US Congress reaches deal to avoid government shutdown"
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires ballistic missile off eastern coast, triggering warning siren in South Korea",
+                "title": "North Korea Launches ICBM Amid Tensions Over US-South Korea Drill",
                 "risk_level": "High",
-                "summary": "A ballistic missile was fired from North Korea's east coast direction towards the Japanese coast, prompting an alert in South Korea. Japanese authorities detected the missile after it flew into Japanese airspace"
+                "summary": "North Korea fired an intercontinental ballistic missile (ICBM) into the Sea of Japan, heightening tensions with the United States and South Korea. The launch comes as the two nations conduct joint military drills. The missile landed approximately 300 miles off the east coast of South Korea."
             },
             {
-                "title": "South Korea's parliament passes law banning dog meat consumption",
-                "risk_level": "Medium",
-                "summary": "South Korea's National Assembly has passed a bill banning the trade and consumption of dog meat. Opponents fear this may be another example of foreign influence eroding the country's unique cultural habits."
+                "title": "US-South Korea to Jointly Develop Hypersonic Missiles",
+                "risk_level": "High",
+                "summary": "The US and South Korea have agreed to jointly develop hypersonic missiles, a move aimed at countering North Korea's growing nuclear capabilities. The development of the missiles will focus on enhancing their speed and accuracy."
             },
             {
-                "title": "South Korea reports record number of COVID-19 cases as Omicron spreads",
-                "risk_level": "Medium",
-                "summary": "South Korea is facing a surge in COVID-19 cases as the highly contagious Omicron variant continues to spread. Cases have been detected across the country, prompting concerns about the potential for another wave of infections."
+                "title": "Samsung Electronics' $17 Billion Chip Plant Sparks Environmental Concerns",
+                "risk_level": "Low",
+                "summary": "Samsung Electronics' $17 billion chip plant in South Korea's Hwaseong has sparked environmental concerns. The plant's construction has raised concerns about the company's commitment to reducing its environmental impact and protecting the local ecosystem."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires ballistic missile over Japan",
+                "title": "Japan to raise defense spending to counter China's military expansion",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile into the Sea of Japan early on August 5, 2022, causing a significant emergency alert to sound in Japan and prompting a US aircraft carrier to sail into the area."
+                "summary": "Japan's defense spending is expected to increase due to concerns over China's growing military presence in the region."
             },
             {
-                "title": "Japanese PM Kishida to visit US for Quad summit",
-                "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida will visit the United States in May 2022 to participate in a summit of the Quadrilateral Security Dialogue, or Quad, along with leaders of the US, Australia, and India."
+                "title": "Protests erupt in Japan over alleged police abuse of protesters",
+                "risk_level": "High",
+                "summary": "Protests have broken out in Japan after allegations surfaced of police using excessive force against protesters."
             },
             {
-                "title": "US, Japan, South Korea launch joint military exercise",
+                "title": "Japan's cabinet approves new state secrets law amid rising tensions with China",
                 "risk_level": "Medium",
-                "summary": "The United States, Japan, and South Korea have launched a joint military exercise in waters east of South Korea, with the goal of improving the allies' military readiness and interoperability."
+                "summary": "Japan's cabinet has approved a new state secrets law, which could restrict access to certain information and raise tensions with China."
             }
         ]
     }
