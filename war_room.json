@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "North Korea conducts missile test",
+                "title": "Concerns Over Russia's Possible U.S. Invasion Plan Exposed",
                 "risk_level": "High",
-                "summary": "North Korea has conducted a ballistic missile test, raising concerns about regional security and global tensions."
+                "summary": "Reports suggest that a U.S. invasion plan for Russia has been exposed, heightening tensions."
             },
             {
-                "title": "European Union imposes sanctions on Russia",
-                "risk_level": "High",
-                "summary": "The European Union has imposed new sanctions on Russia in response to its actions in Ukraine, escalating tensions between the two sides."
-            },
-            {
-                "title": "Protests erupt in major Chinese cities",
+                "title": "China's Growing Presence in Africa Sparks Concerns",
                 "risk_level": "Medium",
-                "summary": "Anti-government protests have broken out in several major Chinese cities, highlighting growing discontent with the ruling Communist Party."
+                "summary": "Beijing's increasing investment and military presence in Africa is raising concerns among Western nations."
+            },
+            {
+                "title": "Ongoing Protests in Iran Amidst Economic Crisis",
+                "risk_level": "High",
+                "summary": "Protests continue in Iran, fuelled by economic hardship and discontent with the government."
             }
         ],
         "United States": [
             {
-                "title": "Tensions between the US and Iran rise over alleged attack on American drone",
+                "title": "Heatwaves and wildfires across the US, exacerbating drought conditions",
                 "risk_level": "High",
-                "summary": "The US military releases footage of the unmanned aircraft being shot down in international airspace, escalating tensions between Tehran and Washington."
+                "summary": "The US is experiencing extreme heatwaves and wildfires, particularly in the western states, which is worsening drought conditions and posing risks to human health, infrastructure, and wildlife."
             },
             {
-                "title": "US Supreme Court blocks vaccine mandate for large employers",
+                "title": "US-Russia tensions escalate over Ukraine",
                 "risk_level": "High",
-                "summary": "The high court rules 6-3 that the Occupational Safety and Health Administration does not have the authority to impose the mandate."
+                "summary": "Tensions between the US and Russia continue to rise over Ukraine, with both countries engaging in military exercises and diplomatic maneuvers that increase the risk of conflict."
             },
             {
-                "title": "US House Republicans launch ethics probe into Biden's handling of classified documents",
+                "title": "Gun control debate reignites after mass shooting in California",
                 "risk_level": "Medium",
-                "summary": "The House Republicans are scrutinizing the president's handling of the sensitive materials found at his Delaware home, further politicizing the issue."
+                "summary": "A mass shooting in California has reignited the debate over gun control in the US, with politicians and advocacy groups calling for stricter laws to prevent similar incidents."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul's COVID-19 outbreak: Authorities confirm new variant",
+                "title": "Nuclear Enrichment: Seoul Requests UN Meeting",
+                "risk_level": "High",
+                "summary": "South Korea has requested an urgent meeting at the UN Security Council after North Korea began reprocessing nuclear fuel. This has heightened tensions between the two nations."
+            },
+            {
+                "title": "Protests Against New Social Media Law",
                 "risk_level": "Medium",
-                "summary": "Seoul's authorities have confirmed a new COVID-19 variant. The authorities are racing to contain the outbreak and prevent further spread. Residents are advised to take precautions and follow health guidelines."
+                "summary": "Opposition parties in South Korea have organized protests against the newly proposed social media law, which they say violates free speech. The law aims to reduce online hate speech and misinformation."
             },
             {
-                "title": "South Korea-US joint military exercises spark tension with North Korea",
-                "risk_level": "High",
-                "summary": "South Korea and the US launched joint military exercises, prompting a strong reaction from North Korea. The North Korean government has threatened retaliation, raising concerns about regional stability."
-            },
-            {
-                "title": "Anti-government protests erupt in South Korea over economic concerns",
-                "risk_level": "High",
-                "summary": "Anti-government protests broke out in major cities across South Korea, with demonstrators expressing frustration over the country's economic woes and high inflation. The protests have led to clashes with police, with several injured."
+                "title": "South Korea-India Trade Deal",
+                "risk_level": "Low",
+                "summary": "South Korea and India have signed a bilateral trade agreement, which includes increased trade in electronics, automobiles, and pharmaceuticals. This deal is expected to boost economic ties between the two nations."
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Mawar hits Japan",
+                "title": "Rising tensions between Japan and China over the Senkaku/Diaoyu Islands",
                 "risk_level": "High",
-                "summary": "Typhoon Mawar made landfall in Japan on July 23, 2024, causing widespread damage and disruptions. The storm brought strong winds and heavy rains, leading to power outages and flooding in several regions."
+                "summary": "China has been increasing its military presence in the East China Sea, causing tensions to rise with Japan over the disputed islands."
             },
             {
-                "title": "Rising COVID-19 cases in Japan",
+                "title": "Protests erupt in Japan over government's handling of COVID-19",
                 "risk_level": "Medium",
-                "summary": "Japan has seen a rise in COVID-19 cases in the past week, with several clusters reported in major cities. Health officials have urged residents to take precautions and get vaccinated."
+                "summary": "Thousands of protesters gathered in Tokyo to express their dissatisfaction with the government's handling of the COVID-19 pandemic, highlighting tensions between citizens and the government."
             },
             {
-                "title": "Protests against government policies in Tokyo",
+                "title": "LDP's Yoshihide Suga faces criticism for handling of Olympic pandemic preparedness",
                 "risk_level": "Low",
-                "summary": "Small-scale protests against the Japanese government's policies have been reported in Tokyo in the past week. Demonstrators have been expressing concerns over issues such as economic inequality and labor rights."
+                "summary": "Opposition parties have criticized LDP leader Yoshihide Suga's handling of pandemic preparedness for the Tokyo Olympics, citing concerns about the potential for future outbreaks."
             }
         ]
     }
