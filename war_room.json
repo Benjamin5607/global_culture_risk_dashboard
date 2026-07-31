@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Taiwan warns China against interference",
+                "risk_level": "High",
+                "summary": "Taiwan warns China against interference in their elections, escalating tensions between the two nations."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "North Korea conducts missile tests",
+                "risk_level": "High",
+                "summary": "North Korea conducts multiple missile tests, drawing criticism from the international community and raising concerns about regional security."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "US-China relations continue to deteriorate",
+                "risk_level": "Medium",
+                "summary": "Tensions between the US and China continue to rise, with both nations imposing trade restrictions and sanctions on each other."
             }
         ],
         "United States": [
             {
-                "title": "Tensions Rise Between US and China Over Taiwan",
-                "risk_level": "High",
-                "summary": "China has sent advanced warplanes into Taiwan's defense zone, escalating tensions between the two nations."
-            },
-            {
-                "title": "Ukraine Conflict Spillover Concerns US Security",
-                "risk_level": "High",
-                "summary": "With the ongoing conflict in Ukraine, there are concerns that the situation could spill over into the US, potentially destabilizing the region."
-            },
-            {
-                "title": "Ongoing Protests in US Against Gun Violence",
+                "title": "US Supreme Court Declines to Reinstate Texas Abortion Ban, Leaving Measure in Question",
                 "risk_level": "Medium",
-                "summary": "Mass shootings and gun-related violence remain a contentious issue in the US, with ongoing protests calling for stricter gun control laws."
+                "summary": "The US Supreme Court has declined to reinstate Texas's near-total abortion ban, leaving the measure in question. This decision could have significant implications for reproductive rights in the US."
+            },
+            {
+                "title": "US Treasury Sanctions Alleged Russian Oligarch Over Ukraine",
+                "risk_level": "High",
+                "summary": "The US Treasury Department has sanctioned an alleged Russian oligarch over Ukraine, citing ties to Russian intelligence services. This move could exacerbate tensions between the US and Russia."
+            },
+            {
+                "title": "US House Committee Votes to Hold Mark Zuckerberg in Contempt",
+                "risk_level": "Medium",
+                "summary": "The US House Oversight Committee has voted to hold Mark Zuckerberg in contempt over his refusal to answer questions about Facebook's handling of user data. This could have significant implications for social media regulation in the US."
             }
         ],
         "South Korea": [
             {
-                "title": "Tensions Rise with North Korea over Military Exercises",
+                "title": "North Korea's missile tests raise tensions with South Korea",
                 "risk_level": "High",
-                "summary": "South Korea's military has conducted large-scale exercises near the border with North Korea, prompting a stern warning from Pyongyang. The exercises have heightened tensions between the two nations, with North Korea threatening retaliation."
+                "summary": "North Korea conducted a series of missile tests, prompting condemnation from South Korea and the international community."
             },
             {
-                "title": "Protests Erupt in Seoul over Labor Reform Bills",
+                "title": "South Korea's parliament passes bill to revise labor laws",
                 "risk_level": "Medium",
-                "summary": "Labor reform bills have sparked widespread protests in Seoul, with thousands of workers and activists taking to the streets to demonstrate against the proposed changes. The government has deployed police to maintain order, but the situation remains tense."
+                "summary": "The South Korean parliament passed a bill to revise labor laws, but the measure was met with criticism from labor unions."
             },
             {
-                "title": "South Korea Condemns Japan's Export Restrictions",
+                "title": "South Korea reports largest-ever single-day jump in COVID-19 cases",
                 "risk_level": "Medium",
-                "summary": "South Korea has strongly condemned Japan's decision to impose export restrictions on key materials, citing national security concerns. The move has put a strain on relations between the two nations, with Seoul accusing Tokyo of using 'unfair and unfriendly' tactics."
+                "summary": "South Korea reported a record number of new COVID-19 cases, prompting concerns about the country's response to the pandemic."
             }
         ],
         "Japan": [
             {
-                "title": "Earthquake in southwestern Japan causes widespread power outages and injuries",
+                "title": "North Korea warns Japan over military drills with US",
                 "risk_level": "High",
-                "summary": "A magnitude 6.2 earthquake struck southwestern Japan, causing widespread power outages and injuries. The quake triggered landslides and damaged buildings, leaving thousands of people without power."
+                "summary": "North Korea has condemned Japan and the US for conducting joint military drills in the area. The drills are seen as a response to a recent increase in North Korean missile tests."
             },
             {
-                "title": "Protests against COVID-19 restrictions escalate in Tokyo",
-                "risk_level": "High",
-                "summary": "Protests against COVID-19 restrictions have escalated in Tokyo, with Demonstrators clashing with police. The protests have disrupted traffic and public transportation, causing disruptions to daily life."
+                "title": "Japan's ruling party faces criticism over handling of Fukushima water release",
+                "risk_level": "Medium",
+                "summary": "The ruling party in Japan is facing criticism over its handling of the recent release of treated Fukushima water into the ocean. The release has sparked concerns about the impact on marine life and public health."
             },
             {
-                "title": "North Korea launches ballistic missile over Japan, heightening regional tensions",
-                "risk_level": "High",
-                "summary": "North Korea launched a ballistic missile over Japan, heightening regional tensions. The launch has raised concerns about the country's military capabilities and its willingness to engage in provocative behavior."
+                "title": "Protesters clash with police in Tokyo over labor law changes",
+                "risk_level": "Medium",
+                "summary": "Protesters clashed with police in Tokyo over changes to Japan's labor laws, which are seen as benefiting large corporations at the expense of workers."
             }
         ]
     }
