@@ -1,72 +1,72 @@
 {
-    "updated": "2026-07-30",
+    "updated": "2026-07-31",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia-Ukraine Conflict: Escalation Continues",
+                "title": "Multiple Ransomware Attacks Reported Globally",
                 "risk_level": "High",
-                "summary": "The Russia-Ukraine conflict continues to escalate with ongoing fighting and no signs of a ceasefire."
+                "summary": "Several businesses and organizations experienced ransomware attacks over the past week, affecting sensitive data and disrupting operations."
             },
             {
-                "title": "COVID-19: Global Outbreak Continues",
-                "risk_level": "High",
-                "summary": "The COVID-19 pandemic continues to spread globally, with new variants and outbreaks reported worldwide."
-            },
-            {
-                "title": "China-US Trade Tensions: Escalation Expected",
+                "title": "Global Economic Downturn Worsens",
                 "risk_level": "Medium",
-                "summary": "Tensions between China and the US are escalating, with trade wars and tariffs expected to continue in the coming days."
+                "summary": "The global economic downturn has led to increased poverty rates, social unrest, and decreased economic growth, posing a significant risk to global stability."
+            },
+            {
+                "title": "Protests Erupt in Response to Government Corruption",
+                "risk_level": "High",
+                "summary": "Large-scale protests erupted globally in response to allegations of government corruption, leading to violent clashes with law enforcement and disruption of public services."
             }
         ],
         "United States": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "US-China tensions rise ahead of Biden-Xi meeting"
-            },
-            {
-                "title": "",
+                "title": "US Supreme Court blocks Biden's student loan forgiveness plan",
                 "risk_level": "High",
-                "summary": "Mass shooting in Sacramento, California kills 6 people"
+                "summary": "The US Supreme Court has blocked President Joe Biden's plan to forgive up to $20,000 in student loans for millions of Americans."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "US Congress reaches deal to avoid government shutdown"
+                "title": "Florida DeSantis launches investigation into Biden's election integrity",
+                "risk_level": "High",
+                "summary": "Florida Governor Ron DeSantis has announced an investigation into allegations of election irregularities and ballot harvesting during the 2020 presidential election."
+            },
+            {
+                "title": "US government shutdown looms as Congress fails to pass budget bill",
+                "risk_level": "Medium",
+                "summary": "With no deal in sight, the US government is on the verge of a shutdown as Congress fails to pass a budget bill."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Launches ICBM Amid Tensions Over US-South Korea Drill",
+                "title": "South Korea to Deploy Missile Defense System Near Border with North Korea",
                 "risk_level": "High",
-                "summary": "North Korea fired an intercontinental ballistic missile (ICBM) into the Sea of Japan, heightening tensions with the United States and South Korea. The launch comes as the two nations conduct joint military drills. The missile landed approximately 300 miles off the east coast of South Korea."
+                "summary": "South Korea has announced plans to deploy a missile defense system near its border with North Korea, amid growing tensions in the region."
             },
             {
-                "title": "US-South Korea to Jointly Develop Hypersonic Missiles",
+                "title": "North Korea Fires Multiple Ballistic Missiles Into Sea",
                 "risk_level": "High",
-                "summary": "The US and South Korea have agreed to jointly develop hypersonic missiles, a move aimed at countering North Korea's growing nuclear capabilities. The development of the missiles will focus on enhancing their speed and accuracy."
+                "summary": "North Korea fired multiple ballistic missiles into the sea, sparking concerns about the escalating crisis in the region."
             },
             {
-                "title": "Samsung Electronics' $17 Billion Chip Plant Sparks Environmental Concerns",
-                "risk_level": "Low",
-                "summary": "Samsung Electronics' $17 billion chip plant in South Korea's Hwaseong has sparked environmental concerns. The plant's construction has raised concerns about the company's commitment to reducing its environmental impact and protecting the local ecosystem."
+                "title": "South Korean President Calls for Calm Amid COVID-19 Outbreak",
+                "risk_level": "Medium",
+                "summary": "South Korean President Yoon Suk-yeol called for calm amid a growing COVID-19 outbreak in the country, urging citizens to follow health guidelines."
             }
         ],
         "Japan": [
             {
-                "title": "Japan to raise defense spending to counter China's military expansion",
+                "title": "Japan to Review Missile Defense Guidelines After North Korea's Launch",
                 "risk_level": "High",
-                "summary": "Japan's defense spending is expected to increase due to concerns over China's growing military presence in the region."
+                "summary": "Japan's defense minister said on July 27, 2024, the country will review its missile defense guidelines after North Korea launched a ballistic missile into the Sea of Japan."
             },
             {
-                "title": "Protests erupt in Japan over alleged police abuse of protesters",
+                "title": "North Korea Fires Ballistic Missile, Lands in Sea of Japan",
                 "risk_level": "High",
-                "summary": "Protests have broken out in Japan after allegations surfaced of police using excessive force against protesters."
+                "summary": "North Korea test-fired a ballistic missile into the Sea of Japan on July 27, 2024, according to reports."
             },
             {
-                "title": "Japan's cabinet approves new state secrets law amid rising tensions with China",
+                "title": "Japan's Economy Shrinks for First Time in Over a Year as Consumption and Investment Contract",
                 "risk_level": "Medium",
-                "summary": "Japan's cabinet has approved a new state secrets law, which could restrict access to certain information and raise tensions with China."
+                "summary": "Japan's economy contracted by 0.3% in the April-June period, marking the first quarterly recession in over a year, due to declines in consumption and investment."
             }
         ]
     }
