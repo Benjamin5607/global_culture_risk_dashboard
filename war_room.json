@@ -3,39 +3,10 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyberattack Disrupts US Banks' Online Services",
-                "risk_level": "High",
-                "summary": "A ransomware attack on US banks' online services causes widespread disruptions, raising concerns about the vulnerability of financial systems."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
-            {
-                "title": "Protests Erupt in China Over COVID Restrictions",
-                "risk_level": "High",
-                "summary": "Anti-government protests break out in multiple cities across China as people demand an end to the country's strict COVID-19 restrictions."
-            },
-            {
-                "title": "Taliban Bans Women From Working for NGOs",
-                "risk_level": "High",
-                "summary": "The Taliban regime in Afghanistan issues a decree banning women from working for non-governmental organizations (NGOs), sparking widespread condemnation from the international community."
-            }
-        ],
-        "United States": [
-            {
-                "title": "Supreme Court Declines to Block Abortion Ban in Idaho",
-                "risk_level": "High",
-                "summary": "The US Supreme Court declined to block an abortion ban in Idaho, setting up a potential showdown over reproductive rights."
-            },
-            {
-                "title": "US Lawmakers Introduce Bill to Regulate Artificial Intelligence",
-                "risk_level": "Medium",
-                "summary": "US lawmakers have introduced a bill to regulate the development and use of artificial intelligence, citing concerns over bias and accountability."
-            },
-            {
-                "title": "House Panel Advances Bill to Rein in Big Tech",
-                "risk_level": "High",
-                "summary": "A House of Representatives panel advanced a bill aimed at reining in the power of big tech companies, following months of antitrust scrutiny."
-            }
-        ],
-        "South Korea": [
             {
                 "title": "",
                 "risk_level": "",
@@ -43,30 +14,59 @@
             },
             {
                 "title": "",
+                "risk_level": "",
+                "summary": ""
+            }
+        ],
+        "United States": [
+            {
+                "title": "Tensions Rise Between US and China Over Taiwan",
                 "risk_level": "High",
-                "summary": "South Korea reports North Korea fired missile towards the Sea of Japan. US, Japan, S. Korea conduct joint drills amid tensions."
+                "summary": "China has sent advanced warplanes into Taiwan's defense zone, escalating tensions between the two nations."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "S. Korean government imposes stricter COVID-19 measures due to rising Omicron variant cases."
+                "title": "Ukraine Conflict Spillover Concerns US Security",
+                "risk_level": "High",
+                "summary": "With the ongoing conflict in Ukraine, there are concerns that the situation could spill over into the US, potentially destabilizing the region."
+            },
+            {
+                "title": "Ongoing Protests in US Against Gun Violence",
+                "risk_level": "Medium",
+                "summary": "Mass shootings and gun-related violence remain a contentious issue in the US, with ongoing protests calling for stricter gun control laws."
+            }
+        ],
+        "South Korea": [
+            {
+                "title": "Tensions Rise with North Korea over Military Exercises",
+                "risk_level": "High",
+                "summary": "South Korea's military has conducted large-scale exercises near the border with North Korea, prompting a stern warning from Pyongyang. The exercises have heightened tensions between the two nations, with North Korea threatening retaliation."
+            },
+            {
+                "title": "Protests Erupt in Seoul over Labor Reform Bills",
+                "risk_level": "Medium",
+                "summary": "Labor reform bills have sparked widespread protests in Seoul, with thousands of workers and activists taking to the streets to demonstrate against the proposed changes. The government has deployed police to maintain order, but the situation remains tense."
+            },
+            {
+                "title": "South Korea Condemns Japan's Export Restrictions",
+                "risk_level": "Medium",
+                "summary": "South Korea has strongly condemned Japan's decision to impose export restrictions on key materials, citing national security concerns. The move has put a strain on relations between the two nations, with Seoul accusing Tokyo of using 'unfair and unfriendly' tactics."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea missile launch",
-                "risk_level": "Medium",
-                "summary": "North Korea test-fired a missile off its eastern coast, sparking concerns in Japan and other regional countries, and leading to heightened alert levels along the Japanese coast. "
-            },
-            {
-                "title": "COVID-19 outbreak in Japan",
+                "title": "Earthquake in southwestern Japan causes widespread power outages and injuries",
                 "risk_level": "High",
-                "summary": "Japan has reported an increase in COVID-19 cases due to a new Omicron subvariant, sparking concerns about the possibility of a new wave of infections."
+                "summary": "A magnitude 6.2 earthquake struck southwestern Japan, causing widespread power outages and injuries. The quake triggered landslides and damaged buildings, leaving thousands of people without power."
             },
             {
-                "title": "Japan’s defense budget increase",
-                "risk_level": "Low",
-                "summary": "Japan's defense budget has been increased to address concerns about North Korea's military activities and the country's own defense capabilities, sparking debates about the role of Japan's military."
+                "title": "Protests against COVID-19 restrictions escalate in Tokyo",
+                "risk_level": "High",
+                "summary": "Protests against COVID-19 restrictions have escalated in Tokyo, with Demonstrators clashing with police. The protests have disrupted traffic and public transportation, causing disruptions to daily life."
+            },
+            {
+                "title": "North Korea launches ballistic missile over Japan, heightening regional tensions",
+                "risk_level": "High",
+                "summary": "North Korea launched a ballistic missile over Japan, heightening regional tensions. The launch has raised concerns about the country's military capabilities and its willingness to engage in provocative behavior."
             }
         ]
     }
