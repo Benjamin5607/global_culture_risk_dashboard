@@ -3,70 +3,73 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Taiwan warns China against interference",
+                "title": "Risks of Climate Change in Europe",
                 "risk_level": "High",
-                "summary": "Taiwan warns China against interference in their elections, escalating tensions between the two nations."
+                "summary": "There has been a significant increase in extreme weather events across Europe, causing widespread damage and disruption. The risks of climate change are becoming more pronounced, and governments are scrambling to address the issue."
             },
             {
-                "title": "North Korea conducts missile tests",
-                "risk_level": "High",
-                "summary": "North Korea conducts multiple missile tests, drawing criticism from the international community and raising concerns about regional security."
-            },
-            {
-                "title": "US-China relations continue to deteriorate",
+                "title": "Trade Disruptions in East Asia",
                 "risk_level": "Medium",
-                "summary": "Tensions between the US and China continue to rise, with both nations imposing trade restrictions and sanctions on each other."
+                "summary": "Trade tensions between East Asian countries have increased, leading to disruptions in global supply chains. The impact on businesses and consumers is being felt, and negotiations are ongoing to resolve the issue."
+            },
+            {
+                "title": "Pandemic Response in the Americas",
+                "risk_level": "Low",
+                "summary": "A new variant of a respiratory virus has been detected in the Americas, prompting public health authorities to respond quickly. The risk of widespread transmission is considered low at this time."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Declines to Reinstate Texas Abortion Ban, Leaving Measure in Question",
-                "risk_level": "Medium",
-                "summary": "The US Supreme Court has declined to reinstate Texas's near-total abortion ban, leaving the measure in question. This decision could have significant implications for reproductive rights in the US."
-            },
-            {
-                "title": "US Treasury Sanctions Alleged Russian Oligarch Over Ukraine",
+                "title": "Protests Erupt Over Gun Control Legislation in US",
                 "risk_level": "High",
-                "summary": "The US Treasury Department has sanctioned an alleged Russian oligarch over Ukraine, citing ties to Russian intelligence services. This move could exacerbate tensions between the US and Russia."
+                "summary": "Protests erupted across the United States in response to proposed gun control legislation in the aftermath of recent mass shootings, raising concerns about potential civil unrest and disruptions to public order."
             },
             {
-                "title": "US House Committee Votes to Hold Mark Zuckerberg in Contempt",
+                "title": "US-China Tensions Escalate Over Trade and Security",
+                "risk_level": "High",
+                "summary": "Tensions between the United States and China escalated this week as the two nations engaged in a heated exchange over trade and security issues, potentially leading to further economic sanctions and diplomatic fallout."
+            },
+            {
+                "title": "Supreme Court Ruling on Voting Rights Sparks Outrage",
                 "risk_level": "Medium",
-                "summary": "The US House Oversight Committee has voted to hold Mark Zuckerberg in contempt over his refusal to answer questions about Facebook's handling of user data. This could have significant implications for social media regulation in the US."
+                "summary": "The US Supreme Court ruled in a closely watched case that a key provision of the Voting Rights Act is unconstitutional, sparking outrage among civil rights groups and leading to concerns about the erosion of voting rights and potentially destabilizing the democratic process."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's missile tests raise tensions with South Korea",
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "",
+                "detail": "On July 21, a North Korean missile test sparked tensions and raised concerns about regional security."
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "",
+                "detail": "On July 24, a group of North Korean defectors were arrested in South Korea for violating immigration laws, highlighting ongoing border control issues."
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "North Korea conducted a series of missile tests, prompting condemnation from South Korea and the international community."
-            },
-            {
-                "title": "South Korea's parliament passes bill to revise labor laws",
-                "risk_level": "Medium",
-                "summary": "The South Korean parliament passed a bill to revise labor laws, but the measure was met with criticism from labor unions."
-            },
-            {
-                "title": "South Korea reports largest-ever single-day jump in COVID-19 cases",
-                "risk_level": "Medium",
-                "summary": "South Korea reported a record number of new COVID-19 cases, prompting concerns about the country's response to the pandemic."
+                "summary": "",
+                "detail": "On July 28, South Korea reported its highest number of COVID-19 cases in over a year, prompting concerns about public health and potential economic impacts."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea warns Japan over military drills with US",
-                "risk_level": "High",
-                "summary": "North Korea has condemned Japan and the US for conducting joint military drills in the area. The drills are seen as a response to a recent increase in North Korean missile tests."
+                "title": "US and Japan hold high-level talks on North Korea and China's missile threats",
+                "risk_level": "Medium",
+                "summary": "The United States and Japan held high-level talks on North Korea and China's missile threats, reaffirming their commitment to regional security and cooperation."
             },
             {
-                "title": "Japan's ruling party faces criticism over handling of Fukushima water release",
-                "risk_level": "Medium",
-                "summary": "The ruling party in Japan is facing criticism over its handling of the recent release of treated Fukushima water into the ocean. The release has sparked concerns about the impact on marine life and public health."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Protesters clash with police in Tokyo over labor law changes",
-                "risk_level": "Medium",
-                "summary": "Protesters clashed with police in Tokyo over changes to Japan's labor laws, which are seen as benefiting large corporations at the expense of workers."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
