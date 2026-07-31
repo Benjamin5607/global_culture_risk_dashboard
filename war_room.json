@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Multiple Ransomware Attacks Reported Globally",
-                "risk_level": "High",
-                "summary": "Several businesses and organizations experienced ransomware attacks over the past week, affecting sensitive data and disrupting operations."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Russia is planning to conduct large-scale military drills along its border with Ukraine, in a move seen as a threat to regional stability. "
             },
             {
-                "title": "Global Economic Downturn Worsens",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "The global economic downturn has led to increased poverty rates, social unrest, and decreased economic growth, posing a significant risk to global stability."
+                "summary": "The UK government has announced plans to increase defense spending by 3.5% annually, in a bid to boost its military capabilities and counter emerging threats. "
             },
             {
-                "title": "Protests Erupt in Response to Government Corruption",
+                "title": "China expands drills near Taiwan",
                 "risk_level": "High",
-                "summary": "Large-scale protests erupted globally in response to allegations of government corruption, leading to violent clashes with law enforcement and disruption of public services."
+                "summary": "China has launched large-scale military drills near Taiwan in response to a visit by a US congressional delegation, raising concerns about the risk of conflict in the region. "
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court blocks Biden's student loan forgiveness plan",
+                "title": "Federal Judge Blocks New Abortion Restrictions in Texas",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has blocked President Joe Biden's plan to forgive up to $20,000 in student loans for millions of Americans."
+                "summary": "A federal judge temporarily blocked new abortion restrictions in Texas that would have banned most abortions after six weeks of pregnancy."
             },
             {
-                "title": "Florida DeSantis launches investigation into Biden's election integrity",
-                "risk_level": "High",
-                "summary": "Florida Governor Ron DeSantis has announced an investigation into allegations of election irregularities and ballot harvesting during the 2020 presidential election."
-            },
-            {
-                "title": "US government shutdown looms as Congress fails to pass budget bill",
+                "title": "US Supreme Court Sides with Evangelical Church in California Land Dispute",
                 "risk_level": "Medium",
-                "summary": "With no deal in sight, the US government is on the verge of a shutdown as Congress fails to pass a budget bill."
+                "summary": "The US Supreme Court has sided with an evangelical church in California in a dispute over a plot of land the church wants to use to build a new home."
+            },
+            {
+                "title": "US House Passes Bill to Enhance Cybersecurity Measures",
+                "risk_level": "High",
+                "summary": "The US House of Representatives has passed a bill aimed at enhancing cybersecurity measures across the country."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea to Deploy Missile Defense System Near Border with North Korea",
+                "title": "North Korea fires multiple ballistic missiles into Sea of Japan",
                 "risk_level": "High",
-                "summary": "South Korea has announced plans to deploy a missile defense system near its border with North Korea, amid growing tensions in the region."
+                "summary": "Pyongyang's latest missile tests have escalated tensions with its neighbors and the US, sparking concerns about regional stability."
             },
             {
-                "title": "North Korea Fires Multiple Ballistic Missiles Into Sea",
-                "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles into the sea, sparking concerns about the escalating crisis in the region."
-            },
-            {
-                "title": "South Korean President Calls for Calm Amid COVID-19 Outbreak",
+                "title": "Protests over labor rights and COVID-19 response escalate in South Korea",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol called for calm amid a growing COVID-19 outbreak in the country, urging citizens to follow health guidelines."
+                "summary": "Demonstrations against the government's labor policies and handling of the pandemic have grown in intensity, with calls for President Yoon Suk-yeol's ouster."
+            },
+            {
+                "title": "South Korea warns of potential cyber threats from North Korea",
+                "risk_level": "High",
+                "summary": "Seoul's intelligence agency has issued a warning about the possibility of North Korean cyberattacks targeting critical infrastructure and private companies."
             }
         ],
         "Japan": [
             {
-                "title": "Japan to Review Missile Defense Guidelines After North Korea's Launch",
+                "title": "Mass protests erupt in Japan over pension reform",
                 "risk_level": "High",
-                "summary": "Japan's defense minister said on July 27, 2024, the country will review its missile defense guidelines after North Korea launched a ballistic missile into the Sea of Japan."
+                "summary": "Thousands of pensioners and their supporters took to the streets in major cities across Japan, protesting against proposed changes to the country's pension system. The protests are a significant concern, as they demonstrate the level of dissatisfaction among the elderly population and the potential for social unrest."
             },
             {
-                "title": "North Korea Fires Ballistic Missile, Lands in Sea of Japan",
-                "risk_level": "High",
-                "summary": "North Korea test-fired a ballistic missile into the Sea of Japan on July 27, 2024, according to reports."
-            },
-            {
-                "title": "Japan's Economy Shrinks for First Time in Over a Year as Consumption and Investment Contract",
+                "title": "Rising nationalist sentiment in Japan sparks concern",
                 "risk_level": "Medium",
-                "summary": "Japan's economy contracted by 0.3% in the April-June period, marking the first quarterly recession in over a year, due to declines in consumption and investment."
+                "summary": "A recent survey has shown a significant increase in nationalist sentiment in Japan, with many residents expressing support for a more assertive foreign policy. This trend is a cause for concern, as it could lead to increased tensions with neighboring countries and potentially destabilize the region."
+            },
+            {
+                "title": "Japan's COVID-19 cases surge ahead of Olympics",
+                "risk_level": "Low",
+                "summary": "Japan has seen a spike in COVID-19 cases in the lead-up to the upcoming Olympics, sparking concerns about the potential for a new wave of infections. While the risk is considered low, it is still a concern, particularly for international visitors and the elderly population."
             }
         ]
     }
