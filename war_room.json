@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Russia is planning to conduct large-scale military drills along its border with Ukraine, in a move seen as a threat to regional stability. "
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "The UK government has announced plans to increase defense spending by 3.5% annually, in a bid to boost its military capabilities and counter emerging threats. "
-            },
-            {
-                "title": "China expands drills near Taiwan",
+                "title": "Cyberattack Disrupts US Banks' Online Services",
                 "risk_level": "High",
-                "summary": "China has launched large-scale military drills near Taiwan in response to a visit by a US congressional delegation, raising concerns about the risk of conflict in the region. "
+                "summary": "A ransomware attack on US banks' online services causes widespread disruptions, raising concerns about the vulnerability of financial systems."
+            },
+            {
+                "title": "Protests Erupt in China Over COVID Restrictions",
+                "risk_level": "High",
+                "summary": "Anti-government protests break out in multiple cities across China as people demand an end to the country's strict COVID-19 restrictions."
+            },
+            {
+                "title": "Taliban Bans Women From Working for NGOs",
+                "risk_level": "High",
+                "summary": "The Taliban regime in Afghanistan issues a decree banning women from working for non-governmental organizations (NGOs), sparking widespread condemnation from the international community."
             }
         ],
         "United States": [
             {
-                "title": "Federal Judge Blocks New Abortion Restrictions in Texas",
+                "title": "Supreme Court Declines to Block Abortion Ban in Idaho",
                 "risk_level": "High",
-                "summary": "A federal judge temporarily blocked new abortion restrictions in Texas that would have banned most abortions after six weeks of pregnancy."
+                "summary": "The US Supreme Court declined to block an abortion ban in Idaho, setting up a potential showdown over reproductive rights."
             },
             {
-                "title": "US Supreme Court Sides with Evangelical Church in California Land Dispute",
+                "title": "US Lawmakers Introduce Bill to Regulate Artificial Intelligence",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court has sided with an evangelical church in California in a dispute over a plot of land the church wants to use to build a new home."
+                "summary": "US lawmakers have introduced a bill to regulate the development and use of artificial intelligence, citing concerns over bias and accountability."
             },
             {
-                "title": "US House Passes Bill to Enhance Cybersecurity Measures",
+                "title": "House Panel Advances Bill to Rein in Big Tech",
                 "risk_level": "High",
-                "summary": "The US House of Representatives has passed a bill aimed at enhancing cybersecurity measures across the country."
+                "summary": "A House of Representatives panel advanced a bill aimed at reining in the power of big tech companies, following months of antitrust scrutiny."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires multiple ballistic missiles into Sea of Japan",
-                "risk_level": "High",
-                "summary": "Pyongyang's latest missile tests have escalated tensions with its neighbors and the US, sparking concerns about regional stability."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Protests over labor rights and COVID-19 response escalate in South Korea",
-                "risk_level": "Medium",
-                "summary": "Demonstrations against the government's labor policies and handling of the pandemic have grown in intensity, with calls for President Yoon Suk-yeol's ouster."
+                "title": "",
+                "risk_level": "High",
+                "summary": "South Korea reports North Korea fired missile towards the Sea of Japan. US, Japan, S. Korea conduct joint drills amid tensions."
             },
             {
-                "title": "South Korea warns of potential cyber threats from North Korea",
-                "risk_level": "High",
-                "summary": "Seoul's intelligence agency has issued a warning about the possibility of North Korean cyberattacks targeting critical infrastructure and private companies."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "S. Korean government imposes stricter COVID-19 measures due to rising Omicron variant cases."
             }
         ],
         "Japan": [
             {
-                "title": "Mass protests erupt in Japan over pension reform",
-                "risk_level": "High",
-                "summary": "Thousands of pensioners and their supporters took to the streets in major cities across Japan, protesting against proposed changes to the country's pension system. The protests are a significant concern, as they demonstrate the level of dissatisfaction among the elderly population and the potential for social unrest."
-            },
-            {
-                "title": "Rising nationalist sentiment in Japan sparks concern",
+                "title": "North Korea missile launch",
                 "risk_level": "Medium",
-                "summary": "A recent survey has shown a significant increase in nationalist sentiment in Japan, with many residents expressing support for a more assertive foreign policy. This trend is a cause for concern, as it could lead to increased tensions with neighboring countries and potentially destabilize the region."
+                "summary": "North Korea test-fired a missile off its eastern coast, sparking concerns in Japan and other regional countries, and leading to heightened alert levels along the Japanese coast. "
             },
             {
-                "title": "Japan's COVID-19 cases surge ahead of Olympics",
+                "title": "COVID-19 outbreak in Japan",
+                "risk_level": "High",
+                "summary": "Japan has reported an increase in COVID-19 cases due to a new Omicron subvariant, sparking concerns about the possibility of a new wave of infections."
+            },
+            {
+                "title": "Japan’s defense budget increase",
                 "risk_level": "Low",
-                "summary": "Japan has seen a spike in COVID-19 cases in the lead-up to the upcoming Olympics, sparking concerns about the potential for a new wave of infections. While the risk is considered low, it is still a concern, particularly for international visitors and the elderly population."
+                "summary": "Japan's defense budget has been increased to address concerns about North Korea's military activities and the country's own defense capabilities, sparking debates about the role of Japan's military."
             }
         ]
     }
