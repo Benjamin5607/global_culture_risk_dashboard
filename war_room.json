@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Conflict in Ukraine",
+                "title": "Ransomware attack targets US critical infrastructure",
                 "risk_level": "High",
-                "summary": "Russia-Ukraine conflict escalates with increased military build-up on both sides, raising concerns of imminent war."
+                "summary": "A sophisticated ransomware attack has been launched against US critical infrastructure, posing a significant risk to national security and economic stability."
             },
             {
-                "title": "Global Economic Recession",
-                "risk_level": "High",
-                "summary": "Experts warn of a potential global economic recession due to rising inflation, supply chain disruptions, and decreased consumer spending."
-            },
-            {
-                "title": "Climate Change Protests",
+                "title": "Global economic downturn amid rising inflation",
                 "risk_level": "Medium",
-                "summary": "Climate change protests erupt worldwide, demanding urgent action from governments to reduce carbon emissions and address climate related disasters."
+                "summary": "A global economic downturn is forecasted due to rising inflation, potentially leading to widespread job losses and socio-economic instability."
+            },
+            {
+                "title": "Social media platform hack exposes user data",
+                "risk_level": "Low",
+                "summary": "A popular social media platform has been hacked, exposing sensitive user data, highlighting the importance of robust cybersecurity measures."
             }
         ],
         "United States": [
             {
-                "title": "",
+                "title": "US-China Relations Tension Escalated by Speaker Pelosi's Visit",
                 "risk_level": "High",
-                "summary": "Tension at the US Mexico border due to a rise in migrant crossings."
+                "summary": "The recent visit of US Speaker Pelosi to Taiwan has heightened tensions between the US and China, sparking fears of a military conflict."
             },
             {
-                "title": "",
+                "title": "FBI Searches Trump's Mar-a-Lago Estate",
+                "risk_level": "High",
+                "summary": "The FBI has executed a search warrant at former US President Trump's Mar-a-Lago estate, sparking allegations of politicization and potential obstruction of justice."
+            },
+            {
+                "title": "US Senate Passes Inflation Reduction Act",
                 "risk_level": "Medium",
-                "summary": "Concerns over the rise in hate crimes targeting the Asian community in the US."
-            },
-            {
-                "title": "",
-                "risk_level": "High",
-                "summary": "Ongoing tensions between the US and China due to economic competition and trade disputes."
+                "summary": "The US Senate has passed the Inflation Reduction Act, a major climate and healthcare bill, despite opposition from some Democrats and Republicans."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea warns of 'stronger' nuclear response in new US warning system",
+                "title": "South Korea reports North Korea fired two ballistic missiles",
                 "risk_level": "High",
-                "summary": "North Korea has threatened to take 'stronger' action against the US as it installs a new missile warning system near its border."
+                "summary": "South Korea's military says North Korea fired two ballistic missiles into the ocean off its eastern coast on Wednesday, amid heightened tensions between the rival nations. The missiles were fired from the Sunan area in North Pyongan Province, which is where North Korea's capital, Pyongyang, is located."
             },
             {
-                "title": "South Korea, US Begin Military Drills Amid North Korea Tensions",
-                "risk_level": "High",
-                "summary": "The annual joint military exercises between South Korea and the US have begun, amid heightened tensions with North Korea."
-            },
-            {
-                "title": "South Korean police investigate suspected North Korean espionage",
+                "title": "South Korea's President Yoon seeks to boost US ties amid North Korea tensions",
                 "risk_level": "Medium",
-                "summary": "South Korean police have launched an investigation into suspected North Korean espionage activities in the country."
+                "summary": "South Korean President Yoon Suk-yeol met with US lawmakers on Wednesday to boost ties with the US as tensions with North Korea escalate. The meeting comes as the US and South Korean militaries stage large-scale joint exercises, which have been criticized by North Korea as \"aggressive\"."
+            },
+            {
+                "title": "South Korea's opposition party demands president's resignation over corruption scandal",
+                "risk_level": "Medium",
+                "summary": "South Korea's main opposition party on Wednesday demanded President Yoon Suk-yeol's resignation over a corruption scandal that has engulfed the president's office. The scandal involves a former top aide who allegedly laundered billions of won through a local church, and has sparked widespread outrage in the country."
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Hinnamor hits Japan, causing widespread flooding",
-                "risk_level": "High",
-                "summary": "A powerful typhoon made landfall in southern Japan, causing significant flooding and disruptions. The storm has brought heavy rain and strong winds, with the potential for tornadoes and landslides. The Japanese government has issued evacuation orders and warnings for several prefectures."
+                "title": "Japan’s ruling party suffers defeat in local election, a setback for Prime Minister Fumio Kishida",
+                "risk_level": "Low",
+                "summary": "On July 30, the ruling Liberal Democratic Party (LDP) lost control of Niigata Prefecture, dealing a blow to Prime Minister Fumio Kishida’s plans to revise the country’s constitution."
             },
             {
-                "title": "Tokyo Olympics corruption scandal deepens",
+                "title": "Japan struggles to cope with rising number of COVID-19 cases as healthcare system faces pressure",
+                "risk_level": "High",
+                "summary": "Japan has confirmed over 10,000 new COVID-19 cases in the past week, putting pressure on the country’s healthcare system. The government has announced plans to provide additional funding and resources to support hospitals and medical staff."
+            },
+            {
+                "title": "Japan’s inflation rate remains high, fueling concerns about economic stability",
                 "risk_level": "Medium",
-                "summary": "A new report has shed light on the extent of corruption surrounding the Tokyo Olympics, with several high-ranking officials implicated in a bribery scandal. The scandal has sparked outrage and calls for accountability among the Japanese public and international community."
-            },
-            {
-                "title": "North Korea fires ballistic missile off Japanese coast",
-                "risk_level": "High",
-                "summary": "North Korea has fired a ballistic missile into the Sea of Japan, prompting a strong response from Japan and the international community. The move has raised concerns about regional security and sparked calls for increased cooperation on missile defense."
+                "summary": "Japan’s inflation rate rose to 3.5% in July, higher than expected. The government has warned that the country faces economic uncertainty due to high inflation and global economic trends."
             }
         ]
     }
