@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Conflict escalates in Ukraine-Russian border region, raising tensions in Eastern Europe",
+                "title": "Conflict in Ukraine",
                 "risk_level": "High",
-                "summary": "Recent clashes between Ukrainian and Russian forces have heightened concerns of an all-out war"
+                "summary": "Russia-Ukraine conflict escalates with increased military build-up on both sides, raising concerns of imminent war."
             },
             {
-                "title": "Surge in migrant crossings from US to Mexico sparks border security concerns",
+                "title": "Global Economic Recession",
+                "risk_level": "High",
+                "summary": "Experts warn of a potential global economic recession due to rising inflation, supply chain disruptions, and decreased consumer spending."
+            },
+            {
+                "title": "Climate Change Protests",
                 "risk_level": "Medium",
-                "summary": "Increased attempts by migrants to enter Mexico has led to heightened security checks and patrols along the border"
-            },
-            {
-                "title": "Global economic downturn sparks protests and unrest in major cities worldwide",
-                "risk_level": "High",
-                "summary": "Protests against economic policies and rising living costs have spread across the globe, putting pressure on governments to act"
+                "summary": "Climate change protests erupt worldwide, demanding urgent action from governments to reduce carbon emissions and address climate related disasters."
             }
         ],
         "United States": [
             {
-                "title": "Federal Investigation on Trump's Handling of Classified Documents",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The FBI conducts a search at Trump's Mar-a-Lago estate, intensifying the investigation into his alleged mishandling of confidential documents. This escalates concerns over national security and Trump's accountability for potential espionage risks."
+                "summary": "Tension at the US Mexico border due to a rise in migrant crossings."
             },
             {
-                "title": "Biden and Congressional Leaders Meet to Discuss Gun Control Legislation",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "The US President meets with top lawmakers to discuss gun control measures, reflecting ongoing tensions over how to address mass shootings and firearm violence in the country."
+                "summary": "Concerns over the rise in hate crimes targeting the Asian community in the US."
             },
             {
-                "title": "US-China Trade Dispute Escalates with New Tariffs and Diplomatic Tensions",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The two economic superpowers intensify their long-standing trade rivalry with new trade restrictions and diplomatic backlash, underscoring the ongoing risk of an all-out trade war and its global implications."
+                "summary": "Ongoing tensions between the US and China due to economic competition and trade disputes."
             }
         ],
         "South Korea": [
             {
-                "title": "NK's Missile Test Triggers Warning from US and South Korea",
+                "title": "North Korea warns of 'stronger' nuclear response in new US warning system",
                 "risk_level": "High",
-                "summary": "North Korea's missile test this week sparked warnings from the US and South Korea, as tensions between the two countries remain high."
+                "summary": "North Korea has threatened to take 'stronger' action against the US as it installs a new missile warning system near its border."
             },
             {
-                "title": "South Korea Reports Spike in Omicron Cases",
+                "title": "South Korea, US Begin Military Drills Amid North Korea Tensions",
                 "risk_level": "High",
-                "summary": "South Korea reported a surge in Omicron cases, straining its healthcare system and raising concerns about the country's ability to cope with the pandemic."
+                "summary": "The annual joint military exercises between South Korea and the US have begun, amid heightened tensions with North Korea."
             },
             {
-                "title": "Protesters Clash with Police in South Korea Over Labor Rights",
+                "title": "South Korean police investigate suspected North Korean espionage",
                 "risk_level": "Medium",
-                "summary": "Protesters clashed with police in South Korea over labor rights, as workers demand better working conditions and higher wages."
+                "summary": "South Korean police have launched an investigation into suspected North Korean espionage activities in the country."
             }
         ],
         "Japan": [
             {
-                "title": "Anti-Nuclear Protest in Japan After Hokkaido Nuclear Plant Incident",
+                "title": "Typhoon Hinnamor hits Japan, causing widespread flooding",
                 "risk_level": "High",
-                "summary": "On July 9, a small explosion occurred at a nuclear power plant in Hokkaido. Japan's nuclear industry has faced challenges following the Fukushima Daiichi disaster in 2011."
+                "summary": "A powerful typhoon made landfall in southern Japan, causing significant flooding and disruptions. The storm has brought heavy rain and strong winds, with the potential for tornadoes and landslides. The Japanese government has issued evacuation orders and warnings for several prefectures."
             },
             {
-                "title": "Japan's Parliament Approves Bill to Legalize Same-Sex Marriage",
-                "risk_level": "High",
-                "summary": "Japan is set to become one of the last developed countries to legalize same-sex marriage, in a move that has divided the country."
-            },
-            {
-                "title": "Protests Erupt in Japan's Capital as PM Fumio Kishida Faces Anger Over Pension Scandal",
+                "title": "Tokyo Olympics corruption scandal deepens",
                 "risk_level": "Medium",
-                "summary": "Demonstrators gathered in Tokyo and called for the resignation of Japanese Prime Minister Fumio Kishida over a pension scandal."
+                "summary": "A new report has shed light on the extent of corruption surrounding the Tokyo Olympics, with several high-ranking officials implicated in a bribery scandal. The scandal has sparked outrage and calls for accountability among the Japanese public and international community."
+            },
+            {
+                "title": "North Korea fires ballistic missile off Japanese coast",
+                "risk_level": "High",
+                "summary": "North Korea has fired a ballistic missile into the Sea of Japan, prompting a strong response from Japan and the international community. The move has raised concerns about regional security and sparked calls for increased cooperation on missile defense."
             }
         ]
     }
