@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Risk of Conflict in Eastern Europe",
+                "title": "Conflict escalates in Ukraine-Russian border region, raising tensions in Eastern Europe",
                 "risk_level": "High",
-                "summary": "There are increasing tensions between Russia and Ukraine, with a risk of military conflict in the region."
+                "summary": "Recent clashes between Ukrainian and Russian forces have heightened concerns of an all-out war"
             },
             {
-                "title": "Global Cybersecurity Threats",
+                "title": "Surge in migrant crossings from US to Mexico sparks border security concerns",
                 "risk_level": "Medium",
-                "summary": "There have been several high-profile cyberattacks in the past week, highlighting the ongoing threat of hacking and data breaches."
+                "summary": "Increased attempts by migrants to enter Mexico has led to heightened security checks and patrols along the border"
             },
             {
-                "title": "Social Unrest in Major Cities",
-                "risk_level": "Medium",
-                "summary": "Protests and demonstrations have broken out in several major cities around the world, with a risk of escalation and property damage."
+                "title": "Global economic downturn sparks protests and unrest in major cities worldwide",
+                "risk_level": "High",
+                "summary": "Protests against economic policies and rising living costs have spread across the globe, putting pressure on governments to act"
             }
         ],
         "United States": [
             {
-                "title": "Tensions Rise Between US and Iran as Protestors Storm British Embassy in Tehran",
+                "title": "Federal Investigation on Trump's Handling of Classified Documents",
                 "risk_level": "High",
-                "summary": "Mass protests in Iran targeting British diplomatic missions has raised concerns of a potential escalation in tensions between the US and Iran amidst ongoing Iran-US tensions"
+                "summary": "The FBI conducts a search at Trump's Mar-a-Lago estate, intensifying the investigation into his alleged mishandling of confidential documents. This escalates concerns over national security and Trump's accountability for potential espionage risks."
             },
             {
-                "title": "FBI Arrests Man in Connection to January 6th Uprising",
-                "risk_level": "High",
-                "summary": "FBI apprehends another individual linked to the January 6th uprising at the US Capitol, underscoring ongoing concerns around domestic extremism and threats to national security"
-            },
-            {
-                "title": "Biden Administration Faces Criticism Over Handling of Southern Border Situation",
+                "title": "Biden and Congressional Leaders Meet to Discuss Gun Control Legislation",
                 "risk_level": "Medium",
-                "summary": "Critics have raised questions about the effectiveness of the administration's policies to address the surge in migrants crossing the US-Mexico border, highlighting potential social and economic implications"
+                "summary": "The US President meets with top lawmakers to discuss gun control measures, reflecting ongoing tensions over how to address mass shootings and firearm violence in the country."
+            },
+            {
+                "title": "US-China Trade Dispute Escalates with New Tariffs and Diplomatic Tensions",
+                "risk_level": "High",
+                "summary": "The two economic superpowers intensify their long-standing trade rivalry with new trade restrictions and diplomatic backlash, underscoring the ongoing risk of an all-out trade war and its global implications."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires two ballistic missiles into the Sea of Japan",
+                "title": "NK's Missile Test Triggers Warning from US and South Korea",
                 "risk_level": "High",
-                "summary": "North Korea fired two ballistic missiles into the Sea of Japan, raising concerns about nuclear proliferation and regional stability. The incident occurred on July 28 and was widely condemned by the international community."
+                "summary": "North Korea's missile test this week sparked warnings from the US and South Korea, as tensions between the two countries remain high."
             },
             {
-                "title": "South Korea's opposition coalition forms a new party",
+                "title": "South Korea Reports Spike in Omicron Cases",
+                "risk_level": "High",
+                "summary": "South Korea reported a surge in Omicron cases, straining its healthcare system and raising concerns about the country's ability to cope with the pandemic."
+            },
+            {
+                "title": "Protesters Clash with Police in South Korea Over Labor Rights",
                 "risk_level": "Medium",
-                "summary": "South Korea's opposition coalition has formed a new party, which is expected to challenge the governing Democratic Party of Korea. The move is seen as a response to growing public dissatisfaction with the government's handling of the economy and social issues."
-            },
-            {
-                "title": "Protesters clash with police over labor union reforms",
-                "risk_level": "Low",
-                "summary": "Protesters clashed with police in Seoul over labor union reforms, which are aimed at improving workplace conditions and boosting productivity. The protests were largely peaceful, but there were reports of skirmishes between protesters and police."
+                "summary": "Protesters clashed with police in South Korea over labor rights, as workers demand better working conditions and higher wages."
             }
         ],
         "Japan": [
             {
-                "title": "Japan and Taiwan hold joint naval drills near South China Sea amid tensions with China",
+                "title": "Anti-Nuclear Protest in Japan After Hokkaido Nuclear Plant Incident",
                 "risk_level": "High",
-                "summary": "The Japanese and Taiwanese militaries conducted a joint naval exercise near the South China Sea earlier this week, fueling tensions with China and highlighting potential security risks in the region."
+                "summary": "On July 9, a small explosion occurred at a nuclear power plant in Hokkaido. Japan's nuclear industry has faced challenges following the Fukushima Daiichi disaster in 2011."
             },
             {
-                "title": "North Korea launches missile over Japan, prompting evacuations and travel warnings",
+                "title": "Japan's Parliament Approves Bill to Legalize Same-Sex Marriage",
                 "risk_level": "High",
-                "summary": "A ballistic missile launched by North Korea flew over Japan, prompting the Japanese government to issue a warning and evacuations. The incident highlights the ongoing threat posed by North Korea's military capabilities."
+                "summary": "Japan is set to become one of the last developed countries to legalize same-sex marriage, in a move that has divided the country."
             },
             {
-                "title": "Tokyo Governor Yuriko Koike re-elected in landslide victory, expected to push for further Japan-Taiwan ties",
+                "title": "Protests Erupt in Japan's Capital as PM Fumio Kishida Faces Anger Over Pension Scandal",
                 "risk_level": "Medium",
-                "summary": "Tokyo Governor Yuriko Koike has been re-elected in a landslide victory, which is expected to give her more leverage to push for further strengthening of ties between Japan and Taiwan, a move that could further strain relations with China."
+                "summary": "Demonstrators gathered in Tokyo and called for the resignation of Japanese Prime Minister Fumio Kishida over a pension scandal."
             }
         ]
     }
