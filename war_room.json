@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Ransomware attack targets US critical infrastructure",
+                "title": "US Inflation Data Beats Expectations",
                 "risk_level": "High",
-                "summary": "A sophisticated ransomware attack has been launched against US critical infrastructure, posing a significant risk to national security and economic stability."
+                "summary": "US consumer price index rose 6.0% in June, beating expectations of 5.8%"
             },
             {
-                "title": "Global economic downturn amid rising inflation",
-                "risk_level": "Medium",
-                "summary": "A global economic downturn is forecasted due to rising inflation, potentially leading to widespread job losses and socio-economic instability."
+                "title": "Ukraine Warns of Potential Russian Attack",
+                "risk_level": "High",
+                "summary": "Ukraine military officials warn of a potential large-scale Russian attack in the Donbass region"
             },
             {
-                "title": "Social media platform hack exposes user data",
-                "risk_level": "Low",
-                "summary": "A popular social media platform has been hacked, exposing sensitive user data, highlighting the importance of robust cybersecurity measures."
+                "title": "Global Supply Chain Risks on the Rise",
+                "risk_level": "High",
+                "summary": "COVID-19 lockdowns in China and global port congestion continue to disrupt global supply chains"
             }
         ],
         "United States": [
             {
-                "title": "US-China Relations Tension Escalated by Speaker Pelosi's Visit",
+                "title": "Protests erupt in multiple US cities over affirmative action ruling",
                 "risk_level": "High",
-                "summary": "The recent visit of US Speaker Pelosi to Taiwan has heightened tensions between the US and China, sparking fears of a military conflict."
+                "summary": "Protests broke out in several US cities after a federal appeals court ruling effectively ended affirmative action programs in college admissions."
             },
             {
-                "title": "FBI Searches Trump's Mar-a-Lago Estate",
-                "risk_level": "High",
-                "summary": "The FBI has executed a search warrant at former US President Trump's Mar-a-Lago estate, sparking allegations of politicization and potential obstruction of justice."
-            },
-            {
-                "title": "US Senate Passes Inflation Reduction Act",
+                "title": "US Supreme Court rejects bid to limit student loan forgiveness",
                 "risk_level": "Medium",
-                "summary": "The US Senate has passed the Inflation Reduction Act, a major climate and healthcare bill, despite opposition from some Democrats and Republicans."
+                "summary": "The US Supreme Court has rejected a bid by conservative states to block the Biden administration's student loan forgiveness plan."
+            },
+            {
+                "title": "Tensions rise between US and China over Taiwan security",
+                "risk_level": "High",
+                "summary": "The US and China are engaged in a diplomatic standoff over Taiwan's security, with the US reaffirming its commitment to defending the island nation."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea reports North Korea fired two ballistic missiles",
+                "title": "South Korean president Yoon Suk-yeol tests positive for Covid-19 again",
+                "risk_level": "Low",
+                "summary": "The news raises questions about the handling of the country's response to the ongoing pandemic."
+            },
+            {
+                "title": "South Korea's spy agency warns about North Korea's potential for cyber threat",
                 "risk_level": "High",
-                "summary": "South Korea's military says North Korea fired two ballistic missiles into the ocean off its eastern coast on Wednesday, amid heightened tensions between the rival nations. The missiles were fired from the Sunan area in North Pyongan Province, which is where North Korea's capital, Pyongyang, is located."
+                "summary": "South Korea's National Intelligence Service said it's strengthening cyber defense systems amid the North's increasing threats."
             },
             {
-                "title": "South Korea's President Yoon seeks to boost US ties amid North Korea tensions",
+                "title": "Seoul protests against Japanese trade restrictions with South Korea",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol met with US lawmakers on Wednesday to boost ties with the US as tensions with North Korea escalate. The meeting comes as the US and South Korean militaries stage large-scale joint exercises, which have been criticized by North Korea as \"aggressive\"."
-            },
-            {
-                "title": "South Korea's opposition party demands president's resignation over corruption scandal",
-                "risk_level": "Medium",
-                "summary": "South Korea's main opposition party on Wednesday demanded President Yoon Suk-yeol's resignation over a corruption scandal that has engulfed the president's office. The scandal involves a former top aide who allegedly laundered billions of won through a local church, and has sparked widespread outrage in the country."
+                "summary": "Citizens in Seoul took to the streets to show opposition against Japan's recent trade restrictions on South Korean materials."
             }
         ],
         "Japan": [
             {
-                "title": "Japan’s ruling party suffers defeat in local election, a setback for Prime Minister Fumio Kishida",
-                "risk_level": "Low",
-                "summary": "On July 30, the ruling Liberal Democratic Party (LDP) lost control of Niigata Prefecture, dealing a blow to Prime Minister Fumio Kishida’s plans to revise the country’s constitution."
-            },
-            {
-                "title": "Japan struggles to cope with rising number of COVID-19 cases as healthcare system faces pressure",
-                "risk_level": "High",
-                "summary": "Japan has confirmed over 10,000 new COVID-19 cases in the past week, putting pressure on the country’s healthcare system. The government has announced plans to provide additional funding and resources to support hospitals and medical staff."
-            },
-            {
-                "title": "Japan’s inflation rate remains high, fueling concerns about economic stability",
+                "title": "Japan's Prime Minister Fumio Kishida faces opposition over planned pension overhaul",
                 "risk_level": "Medium",
-                "summary": "Japan’s inflation rate rose to 3.5% in July, higher than expected. The government has warned that the country faces economic uncertainty due to high inflation and global economic trends."
+                "summary": "On July 19, 2024, Japan's Prime Minister Fumio Kishida faced opposition from his ruling party and the opposition over a plan to overhaul the country's pension system. The plan aims to increase the pension age from 65 to 69, but it has sparked controversy among older voters who fear they will not have enough time to adapt to the changes."
+            },
+            {
+                "title": "North Korea fires two ballistic missiles into the Sea of Japan",
+                "risk_level": "High",
+                "summary": "On July 21, 2024, North Korea fired two ballistic missiles into the Sea of Japan, prompting the US and Japan to issue joint statements condemning the launches. The missiles were detected by South Korean military radar and the US Space Command."
+            },
+            {
+                "title": "Japan's ruling party faces election backlash over pension overhaul",
+                "risk_level": "Medium",
+                "summary": "On July 25, 2024, Japan's ruling party faced a backlash from voters over the planned pension overhaul. A recent poll showed that support for the party has declined by 5% since the plans were announced, with many voters expressing concerns about the impact on their retirement savings."
             }
         ]
     }
