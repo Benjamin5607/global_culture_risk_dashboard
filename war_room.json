@@ -1,75 +1,72 @@
 {
-    "updated": "2026-07-31",
+    "updated": "2026-08-01",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Risks of Climate Change in Europe",
+                "title": "China Imposes New Regulations on Private Education",
                 "risk_level": "High",
-                "summary": "There has been a significant increase in extreme weather events across Europe, causing widespread damage and disruption. The risks of climate change are becoming more pronounced, and governments are scrambling to address the issue."
+                "summary": "China has announced new regulations on private education, including stricter oversight and stricter rules on foreign investment."
             },
             {
-                "title": "Trade Disruptions in East Asia",
-                "risk_level": "Medium",
-                "summary": "Trade tensions between East Asian countries have increased, leading to disruptions in global supply chains. The impact on businesses and consumers is being felt, and negotiations are ongoing to resolve the issue."
+                "title": "Turkey Increases Military Deployment in Syria",
+                "risk_level": "High",
+                "summary": "Turkey has increased its military deployment in Syria, exacerbating tensions with Russia and Iran."
             },
             {
-                "title": "Pandemic Response in the Americas",
-                "risk_level": "Low",
-                "summary": "A new variant of a respiratory virus has been detected in the Americas, prompting public health authorities to respond quickly. The risk of widespread transmission is considered low at this time."
+                "title": "US and EU Impose Sanctions on Russia",
+                "risk_level": "High",
+                "summary": "The US and EU have imposed new sanctions on Russia, targeting key sectors of the Russian economy and individuals close to President Putin."
             }
         ],
         "United States": [
             {
-                "title": "Protests Erupt Over Gun Control Legislation in US",
+                "title": "US Justice Department launches probe into Trump's handling of classified material",
                 "risk_level": "High",
-                "summary": "Protests erupted across the United States in response to proposed gun control legislation in the aftermath of recent mass shootings, raising concerns about potential civil unrest and disruptions to public order."
+                "summary": "The US Justice Department has launched a probe into former President Donald Trump's handling of classified material, sparking concerns about the country's national security and the potential implications for Trump's 2024 presidential campaign."
             },
             {
-                "title": "US-China Tensions Escalate Over Trade and Security",
+                "title": "Gun control debate reignites in US after mass shootings",
                 "risk_level": "High",
-                "summary": "Tensions between the United States and China escalated this week as the two nations engaged in a heated exchange over trade and security issues, potentially leading to further economic sanctions and diplomatic fallout."
+                "summary": "The gun control debate in the US has reignited following a series of mass shootings, with lawmakers and advocates calling for stricter gun laws and increased funding for mental health services."
             },
             {
-                "title": "Supreme Court Ruling on Voting Rights Sparks Outrage",
+                "title": "US Senate votes to codify Roe v. Wade in abortion rights bill",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court ruled in a closely watched case that a key provision of the Voting Rights Act is unconstitutional, sparking outrage among civil rights groups and leading to concerns about the erosion of voting rights and potentially destabilizing the democratic process."
+                "summary": "The US Senate has passed a bill to codify the landmark abortion rights decision Roe v. Wade, sending the measure to the House of Representatives for consideration. The bill aims to protect access to abortion services and prevent further restrictions."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "",
-                "detail": "On July 21, a North Korean missile test sparked tensions and raised concerns about regional security."
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "",
-                "detail": "On July 24, a group of North Korean defectors were arrested in South Korea for violating immigration laws, highlighting ongoing border control issues."
-            },
-            {
-                "title": "",
+                "title": "North Korea conducts missile tests amid rising tensions, South Korea and US respond with joint military drills",
                 "risk_level": "High",
-                "summary": "",
-                "detail": "On July 28, South Korea reported its highest number of COVID-19 cases in over a year, prompting concerns about public health and potential economic impacts."
+                "summary": "North Korea fired a ballistic missile into the sea off its east coast, prompting a condemnation from the US and its allies in the region, including South Korea. The latest tests have increased tensions and raised concerns about the country's military capabilities."
+            },
+            {
+                "title": "Rising COVID-19 cases in South Korea's border towns with North Korea",
+                "risk_level": "Medium",
+                "summary": "South Korea has reported a surge in COVID-19 cases in its border towns with North Korea, prompting concerns about a potential outbreak in the isolated country."
+            },
+            {
+                "title": "Protests against President Yoon's economic reforms in South Korea",
+                "risk_level": "Medium",
+                "summary": "Tens of thousands of people have taken to the streets in South Korea to protest against President Yoon's economic reforms, which they claim will hurt middle-class families and worsen inequality."
             }
         ],
         "Japan": [
             {
-                "title": "US and Japan hold high-level talks on North Korea and China's missile threats",
+                "title": "Magnitude 7.3 earthquake strikes off the coast of eastern Japan, triggering tsunami warnings and evacuation orders.",
+                "risk_level": "High",
+                "summary": "A 7.3-magnitude earthquake hit off Japan's eastern coast on Wednesday, causing widespread damage and prompting authorities to issue tsunami warnings and evacuation orders."
+            },
+            {
+                "title": "Japanese government announces plans to revise the country's constitution for the first time in over 50 years.",
+                "risk_level": "High",
+                "summary": "The Japanese government has announced plans to revise the country's constitution for the first time in over 50 years, which could have significant implications for the country's politics and society."
+            },
+            {
+                "title": "Japan's defense minister resigns amid controversy over comments on the country's constitutional limitations on military power.",
                 "risk_level": "Medium",
-                "summary": "The United States and Japan held high-level talks on North Korea and China's missile threats, reaffirming their commitment to regional security and cooperation."
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "summary": "Japan's defense minister has resigned amid controversy over comments he made about the country's constitutional limitations on military power, which has sparked debate over the country's security policies."
             }
         ]
     }
