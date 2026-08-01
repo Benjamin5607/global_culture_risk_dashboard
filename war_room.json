@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "China Imposes New Regulations on Private Education",
+                "title": "Risk of Conflict in Eastern Europe",
                 "risk_level": "High",
-                "summary": "China has announced new regulations on private education, including stricter oversight and stricter rules on foreign investment."
+                "summary": "There are increasing tensions between Russia and Ukraine, with a risk of military conflict in the region."
             },
             {
-                "title": "Turkey Increases Military Deployment in Syria",
-                "risk_level": "High",
-                "summary": "Turkey has increased its military deployment in Syria, exacerbating tensions with Russia and Iran."
+                "title": "Global Cybersecurity Threats",
+                "risk_level": "Medium",
+                "summary": "There have been several high-profile cyberattacks in the past week, highlighting the ongoing threat of hacking and data breaches."
             },
             {
-                "title": "US and EU Impose Sanctions on Russia",
-                "risk_level": "High",
-                "summary": "The US and EU have imposed new sanctions on Russia, targeting key sectors of the Russian economy and individuals close to President Putin."
+                "title": "Social Unrest in Major Cities",
+                "risk_level": "Medium",
+                "summary": "Protests and demonstrations have broken out in several major cities around the world, with a risk of escalation and property damage."
             }
         ],
         "United States": [
             {
-                "title": "US Justice Department launches probe into Trump's handling of classified material",
+                "title": "Tensions Rise Between US and Iran as Protestors Storm British Embassy in Tehran",
                 "risk_level": "High",
-                "summary": "The US Justice Department has launched a probe into former President Donald Trump's handling of classified material, sparking concerns about the country's national security and the potential implications for Trump's 2024 presidential campaign."
+                "summary": "Mass protests in Iran targeting British diplomatic missions has raised concerns of a potential escalation in tensions between the US and Iran amidst ongoing Iran-US tensions"
             },
             {
-                "title": "Gun control debate reignites in US after mass shootings",
+                "title": "FBI Arrests Man in Connection to January 6th Uprising",
                 "risk_level": "High",
-                "summary": "The gun control debate in the US has reignited following a series of mass shootings, with lawmakers and advocates calling for stricter gun laws and increased funding for mental health services."
+                "summary": "FBI apprehends another individual linked to the January 6th uprising at the US Capitol, underscoring ongoing concerns around domestic extremism and threats to national security"
             },
             {
-                "title": "US Senate votes to codify Roe v. Wade in abortion rights bill",
+                "title": "Biden Administration Faces Criticism Over Handling of Southern Border Situation",
                 "risk_level": "Medium",
-                "summary": "The US Senate has passed a bill to codify the landmark abortion rights decision Roe v. Wade, sending the measure to the House of Representatives for consideration. The bill aims to protect access to abortion services and prevent further restrictions."
+                "summary": "Critics have raised questions about the effectiveness of the administration's policies to address the surge in migrants crossing the US-Mexico border, highlighting potential social and economic implications"
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea conducts missile tests amid rising tensions, South Korea and US respond with joint military drills",
+                "title": "North Korea fires two ballistic missiles into the Sea of Japan",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile into the sea off its east coast, prompting a condemnation from the US and its allies in the region, including South Korea. The latest tests have increased tensions and raised concerns about the country's military capabilities."
+                "summary": "North Korea fired two ballistic missiles into the Sea of Japan, raising concerns about nuclear proliferation and regional stability. The incident occurred on July 28 and was widely condemned by the international community."
             },
             {
-                "title": "Rising COVID-19 cases in South Korea's border towns with North Korea",
+                "title": "South Korea's opposition coalition forms a new party",
                 "risk_level": "Medium",
-                "summary": "South Korea has reported a surge in COVID-19 cases in its border towns with North Korea, prompting concerns about a potential outbreak in the isolated country."
+                "summary": "South Korea's opposition coalition has formed a new party, which is expected to challenge the governing Democratic Party of Korea. The move is seen as a response to growing public dissatisfaction with the government's handling of the economy and social issues."
             },
             {
-                "title": "Protests against President Yoon's economic reforms in South Korea",
-                "risk_level": "Medium",
-                "summary": "Tens of thousands of people have taken to the streets in South Korea to protest against President Yoon's economic reforms, which they claim will hurt middle-class families and worsen inequality."
+                "title": "Protesters clash with police over labor union reforms",
+                "risk_level": "Low",
+                "summary": "Protesters clashed with police in Seoul over labor union reforms, which are aimed at improving workplace conditions and boosting productivity. The protests were largely peaceful, but there were reports of skirmishes between protesters and police."
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 7.3 earthquake strikes off the coast of eastern Japan, triggering tsunami warnings and evacuation orders.",
+                "title": "Japan and Taiwan hold joint naval drills near South China Sea amid tensions with China",
                 "risk_level": "High",
-                "summary": "A 7.3-magnitude earthquake hit off Japan's eastern coast on Wednesday, causing widespread damage and prompting authorities to issue tsunami warnings and evacuation orders."
+                "summary": "The Japanese and Taiwanese militaries conducted a joint naval exercise near the South China Sea earlier this week, fueling tensions with China and highlighting potential security risks in the region."
             },
             {
-                "title": "Japanese government announces plans to revise the country's constitution for the first time in over 50 years.",
+                "title": "North Korea launches missile over Japan, prompting evacuations and travel warnings",
                 "risk_level": "High",
-                "summary": "The Japanese government has announced plans to revise the country's constitution for the first time in over 50 years, which could have significant implications for the country's politics and society."
+                "summary": "A ballistic missile launched by North Korea flew over Japan, prompting the Japanese government to issue a warning and evacuations. The incident highlights the ongoing threat posed by North Korea's military capabilities."
             },
             {
-                "title": "Japan's defense minister resigns amid controversy over comments on the country's constitutional limitations on military power.",
+                "title": "Tokyo Governor Yuriko Koike re-elected in landslide victory, expected to push for further Japan-Taiwan ties",
                 "risk_level": "Medium",
-                "summary": "Japan's defense minister has resigned amid controversy over comments he made about the country's constitutional limitations on military power, which has sparked debate over the country's security policies."
+                "summary": "Tokyo Governor Yuriko Koike has been re-elected in a landslide victory, which is expected to give her more leverage to push for further strengthening of ties between Japan and Taiwan, a move that could further strain relations with China."
             }
         ]
     }
