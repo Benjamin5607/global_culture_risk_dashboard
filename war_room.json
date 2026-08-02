@@ -1,72 +1,75 @@
 {
-    "updated": "2026-08-01",
+    "updated": "2026-08-02",
     "scopes": {
         "Global (All)": [
             {
-                "title": "US Inflation Data Beats Expectations",
+                "country": "USA",
+                "title": "Gun laws tightened in US following string of mass shootings",
                 "risk_level": "High",
-                "summary": "US consumer price index rose 6.0% in June, beating expectations of 5.8%"
+                "summary": "The US government has introduced stricter gun controls in response to recent mass shootings, including a plan to raise the minimum age to buy semi-automatic rifles from 18 to 21."
             },
             {
-                "title": "Ukraine Warns of Potential Russian Attack",
-                "risk_level": "High",
-                "summary": "Ukraine military officials warn of a potential large-scale Russian attack in the Donbass region"
+                "country": "France",
+                "title": "French parliament passes bill to ban protests near Eiffel Tower",
+                "risk_level": "Medium",
+                "summary": "The French parliament has passed a bill that bans protests near the Eiffel Tower in a move to control demonstrations and maintain public order."
             },
             {
-                "title": "Global Supply Chain Risks on the Rise",
+                "country": "China",
+                "title": "Beijing warns against spreading \"harmful rumors\" about Xinjiang",
                 "risk_level": "High",
-                "summary": "COVID-19 lockdowns in China and global port congestion continue to disrupt global supply chains"
+                "summary": "The Chinese government has warned against spreading \"harmful rumors\" about Xinjiang, a region in western China, amid reports of human rights abuses and genocide."
             }
         ],
         "United States": [
             {
-                "title": "Protests erupt in multiple US cities over affirmative action ruling",
+                "title": "Violent Protests Break Out in California Over Police Shooting",
                 "risk_level": "High",
-                "summary": "Protests broke out in several US cities after a federal appeals court ruling effectively ended affirmative action programs in college admissions."
+                "summary": "Protests in California turned violent after a police shooting, with demonstrators throwing rocks and bottles at officers. The protests were sparked by the death of a 26-year-old man who was shot by police in Los Angeles."
             },
             {
-                "title": "US Supreme Court rejects bid to limit student loan forgiveness",
+                "title": "New Cyberattack Targets US Government Agencies",
+                "risk_level": "High",
+                "summary": "A new cyberattack has targeted US government agencies, with reports of sensitive data being stolen. The attack is believed to be linked to a group of hackers who have been targeting government agencies in recent months."
+            },
+            {
+                "title": "Supreme Court Weighs in on Gun Control Laws",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court has rejected a bid by conservative states to block the Biden administration's student loan forgiveness plan."
-            },
-            {
-                "title": "Tensions rise between US and China over Taiwan security",
-                "risk_level": "High",
-                "summary": "The US and China are engaged in a diplomatic standoff over Taiwan's security, with the US reaffirming its commitment to defending the island nation."
+                "summary": "The Supreme Court is set to weigh in on gun control laws after a federal appeals court ruled that a New York law restricting concealed carry permits is unconstitutional. The ruling could have major implications for gun control laws across the country."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korean president Yoon Suk-yeol tests positive for Covid-19 again",
-                "risk_level": "Low",
-                "summary": "The news raises questions about the handling of the country's response to the ongoing pandemic."
-            },
-            {
-                "title": "South Korea's spy agency warns about North Korea's potential for cyber threat",
+                "title": "North Korea's Kim sends message to ally in South Korea's presidential election",
                 "risk_level": "High",
-                "summary": "South Korea's National Intelligence Service said it's strengthening cyber defense systems amid the North's increasing threats."
+                "summary": "SEOUL (Reuters) - North Korean leader Kim Jong Un sent a message to his South Korean counterpart, Yoon Suk Yeol, congratulating him on his presidential election victory, a South Korean official said on Thursday. The message, carried by state news agency KCNA, was the first time Kim has publicly congratulated a South Korean leader on their election."
             },
             {
-                "title": "Seoul protests against Japanese trade restrictions with South Korea",
-                "risk_level": "Medium",
-                "summary": "Citizens in Seoul took to the streets to show opposition against Japan's recent trade restrictions on South Korean materials."
+                "title": "Seoul: North Korea fires short-range ballistic missile, third this week",
+                "risk_level": "High",
+                "summary": "SEOUL, South Korea (AP) — North Korea fired a short-range ballistic missile into the sea on Wednesday, the third launch this week, South Korean officials said."
+            },
+            {
+                "title": "North Korea fires 2nd ballistic missile in 24 hours as South Korea conducts live-fire drills",
+                "risk_level": "High",
+                "summary": "SEOUL, South Korea (AP) — North Korea fired a ballistic missile toward the sea on Thursday, the second this week, South Korean officials said, a day after the North test-launched a hypersonic missile that Seoul said was likely intended to be a nuclear-capable weapon."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Prime Minister Fumio Kishida faces opposition over planned pension overhaul",
-                "risk_level": "Medium",
-                "summary": "On July 19, 2024, Japan's Prime Minister Fumio Kishida faced opposition from his ruling party and the opposition over a plan to overhaul the country's pension system. The plan aims to increase the pension age from 65 to 69, but it has sparked controversy among older voters who fear they will not have enough time to adapt to the changes."
-            },
-            {
-                "title": "North Korea fires two ballistic missiles into the Sea of Japan",
+                "title": "Japan warns of potential cyber attacks by North Korea",
                 "risk_level": "High",
-                "summary": "On July 21, 2024, North Korea fired two ballistic missiles into the Sea of Japan, prompting the US and Japan to issue joint statements condemning the launches. The missiles were detected by South Korean military radar and the US Space Command."
+                "summary": "Japan has warned of potential cyber attacks by North Korea, amid rising tensions between the countries."
             },
             {
-                "title": "Japan's ruling party faces election backlash over pension overhaul",
+                "title": "Japanese government faces backlash over COVID-19 response",
                 "risk_level": "Medium",
-                "summary": "On July 25, 2024, Japan's ruling party faced a backlash from voters over the planned pension overhaul. A recent poll showed that support for the party has declined by 5% since the plans were announced, with many voters expressing concerns about the impact on their retirement savings."
+                "summary": "The Japanese government has faced criticism for its handling of the COVID-19 pandemic, with many citizens feeling that the measures put in place were not effective enough."
+            },
+            {
+                "title": "Rising tensions between Japan and China over disputed islands",
+                "risk_level": "Low",
+                "summary": "Tensions have been rising between Japan and China over a disputed group of islands in the East China Sea, with both countries accusing each other of increasing military activity in the area."
             }
         ]
     }
