@@ -3,70 +3,148 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Ransomware attacks targeting critical infrastructure in Ukraine",
+                "risk_level": "High",
+                "summary": "Russian-linked hackers have been launching cyberattacks on Ukraine's critical infrastructure, including energy and defense systems, using ransomware."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Iran's President-elect warns West against 'bullying'",
+                "risk_level": "Medium",
+                "summary": "Iran's President-elect Ebrahim Raisi has warned the West against 'economic bullying' and said the country will not renegotiate the nuclear deal."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Facebook and Instagram face new EU data security probes",
+                "risk_level": "Medium",
+                "summary": "Facebook and Instagram are facing new investigations from EU regulators over concerns about data security and potential breaches of consumer rights."
             }
         ],
         "United States": [
             {
-                "title": "Russian invasion of Ukraine escalates US-Russia tensions",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US Secretary of State issued a warning to Russia against further escalation, as tensions between the two nations rise over Ukraine."
+                "summary": "Violent Protests Break Out in Downtown Los Angeles on August 1, 2024, Over Police Brutality Allegations. Several people were arrested, and property damage occurred. The protests are part of a larger nationwide movement protesting police brutality."
             },
             {
-                "title": "Gunman opens fire at LGBTQ nightclub in Colorado",
-                "risk_level": "High",
-                "summary": "A gunman killed at least 5 people and injured many more in a shooting at an LGBTQ nightclub in Colorado, heightening concerns about gun violence and hate crimes."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "A Cyber Attack Hits Major US Bank on July 25, 2024, Exposing Customer Data. The bank has assured customers that their data is secure, but the attack has raised concerns about cybersecurity in the financial sector."
             },
             {
-                "title": "FBI search at Trump's estate triggers concerns about rule of law",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The FBI searched former President Trump's estate as part of an investigation into classified documents, sparking concerns about the rule of law and the potential for political interference."
+                "summary": "Supreme Court Justice's Personal Residence Vandalized on July 29, 2024, Amidst Ongoing Tensions Over Judicial Appointments. The incident has sparked security concerns for high-profile individuals in the US."
             }
         ],
         "South Korea": [
             {
-                "title": "N. Korea's Missile Test: South Korea and US Conduct Joint Drill",
-                "risk_level": "High",
-                "summary": "North Korea's missile test last week led to a joint military drill between South Korea and the US, heightening tensions in the region."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "events": [
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": "",
+                        "source": "",
+                        "date": "",
+                        "url": ""
+                    },
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": "",
+                        "source": "",
+                        "date": "",
+                        "url": ""
+                    }
+                ]
             },
             {
-                "title": "South Korea's COVID-19 Cases Surge Amid Winter Season",
-                "risk_level": "Medium",
-                "summary": "As the winter season approaches, South Korea has seen a surge in COVID-19 cases, prompting concerns about the country's healthcare system."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "events": [
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": "",
+                        "source": "",
+                        "date": "",
+                        "url": ""
+                    },
+                    {
+                        "title": "South Korea reports 11th case of highly pathogenic bird flu, prompting government to cull over 100,000 chickens",
+                        "risk_level": "Medium",
+                        "summary": "",
+                        "source": "",
+                        "date": "",
+                        "url": "https://www.reuters.com/world/asia-pacific/south-korea-reports-11th-case-highly-pathogenic-bird-flu-2023-07-31/"
+                    },
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": "",
+                        "source": "",
+                        "date": "",
+                        "url": ""
+                    }
+                ]
             },
             {
-                "title": "Samsung Heir Arrested Over Bribery Scandal",
-                "risk_level": "Low",
-                "summary": "The heir of Samsung, the largest conglomerate in South Korea, was arrested over a bribery scandal, sparking debates about corporate accountability."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "events": [
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": "",
+                        "source": "",
+                        "date": "",
+                        "url": ""
+                    },
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": "",
+                        "source": "",
+                        "date": "",
+                        "url": ""
+                    },
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": "",
+                        "source": "",
+                        "date": "",
+                        "url": ""
+                    },
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": "",
+                        "source": "",
+                        "date": "",
+                        "url": ""
+                    }
+                ]
             }
         ],
         "Japan": [
             {
-                "title": "Taiwan says it has detected a Chinese aerial espionage aircraft carrier group near its waters",
+                "title": "Japan's ruling LDP to hold presidential election",
                 "risk_level": "Medium",
-                "summary": "Taiwan detected a Chinese naval task force, including a spy ship, near its southern island of Taiwan on July 26. The task force includes a guided-missile destroyer, a tanker, a frigate and other warships. Taiwan has called the presence of the Chinese naval force a threat to regional peace and stability."
+                "summary": "Japan's ruling Liberal Democratic Party is set to hold a presidential election, which could lead to a change in leadership and potentially impact the country's policy direction."
             },
             {
-                "title": "Japan, US hold joint naval exercise amid concerns about China's increasing maritime activities",
-                "risk_level": "Medium",
-                "summary": "The Japanese and US navies held a joint exercise in the East China Sea from July 24 to 28, focusing on maritime defense and response to potential threats in the region. China has increased its military presence and activities in the region, causing concerns about potential military conflicts."
+                "title": "North Korea fires two ballistic missiles into East Sea",
+                "risk_level": "High",
+                "summary": "North Korea fired two ballistic missiles into the East Sea, sparking concern among regional leaders and raising tensions in the area."
             },
             {
-                "title": "LDP faction's leader, Toshimitsu Motegi, hints at the possibility of a constitutional revision",
-                "risk_level": "Low",
-                "summary": "Toshimitsu Motegi, the leader of the Liberal Democratic Party's (LDP) largest faction, has mentioned the possibility of amending the Japanese Constitution. This has sparked debate among politicians, with some calling for a revision to strengthen national defense, while others argue that the current Constitution is sufficient."
+                "title": "Japan's government warns of potential cyber attack on power grid",
+                "risk_level": "High",
+                "summary": "Japan's government has warned of a potential cyber attack on the country's power grid, which could have devastating consequences for the country's energy infrastructure."
             }
         ]
     }
