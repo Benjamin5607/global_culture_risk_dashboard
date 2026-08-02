@@ -3,73 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "country": "USA",
-                "title": "Gun laws tightened in US following string of mass shootings",
+                "title": "US and China Escalate Tensions Amid Increased Military Activity",
                 "risk_level": "High",
-                "summary": "The US government has introduced stricter gun controls in response to recent mass shootings, including a plan to raise the minimum age to buy semi-automatic rifles from 18 to 21."
+                "summary": "The US and China have raised concerns with regards to military activity and territorial disputes in the South China Sea, escalating tensions between the nations."
             },
             {
-                "country": "France",
-                "title": "French parliament passes bill to ban protests near Eiffel Tower",
+                "title": "Ukraine Russia Conflict Spreads",
+                "risk_level": "High",
+                "summary": "Fighting between Russian and Ukrainian forces continues to escalate, with concerns over civilian casualties and potential broader regional implications."
+            },
+            {
+                "title": "Cybersecurity Breach Exposes Sensitive Data",
                 "risk_level": "Medium",
-                "summary": "The French parliament has passed a bill that bans protests near the Eiffel Tower in a move to control demonstrations and maintain public order."
-            },
-            {
-                "country": "China",
-                "title": "Beijing warns against spreading \"harmful rumors\" about Xinjiang",
-                "risk_level": "High",
-                "summary": "The Chinese government has warned against spreading \"harmful rumors\" about Xinjiang, a region in western China, amid reports of human rights abuses and genocide."
+                "summary": "A major cybersecurity breach has been reported, exposing sensitive data and raising concerns over data protection and privacy."
             }
         ],
         "United States": [
             {
-                "title": "Violent Protests Break Out in California Over Police Shooting",
+                "title": "Gunman Shoots 4 People at Texas Elementary School",
                 "risk_level": "High",
-                "summary": "Protests in California turned violent after a police shooting, with demonstrators throwing rocks and bottles at officers. The protests were sparked by the death of a 26-year-old man who was shot by police in Los Angeles."
+                "summary": "A gunman opened fire at an elementary school in Uvalde, Texas, killing 19 children and 2 adults."
             },
             {
-                "title": "New Cyberattack Targets US Government Agencies",
-                "risk_level": "High",
-                "summary": "A new cyberattack has targeted US government agencies, with reports of sensitive data being stolen. The attack is believed to be linked to a group of hackers who have been targeting government agencies in recent months."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Supreme Court Weighs in on Gun Control Laws",
-                "risk_level": "Medium",
-                "summary": "The Supreme Court is set to weigh in on gun control laws after a federal appeals court ruled that a New York law restricting concealed carry permits is unconstitutional. The ruling could have major implications for gun control laws across the country."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's Kim sends message to ally in South Korea's presidential election",
+                "title": "Concerns over US F-35 stealth fighter jets deployment in South Korea escalate",
                 "risk_level": "High",
-                "summary": "SEOUL (Reuters) - North Korean leader Kim Jong Un sent a message to his South Korean counterpart, Yoon Suk Yeol, congratulating him on his presidential election victory, a South Korean official said on Thursday. The message, carried by state news agency KCNA, was the first time Kim has publicly congratulated a South Korean leader on their election."
+                "summary": "Rising tensions between the US and North Korea may be intensified by the deployment, sparking public protests in South Korea. Local media outlets speculate on potential outcomes."
             },
             {
-                "title": "Seoul: North Korea fires short-range ballistic missile, third this week",
-                "risk_level": "High",
-                "summary": "SEOUL, South Korea (AP) — North Korea fired a short-range ballistic missile into the sea on Wednesday, the third launch this week, South Korean officials said."
+                "title": "South Korean parliament passes stricter cybersecurity laws",
+                "risk_level": "Medium",
+                "summary": "Strengthened measures aim to bolster national security, but some critics express concerns about infringement of personal freedoms and commercial interests."
             },
             {
-                "title": "North Korea fires 2nd ballistic missile in 24 hours as South Korea conducts live-fire drills",
+                "title": "Anti-government protests break out in South Korea over rising inflation and economic concerns",
                 "risk_level": "High",
-                "summary": "SEOUL, South Korea (AP) — North Korea fired a ballistic missile toward the sea on Thursday, the second this week, South Korean officials said, a day after the North test-launched a hypersonic missile that Seoul said was likely intended to be a nuclear-capable weapon."
+                "summary": "Rising prices and economic uncertainty lead to growing discontent and mass protests. Protesters call for economic reform and greater government accountability."
             }
         ],
         "Japan": [
             {
-                "title": "Japan warns of potential cyber attacks by North Korea",
-                "risk_level": "High",
-                "summary": "Japan has warned of potential cyber attacks by North Korea, amid rising tensions between the countries."
-            },
-            {
-                "title": "Japanese government faces backlash over COVID-19 response",
-                "risk_level": "Medium",
-                "summary": "The Japanese government has faced criticism for its handling of the COVID-19 pandemic, with many citizens feeling that the measures put in place were not effective enough."
-            },
-            {
-                "title": "Rising tensions between Japan and China over disputed islands",
+                "title": "Japan's Emperor Naruhito Visits Hiroshima for Memorial Ceremony, Raises Anti-Nuclear Hopes",
                 "risk_level": "Low",
-                "summary": "Tensions have been rising between Japan and China over a disputed group of islands in the East China Sea, with both countries accusing each other of increasing military activity in the area."
+                "summary": "The visit emphasizes Japan's commitment to nuclear disarmament and non-proliferation."
+            },
+            {
+                "title": "Tonga Volcano Cleanup Efforts Underway in Japan",
+                "risk_level": "Low",
+                "summary": "Japan has been providing aid and assistance to Tonga following the devastating volcanic eruption."
+            },
+            {
+                "title": "Japan and US Strengthen Cooperation on North Korea, China",
+                "risk_level": "High",
+                "summary": "Japan and the US reaffirm their commitment to regional security and cooperation in the face of increasing tensions with North Korea and China."
             }
         ]
     }
