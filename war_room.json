@@ -3,70 +3,88 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US and China Escalate Tensions Amid Increased Military Activity",
+                "title": "US Senate Passes Bill to Support Ukraine",
                 "risk_level": "High",
-                "summary": "The US and China have raised concerns with regards to military activity and territorial disputes in the South China Sea, escalating tensions between the nations."
+                "summary": "The US Senate has passed a bill to provide $40 billion in support to Ukraine, amid ongoing tensions with Russia."
             },
             {
-                "title": "Ukraine Russia Conflict Spreads",
+                "title": "North Korea Fires Multiple Ballistic Missiles",
                 "risk_level": "High",
-                "summary": "Fighting between Russian and Ukrainian forces continues to escalate, with concerns over civilian casualties and potential broader regional implications."
+                "summary": "North Korea has fired multiple ballistic missiles into the sea, prompting a warning from South Korea and Japan."
             },
             {
-                "title": "Cybersecurity Breach Exposes Sensitive Data",
-                "risk_level": "Medium",
-                "summary": "A major cybersecurity breach has been reported, exposing sensitive data and raising concerns over data protection and privacy."
+                "title": "Global Fintech Firm Hit by Cyber Attack",
+                "risk_level": "High",
+                "summary": "A global fintech firm has been hit by a major cyber attack, potentially exposing sensitive customer data."
             }
         ],
         "United States": [
             {
-                "title": "Gunman Shoots 4 People at Texas Elementary School",
+                "title": "US-Mexico border sees influx of migrants after Mexico's president visits White House",
+                "risk_level": "Medium",
+                "summary": "Mexico's president visited the White House in a bid to strengthen trade ties and address migration concerns. The visit comes as thousands of migrants, mostly from Cuba, Nicaragua and Venezuela, arrive at the US-Mexico border, putting a strain on resources and sparking controversy over immigration policies."
+            },
+            {
+                "title": "Former Donald Trump aides charged with 'conspiracy to corruptly solicit, accept and falsify presidential campaign contributions'",
                 "risk_level": "High",
-                "summary": "A gunman opened fire at an elementary school in Uvalde, Texas, killing 19 children and 2 adults."
+                "summary": "The US Department of Justice announced charges against several former Donald Trump aides in connection with an investigation into their alleged efforts to solicit and accept unlawful campaign contributions from foreign nationals."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "US Supreme Court blocks House committee's subpoena of Trump's tax returns",
+                "risk_level": "Medium",
+                "summary": "The US Supreme Court temporarily blocked a House committee's subpoena of former President Donald Trump's tax returns, pending review by a federal appeals court. The decision comes as part of an ongoing battle over access to Trump's financial records."
             }
         ],
         "South Korea": [
             {
-                "title": "Concerns over US F-35 stealth fighter jets deployment in South Korea escalate",
+                "title": "Concerns over North Korea's COVID-19 lockdown easing and its implications for South Korea's security",
                 "risk_level": "High",
-                "summary": "Rising tensions between the US and North Korea may be intensified by the deployment, sparking public protests in South Korea. Local media outlets speculate on potential outcomes."
+                "summary": "North Korea's easing of its COVID-19 lockdown has raised concerns about the potential spread of the virus to South Korea, posing a significant security risk to the region."
             },
             {
-                "title": "South Korean parliament passes stricter cybersecurity laws",
+                "title": "South Korea's response to North Korea's missile tests",
                 "risk_level": "Medium",
-                "summary": "Strengthened measures aim to bolster national security, but some critics express concerns about infringement of personal freedoms and commercial interests."
+                "summary": "South Korea has responded to North Korea's recent missile tests, highlighting the ongoing tensions between the two nations and the need for a coordinated response."
             },
             {
-                "title": "Anti-government protests break out in South Korea over rising inflation and economic concerns",
-                "risk_level": "High",
-                "summary": "Rising prices and economic uncertainty lead to growing discontent and mass protests. Protesters call for economic reform and greater government accountability."
+                "title": "Protests in South Korea over pension reform",
+                "risk_level": "Low",
+                "summary": "Protests have broken out in South Korea over proposed pension reform, with demonstrators expressing concerns about the impact on their retirement benefits and the overall stability of the pension system."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Emperor Naruhito Visits Hiroshima for Memorial Ceremony, Raises Anti-Nuclear Hopes",
-                "risk_level": "Low",
-                "summary": "The visit emphasizes Japan's commitment to nuclear disarmament and non-proliferation."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "event_1": [
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": "",
+                        "date": ""
+                    }
+                ]
             },
             {
-                "title": "Tonga Volcano Cleanup Efforts Underway in Japan",
-                "risk_level": "Low",
-                "summary": "Japan has been providing aid and assistance to Tonga following the devastating volcanic eruption."
+                "event_2": [
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": "",
+                        "date": ""
+                    }
+                ]
             },
             {
-                "title": "Japan and US Strengthen Cooperation on North Korea, China",
-                "risk_level": "High",
-                "summary": "Japan and the US reaffirm their commitment to regional security and cooperation in the face of increasing tensions with North Korea and China."
+                "event_3": [
+                    {
+                        "title": "",
+                        "risk_level": "",
+                        "summary": "",
+                        "date": ""
+                    }
+                ]
             }
         ]
     }
