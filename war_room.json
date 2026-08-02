@@ -3,88 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US Senate Passes Bill to Support Ukraine",
+                "title": "Russia-Ukraine conflict escalates, increasing global instability",
                 "risk_level": "High",
-                "summary": "The US Senate has passed a bill to provide $40 billion in support to Ukraine, amid ongoing tensions with Russia."
+                "summary": "Recent attacks have led to a significant escalation of the conflict, with global implications."
             },
             {
-                "title": "North Korea Fires Multiple Ballistic Missiles",
-                "risk_level": "High",
-                "summary": "North Korea has fired multiple ballistic missiles into the sea, prompting a warning from South Korea and Japan."
+                "title": "COVID-19 variants pose ongoing health risk and global economic concern",
+                "risk_level": "Medium",
+                "summary": "New variants of the virus have been detected, heightening concerns over public health and economic stability."
             },
             {
-                "title": "Global Fintech Firm Hit by Cyber Attack",
+                "title": "Cyber attacks on global supply chain networks increase vulnerability",
                 "risk_level": "High",
-                "summary": "A global fintech firm has been hit by a major cyber attack, potentially exposing sensitive customer data."
+                "summary": "Increased reports of cyber attacks have compromised global supply chain networks, highlighting a critical security risk."
             }
         ],
         "United States": [
             {
-                "title": "US-Mexico border sees influx of migrants after Mexico's president visits White House",
-                "risk_level": "Medium",
-                "summary": "Mexico's president visited the White House in a bid to strengthen trade ties and address migration concerns. The visit comes as thousands of migrants, mostly from Cuba, Nicaragua and Venezuela, arrive at the US-Mexico border, putting a strain on resources and sparking controversy over immigration policies."
-            },
-            {
-                "title": "Former Donald Trump aides charged with 'conspiracy to corruptly solicit, accept and falsify presidential campaign contributions'",
+                "title": "Tensions Between US and China Remain High Over Taiwan",
                 "risk_level": "High",
-                "summary": "The US Department of Justice announced charges against several former Donald Trump aides in connection with an investigation into their alleged efforts to solicit and accept unlawful campaign contributions from foreign nationals."
+                "summary": "The ongoing tensions between the US and China over Taiwan have led to increased diplomatic and military presence in the region, heightening the risk of conflict."
             },
             {
-                "title": "US Supreme Court blocks House committee's subpoena of Trump's tax returns",
+                "title": "US Supreme Court Rules on Abortion Rights",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court temporarily blocked a House committee's subpoena of former President Donald Trump's tax returns, pending review by a federal appeals court. The decision comes as part of an ongoing battle over access to Trump's financial records."
+                "summary": "The recent US Supreme Court ruling on abortion rights has sparked protests and debates across the country, with opponents and supporters of the ruling clashing in the streets."
+            },
+            {
+                "title": "Mass Shootings Continue to Plague the US",
+                "risk_level": "High",
+                "summary": "A series of mass shootings in the US over the past week has left communities shaken, with concerns growing over lax gun laws and mental health support."
             }
         ],
         "South Korea": [
             {
-                "title": "Concerns over North Korea's COVID-19 lockdown easing and its implications for South Korea's security",
+                "title": "North Korea's Missile Launch Raises Tensions with South Korea",
                 "risk_level": "High",
-                "summary": "North Korea's easing of its COVID-19 lockdown has raised concerns about the potential spread of the virus to South Korea, posing a significant security risk to the region."
+                "summary": "North Korea's recent missile launch has raised tensions with South Korea, with concerns about the potential for further provocations."
             },
             {
-                "title": "South Korea's response to North Korea's missile tests",
+                "title": "South Korean Opposition Protests Against Government ",
                 "risk_level": "Medium",
-                "summary": "South Korea has responded to North Korea's recent missile tests, highlighting the ongoing tensions between the two nations and the need for a coordinated response."
+                "summary": "The main opposition party in South Korea has launched protests against the government's handling of the economy, with concerns about rising living costs and inequality."
             },
             {
-                "title": "Protests in South Korea over pension reform",
+                "title": "Rising COVID-19 Cases in South Korean Nightlife Districts",
                 "risk_level": "Low",
-                "summary": "Protests have broken out in South Korea over proposed pension reform, with demonstrators expressing concerns about the impact on their retirement benefits and the overall stability of the pension system."
+                "summary": "South Korean health authorities have reported a cluster of COVID-19 cases in nightlife districts, sparking concerns about another wave of infections."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "event_1": [
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": "",
-                        "date": ""
-                    }
-                ]
+                "title": "LDP leadership change increases risk of market volatility",
+                "risk_level": "Medium",
+                "summary": "The sudden resignation of Japanese Prime Minister Fumio Kishida has led to uncertainty in Japan's capital markets. A smooth transition to new leadership is crucial to maintain confidence in the country’s economic policies."
             },
             {
-                "event_2": [
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": "",
-                        "date": ""
-                    }
-                ]
+                "title": "North Korean missile test raises concerns for regional stability",
+                "risk_level": "High",
+                "summary": "North Korea conducted a ballistic missile test in the Sea of Japan, sparking concerns about regional tensions and potential responses from neighboring countries, including Japan."
             },
             {
-                "event_3": [
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": "",
-                        "date": ""
-                    }
-                ]
+                "title": "Japan’s population decline accelerates, raising social and economic challenges",
+                "risk_level": "High",
+                "summary": "Japan’s population declined by over 440,000 people in the past year, exacerbating concerns about its aging population, pension system sustainability, and future economic growth."
             }
         ]
     }
