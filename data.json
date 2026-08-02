@@ -1,5 +1,21 @@
 [
     {
+        "term": "Nazism",
+        "group": "Ideology",
+        "country": "Germany",
+        "category": "Politics",
+        "risk_level": "High",
+        "trend_score": -0.5,
+        "status": "Current",
+        "first_detected": "1919",
+        "last_updated": "2022-01-01",
+        "context": {
+            "en": "Nazi ideology emphasizes racial purity, nationalism, and the idea of an Aryan master race. It is notorious for its role in the World War II atrocities.",
+            "ko": "나치주의는 인종 순수성, 민족주의, Vàryan 대장주 인종 개념을 강조하는 이데올로기이다.  제2차 세계 대전 동안 나치즘은 역대 유죄 판결을 낳게 된다.",
+            "ja": "ナショナリズムは、人種純血主義、ナショナリズム、Aryan主のイデオロギーであり、第二次世界大戦中のナチズムは歴史上最も大きな裁判をもたらしている。"
+        }
+    },
+    {
         "term": " Lit",
         "group": "Gen Z",
         "country": "USA",

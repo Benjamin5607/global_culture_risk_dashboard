@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia-Ukraine conflict escalates, increasing global instability",
-                "risk_level": "High",
-                "summary": "Recent attacks have led to a significant escalation of the conflict, with global implications."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "COVID-19 variants pose ongoing health risk and global economic concern",
-                "risk_level": "Medium",
-                "summary": "New variants of the virus have been detected, heightening concerns over public health and economic stability."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Cyber attacks on global supply chain networks increase vulnerability",
-                "risk_level": "High",
-                "summary": "Increased reports of cyber attacks have compromised global supply chain networks, highlighting a critical security risk."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "United States": [
             {
-                "title": "Tensions Between US and China Remain High Over Taiwan",
+                "title": "Russian invasion of Ukraine escalates US-Russia tensions",
                 "risk_level": "High",
-                "summary": "The ongoing tensions between the US and China over Taiwan have led to increased diplomatic and military presence in the region, heightening the risk of conflict."
+                "summary": "The US Secretary of State issued a warning to Russia against further escalation, as tensions between the two nations rise over Ukraine."
             },
             {
-                "title": "US Supreme Court Rules on Abortion Rights",
-                "risk_level": "Medium",
-                "summary": "The recent US Supreme Court ruling on abortion rights has sparked protests and debates across the country, with opponents and supporters of the ruling clashing in the streets."
+                "title": "Gunman opens fire at LGBTQ nightclub in Colorado",
+                "risk_level": "High",
+                "summary": "A gunman killed at least 5 people and injured many more in a shooting at an LGBTQ nightclub in Colorado, heightening concerns about gun violence and hate crimes."
             },
             {
-                "title": "Mass Shootings Continue to Plague the US",
+                "title": "FBI search at Trump's estate triggers concerns about rule of law",
                 "risk_level": "High",
-                "summary": "A series of mass shootings in the US over the past week has left communities shaken, with concerns growing over lax gun laws and mental health support."
+                "summary": "The FBI searched former President Trump's estate as part of an investigation into classified documents, sparking concerns about the rule of law and the potential for political interference."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's Missile Launch Raises Tensions with South Korea",
+                "title": "N. Korea's Missile Test: South Korea and US Conduct Joint Drill",
                 "risk_level": "High",
-                "summary": "North Korea's recent missile launch has raised tensions with South Korea, with concerns about the potential for further provocations."
+                "summary": "North Korea's missile test last week led to a joint military drill between South Korea and the US, heightening tensions in the region."
             },
             {
-                "title": "South Korean Opposition Protests Against Government ",
+                "title": "South Korea's COVID-19 Cases Surge Amid Winter Season",
                 "risk_level": "Medium",
-                "summary": "The main opposition party in South Korea has launched protests against the government's handling of the economy, with concerns about rising living costs and inequality."
+                "summary": "As the winter season approaches, South Korea has seen a surge in COVID-19 cases, prompting concerns about the country's healthcare system."
             },
             {
-                "title": "Rising COVID-19 Cases in South Korean Nightlife Districts",
+                "title": "Samsung Heir Arrested Over Bribery Scandal",
                 "risk_level": "Low",
-                "summary": "South Korean health authorities have reported a cluster of COVID-19 cases in nightlife districts, sparking concerns about another wave of infections."
+                "summary": "The heir of Samsung, the largest conglomerate in South Korea, was arrested over a bribery scandal, sparking debates about corporate accountability."
             }
         ],
         "Japan": [
             {
-                "title": "LDP leadership change increases risk of market volatility",
+                "title": "Taiwan says it has detected a Chinese aerial espionage aircraft carrier group near its waters",
                 "risk_level": "Medium",
-                "summary": "The sudden resignation of Japanese Prime Minister Fumio Kishida has led to uncertainty in Japan's capital markets. A smooth transition to new leadership is crucial to maintain confidence in the country’s economic policies."
+                "summary": "Taiwan detected a Chinese naval task force, including a spy ship, near its southern island of Taiwan on July 26. The task force includes a guided-missile destroyer, a tanker, a frigate and other warships. Taiwan has called the presence of the Chinese naval force a threat to regional peace and stability."
             },
             {
-                "title": "North Korean missile test raises concerns for regional stability",
-                "risk_level": "High",
-                "summary": "North Korea conducted a ballistic missile test in the Sea of Japan, sparking concerns about regional tensions and potential responses from neighboring countries, including Japan."
+                "title": "Japan, US hold joint naval exercise amid concerns about China's increasing maritime activities",
+                "risk_level": "Medium",
+                "summary": "The Japanese and US navies held a joint exercise in the East China Sea from July 24 to 28, focusing on maritime defense and response to potential threats in the region. China has increased its military presence and activities in the region, causing concerns about potential military conflicts."
             },
             {
-                "title": "Japan’s population decline accelerates, raising social and economic challenges",
-                "risk_level": "High",
-                "summary": "Japan’s population declined by over 440,000 people in the past year, exacerbating concerns about its aging population, pension system sustainability, and future economic growth."
+                "title": "LDP faction's leader, Toshimitsu Motegi, hints at the possibility of a constitutional revision",
+                "risk_level": "Low",
+                "summary": "Toshimitsu Motegi, the leader of the Liberal Democratic Party's (LDP) largest faction, has mentioned the possibility of amending the Japanese Constitution. This has sparked debate among politicians, with some calling for a revision to strengthen national defense, while others argue that the current Constitution is sufficient."
             }
         ]
     }
