@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rising Tensions Between China and Taiwan",
-                "risk_level": "High",
-                "summary": "China has issued a warning to the US to stop \"interfering\" in Taiwan's affairs, escalating tensions in the region."
+                "title": "US Senate Passes Bill to Protect Ukraine Aid",
+                "risk_level": "Medium",
+                "summary": "The US Senate passes a bill that includes language to protect Ukraine aid, a move that comes amid reports of potential cuts to the assistance."
             },
             {
-                "title": "Protests Erupt in Iran over Economic Austerity Measures",
+                "title": "US and China Meet for High-Level Diplomatic Talks",
                 "risk_level": "High",
-                "summary": "Dissidents and opposition groups took to the streets to protest the government's economic plans, which they claim will only exacerbate poverty."
+                "summary": "The US and China meet for high-level diplomatic talks in a bid to revitalize their strained ties and address concerns over intellectual property protection."
             },
             {
-                "title": "US-China Trade War Escalates with New Tariffs",
-                "risk_level": "High",
-                "summary": "The US has imposed new tariffs on Chinese imports, escalating the ongoing trade war and heightening concerns about economic instability."
+                "title": "Germany to Host Talks on Ukraine Conflict",
+                "risk_level": "Medium",
+                "summary": "Germany is set to host talks between Ukraine and Russia on the ongoing conflict in eastern Ukraine, with a focus on finding a peaceful resolution."
             }
         ],
         "United States": [
             {
-                "title": "Election Security Concerns in US as Hackers Target Campaigns",
-                "risk_level": "High",
-                "summary": "Reports of Russian hacking attempts on US election campaigns have sparked concerns about cybersecurity vulnerabilities in the US political system."
-            },
-            {
-                "title": "Gun Violence in Chicago: Community Fears Over Escalating Violence",
+                "title": "Florida Governor Ron DeSantis Announces New Border Security Initiative",
                 "risk_level": "Medium",
-                "summary": "A recent surge in gun violence in Chicago has raised concerns about public safety and the effectiveness of local law enforcement."
+                "summary": "Florida Governor Ron DeSantis recently announced an initiative to crack down on human smuggling.  This action is seen as an attempt to counter the federal government's immigration policies and will likely lead to increased tensions between Florida and the federal government."
             },
             {
-                "title": "US-Canada Border Tensions Rise Over Pipeline Dispute",
+                "title": "Supreme Court Agrees to Take Up Case on Abortion Rights",
                 "risk_level": "High",
-                "summary": "Tensions between the US and Canada have escalated over a disputed pipeline project, leading to concerns about diplomatic relations and trade."
+                "summary": "The Supreme Court has agreed to hear a case on abortion rights in a move that could potentially overturn Roe v. Wade, leading to significant changes in abortion laws across the US."
+            },
+            {
+                "title": "US Imposes Sanctions on Chinese Officials Over Uyghur Rights",
+                "risk_level": "Medium",
+                "summary": "The US has imposed sanctions on several Chinese officials accused of human rights abuses against the Uyghur minority.  This is part of an ongoing US effort to pressure China over its treatment of minority groups."
             }
         ],
         "South Korea": [
             {
-                "title": "'North Korea rejects UNSC presidential statement' and 'South Korea, US conduct joint naval drills'",
+                "title": "",
+                "risk_level": "Low",
+                "summary": "South Korean court rejects US request to extradite ex-CIA operative"
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "North Korea says it has tested new hypersonic missile"
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "Tensions rise between South Korea and North Korea following the rejection of a UNSC presidential statement and joint naval drills with the US."
-            },
-            {
-                "title": "'Protesters clash with police in Seoul'",
-                "risk_level": "Medium",
-                "summary": "Pro-democracy protesters clashed with police in Seoul, South Korea, as tensions escalate between the government and opposition groups."
-            },
-            {
-                "title": "'South Korea reports record high number of COVID-19 cases'",
-                "risk_level": "Medium",
-                "summary": "South Korea reports a record high number of COVID-19 cases, leading to concerns over the country's healthcare system and economic impact."
+                "summary": "South Korean military on high alert amid North Korea's missile tests, US-South Korea joint military exercises"
             }
         ],
         "Japan": [
             {
-                "title": "Japan's economy at risk due to global supply chain disruptions",
-                "risk_level": "High",
-                "summary": "Japan's economy is facing a severe risk due to ongoing global supply chain disruptions, which could impact the country's ability to produce and export goods."
+                "title": "Magnitude 6.4 Earthquake Hits Eastern Japan, No Fatalities Reported",
+                "risk_level": "Low",
+                "summary": "A moderate earthquake occurred off the coast of eastern Japan on June 28, with the Japan Meteorological Agency (JMA) reporting a depth of 400 kilometers and an epicenter located approximately 700 kilometers east-northeast of Tokyo. The shaking was reportedly felt across a wide area, but no injuries or fatal casualties have been reported yet."
             },
             {
-                "title": "Protesters clash with police in Tokyo over government policies",
-                "risk_level": "High",
-                "summary": "A group of protesters in Tokyo clashed with police over government policies, highlighting growing social unrest in Japan."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Rising tensions between Japan and China over maritime disputes",
-                "risk_level": "Medium",
-                "summary": "Tensions between Japan and China have escalated over maritime disputes, with both countries engaging in a war of words and increasing military presence in the region."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
