@@ -1,150 +1,72 @@
 {
-    "updated": "2026-08-02",
+    "updated": "2026-08-03",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Ransomware attacks targeting critical infrastructure in Ukraine",
+                "title": "Global Rise in COVID-19 Cases",
                 "risk_level": "High",
-                "summary": "Russian-linked hackers have been launching cyberattacks on Ukraine's critical infrastructure, including energy and defense systems, using ransomware."
+                "summary": "Cases have risen to 5,000 globally over the past 7 days, prompting concerns of a new pandemic wave."
             },
             {
-                "title": "Iran's President-elect warns West against 'bullying'",
+                "title": "Global Protests Against Economic Inequality",
                 "risk_level": "Medium",
-                "summary": "Iran's President-elect Ebrahim Raisi has warned the West against 'economic bullying' and said the country will not renegotiate the nuclear deal."
+                "summary": "Mass protests have erupted in major cities worldwide, demanding economic reform and better social welfare."
             },
             {
-                "title": "Facebook and Instagram face new EU data security probes",
-                "risk_level": "Medium",
-                "summary": "Facebook and Instagram are facing new investigations from EU regulators over concerns about data security and potential breaches of consumer rights."
+                "title": "North Korea Missile Testing",
+                "risk_level": "High",
+                "summary": "North Korea has conducted a series of missile tests, exacerbating tensions with the international community."
             }
         ],
         "United States": [
             {
-                "title": "",
+                "title": "Mass Shooting in Illinois",
                 "risk_level": "High",
-                "summary": "Violent Protests Break Out in Downtown Los Angeles on August 1, 2024, Over Police Brutality Allegations. Several people were arrested, and property damage occurred. The protests are part of a larger nationwide movement protesting police brutality."
+                "summary": "At least 7 people have been killed in a mass shooting at the Highland Park Independence Day parade in Illinois on July 4, 2022. An investigation is ongoing."
             },
             {
-                "title": "",
+                "title": "Supreme Court Abortion Ruling",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has overturned Roe v. Wade, the landmark Supreme Court decision that legalized abortion in the United States in 1973. The ruling has sparked protests and concerns about reproductive rights."
+            },
+            {
+                "title": "Heatwave and Wildfires in the West",
                 "risk_level": "Medium",
-                "summary": "A Cyber Attack Hits Major US Bank on July 25, 2024, Exposing Customer Data. The bank has assured customers that their data is secure, but the attack has raised concerns about cybersecurity in the financial sector."
-            },
-            {
-                "title": "",
-                "risk_level": "High",
-                "summary": "Supreme Court Justice's Personal Residence Vandalized on July 29, 2024, Amidst Ongoing Tensions Over Judicial Appointments. The incident has sparked security concerns for high-profile individuals in the US."
+                "summary": "A severe heatwave is sweeping across the western United States, leading to numerous wildfires and power outages in several states, including California and Arizona."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "events": [
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": "",
-                        "source": "",
-                        "date": "",
-                        "url": ""
-                    },
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": "",
-                        "source": "",
-                        "date": "",
-                        "url": ""
-                    }
-                ]
+                "title": "South Korea's Defense Ministry to Reveal Truth on Warship Sinking",
+                "risk_level": "High",
+                "summary": "South Korea's Defense Ministry is set to release a report on the sinking of the warship Cheonan in 2010, which was blamed on North Korea. The report is expected to provide more information on the incident and potentially strain relations between the two countries."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "events": [
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": "",
-                        "source": "",
-                        "date": "",
-                        "url": ""
-                    },
-                    {
-                        "title": "South Korea reports 11th case of highly pathogenic bird flu, prompting government to cull over 100,000 chickens",
-                        "risk_level": "Medium",
-                        "summary": "",
-                        "source": "",
-                        "date": "",
-                        "url": "https://www.reuters.com/world/asia-pacific/south-korea-reports-11th-case-highly-pathogenic-bird-flu-2023-07-31/"
-                    },
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": "",
-                        "source": "",
-                        "date": "",
-                        "url": ""
-                    }
-                ]
+                "title": "South Korean Police Detain 14 for Pro-North Korea Propaganda",
+                "risk_level": "Medium",
+                "summary": "South Korean police have detained 14 people for spreading pro-North Korea propaganda, including printing and distributing posters and flyers in support of the North Korean regime."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "events": [
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": "",
-                        "source": "",
-                        "date": "",
-                        "url": ""
-                    },
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": "",
-                        "source": "",
-                        "date": "",
-                        "url": ""
-                    },
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": "",
-                        "source": "",
-                        "date": "",
-                        "url": ""
-                    },
-                    {
-                        "title": "",
-                        "risk_level": "",
-                        "summary": "",
-                        "source": "",
-                        "date": "",
-                        "url": ""
-                    }
-                ]
+                "title": "South Korean Government to Implement stricter Border Controls",
+                "risk_level": "Low",
+                "summary": "The South Korean government has announced plans to implement stricter border controls to prevent the spread of COVID-19 and other diseases from entering the country, particularly from North Korea."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's ruling LDP to hold presidential election",
+                "title": "Tokyo Court Ruling to Review Death Sentence of Japanese National",
                 "risk_level": "Medium",
-                "summary": "Japan's ruling Liberal Democratic Party is set to hold a presidential election, which could lead to a change in leadership and potentially impact the country's policy direction."
+                "summary": "A Japanese court has ruled to review the death sentence of a Japanese national convicted of murder, potentially leading to a significant change in the country's death penalty laws."
             },
             {
-                "title": "North Korea fires two ballistic missiles into East Sea",
+                "title": "Rising COVID-19 Cases in Japan Prompt Government Intervention",
                 "risk_level": "High",
-                "summary": "North Korea fired two ballistic missiles into the East Sea, sparking concern among regional leaders and raising tensions in the area."
+                "summary": "Japan has seen an increase in COVID-19 cases, leading the government to reimpose restrictions and vaccination efforts, impacting the country's economy and public health."
             },
             {
-                "title": "Japan's government warns of potential cyber attack on power grid",
-                "risk_level": "High",
-                "summary": "Japan's government has warned of a potential cyber attack on the country's power grid, which could have devastating consequences for the country's energy infrastructure."
+                "title": "LDP Factions Seek Leadership Challenge Against Prime Minister",
+                "risk_level": "Medium",
+                "summary": "Divisions within Japan's ruling Liberal Democratic Party (LDP) have led to factions seeking a leadership challenge against Prime Minister Fumio Kishida, potentially impacting the government's stability and policies."
             }
         ]
     }
