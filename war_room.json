@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US Senate Passes Bill to Protect Ukraine Aid",
-                "risk_level": "Medium",
-                "summary": "The US Senate passes a bill that includes language to protect Ukraine aid, a move that comes amid reports of potential cuts to the assistance."
-            },
-            {
-                "title": "US and China Meet for High-Level Diplomatic Talks",
+                "title": "Conflict in Ukraine escalates: Russia launches missile strikes on Ukraine",
                 "risk_level": "High",
-                "summary": "The US and China meet for high-level diplomatic talks in a bid to revitalize their strained ties and address concerns over intellectual property protection."
+                "summary": "Tensions between Russia and Ukraine have been escalating in the past week, with Russia launching missile strikes on Ukrainian cities."
             },
             {
-                "title": "Germany to Host Talks on Ukraine Conflict",
+                "title": "Global Chip Shortage Worsens: TSMC Cuts Production Forecast",
                 "risk_level": "Medium",
-                "summary": "Germany is set to host talks between Ukraine and Russia on the ongoing conflict in eastern Ukraine, with a focus on finding a peaceful resolution."
+                "summary": "The global semiconductor shortage continues to affect multiple industries, with Taiwan Semiconductor Manufacturing Company (TSMC) reducing its production forecast."
+            },
+            {
+                "title": "North Korea Conducts Missile Test: US and South Korea Respond",
+                "risk_level": "High",
+                "summary": "North Korea has conducted another missile test, leading to a response from the US and South Korea, who have condemned the action and announced increased military presence in the region."
             }
         ],
         "United States": [
             {
-                "title": "Florida Governor Ron DeSantis Announces New Border Security Initiative",
-                "risk_level": "Medium",
-                "summary": "Florida Governor Ron DeSantis recently announced an initiative to crack down on human smuggling.  This action is seen as an attempt to counter the federal government's immigration policies and will likely lead to increased tensions between Florida and the federal government."
-            },
-            {
-                "title": "Supreme Court Agrees to Take Up Case on Abortion Rights",
+                "title": "Riot at US Capitol Building",
                 "risk_level": "High",
-                "summary": "The Supreme Court has agreed to hear a case on abortion rights in a move that could potentially overturn Roe v. Wade, leading to significant changes in abortion laws across the US."
+                "summary": "Pro-Trump rioters stormed the US Capitol building, causing destruction and injuries, amid certification of presidential election results."
             },
             {
-                "title": "US Imposes Sanctions on Chinese Officials Over Uyghur Rights",
+                "title": "Mass shootings in California",
+                "risk_level": "High",
+                "summary": "At least 7 people were killed in two separate mass shootings in California, with authorities searching for motives."
+            },
+            {
+                "title": "US Supreme Court rejects Trump election suit",
                 "risk_level": "Medium",
-                "summary": "The US has imposed sanctions on several Chinese officials accused of human rights abuses against the Uyghur minority.  This is part of an ongoing US effort to pressure China over its treatment of minority groups."
+                "summary": "The US Supreme Court rejected a lawsuit brought by former President Donald Trump seeking to overturn the results of the 2020 presidential election."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "South Korean court rejects US request to extradite ex-CIA operative"
-            },
-            {
-                "title": "",
+                "title": "Korean Navy Officer Arrested Over Murder of Fisherman",
                 "risk_level": "Medium",
-                "summary": "North Korea says it has tested new hypersonic missile"
+                "summary": "A South Korean navy officer was arrested for allegedly murdering a fisherman in a dispute over a fishing territory, highlighting tensions between the military and the fishing industry."
             },
             {
-                "title": "",
+                "title": "South Korea Fears Cyber Attack Risks After Major Breach",
                 "risk_level": "High",
-                "summary": "South Korean military on high alert amid North Korea's missile tests, US-South Korea joint military exercises"
+                "summary": "South Korea has raised concerns over potential cyber attacks after a major breach of a government ministry, revealing sensitive information."
+            },
+            {
+                "title": "Protests Erupt in South Korea Over Abortion Reform",
+                "risk_level": "Medium",
+                "summary": "Protests have broken out in South Korea over a proposed abortion reform bill, sparking controversy over women's rights and reproductive freedoms."
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 6.4 Earthquake Hits Eastern Japan, No Fatalities Reported",
-                "risk_level": "Low",
-                "summary": "A moderate earthquake occurred off the coast of eastern Japan on June 28, with the Japan Meteorological Agency (JMA) reporting a depth of 400 kilometers and an epicenter located approximately 700 kilometers east-northeast of Tokyo. The shaking was reportedly felt across a wide area, but no injuries or fatal casualties have been reported yet."
+                "title": "North Korea fires missile in direction of Japan",
+                "risk_level": "High",
+                "summary": "North Korea fired a ballistic missile into the sea off its east coast on July 28, sparking alarm in Japan, with Seoul and Tokyo scrambling to assess the extent of the threat to regional security"
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Japan's government to revise security strategy with focus on China and North Korea",
+                "risk_level": "High",
+                "summary": "Japanese Prime Minister Fumio Kishida said on July 26 that the government will revise its national security strategy, focusing on China and North Korea, amid growing concerns about threats to the country's security"
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Japan and US to start talks on revising security pact this year",
+                "risk_level": "Medium",
+                "summary": "Japan and the United States will start talks this year to revise their security pact, the two countries said on July 28, amid concerns in Tokyo about the growing military presence of countries including China"
             }
         ]
     }
