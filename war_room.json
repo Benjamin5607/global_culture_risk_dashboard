@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Rise in COVID-19 Cases",
+                "title": "Rising Tensions Between China and Taiwan",
                 "risk_level": "High",
-                "summary": "Cases have risen to 5,000 globally over the past 7 days, prompting concerns of a new pandemic wave."
+                "summary": "China has issued a warning to the US to stop \"interfering\" in Taiwan's affairs, escalating tensions in the region."
             },
             {
-                "title": "Global Protests Against Economic Inequality",
-                "risk_level": "Medium",
-                "summary": "Mass protests have erupted in major cities worldwide, demanding economic reform and better social welfare."
+                "title": "Protests Erupt in Iran over Economic Austerity Measures",
+                "risk_level": "High",
+                "summary": "Dissidents and opposition groups took to the streets to protest the government's economic plans, which they claim will only exacerbate poverty."
             },
             {
-                "title": "North Korea Missile Testing",
+                "title": "US-China Trade War Escalates with New Tariffs",
                 "risk_level": "High",
-                "summary": "North Korea has conducted a series of missile tests, exacerbating tensions with the international community."
+                "summary": "The US has imposed new tariffs on Chinese imports, escalating the ongoing trade war and heightening concerns about economic instability."
             }
         ],
         "United States": [
             {
-                "title": "Mass Shooting in Illinois",
+                "title": "Election Security Concerns in US as Hackers Target Campaigns",
                 "risk_level": "High",
-                "summary": "At least 7 people have been killed in a mass shooting at the Highland Park Independence Day parade in Illinois on July 4, 2022. An investigation is ongoing."
+                "summary": "Reports of Russian hacking attempts on US election campaigns have sparked concerns about cybersecurity vulnerabilities in the US political system."
             },
             {
-                "title": "Supreme Court Abortion Ruling",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has overturned Roe v. Wade, the landmark Supreme Court decision that legalized abortion in the United States in 1973. The ruling has sparked protests and concerns about reproductive rights."
-            },
-            {
-                "title": "Heatwave and Wildfires in the West",
+                "title": "Gun Violence in Chicago: Community Fears Over Escalating Violence",
                 "risk_level": "Medium",
-                "summary": "A severe heatwave is sweeping across the western United States, leading to numerous wildfires and power outages in several states, including California and Arizona."
+                "summary": "A recent surge in gun violence in Chicago has raised concerns about public safety and the effectiveness of local law enforcement."
+            },
+            {
+                "title": "US-Canada Border Tensions Rise Over Pipeline Dispute",
+                "risk_level": "High",
+                "summary": "Tensions between the US and Canada have escalated over a disputed pipeline project, leading to concerns about diplomatic relations and trade."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea's Defense Ministry to Reveal Truth on Warship Sinking",
+                "title": "'North Korea rejects UNSC presidential statement' and 'South Korea, US conduct joint naval drills'",
                 "risk_level": "High",
-                "summary": "South Korea's Defense Ministry is set to release a report on the sinking of the warship Cheonan in 2010, which was blamed on North Korea. The report is expected to provide more information on the incident and potentially strain relations between the two countries."
+                "summary": "Tensions rise between South Korea and North Korea following the rejection of a UNSC presidential statement and joint naval drills with the US."
             },
             {
-                "title": "South Korean Police Detain 14 for Pro-North Korea Propaganda",
+                "title": "'Protesters clash with police in Seoul'",
                 "risk_level": "Medium",
-                "summary": "South Korean police have detained 14 people for spreading pro-North Korea propaganda, including printing and distributing posters and flyers in support of the North Korean regime."
+                "summary": "Pro-democracy protesters clashed with police in Seoul, South Korea, as tensions escalate between the government and opposition groups."
             },
             {
-                "title": "South Korean Government to Implement stricter Border Controls",
-                "risk_level": "Low",
-                "summary": "The South Korean government has announced plans to implement stricter border controls to prevent the spread of COVID-19 and other diseases from entering the country, particularly from North Korea."
+                "title": "'South Korea reports record high number of COVID-19 cases'",
+                "risk_level": "Medium",
+                "summary": "South Korea reports a record high number of COVID-19 cases, leading to concerns over the country's healthcare system and economic impact."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo Court Ruling to Review Death Sentence of Japanese National",
-                "risk_level": "Medium",
-                "summary": "A Japanese court has ruled to review the death sentence of a Japanese national convicted of murder, potentially leading to a significant change in the country's death penalty laws."
-            },
-            {
-                "title": "Rising COVID-19 Cases in Japan Prompt Government Intervention",
+                "title": "Japan's economy at risk due to global supply chain disruptions",
                 "risk_level": "High",
-                "summary": "Japan has seen an increase in COVID-19 cases, leading the government to reimpose restrictions and vaccination efforts, impacting the country's economy and public health."
+                "summary": "Japan's economy is facing a severe risk due to ongoing global supply chain disruptions, which could impact the country's ability to produce and export goods."
             },
             {
-                "title": "LDP Factions Seek Leadership Challenge Against Prime Minister",
+                "title": "Protesters clash with police in Tokyo over government policies",
+                "risk_level": "High",
+                "summary": "A group of protesters in Tokyo clashed with police over government policies, highlighting growing social unrest in Japan."
+            },
+            {
+                "title": "Rising tensions between Japan and China over maritime disputes",
                 "risk_level": "Medium",
-                "summary": "Divisions within Japan's ruling Liberal Democratic Party (LDP) have led to factions seeking a leadership challenge against Prime Minister Fumio Kishida, potentially impacting the government's stability and policies."
+                "summary": "Tensions between Japan and China have escalated over maritime disputes, with both countries engaging in a war of words and increasing military presence in the region."
             }
         ]
     }
