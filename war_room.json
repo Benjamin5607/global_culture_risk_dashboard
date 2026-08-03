@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Conflict in Ukraine escalates: Russia launches missile strikes on Ukraine",
+                "title": "Deterioration of the global economic outlook",
                 "risk_level": "High",
-                "summary": "Tensions between Russia and Ukraine have been escalating in the past week, with Russia launching missile strikes on Ukrainian cities."
+                "summary": "The past week has seen a decline in consumer confidence, leading to decreased spending and economic instability globally."
             },
             {
-                "title": "Global Chip Shortage Worsens: TSMC Cuts Production Forecast",
+                "title": "Cyberattacks on major corporations",
                 "risk_level": "Medium",
-                "summary": "The global semiconductor shortage continues to affect multiple industries, with Taiwan Semiconductor Manufacturing Company (TSMC) reducing its production forecast."
+                "summary": "Over the past week, multiple high-profile corporations have reported being targeted by sophisticated cyberattacks, compromising sensitive data and systems."
             },
             {
-                "title": "North Korea Conducts Missile Test: US and South Korea Respond",
+                "title": "Escalating conflict in Eastern Europe",
                 "risk_level": "High",
-                "summary": "North Korea has conducted another missile test, leading to a response from the US and South Korea, who have condemned the action and announced increased military presence in the region."
+                "summary": "Tensions in Eastern Europe have risen significantly, leading to a heightened risk of military conflict and global instability."
             }
         ],
         "United States": [
             {
-                "title": "Riot at US Capitol Building",
-                "risk_level": "High",
-                "summary": "Pro-Trump rioters stormed the US Capitol building, causing destruction and injuries, amid certification of presidential election results."
-            },
-            {
-                "title": "Mass shootings in California",
-                "risk_level": "High",
-                "summary": "At least 7 people were killed in two separate mass shootings in California, with authorities searching for motives."
-            },
-            {
-                "title": "US Supreme Court rejects Trump election suit",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court rejected a lawsuit brought by former President Donald Trump seeking to overturn the results of the 2020 presidential election."
+                "summary": "US Congress reaches a deal on debt ceiling, averting default for now, but concerns linger over 2025 ceiling and ongoing budget talks - July 31, 2024"
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "House Judiciary Committee passes resolution condemning the Chinese Communist Party for COVID-19 origins, escalating tensions between US and China - July 27, 2024"
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Justice Department investigates the possible use of encryption tools to facilitate child exploitation, raising concerns over privacy and national security - July 25, 2024"
             }
         ],
         "South Korea": [
             {
-                "title": "Korean Navy Officer Arrested Over Murder of Fisherman",
+                "title": "South Korean court suspends execution of 1st NK defector",
                 "risk_level": "Medium",
-                "summary": "A South Korean navy officer was arrested for allegedly murdering a fisherman in a dispute over a fishing territory, highlighting tensions between the military and the fishing industry."
+                "summary": "Seoul's top court has decided to suspend the execution of a North Korean defector who was previously convicted of espionage. The decision may raise concerns about national security and relations with North Korea."
             },
             {
-                "title": "South Korea Fears Cyber Attack Risks After Major Breach",
+                "title": "N.Korea conducts missile test near Russian border",
                 "risk_level": "High",
-                "summary": "South Korea has raised concerns over potential cyber attacks after a major breach of a government ministry, revealing sensitive information."
+                "summary": "Pyongyang test-fired a Hwasong-17 missile over Japanese waters, sparking condemnation from Tokyo and Washington. The incident has raised concerns about regional tensions and the potential for an escalation in military activities."
             },
             {
-                "title": "Protests Erupt in South Korea Over Abortion Reform",
-                "risk_level": "Medium",
-                "summary": "Protests have broken out in South Korea over a proposed abortion reform bill, sparking controversy over women's rights and reproductive freedoms."
+                "title": "South Korea, US to launch naval drill in Yellow Sea next month",
+                "risk_level": "Low",
+                "summary": "The South Korean and US militaries are set to conduct a joint naval exercise in the Yellow Sea in late August. The drill is intended to enhance readiness and cooperation between the two nations' forces in the face of North Korean aggression."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires missile in direction of Japan",
+                "title": "North Korea fires ballistic missile into the Sea of Japan, sparking international condemnation",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile into the sea off its east coast on July 28, sparking alarm in Japan, with Seoul and Tokyo scrambling to assess the extent of the threat to regional security"
+                "summary": "North Korea has fired a ballistic missile into the Sea of Japan, drawing condemnation from the United States, South Korea, and Japan. The missile landed in the exclusive economic zone of Japan, but did not reach Japanese territory. The incident has raised tensions in the region and highlights the ongoing risk of conflict on the Korean Peninsula."
             },
             {
-                "title": "Japan's government to revise security strategy with focus on China and North Korea",
-                "risk_level": "High",
-                "summary": "Japanese Prime Minister Fumio Kishida said on July 26 that the government will revise its national security strategy, focusing on China and North Korea, amid growing concerns about threats to the country's security"
-            },
-            {
-                "title": "Japan and US to start talks on revising security pact this year",
+                "title": "Rising COVID-19 cases in Japan due to new Omicron subvariant",
                 "risk_level": "Medium",
-                "summary": "Japan and the United States will start talks this year to revise their security pact, the two countries said on July 28, amid concerns in Tokyo about the growing military presence of countries including China"
+                "summary": "Japan has reported a rise in COVID-19 cases due to the spread of a new Omicron subvariant. The Japanese government has urged citizens to take precautions and has increased testing and vaccination efforts. The rise in cases has sparked concerns about the country's ability to contain the virus."
+            },
+            {
+                "title": "Anti-government protests in Japan sparked by proposed economic reforms",
+                "risk_level": "Low",
+                "summary": "Anti-government protests have erupted in Japan in response to proposed economic reforms that are seen as favoring the wealthy. The protests have been largely peaceful, but have highlighted growing discontent with the government among some segments of the population."
             }
         ]
     }
