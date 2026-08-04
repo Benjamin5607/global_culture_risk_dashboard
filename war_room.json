@@ -3,60 +3,9 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Conflict in Eastern Europe",
-                "risk_level": "High",
-                "summary": "Tensions between Russia and Ukraine have escalated, with reports of Russian troop movements along the border."
-            },
-            {
-                "title": "Data Breach at Major Tech Company",
-                "risk_level": "Medium",
-                "summary": "A major tech company has been hit by a data breach, exposing sensitive customer information."
-            },
-            {
-                "title": "Protests Erupt in Global Cities",
-                "risk_level": "Low",
-                "summary": "Protests against government policies have erupted in cities around the world, with some turning violent."
-            }
-        ],
-        "United States": [
-            {
-                "title": "US Congress Passes Bipartisan Bill to Strengthen Election Security",
-                "risk_level": "High",
-                "summary": "The US Congress has passed a bipartisan bill aimed at strengthening election security, which aims to improve the country's electoral processes and reduce the risk of foreign interference."
-            },
-            {
-                "title": "US-Afghanistan Drone Strike: Probe Finds Civilian Casualties",
-                "risk_level": "High",
-                "summary": "A US drone strike in Afghanistan in 2021, which was intended to target an ISIS planner, resulted in civilian casualties, sparking an ongoing investigation."
-            },
-            {
-                "title": "Florida 'Don't Say Gay' Bill Sparks Concern Among LGBTQ+ Community",
-                "risk_level": "Medium",
-                "summary": "A bill passed in Florida that restricts discussions of sexual orientation and gender identity in certain educational settings has sparked widespread criticism and concerns from the LGBTQ+ community."
-            }
-        ],
-        "South Korea": [
-            {
-                "title": "N. Korea launches a ballistic missile into Sea of Japan/ East Sea",
-                "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile into the Sea of Japan/East Sea on Tuesday, in a launch that drew condemnation from the U.S. and its allies, and a warning from South Korea that it had the right to take military action in self-defense."
-            },
-            {
-                "title": "S. Korea's presidential candidate Park Young-sun tests positive to COVID-19",
-                "risk_level": "Medium",
-                "summary": "South Korea's opposition candidate for the upcoming presidential election, Park Young-sun, has tested positive for COVID-19. Park is leading in the polls but her positive test has raised concerns about her ability to lead the country."
-            },
-            {
-                "title": "South Korea's trade unions plan nationwide strike over labor rights",
-                "risk_level": "Low",
-                "summary": "South Korea's major trade unions have announced plans for a nationwide strike on Wednesday, protesting the government's labor policies. The strike could disrupt key industries, including manufacturing and transportation."
-            }
-        ],
-        "Japan": [
-            {
-                "title": "Japan's LDP Seeks to Reunify With Ruling Party After Scandal",
-                "risk_level": "Medium",
-                "summary": "The LDP's decision to reconsolidate with the ruling party could have implications on the stability of the Japanese government."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
                 "title": "",
@@ -64,9 +13,60 @@
                 "summary": ""
             },
             {
-                "title": "North Korea Missile Test Fears Prompt Japan's Defense Agency to Raise Alert",
+                "title": "",
+                "risk_level": "",
+                "summary": ""
+            }
+        ],
+        "United States": [
+            {
+                "title": "US Federal Judge Blocks Biden's Debt Relief Plan Due to Lack of Congressional Approval",
+                "risk_level": "Medium",
+                "summary": "A US federal judge blocked President Joe Biden's debt relief plan, citing a lack of congressional approval. The plan aimed to cancel up to $20,000 in student loan debt for millions of American borrowers. The decision has significant implications for the US economy and the Biden administration's policies."
+            },
+            {
+                "title": "US House Passes Bill to Extend National Defense Authorization Act",
+                "risk_level": "Low",
+                "summary": "The US House of Representatives passed a bill to extend the National Defense Authorization Act (NDAA). The bill aims to provide funding for the US military and support national defense efforts. The move is seen as a step towards maintaining US military strength and stability."
+            },
+            {
+                "title": "US Attorney General Merrick Garland Tests Positive for COVID-19",
+                "risk_level": "Low",
+                "summary": "US Attorney General Merrick Garland has tested positive for COVID-19. Garland is undergoing treatment and has assured that he will continue to oversee the Department of Justice's operations remotely. The development comes at a critical time for the US, with ongoing investigations and law enforcement efforts."
+            }
+        ],
+        "South Korea": [
+            {
+                "title": "North Korea fires missiles into the Sea of Japan: South Korea and Japan",
                 "risk_level": "High",
-                "summary": "Following North Korea's ballistic missile launch, Japan's defense agency has elevated its alert status, indicating a heightened risk of missile threats against the country."
+                "summary": "South Korea and Japan detected multiple ballistic missiles fired by North Korea on July 31, 2022. The missiles landed in the Sea of Japan without causing any damage or injuries. The incident heightened tensions in the region and raised concerns about North Korea's military activities."
+            },
+            {
+                "title": "South Korea reports record number of Covid-19 cases among the fully vaccinated",
+                "risk_level": "Medium",
+                "summary": "South Korea reported a record number of Covid-19 cases among the fully vaccinated population on August 1, 2022. The surge in cases has raised concerns about the effectiveness of vaccines and the need for booster shots."
+            },
+            {
+                "title": "South Korean parliament approves bill to revise the national security law",
+                "risk_level": "Low",
+                "summary": "The National Assembly of South Korea passed a bill to revise the national security law on July 28, 2022. The revised law aims to strengthen the country's national security and counter threats from North Korea and other adversaries."
+            }
+        ],
+        "Japan": [
+            {
+                "title": "North Korea conducts missile tests",
+                "risk_level": "High",
+                "summary": "North Korea's latest missile tests have raised concerns over its nuclear capabilities and Japan's neighboring security."
+            },
+            {
+                "title": "Japan's parliament approves state of emergency extension in Tokyo and surrounding areas",
+                "risk_level": "Medium",
+                "summary": "The Japanese government has extended a state of emergency in Tokyo and surrounding areas to combat COVID-19, affecting residents and businesses."
+            },
+            {
+                "title": "Tokyo confirms record high COVID-19 cases, straining hospitals and healthcare resources",
+                "risk_level": "Medium",
+                "summary": "Tokyo's record high COVID-19 cases have put pressure on local hospitals and healthcare resources, exacerbating the ongoing pandemic challenges."
             }
         ]
     }
