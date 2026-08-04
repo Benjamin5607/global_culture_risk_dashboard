@@ -3,70 +3,76 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "US-Russia tensions rise over Ukraine conflict",
+                "risk_level": "High",
+                "summary": "Tensions between the US and Russia have escalated due to the ongoing conflict in Ukraine, raising concerns about the potential for further escalation and humanitarian crisis."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Global economic impact of the war in Ukraine",
+                "risk_level": "High",
+                "summary": "The ongoing conflict in Ukraine is having a significant impact on the global economy, with rising food and energy prices and a potential for trade disruptions."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Surge in COVID-19 cases in China due to new variant",
+                "risk_level": "Medium",
+                "summary": "A new variant of COVID-19 has been detected in China, leading to a surge in cases and raising concerns about the potential for a new wave of infections."
             }
         ],
         "United States": [
             {
-                "title": "US Federal Judge Blocks Biden's Debt Relief Plan Due to Lack of Congressional Approval",
+                "title": "U.S. Senate votes to advance a gun control bill",
                 "risk_level": "Medium",
-                "summary": "A US federal judge blocked President Joe Biden's debt relief plan, citing a lack of congressional approval. The plan aimed to cancel up to $20,000 in student loan debt for millions of American borrowers. The decision has significant implications for the US economy and the Biden administration's policies."
+                "summary": "The U.S. Senate has voted to advance a bipartisan gun control bill, in a move aimed at reducing gun violence in the country. The bill would increase background checks for buyers under 21 and provide red flag laws to allow authorities to seize guns from individuals deemed a risk to themselves or others."
             },
             {
-                "title": "US House Passes Bill to Extend National Defense Authorization Act",
-                "risk_level": "Low",
-                "summary": "The US House of Representatives passed a bill to extend the National Defense Authorization Act (NDAA). The bill aims to provide funding for the US military and support national defense efforts. The move is seen as a step towards maintaining US military strength and stability."
+                "title": "U.S. Supreme Court to hear a gun rights case",
+                "risk_level": "High",
+                "summary": "The U.S. Supreme Court has agreed to hear a case on whether a state's ban on carrying a handgun for self-defense is in line with the Second Amendment's protection of an individual's right to bear arms."
             },
             {
-                "title": "US Attorney General Merrick Garland Tests Positive for COVID-19",
-                "risk_level": "Low",
-                "summary": "US Attorney General Merrick Garland has tested positive for COVID-19. Garland is undergoing treatment and has assured that he will continue to oversee the Department of Justice's operations remotely. The development comes at a critical time for the US, with ongoing investigations and law enforcement efforts."
+                "title": "White House calls for calm ahead of possible unrest over abortion rights",
+                "risk_level": "High",
+                "summary": "The White House has called for calm ahead of possible unrest over the potential overturning of the Roe v. Wade abortion decision. The move by the Supreme Court could spark protests and demonstrations in the U.S."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires missiles into the Sea of Japan: South Korea and Japan",
-                "risk_level": "High",
-                "summary": "South Korea and Japan detected multiple ballistic missiles fired by North Korea on July 31, 2022. The missiles landed in the Sea of Japan without causing any damage or injuries. The incident heightened tensions in the region and raised concerns about North Korea's military activities."
-            },
-            {
-                "title": "South Korea reports record number of Covid-19 cases among the fully vaccinated",
+                "title": "Seoul Mayor's Impeachment Proceedings: President Yoon's Office Faces Heat",
                 "risk_level": "Medium",
-                "summary": "South Korea reported a record number of Covid-19 cases among the fully vaccinated population on August 1, 2022. The surge in cases has raised concerns about the effectiveness of vaccines and the need for booster shots."
+                "summary": "Seoul Mayor Oh Se-hoon impeachment proceedings continue amidst allegations of corruption. This development puts the President's Office under increasing pressure, sparking concerns about the nation's governance."
             },
             {
-                "title": "South Korean parliament approves bill to revise the national security law",
+                "title": "North Korea Conducts Hypersonic Missile Test Amid Tensions",
+                "risk_level": "High",
+                "summary": "North Korea successfully tests a hypersonic missile, raising concerns about regional security and potential conflicts."
+            },
+            {
+                "title": "South Korea's Minimum Wage Hike Sparks Economic Concerns",
                 "risk_level": "Low",
-                "summary": "The National Assembly of South Korea passed a bill to revise the national security law on July 28, 2022. The revised law aims to strengthen the country's national security and counter threats from North Korea and other adversaries."
+                "summary": "The South Korean government's decision to increase the minimum wage may lead to job losses and slower economic growth, as businesses grapple with the added costs."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea conducts missile tests",
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "risk_category": "",
+                "risk_description": ""
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "risk_category": "",
+                "risk_description": ""
+            },
+            {
+                "title": "Japan Earthquake",
                 "risk_level": "High",
-                "summary": "North Korea's latest missile tests have raised concerns over its nuclear capabilities and Japan's neighboring security."
-            },
-            {
-                "title": "Japan's parliament approves state of emergency extension in Tokyo and surrounding areas",
-                "risk_level": "Medium",
-                "summary": "The Japanese government has extended a state of emergency in Tokyo and surrounding areas to combat COVID-19, affecting residents and businesses."
-            },
-            {
-                "title": "Tokyo confirms record high COVID-19 cases, straining hospitals and healthcare resources",
-                "risk_level": "Medium",
-                "summary": "Tokyo's record high COVID-19 cases have put pressure on local hospitals and healthcare resources, exacerbating the ongoing pandemic challenges."
+                "summary": "",
+                "risk_category": "",
+                "risk_description": ""
             }
         ]
     }
