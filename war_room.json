@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia’s Invasion of Ukraine Continues Amid Signs of Weakening Russian Forces",
-                "risk_level": "High",
-                "summary": "The Russian invasion of Ukraine has entered its 20th month, with both sides struggling to gain a decisive advantage. Recent Ukrainian advances have pushed Russian forces back, but Moscow continues to use long-range strikes and artillery."
-            },
-            {
-                "title": "Taliban Ban on Women’s Education Fuels Anti-Government Protests in Afghanistan",
-                "risk_level": "High",
-                "summary": "A Taliban order to close girls’ schools in several provinces has prompted protests and resistance from students and families in Afghanistan."
-            },
-            {
-                "title": "China’s Economic Slowdown Hits Tech Sector",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "China's economic slowdown has led to a decline in sales for technology companies in the country, with some experiencing significant losses."
+                "summary": "COVID-19 continues to spread in some parts of the world, causing disruptions to travel and trade."
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Political unrest in a country in North America has led to increased tensions and potential for violence."
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "A natural disaster has caused significant damage and loss of life in a region of the world."
             }
         ],
         "United States": [
             {
-                "title": "Protests against abortion bans surge across the US",
-                "risk_level": "High",
-                "summary": "Demonstrations against abortion bans have spread across the US, drawing thousands of people into the streets to demand their rights."
+                "title": "Tornadoes hit multiple states",
+                "risk_level": "Low",
+                "summary": "At least 30 people were killed in the tornadoes that affected several states, including Alabama, Arkansas, Florida, Georgia, Illinois, Kentucky, Mississippi, Missouri, Ohio, South Carolina and Tennessee."
             },
             {
-                "title": "Major US cities experience a surge in violent crime",
-                "risk_level": "High",
-                "summary": "Several major cities in the US have seen significant increases in violent crime, with some areas reporting a 40% rise in shootings and homicides."
+                "title": "Supreme Court Justice Stephen Breyer to step down",
+                "risk_level": "Low",
+                "summary": "Justice Stephen Breyer's retirement will create a vacancy on the Supreme Court, which President Biden has pledged to fill with a Black woman. This development is significant for the future of the Court and the US judicial system."
             },
             {
-                "title": "US government announces plans to divert Afghan refugees to other states",
-                "risk_level": "Medium",
-                "summary": "The US government has announced plans to divert Afghan refugees to other states due to increased scrutiny from local authorities in original host states."
+                "title": "FBI searches Trump's estate for classified documents",
+                "risk_level": "High",
+                "summary": "The FBI searched former President Trump's Mar-a-Lago estate as part of an investigation into the handling of classified documents. This development has sparked controversy and raised concerns about executive power and national security."
             }
         ],
         "South Korea": [
             {
-                "title": "N. Korea's Kim Jong Un inspects construction site in Samjiyon Township",
+                "title": "",
                 "risk_level": "High",
-                "summary": "North Korean leader Kim Jong Un has inspected a construction site in Samjiyon Township, a ski resort town in the country's mountainous northeast. The site is part of a larger effort to modernize the town and improve its infrastructure."
+                "summary": "North Korea fired a ballistic missile off its east coast on Monday."
             },
             {
-                "title": "South Korea reports first H5N8 bird flu case in 2023",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "South Korea has reported its first case of H5N8 bird flu in 2023, according to the country's agriculture ministry. The case was detected in a poultry farm in the southern province of Gyeongsangnam-do."
+                "summary": "Rallies in South Korea to protest the military drills with the United States have turned violent, sparking concerns about social unrest."
             },
             {
-                "title": "South Korea and US hold joint military exercises",
-                "risk_level": "High",
-                "summary": "The US and South Korean militaries have conducted joint exercises, which included a simulated attack on North Korea's capital, Pyongyang. The exercises were part of an annual training program to enhance defense cooperation between the two allies."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "South Korea has reported several cyberattacks targeting its government institutions and major companies, highlighting the country's growing concerns about cybersecurity threats."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires ballistic missile over Japan",
+                "title": "Tokyo Olympic Stadium Vandalized",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile over Japan, prompting a warning to residents to take cover. The missile landed in the sea between Japan and Korea."
+                "summary": "The iconic Tokyo Olympic Stadium was vandalized with spray paint. The motive behind the vandalism is still unknown."
             },
             {
-                "title": "Protests in Tokyo over military deployment",
-                "risk_level": "Medium",
-                "summary": "Thousands of protesters gathered in Tokyo to demonstrate against the Japanese government's plan to deploy more military personnel to the country's southern islands."
+                "title": "North Korea Fires Two Missiles Over Japan",
+                "risk_level": "Extremely High",
+                "summary": "North Korea fired two ballistic missiles that flew over Japan, prompting an evacuation alert for the Japanese coast."
             },
             {
-                "title": "Tokyo Olympics cybersecurity concerns",
-                "risk_level": "Medium",
-                "summary": "Cybersecurity experts raise concerns over the potential for hackers to target the Tokyo Olympics, citing vulnerabilities in the event's IT systems."
+                "title": "Japan's Fugitive Former Prime Minister Arrested",
+                "risk_level": "High",
+                "summary": "Japan's fugitive former Prime Minister Abe Shinzo was arrested by the Metropolitan Police Department for alleged involvement in a cronyism scandal."
             }
         ]
     }
