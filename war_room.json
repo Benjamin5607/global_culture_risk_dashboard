@@ -1,74 +1,72 @@
 {
-    "updated": "2026-08-03",
+    "updated": "2026-08-04",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber-attack on critical infrastructure threatens global supply chains",
+                "title": "Conflict in Eastern Europe",
                 "risk_level": "High",
-                "summary": "A recent cyber-attack on a critical infrastructure has raised concerns about the impact on global supply chains, highlighting the need for enhanced cybersecurity measures."
+                "summary": "Tensions between Russia and Ukraine have escalated, with reports of Russian troop movements along the border."
             },
             {
-                "title": "Protests and civil unrest escalate in major city",
-                "risk_level": "High",
-                "summary": "Protests and civil unrest have escalated in a major city, leading to clashes between protesters and security forces, and raising concerns about the potential for further escalation."
-            },
-            {
-                "title": "Key economic indicators point to looming recession",
+                "title": "Data Breach at Major Tech Company",
                 "risk_level": "Medium",
-                "summary": "Key economic indicators have pointed to a looming recession, which could have significant impact on global markets and economies."
+                "summary": "A major tech company has been hit by a data breach, exposing sensitive customer information."
+            },
+            {
+                "title": "Protests Erupt in Global Cities",
+                "risk_level": "Low",
+                "summary": "Protests against government policies have erupted in cities around the world, with some turning violent."
             }
         ],
         "United States": [
             {
-                "title": "Protests Erupt in US Cities Over Gun Control Laws",
+                "title": "US Congress Passes Bipartisan Bill to Strengthen Election Security",
                 "risk_level": "High",
-                "summary": "Protests have been reported in multiple US cities, with demonstrators calling for stricter gun control laws following a series of mass shootings."
+                "summary": "The US Congress has passed a bipartisan bill aimed at strengthening election security, which aims to improve the country's electoral processes and reduce the risk of foreign interference."
             },
             {
-                "title": "Supreme Court to Hear Case on Abortion Rights",
+                "title": "US-Afghanistan Drone Strike: Probe Finds Civilian Casualties",
+                "risk_level": "High",
+                "summary": "A US drone strike in Afghanistan in 2021, which was intended to target an ISIS planner, resulted in civilian casualties, sparking an ongoing investigation."
+            },
+            {
+                "title": "Florida 'Don't Say Gay' Bill Sparks Concern Among LGBTQ+ Community",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court has agreed to hear a case on abortion rights, which could potentially lead to changes in national laws and further polarization."
-            },
-            {
-                "title": "Tensions Flare Between US and China Over Trade Dispute",
-                "risk_level": "High",
-                "summary": "The trade dispute between the US and China continues to escalate, with both sides imposing new tariffs and trade restrictions."
+                "summary": "A bill passed in Florida that restricts discussions of sexual orientation and gender identity in certain educational settings has sparked widespread criticism and concerns from the LGBTQ+ community."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's recent missile tests spark global concerns",
+                "title": "N. Korea launches a ballistic missile into Sea of Japan/ East Sea",
                 "risk_level": "High",
-                "summary": "In the past week, North Korea has conducted several missile tests, raising concerns about the potential for a conflict in the region. The tests have also sparked global condemnation, with the United Nations urging North Korea to stop its ballistic missile program."
+                "summary": "North Korea fired a ballistic missile into the Sea of Japan/East Sea on Tuesday, in a launch that drew condemnation from the U.S. and its allies, and a warning from South Korea that it had the right to take military action in self-defense."
             },
             {
-                "title": "South Korea and US stage joint military drill amid North Korea tensions",
-                "risk_level": "High",
-                "summary": "South Korea and the United States have staged a joint military drill, with the two nations showcasing their military capabilities in a show of force amid ongoing tensions with North Korea. The drill highlighted the strength of the alliance between the two countries and their commitment to protecting regional stability."
-            },
-            {
-                "title": "South Korean politician arrested over bribery allegations",
+                "title": "S. Korea's presidential candidate Park Young-sun tests positive to COVID-19",
                 "risk_level": "Medium",
-                "summary": "A prominent South Korean politician has been arrested on bribery allegations, sparking a major corruption scandal in the country. The arrest has raised concerns about the integrity of South Korea's politics and the rule of law, with the politician's party facing increased scrutiny."
+                "summary": "South Korea's opposition candidate for the upcoming presidential election, Park Young-sun, has tested positive for COVID-19. Park is leading in the polls but her positive test has raised concerns about her ability to lead the country."
+            },
+            {
+                "title": "South Korea's trade unions plan nationwide strike over labor rights",
+                "risk_level": "Low",
+                "summary": "South Korea's major trade unions have announced plans for a nationwide strike on Wednesday, protesting the government's labor policies. The strike could disrupt key industries, including manufacturing and transportation."
             }
         ],
         "Japan": [
             {
+                "title": "Japan's LDP Seeks to Reunify With Ruling Party After Scandal",
+                "risk_level": "Medium",
+                "summary": "The LDP's decision to reconsolidate with the ruling party could have implications on the stability of the Japanese government."
+            },
+            {
                 "title": "",
-                "risk_level": "Low",
+                "risk_level": "",
                 "summary": ""
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "On Monday a fire broke out at a Japanese military base, causing minor injuries.",
-                "date": "2023-07-24"
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "",
-                "date": ""
+                "title": "North Korea Missile Test Fears Prompt Japan's Defense Agency to Raise Alert",
+                "risk_level": "High",
+                "summary": "Following North Korea's ballistic missile launch, Japan's defense agency has elevated its alert status, indicating a heightened risk of missile threats against the country."
             }
         ]
     }
