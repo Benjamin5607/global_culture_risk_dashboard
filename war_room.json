@@ -3,76 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-Russia tensions rise over Ukraine conflict",
+                "title": "Global cyberattack disrupts critical infrastructure",
                 "risk_level": "High",
-                "summary": "Tensions between the US and Russia have escalated due to the ongoing conflict in Ukraine, raising concerns about the potential for further escalation and humanitarian crisis."
+                "summary": "A sophisticated cyberattack hits several governments and companies worldwide, highlighting vulnerabilities in critical infrastructure."
             },
             {
-                "title": "Global economic impact of the war in Ukraine",
+                "title": "Ongoing conflict escalates in Eastern Europe",
                 "risk_level": "High",
-                "summary": "The ongoing conflict in Ukraine is having a significant impact on the global economy, with rising food and energy prices and a potential for trade disruptions."
+                "summary": "Tensions between rival nations in Eastern Europe continue to rise, increasing the risk of a broader conflict."
             },
             {
-                "title": "Surge in COVID-19 cases in China due to new variant",
+                "title": "Social media platform hacked, exposing user data",
                 "risk_level": "Medium",
-                "summary": "A new variant of COVID-19 has been detected in China, leading to a surge in cases and raising concerns about the potential for a new wave of infections."
+                "summary": "A popular social media platform suffers a data breach, putting sensitive user information at risk of exploitation."
             }
         ],
         "United States": [
             {
-                "title": "U.S. Senate votes to advance a gun control bill",
+                "title": "Federal Judge Blocks Texas 6-Week Abortion Ban",
+                "risk_level": "High",
+                "summary": "A federal judge blocked a new 6-week abortion ban in Texas, citing concerns about its impact on patients from out of state."
+            },
+            {
+                "title": "US House of Representatives Holds Hearing on AI Safety",
                 "risk_level": "Medium",
-                "summary": "The U.S. Senate has voted to advance a bipartisan gun control bill, in a move aimed at reducing gun violence in the country. The bill would increase background checks for buyers under 21 and provide red flag laws to allow authorities to seize guns from individuals deemed a risk to themselves or others."
+                "summary": "The US House of Representatives' Committee on Science, Space, and Technology held a hearing to discuss the safety and risks of artificial intelligence."
             },
             {
-                "title": "U.S. Supreme Court to hear a gun rights case",
-                "risk_level": "High",
-                "summary": "The U.S. Supreme Court has agreed to hear a case on whether a state's ban on carrying a handgun for self-defense is in line with the Second Amendment's protection of an individual's right to bear arms."
-            },
-            {
-                "title": "White House calls for calm ahead of possible unrest over abortion rights",
-                "risk_level": "High",
-                "summary": "The White House has called for calm ahead of possible unrest over the potential overturning of the Roe v. Wade abortion decision. The move by the Supreme Court could spark protests and demonstrations in the U.S."
+                "title": "US Senators Press for More Information on TikTok Security",
+                "risk_level": "Medium",
+                "summary": "US senators sent a letter to TikTok's parent company ByteDance, requesting more information about the app's security and data collection practices."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul Mayor's Impeachment Proceedings: President Yoon's Office Faces Heat",
-                "risk_level": "Medium",
-                "summary": "Seoul Mayor Oh Se-hoon impeachment proceedings continue amidst allegations of corruption. This development puts the President's Office under increasing pressure, sparking concerns about the nation's governance."
-            },
-            {
-                "title": "North Korea Conducts Hypersonic Missile Test Amid Tensions",
+                "title": "North Korea missile tests spark fears of nuclear war",
                 "risk_level": "High",
-                "summary": "North Korea successfully tests a hypersonic missile, raising concerns about regional security and potential conflicts."
+                "summary": "South Korea expressed concerns over North Korea's missile tests, sparking fears of a nuclear war and increased military tensions in the region."
             },
             {
-                "title": "South Korea's Minimum Wage Hike Sparks Economic Concerns",
+                "title": "South Korea protests Japanese government's approval of contentious US military base",
+                "risk_level": "Medium",
+                "summary": "South Korean officials expressed opposition to Japan's decision to approve the construction of a US military base, amidst growing tensions between the two nations."
+            },
+            {
+                "title": "Protests erupt in South Korea over pension reform bill",
                 "risk_level": "Low",
-                "summary": "The South Korean government's decision to increase the minimum wage may lead to job losses and slower economic growth, as businesses grapple with the added costs."
+                "summary": "Thousands of South Koreans took to the streets to protest a proposed pension reform bill, which they claim will worsen their economic conditions."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "risk_category": "",
-                "risk_description": ""
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "risk_category": "",
-                "risk_description": ""
-            },
-            {
-                "title": "Japan Earthquake",
+                "title": "Japan's Ruling Party Scandal Deepens",
                 "risk_level": "High",
-                "summary": "",
-                "risk_category": "",
-                "risk_description": ""
+                "summary": "Japan's governing Liberal Democratic Party (LDP) is embroiled in a widening scandal over allegedly illicit donations, casting a shadow over the country's economic and political stability."
+            },
+            {
+                "title": "Protests Erupt Against Japan's Economic Policy",
+                "risk_level": "Medium",
+                "summary": "Demonstrators in Tokyo have taken to the streets to protest Japan's economic policies, including plans to raise taxes and cut benefits, highlighting growing public discontent with the government's agenda."
+            },
+            {
+                "title": "Tensions Rise Between Japan and China Over Taiwan",
+                "risk_level": "High",
+                "summary": "Strains in relations between Japan and China have escalated in the wake of a high-profile visit by the Speaker of the US House of Representatives to Taiwan, with both nations issuing diplomatic warnings to the other over the sensitive topic."
             }
         ]
     }
