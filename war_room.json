@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Rise in global supply chain disruptions due to geopolitical tensions",
+                "title": "Global Cybersecurity Alert Issued Over High-Risk Vulnerability ",
                 "risk_level": "High",
-                "summary": "Global supply chains have been disrupted over the past 7 days due to escalated tensions between key trade partners, leading to shortages and price increases"
+                "summary": "A high-risk vulnerability has been discovered in a widely used software, sparking a global cybersecurity alert. "
             },
             {
-                "title": "Cyberattacks on major tech companies expose sensitive user data",
-                "risk_level": "High",
-                "summary": "In the past week, several high-profile tech companies have reported data breaches, compromising user information and underscoring the growing threat of cybercrime"
-            },
-            {
-                "title": "Social unrest escalates in major cities over economic inequality",
+                "title": "China’s Economic Growth Shows Signs of Slowing Down",
                 "risk_level": "Medium",
-                "summary": "Protesters took to the streets in multiple cities worldwide, demanding action from governments to address growing wealth gaps and economic disparities"
+                "summary": "China's economic growth is showing signs of slowing down, sparking concerns over the country's economic stability."
+            },
+            {
+                "title": "Terrorist Attack in Eastern Europe Leaves Several Injured",
+                "risk_level": "High",
+                "summary": "A terrorist attack in eastern Europe has left several people injured, raising concerns over regional security."
             }
         ],
         "United States": [
             {
-                "title": "Ukraine-Russia Conflict Escalation Impacts US Economy",
+                "title": "Heat Wave Hits the Western United States, 3 Dead and Over 20 Missing",
                 "risk_level": "High",
-                "summary": "The ongoing conflict between Ukraine and Russia has led to a significant increase in global food and energy prices, affecting the US economy."
+                "summary": "A heat wave has gripped the western United States, with temperatures soaring to record highs, causing at least 3 deaths and over 20 people missing."
             },
             {
-                "title": "Gun Violence in US Public Places",
+                "title": "US Shootings Continue: At Least 4 Killed in Two Separate Incidents",
+                "risk_level": "High",
+                "summary": "At least four people have been killed in two separate shooting incidents in the United States over the past 48 hours, sparking concerns about gun violence."
+            },
+            {
+                "title": "US Fails to Secure UN Vote on Israel-Palestine Conflict Resolution",
                 "risk_level": "Medium",
-                "summary": "There have been several reports of gun violence in public places in the US over the past week, causing concern for public safety."
-            },
-            {
-                "title": "US-China Trade Tensions Escalate",
-                "risk_level": "High",
-                "summary": "Tensions between the US and China have escalated over trade disputes, leading to concerns about the global economy and potential trade wars."
+                "summary": "The United States has failed to secure a UN vote on a resolution aimed at resolving the Israel-Palestine conflict, further straining relations between the two nations."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "North Korea tested a possible SLBM, raising regional tensions (7 August 2022): South Korea's military has detected signs of a submarine-launched ballistic missile (SLBM) tested by North Korea."
+                "title": "Seoul's mayor resigns amid spy scandal",
+                "risk_level": "Medium",
+                "summary": "Seoul's mayor Oh Se-hun has resigned from his position amid controversy over allegations he collaborated with a North Korean spy agency."
             },
             {
-                "title": "Korean Unification Minister Resigns Amid Criticism",
+                "title": "South Korea-US trade talks stall over beef issue",
+                "risk_level": "Low",
+                "summary": "South Korea-US trade talks have stalled over an ongoing dispute over American beef imports, which could impact future trade agreements between the nations."
+            },
+            {
+                "title": "Protests held in South Korea against new military conscription",
                 "risk_level": "High",
-                "summary": "The South Korean Korean Unification Minister Noh Young-min resigned Tuesday amid criticism for mishandling sensitive information about a civilian who went to North Korea in 2020."
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "S. Korea, US to hold joint drills with Japanese troops in Guam: The South Korean and U.S. militaries plan to hold joint drills with Japanese troops in Guam, in a move designed to demonstrate a strong alliance against North Korea's nuclear threat."
+                "summary": "Mass protests were held in various cities in South Korea against the introduction of new military conscription policies, with many citizens concerned about the changes."
             }
         ],
         "Japan": [
             {
-                "title": "Rising concerns over Tokyo’s COVID-19 cases reach 2-year high",
-                "risk_level": "Medium",
-                "summary": "COVID-19 cases in Tokyo have surged, reaching a 2-year high, causing concerns about the risk of a new outbreak."
+                "title": "Japan's PM Fumio Kishida Survives No-Confidence Vote",
+                "risk_level": "Low",
+                "summary": "Japanese Prime Minister Fumio Kishida has won a crucial no-confidence vote in parliament, saving him from potential downfall."
             },
             {
-                "title": "Japan's Prime Minister Fumio Kishida's approval ratings remain low amid economic concerns",
+                "title": "Japan's Economy Shrank 1.4% in April-June",
                 "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida's approval ratings continue to be low due to economic concerns, including inflation and a slowdown in economic growth."
+                "summary": "Japan's economy shrank 1.4% in April-June due to a decline in domestic demand, the government said on Aug 5."
             },
             {
-                "title": "North Korea test-fires ballistic missile towards Japan's coastal waters",
+                "title": "Japanese Stocks Slide on Fears of Global Economic Downturn",
                 "risk_level": "High",
-                "summary": "North Korea has test-fired a ballistic missile towards Japan's coastal waters, sparking concerns about regional security and the potential for further provocation."
+                "summary": "Japanese stocks declined on Thursday due to concerns over a global economic downturn, with shares of the Nikkei 225 index falling 1.7%."
             }
         ]
     }
