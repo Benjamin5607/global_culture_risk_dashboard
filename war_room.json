@@ -3,72 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Rise in global supply chain disruptions due to geopolitical tensions",
                 "risk_level": "High",
-                "summary": ""
+                "summary": "Global supply chains have been disrupted over the past 7 days due to escalated tensions between key trade partners, leading to shortages and price increases"
             },
             {
-                "title": "",
+                "title": "Cyberattacks on major tech companies expose sensitive user data",
+                "risk_level": "High",
+                "summary": "In the past week, several high-profile tech companies have reported data breaches, compromising user information and underscoring the growing threat of cybercrime"
+            },
+            {
+                "title": "Social unrest escalates in major cities over economic inequality",
                 "risk_level": "Medium",
-                "summary": "",
-                "date": "2024-02-15"
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "",
-                "date": "2024-02-07"
+                "summary": "Protesters took to the streets in multiple cities worldwide, demanding action from governments to address growing wealth gaps and economic disparities"
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court's Ruling on Abortion Rights",
+                "title": "Ukraine-Russia Conflict Escalation Impacts US Economy",
+                "risk_level": "High",
+                "summary": "The ongoing conflict between Ukraine and Russia has led to a significant increase in global food and energy prices, affecting the US economy."
+            },
+            {
+                "title": "Gun Violence in US Public Places",
                 "risk_level": "Medium",
-                "summary": "The Supreme Court of the United States has overturned the landmark Roe v. Wade decision, leading to widespread protests and potential reproductive rights crisis."
+                "summary": "There have been several reports of gun violence in public places in the US over the past week, causing concern for public safety."
             },
             {
-                "title": "FBI Search of Mar-a-Lago",
+                "title": "US-China Trade Tensions Escalate",
                 "risk_level": "High",
-                "summary": "The FBI has searched the residence of former US President Donald Trump at Mar-a-Lago, fueling controversy and potential implications for the 2024 presidential election."
-            },
-            {
-                "title": "Mass Shooting in Highland Park",
-                "risk_level": "High",
-                "summary": "A mass shooting occurred in Highland Park, Illinois, during a July 4 parade, resulting in multiple fatalities and widespread shock."
+                "summary": "Tensions between the US and China have escalated over trade disputes, leading to concerns about the global economy and potential trade wars."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul to consider military option as North Korea may be preparing nuclear test",
-                "risk_level": "High",
-                "summary": "Reports indicate that North Korea could be planning a major military parade or even a nuclear test, sparking concerns in South Korea, and the US is warning that any new nuclear test would have severe consequences."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "North Korea tested a possible SLBM, raising regional tensions (7 August 2022): South Korea's military has detected signs of a submarine-launched ballistic missile (SLBM) tested by North Korea."
             },
             {
-                "title": "South Korea's new president vows to strengthen ties with US, boost military deterrence",
-                "risk_level": "Medium",
-                "summary": "South Korea's newly sworn-in President Yoon Suk-yeol reaffirmed his country's commitment to strengthening its ties with the United States, emphasizing the importance of trilateral cooperation on issues like nuclear deterrence and regional security."
+                "title": "Korean Unification Minister Resigns Amid Criticism",
+                "risk_level": "High",
+                "summary": "The South Korean Korean Unification Minister Noh Young-min resigned Tuesday amid criticism for mishandling sensitive information about a civilian who went to North Korea in 2020."
             },
             {
-                "title": "North Korea's military threatens South Korea and US with 'military action' over joint drills",
-                "risk_level": "High",
-                "summary": "North Korea's state media accused South Korea and the US of 'aggravating the situation' and 'jeopardizing peace' on the Korean Peninsula, with the North's military vowing to take 'military action' in response to joint military drills between Seoul and Washington."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "S. Korea, US to hold joint drills with Japanese troops in Guam: The South Korean and U.S. militaries plan to hold joint drills with Japanese troops in Guam, in a move designed to demonstrate a strong alliance against North Korea's nuclear threat."
             }
         ],
         "Japan": [
             {
-                "title": "Mass demonstration in Tokyo demands economic reform",
+                "title": "Rising concerns over Tokyo’s COVID-19 cases reach 2-year high",
                 "risk_level": "Medium",
-                "summary": "Thousands of protest in Tokyo, demanding government to address issues of economic inequality and pension reform."
+                "summary": "COVID-19 cases in Tokyo have surged, reaching a 2-year high, causing concerns about the risk of a new outbreak."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Japan's Prime Minister Fumio Kishida's approval ratings remain low amid economic concerns",
+                "risk_level": "Medium",
+                "summary": "Japanese Prime Minister Fumio Kishida's approval ratings continue to be low due to economic concerns, including inflation and a slowdown in economic growth."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "North Korea test-fires ballistic missile towards Japan's coastal waters",
+                "risk_level": "High",
+                "summary": "North Korea has test-fired a ballistic missile towards Japan's coastal waters, sparking concerns about regional security and the potential for further provocation."
             }
         ]
     }
