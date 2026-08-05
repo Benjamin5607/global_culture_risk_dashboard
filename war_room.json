@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-Iran Conflict Escalation",
+                "title": "Tensions between China and the US over Taiwan",
                 "risk_level": "High",
-                "summary": "Increased tensions between the US and Iran have escalated after a recent drone attack on an oil refinery."
+                "summary": "Chinese officials have warned of 'serious consequences' following a recent Congressional delegation visit to Taiwan, exacerbating already tense relations between Beijing and Washington."
             },
             {
-                "title": "Global Supply Chain Disruptions Due to Suez Canal Blockage",
-                "risk_level": "High",
-                "summary": "The Suez Canal has been blocked due to a massive container ship grounding, causing disruptions to global supply chains."
-            },
-            {
-                "title": "Rise in Anti-Government Protests in Europe",
+                "title": "Ukrainian grain exports resume after deal with Russia",
                 "risk_level": "Medium",
-                "summary": "Protests against government policies and COVID-19 measures have been reported in several European countries."
+                "summary": "A deal to allow Ukraine to export grain through the Black Sea has been agreed upon by Ukraine, Russia, and Turkey, aiming to alleviate global food shortages."
+            },
+            {
+                "title": "Protests in Iran over Amini's death in police custody",
+                "risk_level": "High",
+                "summary": "Iranian authorities have cracked down on protests sparked by the death of Mahsa Amini in police custody, leading to a surge in violence and human rights concerns."
             }
         ],
         "United States": [
             {
-                "title": "US Border Crossing Shooting Leaves 3 Dead, 1 Injured",
-                "risk_level": "High",
-                "summary": "A deadly shooting occurred at a US border crossing in Texas, leaving three people dead and one injured."
+                "title": "",
+                "risk_level": "Low",
+                "summary": ""
             },
             {
-                "title": "Supreme Court Overturns Roe v. Wade, Ending 49-Year Abortion Ruling",
-                "risk_level": "High",
-                "summary": "The US Supreme Court overturned Roe v. Wade, ending a 49-year ruling that protected women's right to abortion."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Gunman kills two and injures several others in shooting at a California office building. The incident is currently under investigation, but authorities believe it was a targeted attack."
             },
             {
-                "title": "Heatwave Grips the US, With Record Temperatures and Deadly Consequences",
+                "title": "Gun Sales Surge in US Following Supreme Court Gun Rights Decision",
                 "risk_level": "High",
-                "summary": "A severe heatwave is battering the US, with record-breaking temperatures and multiple deaths attributed to the extreme heat."
+                "summary": "Following the recent US Supreme Court decision which loosened restrictions on interstate firearms sales, sales have surged in certain states. Critics argue this could lead to increased gun violence, while supporters believe the decision helps uphold the Second Amendment."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea, US, Japan, Australia and India agree to strengthen Quad partnership amid China's growing influence",
-                "risk_level": "Medium",
-                "summary": "South Korea has joined the US, Japan, Australia, and India in the Quad alliance, aimed at countering China's growing influence in the region."
-            },
-            {
-                "title": "South Korea raises alert level due to high chance of North Korea's missile launch",
-                "risk_level": "High",
-                "summary": "South Korea's military has raised its alert level in anticipation of a possible North Korean missile launch, following a recent series of ballistic missile tests by Pyongyang."
-            },
-            {
-                "title": "South Korean lawmakers call for probe into alleged North Korean spy ring",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "South Korean lawmakers have called for a probe into an alleged North Korean spy ring operating in the country, following the arrest of several individuals suspected of spying for Pyongyang."
+                "summary": "Demonstrations in Seoul amidst tensions over labor reform plans"
+            },
+            {
+                "title": "",
+                "risk_level": "High",
+                "summary": "North Korea fires ballistic missile into Japan's exclusive economic zone"
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Anti-North Korea protests escalate in Seoul amid missile test tensions"
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Hinnamor affects southern Japan",
+                "title": "Japan's Economy at Risk Due to Russia's War in Ukraine and China's Military Build-up",
                 "risk_level": "High",
-                "summary": "Typhoon Hinnamor made landfall in Japan on July 31, prompting warnings and evacuations. The storm caused power outages and injuries, with several flights canceled."
+                "summary": "Japan's economy is at risk due to Russia's war in Ukraine and China's military build-up, which has led to a surge in oil prices and a decline in investor confidence."
             },
             {
-                "title": "Omicron sub-variant detected in Japan",
+                "title": "Protests in Japan against the Government's Handling of the Economy",
                 "risk_level": "Medium",
-                "summary": "A new sub-variant of the Omicron COVID-19 variant has been detected in Japan, sparking concerns about a potential surge in cases."
+                "summary": "Protests have erupted in Japan against the government's handling of the economy, with protesters calling for increased spending to stimulate growth and alleviate poverty."
             },
             {
-                "title": "Anti-Nuclear Protests in Tokyo",
-                "risk_level": "Medium",
-                "summary": "Protesters gathered in Tokyo to demonstrate against nuclear energy and the government's plans to relax nuclear regulations, highlighting growing public concern over nuclear safety."
+                "title": "North Korea's Missile Tests Pose a Threat to Japan's Security",
+                "risk_level": "High",
+                "summary": "North Korea's recent missile tests have posed a threat to Japan's security, with many fearing that the country may soon be capable of launching a nuclear attack."
             }
         ]
     }
