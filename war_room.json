@@ -1,72 +1,74 @@
 {
-    "updated": "2026-08-04",
+    "updated": "2026-08-05",
     "scopes": {
         "Global (All)": [
             {
                 "title": "",
-                "risk_level": "Low",
-                "summary": "COVID-19 continues to spread in some parts of the world, causing disruptions to travel and trade."
+                "risk_level": "High",
+                "summary": ""
             },
             {
                 "title": "",
                 "risk_level": "Medium",
-                "summary": "Political unrest in a country in North America has led to increased tensions and potential for violence."
+                "summary": "",
+                "date": "2024-02-15"
             },
             {
                 "title": "",
-                "risk_level": "High",
-                "summary": "A natural disaster has caused significant damage and loss of life in a region of the world."
+                "risk_level": "Low",
+                "summary": "",
+                "date": "2024-02-07"
             }
         ],
         "United States": [
             {
-                "title": "Tornadoes hit multiple states",
-                "risk_level": "Low",
-                "summary": "At least 30 people were killed in the tornadoes that affected several states, including Alabama, Arkansas, Florida, Georgia, Illinois, Kentucky, Mississippi, Missouri, Ohio, South Carolina and Tennessee."
+                "title": "Supreme Court's Ruling on Abortion Rights",
+                "risk_level": "Medium",
+                "summary": "The Supreme Court of the United States has overturned the landmark Roe v. Wade decision, leading to widespread protests and potential reproductive rights crisis."
             },
             {
-                "title": "Supreme Court Justice Stephen Breyer to step down",
-                "risk_level": "Low",
-                "summary": "Justice Stephen Breyer's retirement will create a vacancy on the Supreme Court, which President Biden has pledged to fill with a Black woman. This development is significant for the future of the Court and the US judicial system."
-            },
-            {
-                "title": "FBI searches Trump's estate for classified documents",
+                "title": "FBI Search of Mar-a-Lago",
                 "risk_level": "High",
-                "summary": "The FBI searched former President Trump's Mar-a-Lago estate as part of an investigation into the handling of classified documents. This development has sparked controversy and raised concerns about executive power and national security."
+                "summary": "The FBI has searched the residence of former US President Donald Trump at Mar-a-Lago, fueling controversy and potential implications for the 2024 presidential election."
+            },
+            {
+                "title": "Mass Shooting in Highland Park",
+                "risk_level": "High",
+                "summary": "A mass shooting occurred in Highland Park, Illinois, during a July 4 parade, resulting in multiple fatalities and widespread shock."
             }
         ],
         "South Korea": [
             {
-                "title": "",
+                "title": "Seoul to consider military option as North Korea may be preparing nuclear test",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile off its east coast on Monday."
+                "summary": "Reports indicate that North Korea could be planning a major military parade or even a nuclear test, sparking concerns in South Korea, and the US is warning that any new nuclear test would have severe consequences."
             },
             {
-                "title": "",
+                "title": "South Korea's new president vows to strengthen ties with US, boost military deterrence",
                 "risk_level": "Medium",
-                "summary": "Rallies in South Korea to protest the military drills with the United States have turned violent, sparking concerns about social unrest."
+                "summary": "South Korea's newly sworn-in President Yoon Suk-yeol reaffirmed his country's commitment to strengthening its ties with the United States, emphasizing the importance of trilateral cooperation on issues like nuclear deterrence and regional security."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "South Korea has reported several cyberattacks targeting its government institutions and major companies, highlighting the country's growing concerns about cybersecurity threats."
+                "title": "North Korea's military threatens South Korea and US with 'military action' over joint drills",
+                "risk_level": "High",
+                "summary": "North Korea's state media accused South Korea and the US of 'aggravating the situation' and 'jeopardizing peace' on the Korean Peninsula, with the North's military vowing to take 'military action' in response to joint military drills between Seoul and Washington."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo Olympic Stadium Vandalized",
-                "risk_level": "High",
-                "summary": "The iconic Tokyo Olympic Stadium was vandalized with spray paint. The motive behind the vandalism is still unknown."
+                "title": "Mass demonstration in Tokyo demands economic reform",
+                "risk_level": "Medium",
+                "summary": "Thousands of protest in Tokyo, demanding government to address issues of economic inequality and pension reform."
             },
             {
-                "title": "North Korea Fires Two Missiles Over Japan",
-                "risk_level": "Extremely High",
-                "summary": "North Korea fired two ballistic missiles that flew over Japan, prompting an evacuation alert for the Japanese coast."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Japan's Fugitive Former Prime Minister Arrested",
-                "risk_level": "High",
-                "summary": "Japan's fugitive former Prime Minister Abe Shinzo was arrested by the Metropolitan Police Department for alleged involvement in a cronyism scandal."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
