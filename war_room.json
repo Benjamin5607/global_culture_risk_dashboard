@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Cybersecurity Alert Issued Over High-Risk Vulnerability ",
+                "title": "US-Iran Conflict Escalation",
                 "risk_level": "High",
-                "summary": "A high-risk vulnerability has been discovered in a widely used software, sparking a global cybersecurity alert. "
+                "summary": "Increased tensions between the US and Iran have escalated after a recent drone attack on an oil refinery."
             },
             {
-                "title": "China’s Economic Growth Shows Signs of Slowing Down",
+                "title": "Global Supply Chain Disruptions Due to Suez Canal Blockage",
+                "risk_level": "High",
+                "summary": "The Suez Canal has been blocked due to a massive container ship grounding, causing disruptions to global supply chains."
+            },
+            {
+                "title": "Rise in Anti-Government Protests in Europe",
                 "risk_level": "Medium",
-                "summary": "China's economic growth is showing signs of slowing down, sparking concerns over the country's economic stability."
-            },
-            {
-                "title": "Terrorist Attack in Eastern Europe Leaves Several Injured",
-                "risk_level": "High",
-                "summary": "A terrorist attack in eastern Europe has left several people injured, raising concerns over regional security."
+                "summary": "Protests against government policies and COVID-19 measures have been reported in several European countries."
             }
         ],
         "United States": [
             {
-                "title": "Heat Wave Hits the Western United States, 3 Dead and Over 20 Missing",
+                "title": "US Border Crossing Shooting Leaves 3 Dead, 1 Injured",
                 "risk_level": "High",
-                "summary": "A heat wave has gripped the western United States, with temperatures soaring to record highs, causing at least 3 deaths and over 20 people missing."
+                "summary": "A deadly shooting occurred at a US border crossing in Texas, leaving three people dead and one injured."
             },
             {
-                "title": "US Shootings Continue: At Least 4 Killed in Two Separate Incidents",
+                "title": "Supreme Court Overturns Roe v. Wade, Ending 49-Year Abortion Ruling",
                 "risk_level": "High",
-                "summary": "At least four people have been killed in two separate shooting incidents in the United States over the past 48 hours, sparking concerns about gun violence."
+                "summary": "The US Supreme Court overturned Roe v. Wade, ending a 49-year ruling that protected women's right to abortion."
             },
             {
-                "title": "US Fails to Secure UN Vote on Israel-Palestine Conflict Resolution",
-                "risk_level": "Medium",
-                "summary": "The United States has failed to secure a UN vote on a resolution aimed at resolving the Israel-Palestine conflict, further straining relations between the two nations."
+                "title": "Heatwave Grips the US, With Record Temperatures and Deadly Consequences",
+                "risk_level": "High",
+                "summary": "A severe heatwave is battering the US, with record-breaking temperatures and multiple deaths attributed to the extreme heat."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul's mayor resigns amid spy scandal",
+                "title": "South Korea, US, Japan, Australia and India agree to strengthen Quad partnership amid China's growing influence",
                 "risk_level": "Medium",
-                "summary": "Seoul's mayor Oh Se-hun has resigned from his position amid controversy over allegations he collaborated with a North Korean spy agency."
+                "summary": "South Korea has joined the US, Japan, Australia, and India in the Quad alliance, aimed at countering China's growing influence in the region."
             },
             {
-                "title": "South Korea-US trade talks stall over beef issue",
-                "risk_level": "Low",
-                "summary": "South Korea-US trade talks have stalled over an ongoing dispute over American beef imports, which could impact future trade agreements between the nations."
-            },
-            {
-                "title": "Protests held in South Korea against new military conscription",
+                "title": "South Korea raises alert level due to high chance of North Korea's missile launch",
                 "risk_level": "High",
-                "summary": "Mass protests were held in various cities in South Korea against the introduction of new military conscription policies, with many citizens concerned about the changes."
+                "summary": "South Korea's military has raised its alert level in anticipation of a possible North Korean missile launch, following a recent series of ballistic missile tests by Pyongyang."
+            },
+            {
+                "title": "South Korean lawmakers call for probe into alleged North Korean spy ring",
+                "risk_level": "Low",
+                "summary": "South Korean lawmakers have called for a probe into an alleged North Korean spy ring operating in the country, following the arrest of several individuals suspected of spying for Pyongyang."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's PM Fumio Kishida Survives No-Confidence Vote",
-                "risk_level": "Low",
-                "summary": "Japanese Prime Minister Fumio Kishida has won a crucial no-confidence vote in parliament, saving him from potential downfall."
-            },
-            {
-                "title": "Japan's Economy Shrank 1.4% in April-June",
-                "risk_level": "Medium",
-                "summary": "Japan's economy shrank 1.4% in April-June due to a decline in domestic demand, the government said on Aug 5."
-            },
-            {
-                "title": "Japanese Stocks Slide on Fears of Global Economic Downturn",
+                "title": "Typhoon Hinnamor affects southern Japan",
                 "risk_level": "High",
-                "summary": "Japanese stocks declined on Thursday due to concerns over a global economic downturn, with shares of the Nikkei 225 index falling 1.7%."
+                "summary": "Typhoon Hinnamor made landfall in Japan on July 31, prompting warnings and evacuations. The storm caused power outages and injuries, with several flights canceled."
+            },
+            {
+                "title": "Omicron sub-variant detected in Japan",
+                "risk_level": "Medium",
+                "summary": "A new sub-variant of the Omicron COVID-19 variant has been detected in Japan, sparking concerns about a potential surge in cases."
+            },
+            {
+                "title": "Anti-Nuclear Protests in Tokyo",
+                "risk_level": "Medium",
+                "summary": "Protesters gathered in Tokyo to demonstrate against nuclear energy and the government's plans to relax nuclear regulations, highlighting growing public concern over nuclear safety."
             }
         ]
     }
