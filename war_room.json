@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Tensions between China and the US over Taiwan",
+                "title": "Global Economic Uncertainty Amidst Rising Tensions With Russia",
                 "risk_level": "High",
-                "summary": "Chinese officials have warned of 'serious consequences' following a recent Congressional delegation visit to Taiwan, exacerbating already tense relations between Beijing and Washington."
+                "summary": "Global economic uncertainty has increased as tensions between the West and Russia escalate, leading to a rise in oil prices and potential supply chain disruptions."
             },
             {
-                "title": "Ukrainian grain exports resume after deal with Russia",
+                "title": "Increased Cyberattacks on Critical Infrastructure",
                 "risk_level": "Medium",
-                "summary": "A deal to allow Ukraine to export grain through the Black Sea has been agreed upon by Ukraine, Russia, and Turkey, aiming to alleviate global food shortages."
+                "summary": "A surge in cyberattacks on critical infrastructure, including power grids and financial institutions, has been reported, highlighting the need for robust cybersecurity measures."
             },
             {
-                "title": "Protests in Iran over Amini's death in police custody",
-                "risk_level": "High",
-                "summary": "Iranian authorities have cracked down on protests sparked by the death of Mahsa Amini in police custody, leading to a surge in violence and human rights concerns."
+                "title": "Heightened Concerns Over Pandemic-Related Lockdowns",
+                "risk_level": "Low",
+                "summary": "As cases of COVID-19 continue to rise, governments are reintroducing lockdown measures to slow the spread of the virus, causing concern among businesses and commuters."
             }
         ],
         "United States": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": ""
-            },
-            {
-                "title": "",
+                "title": "US Supreme Court Blocks Biden's Deportation Policies",
                 "risk_level": "Medium",
-                "summary": "Gunman kills two and injures several others in shooting at a California office building. The incident is currently under investigation, but authorities believe it was a targeted attack."
+                "summary": "The US Supreme Court blocked President Biden's deportation policies, creating uncertainty for immigrants in the country. The court's decision has political and social implications, with some groups seeing it as a major setback for immigration reform."
             },
             {
-                "title": "Gun Sales Surge in US Following Supreme Court Gun Rights Decision",
+                "title": "US-China Tensions Escalate Over Taiwan",
                 "risk_level": "High",
-                "summary": "Following the recent US Supreme Court decision which loosened restrictions on interstate firearms sales, sales have surged in certain states. Critics argue this could lead to increased gun violence, while supporters believe the decision helps uphold the Second Amendment."
+                "summary": "Tensions between the US and China have escalated over Taiwan, with the US sending a delegation to the island and China conducting military exercises in the area. The situation has the potential to spark a full-blown conflict between the two superpowers."
+            },
+            {
+                "title": "Jan 6 Committee Subpoenas Trump-Allied Witness",
+                "risk_level": "Medium",
+                "summary": "The Jan 6 Committee has subpoenaed a Trump-allied witness, raising questions about the former president's knowledge and involvement in the January 6 Capitol attack. The development has significant political implications and could potentially lead to further investigations."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Demonstrations in Seoul amidst tensions over labor reform plans"
-            },
-            {
-                "title": "",
+                "title": "North Korea fires unidentified projectile into Japan's waters",
                 "risk_level": "High",
-                "summary": "North Korea fires ballistic missile into Japan's exclusive economic zone"
+                "summary": "According to Japanese officials, the object crossed into Japan's air defense zone and landed in the waters off Hachijojima Island, but there were no immediate reports of damage or injuries."
             },
             {
-                "title": "",
+                "title": "Yoon's approval rating falls below 30% amid economic woes and corruption",
                 "risk_level": "Medium",
-                "summary": "Anti-North Korea protests escalate in Seoul amid missile test tensions"
+                "summary": "South Korean President Yoon Suk-yeol's approval rating has fallen below 30%, with many citizens expressing dissatisfaction with his handling of the economy and corruption scandals."
+            },
+            {
+                "title": "South Korean police arrest 13 activists for participating in rallies during state visit",
+                "risk_level": "Low",
+                "summary": "During the visit of a foreign dignitary to South Korea, police arrested 13 protesters who were participating in rallies near the foreign leader’s hotel."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Economy at Risk Due to Russia's War in Ukraine and China's Military Build-up",
-                "risk_level": "High",
-                "summary": "Japan's economy is at risk due to Russia's war in Ukraine and China's military build-up, which has led to a surge in oil prices and a decline in investor confidence."
-            },
-            {
-                "title": "Protests in Japan against the Government's Handling of the Economy",
+                "title": "Rising US-China Tensions Could Impact Japan-US Relations",
                 "risk_level": "Medium",
-                "summary": "Protests have erupted in Japan against the government's handling of the economy, with protesters calling for increased spending to stimulate growth and alleviate poverty."
+                "summary": "Japan is closely watching the escalating tensions between the US and China, which could have a significant impact on Japan-US relations."
             },
             {
-                "title": "North Korea's Missile Tests Pose a Threat to Japan's Security",
-                "risk_level": "High",
-                "summary": "North Korea's recent missile tests have posed a threat to Japan's security, with many fearing that the country may soon be capable of launching a nuclear attack."
+                "title": "China's Economic Slowdown May Affect Japan's Export Market",
+                "risk_level": "Medium",
+                "summary": "China's economic slowdown may lead to a decline in Japan's export market, potentially affecting the country's economic growth."
+            },
+            {
+                "title": "Japanese Government Faces Criticism for Handling of Fukushima Daiichi Nuclear Plant",
+                "risk_level": "Low",
+                "summary": "The Japanese government is facing criticism for its handling of the Fukushima Daiichi nuclear plant, which was damaged in the 2011 earthquake and tsunami."
             }
         ]
     }
