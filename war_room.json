@@ -1,72 +1,72 @@
 {
-    "updated": "2026-08-05",
+    "updated": "2026-08-06",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Uncertainty Amidst Rising Tensions With Russia",
+                "title": "Taiwan President Visits US Amid Tensions",
                 "risk_level": "High",
-                "summary": "Global economic uncertainty has increased as tensions between the West and Russia escalate, leading to a rise in oil prices and potential supply chain disruptions."
+                "summary": "China has condemned a planned visit by Taiwan’s President to the United States, which could trigger Beijing’s retaliation measures."
             },
             {
-                "title": "Increased Cyberattacks on Critical Infrastructure",
-                "risk_level": "Medium",
-                "summary": "A surge in cyberattacks on critical infrastructure, including power grids and financial institutions, has been reported, highlighting the need for robust cybersecurity measures."
+                "title": "Iran Protests Against Government Crackdown",
+                "risk_level": "High",
+                "summary": "Protests against the Iranian government have continued, with reports of security forces cracking down on demonstrators."
             },
             {
-                "title": "Heightened Concerns Over Pandemic-Related Lockdowns",
-                "risk_level": "Low",
-                "summary": "As cases of COVID-19 continue to rise, governments are reintroducing lockdown measures to slow the spread of the virus, causing concern among businesses and commuters."
+                "title": "European Union Introduces Economic Sanctions Against Russia",
+                "risk_level": "High",
+                "summary": "The European Union has introduced new economic sanctions against Russia in response to the ongoing conflict in Ukraine."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Blocks Biden's Deportation Policies",
-                "risk_level": "Medium",
-                "summary": "The US Supreme Court blocked President Biden's deportation policies, creating uncertainty for immigrants in the country. The court's decision has political and social implications, with some groups seeing it as a major setback for immigration reform."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "US-China Tensions Escalate Over Taiwan",
-                "risk_level": "High",
-                "summary": "Tensions between the US and China have escalated over Taiwan, with the US sending a delegation to the island and China conducting military exercises in the area. The situation has the potential to spark a full-blown conflict between the two superpowers."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Jan 6 Committee Subpoenas Trump-Allied Witness",
-                "risk_level": "Medium",
-                "summary": "The Jan 6 Committee has subpoenaed a Trump-allied witness, raising questions about the former president's knowledge and involvement in the January 6 Capitol attack. The development has significant political implications and could potentially lead to further investigations."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires unidentified projectile into Japan's waters",
+                "title": "North Korea's COVID-19 outbreak raises concerns for regional security",
                 "risk_level": "High",
-                "summary": "According to Japanese officials, the object crossed into Japan's air defense zone and landed in the waters off Hachijojima Island, but there were no immediate reports of damage or injuries."
+                "summary": "North Korea's COVID-19 outbreak has raised concerns for regional security, with South Korea and other countries on high alert for potential outbreaks and responses."
             },
             {
-                "title": "Yoon's approval rating falls below 30% amid economic woes and corruption",
+                "title": "South Korea's military drills with US amid rising tensions with North Korea",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol's approval rating has fallen below 30%, with many citizens expressing dissatisfaction with his handling of the economy and corruption scandals."
+                "summary": "South Korea and the US have conducted military drills, raising concerns about the escalating tensions between the two countries and potential military responses from North Korea."
             },
             {
-                "title": "South Korean police arrest 13 activists for participating in rallies during state visit",
-                "risk_level": "Low",
-                "summary": "During the visit of a foreign dignitary to South Korea, police arrested 13 protesters who were participating in rallies near the foreign leader’s hotel."
+                "title": "Protest in Seoul over government's handling of economy",
+                "risk_level": "Medium",
+                "summary": "Thousands of protesters took to the streets in Seoul to express dissatisfaction with the government's handling of the economy, highlighting growing social and economic concerns in South Korea."
             }
         ],
         "Japan": [
             {
-                "title": "Rising US-China Tensions Could Impact Japan-US Relations",
+                "title": "Tokyo Olympics Organizers Apologize After 3 Athletes Test Positive for COVID-19",
                 "risk_level": "Medium",
-                "summary": "Japan is closely watching the escalating tensions between the US and China, which could have a significant impact on Japan-US relations."
+                "summary": "The head of the Tokyo Olympics organizing committee has apologized after three athletes tested positive for COVID-19. The athletes are not from Japan and the source of the infection is unknown."
             },
             {
-                "title": "China's Economic Slowdown May Affect Japan's Export Market",
-                "risk_level": "Medium",
-                "summary": "China's economic slowdown may lead to a decline in Japan's export market, potentially affecting the country's economic growth."
+                "title": "Japan's Government Warns of Rising COVID-19 Cases Amid 5th Wave",
+                "risk_level": "High",
+                "summary": "The Japanese government has warned of a potential 5th wave of COVID-19 cases, as the number of new infections continues to rise. The government has asked citizens to stay vigilant and follow public health guidelines."
             },
             {
-                "title": "Japanese Government Faces Criticism for Handling of Fukushima Daiichi Nuclear Plant",
-                "risk_level": "Low",
-                "summary": "The Japanese government is facing criticism for its handling of the Fukushima Daiichi nuclear plant, which was damaged in the 2011 earthquake and tsunami."
+                "title": "North Korea Fires Ballistic Missile into Sea of Japan, South Korea Says",
+                "risk_level": "High",
+                "summary": "North Korea has fired a ballistic missile into the Sea of Japan, prompting a response from South Korea. The missile was reportedly a short-range ballistic missile, and the US and South Korea have condemned the launch."
             }
         ]
     }
