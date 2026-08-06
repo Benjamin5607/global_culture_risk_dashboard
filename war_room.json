@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Stability at Risk Due to Geopolitical Tensions",
-                "risk_level": "High",
-                "summary": "Rising tensions between major world powers have led to increased volatility in global markets."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Global Pandemic Risks Continue Due to New Variant",
-                "risk_level": "High",
-                "summary": "A new coronavirus variant has been identified, potentially threatening global vaccination efforts."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Global Supply Chain Disruptions Due to Cyberattacks",
-                "risk_level": "Medium",
-                "summary": "Increased cyberattacks on logistics and shipping companies have caused significant disruptions to global supply chains."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "United States": [
             {
-                "title": "Protests erupt across the US over overturning of Roe v. Wade",
-                "risk_level": "High",
-                "summary": "Anti-abortion protests take place in numerous cities throughout the United States following the overturning of Roe v. Wade by the Supreme Court on June 24."
+                "title": "US Supreme Court Rules in Favor of Biden's Student Loan Forgiveness Plan",
+                "risk_level": "Low",
+                "summary": "The US Supreme Court has ruled in favor of President Biden's student loan forgiveness plan, dealing a blow to Republican efforts to block it."
             },
             {
-                "title": "Federal Reserve raises interest rates to combat high inflation",
+                "title": "Tensions Between US and Cuba escalate over Detainee",
                 "risk_level": "Medium",
-                "summary": "The Federal Reserve announces a 75 basis-point rate increase in an effort to curb inflation, potentially impacting the US economy."
+                "summary": "The US and Cuba have exchanged public accusations over the detention of American Alan Gross, who was jailed for 5 years for espionage."
             },
             {
-                "title": "US and allies impose sanctions onRussia over Ukraine invasion",
+                "title": "US House of Representatives votes to impeach President Biden",
                 "risk_level": "High",
-                "summary": "The US and its allies impose additional sanctions on Russia in response to the ongoing invasion of Ukraine, escalating tensions between the nations."
+                "summary": "In a historic vote, the US House of Representatives has voted to impeach President Biden on charges of abuse of power and obstruction of Congress."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korean Navy Ship Collides with a Russian Vessel in the Sea of Japan",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A South Korean Navy ship collided with a Russian naval vessel in the Sea of Japan on [DATE]. The incident sparked tensions between the two nations."
+                "summary": "North Korea has claimed that it has successfully tested a new submarine-launched ballistic missile (SLBM), which could be a new threat to South Korea and Japan."
             },
             {
-                "title": "Protests Erupt in South Korea Over Plan to Build a New Airport",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Protesters took to the streets in South Korea to express their opposition to the government's plan to build a new airport in the region."
+                "summary": "South Korea's military is conducting a large-scale exercise near the border with North Korea, which could raise tensions between the two countries."
             },
             {
-                "title": "South Korea Seeks UN Help to Deal with North Korean Human Trafficking",
-                "risk_level": "High",
-                "summary": "South Korea has called for the United Nations to take action against North Korean human trafficking, which has increased in recent months."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "A recent survey in South Korea found that a majority of respondents support re-education programs for North Korean defectors, which could be seen as a positive step towards resolving the North Korean issue."
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 6.2 Earthquake Hits off Japan's Hokkaido",
+                "title": "COVID-19 restrictions tightened in Japan in response to rising cases",
                 "risk_level": "High",
-                "summary": "A magnitude 6.2 earthquake struck off the northern Japanese island of Hokkaido, causing widespread panic and disrupting power and transportation systems, but no immediate casualties have been reported."
+                "summary": "Japan has tightened COVID-19 restrictions in several prefectures as the country sees a spike in cases. The measures include mask-wearing mandates and increased surveillance at airports."
             },
             {
-                "title": "Japan's Opposition Party Wins 2/3 Majority in Upper House Election",
+                "title": "Protests against Japan's plan to release treated Fukushima water into the ocean",
+                "risk_level": "High",
+                "summary": "Hundreds of protesters gathered in Tokyo to voice their opposition to Japan's plan to release treated Fukushima water into the ocean. The plan has been met with criticism from neighboring countries and environmental groups."
+            },
+            {
+                "title": "Japan's economy contracts for the first time in six quarters",
                 "risk_level": "Medium",
-                "summary": "Japan's main opposition party won a two-thirds majority in the country's upper house election, marking a historic shift in the country's politics and setting the stage for a potentially significant change in the country's leadership."
-            },
-            {
-                "title": "Japan's Economy Slows Down Amid Global Economic Downturn",
-                "risk_level": "Low",
-                "summary": "Japan's economy has slowed down amid the global economic downturn, with the country's GDP growth rate falling to -0.8% in the previous quarter, raising concerns about the country's growth prospects."
+                "summary": "Japan's economy has contracted for the first time in six quarters, citing a decline in consumer spending and business investment. The contraction is a concern for the country's economic prospects and its ability to support its population."
             }
         ]
     }
