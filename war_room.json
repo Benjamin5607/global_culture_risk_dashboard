@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Taiwan President Visits US Amid Tensions",
+                "title": "Global Economic Stability at Risk Due to Geopolitical Tensions",
                 "risk_level": "High",
-                "summary": "China has condemned a planned visit by Taiwan’s President to the United States, which could trigger Beijing’s retaliation measures."
+                "summary": "Rising tensions between major world powers have led to increased volatility in global markets."
             },
             {
-                "title": "Iran Protests Against Government Crackdown",
+                "title": "Global Pandemic Risks Continue Due to New Variant",
                 "risk_level": "High",
-                "summary": "Protests against the Iranian government have continued, with reports of security forces cracking down on demonstrators."
+                "summary": "A new coronavirus variant has been identified, potentially threatening global vaccination efforts."
             },
             {
-                "title": "European Union Introduces Economic Sanctions Against Russia",
-                "risk_level": "High",
-                "summary": "The European Union has introduced new economic sanctions against Russia in response to the ongoing conflict in Ukraine."
+                "title": "Global Supply Chain Disruptions Due to Cyberattacks",
+                "risk_level": "Medium",
+                "summary": "Increased cyberattacks on logistics and shipping companies have caused significant disruptions to global supply chains."
             }
         ],
         "United States": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Protests erupt across the US over overturning of Roe v. Wade",
+                "risk_level": "High",
+                "summary": "Anti-abortion protests take place in numerous cities throughout the United States following the overturning of Roe v. Wade by the Supreme Court on June 24."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Federal Reserve raises interest rates to combat high inflation",
+                "risk_level": "Medium",
+                "summary": "The Federal Reserve announces a 75 basis-point rate increase in an effort to curb inflation, potentially impacting the US economy."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "US and allies impose sanctions onRussia over Ukraine invasion",
+                "risk_level": "High",
+                "summary": "The US and its allies impose additional sanctions on Russia in response to the ongoing invasion of Ukraine, escalating tensions between the nations."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's COVID-19 outbreak raises concerns for regional security",
+                "title": "South Korean Navy Ship Collides with a Russian Vessel in the Sea of Japan",
                 "risk_level": "High",
-                "summary": "North Korea's COVID-19 outbreak has raised concerns for regional security, with South Korea and other countries on high alert for potential outbreaks and responses."
+                "summary": "A South Korean Navy ship collided with a Russian naval vessel in the Sea of Japan on [DATE]. The incident sparked tensions between the two nations."
             },
             {
-                "title": "South Korea's military drills with US amid rising tensions with North Korea",
+                "title": "Protests Erupt in South Korea Over Plan to Build a New Airport",
                 "risk_level": "Medium",
-                "summary": "South Korea and the US have conducted military drills, raising concerns about the escalating tensions between the two countries and potential military responses from North Korea."
+                "summary": "Protesters took to the streets in South Korea to express their opposition to the government's plan to build a new airport in the region."
             },
             {
-                "title": "Protest in Seoul over government's handling of economy",
-                "risk_level": "Medium",
-                "summary": "Thousands of protesters took to the streets in Seoul to express dissatisfaction with the government's handling of the economy, highlighting growing social and economic concerns in South Korea."
+                "title": "South Korea Seeks UN Help to Deal with North Korean Human Trafficking",
+                "risk_level": "High",
+                "summary": "South Korea has called for the United Nations to take action against North Korean human trafficking, which has increased in recent months."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo Olympics Organizers Apologize After 3 Athletes Test Positive for COVID-19",
+                "title": "Magnitude 6.2 Earthquake Hits off Japan's Hokkaido",
+                "risk_level": "High",
+                "summary": "A magnitude 6.2 earthquake struck off the northern Japanese island of Hokkaido, causing widespread panic and disrupting power and transportation systems, but no immediate casualties have been reported."
+            },
+            {
+                "title": "Japan's Opposition Party Wins 2/3 Majority in Upper House Election",
                 "risk_level": "Medium",
-                "summary": "The head of the Tokyo Olympics organizing committee has apologized after three athletes tested positive for COVID-19. The athletes are not from Japan and the source of the infection is unknown."
+                "summary": "Japan's main opposition party won a two-thirds majority in the country's upper house election, marking a historic shift in the country's politics and setting the stage for a potentially significant change in the country's leadership."
             },
             {
-                "title": "Japan's Government Warns of Rising COVID-19 Cases Amid 5th Wave",
-                "risk_level": "High",
-                "summary": "The Japanese government has warned of a potential 5th wave of COVID-19 cases, as the number of new infections continues to rise. The government has asked citizens to stay vigilant and follow public health guidelines."
-            },
-            {
-                "title": "North Korea Fires Ballistic Missile into Sea of Japan, South Korea Says",
-                "risk_level": "High",
-                "summary": "North Korea has fired a ballistic missile into the Sea of Japan, prompting a response from South Korea. The missile was reportedly a short-range ballistic missile, and the US and South Korea have condemned the launch."
+                "title": "Japan's Economy Slows Down Amid Global Economic Downturn",
+                "risk_level": "Low",
+                "summary": "Japan's economy has slowed down amid the global economic downturn, with the country's GDP growth rate falling to -0.8% in the previous quarter, raising concerns about the country's growth prospects."
             }
         ]
     }
