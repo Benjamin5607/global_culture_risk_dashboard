@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "US-Russia: Escalating Tensions in Eastern Ukraine",
+                "risk_level": "High",
+                "summary": "Russia massed further troops on the Ukraine border, while the US and Europe issued warnings against further aggression."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "China-Taiwan: Rising Military Tensions",
+                "risk_level": "Medium",
+                "summary": "China conducted large-scale military drills near Taiwan, sparking concerns about the potential for an invasion."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Global Economic Slowdown: Warning Signs From Europe and Asia",
+                "risk_level": "Low",
+                "summary": "The global economic outlook darkened as indicators from key regions including the Eurozone and Asia point towards a slowdown."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Rules in Favor of Biden's Student Loan Forgiveness Plan",
-                "risk_level": "Low",
-                "summary": "The US Supreme Court has ruled in favor of President Biden's student loan forgiveness plan, dealing a blow to Republican efforts to block it."
-            },
-            {
-                "title": "Tensions Between US and Cuba escalate over Detainee",
-                "risk_level": "Medium",
-                "summary": "The US and Cuba have exchanged public accusations over the detention of American Alan Gross, who was jailed for 5 years for espionage."
-            },
-            {
-                "title": "US House of Representatives votes to impeach President Biden",
+                "title": "FBI searches Mar-a-Lago after Trump sues to block warrant",
                 "risk_level": "High",
-                "summary": "In a historic vote, the US House of Representatives has voted to impeach President Biden on charges of abuse of power and obstruction of Congress."
+                "summary": "The FBI searched former President Donald Trump's Mar-a-Lago estate in a probe into whether he wrongly kept classified documents."
+            },
+            {
+                "title": "US Congress fails to pass gun control measures after Texas school shooting",
+                "risk_level": "High",
+                "summary": "The US Congress has failed to pass comprehensive gun control measures following the horrific Texas school shooting, sparking renewed calls for action."
+            },
+            {
+                "title": "US Supreme Court blocks Biden's vaccine mandate for large employers",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has blocked President Joe Biden's vaccine mandate for large employers, dealing a blow to his administration's efforts to contain the COVID-19 pandemic."
             }
         ],
         "South Korea": [
             {
-                "title": "",
+                "title": "North Korea's COVID-19 Outbreak Raises Concerns",
                 "risk_level": "High",
-                "summary": "North Korea has claimed that it has successfully tested a new submarine-launched ballistic missile (SLBM), which could be a new threat to South Korea and Japan."
+                "summary": "North Korea's reported COVID-19 outbreak has raised concerns over its potential impact on South Korea's health system and regional stability. The situation could lead to increased tensions between the two countries, potentially affecting trade and diplomatic relations."
             },
             {
-                "title": "",
+                "title": "South Korea's Presidential Election Campaign Heats Up",
                 "risk_level": "Medium",
-                "summary": "South Korea's military is conducting a large-scale exercise near the border with North Korea, which could raise tensions between the two countries."
+                "summary": "South Korea's presidential election campaign has intensified, with multiple candidates vying for the top spot. The election is expected to be fiercely contested, with potential implications for the country's economic and social policies."
             },
             {
-                "title": "",
+                "title": "South Korea's Response to Japanese Sanctions Sparks Protests",
                 "risk_level": "Low",
-                "summary": "A recent survey in South Korea found that a majority of respondents support re-education programs for North Korean defectors, which could be seen as a positive step towards resolving the North Korean issue."
+                "summary": "South Korea's response to Japanese sanctions has sparked protests and diplomatic tensions between the two countries. The situation is unlikely to escalate further, but it remains a minor concern for regional stability and bilateral relations."
             }
         ],
         "Japan": [
             {
-                "title": "COVID-19 restrictions tightened in Japan in response to rising cases",
-                "risk_level": "High",
-                "summary": "Japan has tightened COVID-19 restrictions in several prefectures as the country sees a spike in cases. The measures include mask-wearing mandates and increased surveillance at airports."
+                "title": "Japan PM Kishida Fumio Tests Positive for COVID-19",
+                "risk_level": "Low",
+                "summary": "Japan's Prime Minister Fumio Kishida tested positive for COVID-19, but his condition is not serious."
             },
             {
-                "title": "Protests against Japan's plan to release treated Fukushima water into the ocean",
-                "risk_level": "High",
-                "summary": "Hundreds of protesters gathered in Tokyo to voice their opposition to Japan's plan to release treated Fukushima water into the ocean. The plan has been met with criticism from neighboring countries and environmental groups."
-            },
-            {
-                "title": "Japan's economy contracts for the first time in six quarters",
+                "title": "Japan's Nikkei 225 falls 2.4% as inflation worries deepen",
                 "risk_level": "Medium",
-                "summary": "Japan's economy has contracted for the first time in six quarters, citing a decline in consumer spending and business investment. The contraction is a concern for the country's economic prospects and its ability to support its population."
+                "summary": "Japan's major stock market index, the Nikkei 225, fell 2.4% as concerns about inflation and monetary policy mount."
+            },
+            {
+                "title": "Japan and US to hold joint military drills in Guam",
+                "risk_level": "High",
+                "summary": "Japan and the United States will hold joint military drills in Guam to show their commitment to regional security and counter China's growing military presence."
             }
         ]
     }
