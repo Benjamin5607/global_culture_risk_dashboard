@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Tensions rise over Ukraine-Russia conflict",
+                "title": "Ransomware Attack on Ukraine's State Service of Ukraine for Emergencies",
                 "risk_level": "High",
-                "summary": "The conflict between Ukraine and Russia has escalated, with both sides exchanging fire. The situation remains tense, with concerns of a larger conflict."
+                "summary": "Cybersecurity risk to critical infrastructure"
             },
             {
-                "title": "Global Supply Chain Disruption due to Port Closures",
-                "risk_level": "High",
-                "summary": "Port closures in major shipping hubs have caused global supply chain disruption, impacting trade and commerce."
-            },
-            {
-                "title": "Climate Change Protests Continue Globally",
+                "title": "Global protests against food inflation",
                 "risk_level": "Medium",
-                "summary": "Protests against climate change continue globally, with demands for action from world leaders. The situation remains peaceful, but with potential for escalation."
+                "summary": "Social unrest over cost of living"
+            },
+            {
+                "title": "North Korea sanctions extension by UN Security Council",
+                "risk_level": "High",
+                "summary": "Diplomatic tension and international conflict"
             }
         ],
         "United States": [
             {
-                "title": "Tensions Rise Between US and China Over Taiwan",
+                "title": "Ukraine-Russia Conflict Escalation",
                 "risk_level": "Medium",
-                "summary": "The US and China have escalated tensions over Taiwan, with both countries conducting military exercises in the region. The US has sent a delegation to Taiwan for talks, while China has vowed to take all necessary measures to protect its sovereignty."
+                "summary": "The Biden administration announced a $1.85 billion military aid package to Ukraine, amid ongoing tensions with Russia."
             },
             {
-                "title": "House Panel Votes to Hold Former Trump White House Aides in Contempt",
+                "title": "Supreme Court Decision on Abortion Rights",
                 "risk_level": "High",
-                "summary": "A House committee has voted to hold two former Trump White House aides in contempt for refusing to cooperate with an investigation into the January 6th US Capitol attack."
+                "summary": "The US Supreme Court overturned Roe v. Wade, a landmark decision that protected a woman's right to abortion, sparking widespread protests."
             },
             {
-                "title": "Supreme Court Rules Against Trump in Mar-a-Lago Documents Case",
-                "risk_level": "Medium",
-                "summary": "The US Supreme Court has ruled against Donald Trump in a case related to the FBI's seizure of documents from his Mar-a-Lago estate. The court has allowed the investigation to proceed."
+                "title": "US-China Trade Relations Tensions",
+                "risk_level": "High",
+                "summary": "The US and China imposed tariffs on each other's goods, escalating trade tensions between the two nations."
             }
         ],
         "South Korea": [
             {
-                "title": "US and South Korea Begin Large-Scale Drill Amid North Korea Tension",
+                "title": "Samsung Heavy Industries and Korean Air face corruption probe over Navy helicopter deal",
                 "risk_level": "High",
-                "summary": "The United States and South Korea began a joint large-scale military exercise, known as 'Warrior Guard,' as tensions with North Korea continue to escalate."
+                "summary": "South Korean authorities have launched a corruption probe into the country's two largest companies, Samsung Heavy Industries and Korean Air, over their involvement in a deal to supply Navy helicopters."
             },
             {
-                "title": "North Korea Test-Fires Ballistic Missiles, South Korea Says",
-                "risk_level": "High",
-                "summary": "North Korea test-fired several ballistic missiles, prompting a military response from South Korea and the United States."
-            },
-            {
-                "title": "South Korea Arrests Suspect Connected to North Korean Espionage",
+                "title": "South Korea and US hold high-level talks on North Korea",
                 "risk_level": "Medium",
-                "summary": "South Korean authorities arrested a suspect believed to be connected to a North Korean espionage operation, sparking concerns about national security."
+                "summary": "The US and South Korean officials have held high-level talks to discuss North Korea's growing nuclear capabilities and the US's strategy to address the issue."
+            },
+            {
+                "title": "South Korea's President Yoon meets with Japanese PM to discuss historical disputes",
+                "risk_level": "Low",
+                "summary": "South Korean President Yoon Suk-yeol has met with visiting Japanese Prime Minister Fumio Kishida to discuss outstanding historical disputes and ways to improve ties with Tokyo."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo 2020 Olympics' COVID-19 Outbreak Raises Concerns",
+                "title": "Typhoon Hinnamor brings strong winds to southern Japan, prompting weather warnings",
                 "risk_level": "High",
-                "summary": "A COVID-19 outbreak among athletes has sparked fears about the potential impact on the Tokyo Olympics."
+                "summary": "A powerful typhoon brought strong winds and heavy rainfall to southern Japan, prompting weather warnings and causing transportation disruptions. The typhoon made landfall on July 30, bringing sustained winds of up to 140km/h (87mph) and heavy rainfall to the region."
             },
             {
-                "title": "Japan Seeks Global Support In Case Of North Korea Strike",
-                "risk_level": "High",
-                "summary": "Japan's defense minister has urged international cooperation in case of a North Korean attack."
-            },
-            {
-                "title": "Japan's LDP Suffers Defeat in Tokyo Governor Election",
+                "title": "Japanese government to review its COVID-19 measures amid rising concerns over Omicron variant",
                 "risk_level": "Medium",
-                "summary": "The Liberal Democratic Party (LDP) suffered a surprise defeat in a Tokyo gubernatorial election, which has exposed divisions within the party."
+                "summary": "The Japanese government announced plans to review its COVID-19 measures amid rising concerns over the spread of the Omicron variant. The government also announced plans to increase testing for international travelers and to consider imposing new restrictions on social gatherings."
+            },
+            {
+                "title": "Anti-Nuclear Protest Held in Tokyo Against Restarting Nuclear Reactors",
+                "risk_level": "High",
+                "summary": "Thousands of protesters gathered in Tokyo to condemn the Japanese government's plans to restart nuclear reactors. The protesters, organized by a coalition of anti-nuclear groups, argued that the reactors pose a significant risk to public safety and that their restart would undermine efforts to promote renewable energy."
             }
         ]
     }
