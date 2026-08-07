@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global economic tensions rise as US and China engage in trade war",
-                "risk_level": "Medium",
-                "summary": "The ongoing trade war between the US and China has led to a rise in global economic tensions, with analysts warning of a potential recession."
-            },
-            {
-                "title": "Coronavirus pandemic continues to spread globally",
+                "title": "Tensions rise over Ukraine-Russia conflict",
                 "risk_level": "High",
-                "summary": "The COVID-19 pandemic continues to spread globally, with new cases reported in multiple countries, and health officials warning of a potential second wave."
+                "summary": "The conflict between Ukraine and Russia has escalated, with both sides exchanging fire. The situation remains tense, with concerns of a larger conflict."
             },
             {
-                "title": "Protests break out in multiple countries over government corruption",
-                "risk_level": "Low",
-                "summary": "Protests have broken out in multiple countries over government corruption, with demonstrators demanding greater transparency and accountability."
+                "title": "Global Supply Chain Disruption due to Port Closures",
+                "risk_level": "High",
+                "summary": "Port closures in major shipping hubs have caused global supply chain disruption, impacting trade and commerce."
+            },
+            {
+                "title": "Climate Change Protests Continue Globally",
+                "risk_level": "Medium",
+                "summary": "Protests against climate change continue globally, with demands for action from world leaders. The situation remains peaceful, but with potential for escalation."
             }
         ],
         "United States": [
             {
-                "title": "Biden Administration's Plans to Expand Background Checks for Firearm Purchases",
+                "title": "Tensions Rise Between US and China Over Taiwan",
                 "risk_level": "Medium",
-                "summary": "The Biden administration is set to roll out new plans to expand background checks for firearm purchases, a move that could have significant implications for gun owners and the broader firearms industry."
+                "summary": "The US and China have escalated tensions over Taiwan, with both countries conducting military exercises in the region. The US has sent a delegation to Taiwan for talks, while China has vowed to take all necessary measures to protect its sovereignty."
             },
             {
-                "title": "Supreme Court to Hear Challenge to Biden's Student Loan Forgiveness Plan",
+                "title": "House Panel Votes to Hold Former Trump White House Aides in Contempt",
                 "risk_level": "High",
-                "summary": "The Supreme Court will hear a challenge to the Biden administration's student loan forgiveness plan, which has been a major controversy among conservatives and Republicans."
+                "summary": "A House committee has voted to hold two former Trump White House aides in contempt for refusing to cooperate with an investigation into the January 6th US Capitol attack."
             },
             {
-                "title": "US House of Representatives Votes to Censure Rep. Paul Gosar",
+                "title": "Supreme Court Rules Against Trump in Mar-a-Lago Documents Case",
                 "risk_level": "Medium",
-                "summary": "The US House of Representatives has voted to censure Rep. Paul Gosar (R-AZ) after he shared a meme making light of violence against Rep. Alexandria Ocasio-Cortez (D-NY) and President Joe Biden."
+                "summary": "The US Supreme Court has ruled against Donald Trump in a case related to the FBI's seizure of documents from his Mar-a-Lago estate. The court has allowed the investigation to proceed."
             }
         ],
         "South Korea": [
             {
-                "title": "US imposes additional sanctions on North Korea over missile tests",
+                "title": "US and South Korea Begin Large-Scale Drill Amid North Korea Tension",
                 "risk_level": "High",
-                "summary": "The US has imposed new sanctions on North Korea for its recent missile tests, targeting several individuals and entities. The move is seen as an attempt to pressure North Korea to return to nuclear talks. The sanctions include freezing assets and prohibiting US citizens from doing business with the targeted individuals and entities."
+                "summary": "The United States and South Korea began a joint large-scale military exercise, known as 'Warrior Guard,' as tensions with North Korea continue to escalate."
             },
             {
-                "title": "South Korea-US hold joint military exercise near North Korean border",
+                "title": "North Korea Test-Fires Ballistic Missiles, South Korea Says",
                 "risk_level": "High",
-                "summary": "South Korea and the US have held a joint military exercise near the border with North Korea, amid increased tensions on the peninsula. The exercise involved US F-35 fighter jets and South Korean F-15K jets, and was seen as a demonstration of the allies' military capabilities."
+                "summary": "North Korea test-fired several ballistic missiles, prompting a military response from South Korea and the United States."
             },
             {
-                "title": "South Korea's ruling party faces opposition over plans to reform election law",
+                "title": "South Korea Arrests Suspect Connected to North Korean Espionage",
                 "risk_level": "Medium",
-                "summary": "South Korea's ruling party is facing opposition from the opposition parties over plans to reform the election law. The ruling party's plan aims to introduce a 'proportional representation' system, which would give more seats to smaller parties. The opposition parties are criticizing the plan as undemocratic and biased towards the ruling party."
+                "summary": "South Korean authorities arrested a suspect believed to be connected to a North Korean espionage operation, sparking concerns about national security."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo Olympics Stadium Security Breach",
+                "title": "Tokyo 2020 Olympics' COVID-19 Outbreak Raises Concerns",
+                "risk_level": "High",
+                "summary": "A COVID-19 outbreak among athletes has sparked fears about the potential impact on the Tokyo Olympics."
+            },
+            {
+                "title": "Japan Seeks Global Support In Case Of North Korea Strike",
+                "risk_level": "High",
+                "summary": "Japan's defense minister has urged international cooperation in case of a North Korean attack."
+            },
+            {
+                "title": "Japan's LDP Suffers Defeat in Tokyo Governor Election",
                 "risk_level": "Medium",
-                "summary": "A security breach occurred at the Tokyo Olympics Stadium, putting athletes and attendees at risk. An investigation is underway to determine the cause of the breach."
-            },
-            {
-                "title": "Protest against Japanese Prime Minister Fumio Kishida",
-                "risk_level": "High",
-                "summary": "Thousands of protesters took to the streets in Tokyo to voice their discontent with Japanese Prime Minister Fumio Kishida's policies, highlighting rising tensions and social unrest."
-            },
-            {
-                "title": "North Korea's Intercontinental Ballistic Missile (ICBM) Test",
-                "risk_level": "High",
-                "summary": "North Korea conducted a successful intercontinental ballistic missile (ICBM) test, which has heightened concerns about regional security and global stability, particularly for Japan."
+                "summary": "The Liberal Democratic Party (LDP) suffered a surprise defeat in a Tokyo gubernatorial election, which has exposed divisions within the party."
             }
         ]
     }
