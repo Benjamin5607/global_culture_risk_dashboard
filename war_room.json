@@ -3,53 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Terrorist Attack in Nigeria",
+                "title": "US-China Relations Remain on High Alert",
                 "risk_level": "High",
-                "summary": "Insurgents in Nigeria have carried out a terrorist attack targeting a village in the north-east region, killing dozens of civilians."
+                "summary": "The US and China have maintained an increased level of military activity in the South China Sea, escalating tensions between the two nations."
             },
             {
-                "title": "Protests in China",
+                "title": "Ongoing Protests in Brazil",
                 "risk_level": "Medium",
-                "summary": "Ongoing protests in several cities across China, sparked by growing economic and social discontent, pose significant challenges for the authorities."
+                "summary": "Anti-government protests continue to rage in major Brazilian cities, highlighting deep-seated social and economic concerns."
             },
             {
-                "title": "US-Iran Tensions Escalate",
+                "title": "Global Economic Downturn",
                 "risk_level": "High",
-                "summary": "Increased tensions between the US and Iran have raised concerns about potential military conflicts in the region, impacting global energy markets and trade."
+                "summary": "The International Monetary Fund (IMF) warns of a possible global recession, citing rising interest rates and inflation."
             }
         ],
         "United States": [
             {
-                "title": "US Congresswoman Marjorie Taylor Greene Tests Positive for Covid-19",
-                "risk_level": "Low",
-                "summary": "US representative Marjorie Taylor Greene, who has been vocal about COVID-19 skeptics, has now tested positive for the virus."
-            },
-            {
-                "title": "Gun Laws Bill Passes Key Test in US Senate, Aiding Democrats",
-                "risk_level": "Medium",
-                "summary": "The Democrats hope the gun legislation will pass through the US Senate and help curb gun violence in the country."
-            },
-            {
-                "title": "Russian and U.S. Forces Clash Over a Downed Drone in Syria",
+                "title": "Protests Erupt in Chicago Over Police Shooting",
                 "risk_level": "High",
-                "summary": "Russia-U.S. tensions escalate as Russian forces open fire on US troops in Syria after shooting down one of America's drones."
+                "summary": "Protests broke out in Chicago after a man was shot and killed by a police officer."
+            },
+            {
+                "title": "House Republicans Vote to Remove Ilhan Omar from Foreign Affairs Committee",
+                "risk_level": "High",
+                "summary": "In a move seen as retaliatory, House Republicans voted to remove Rep. Ilhan Omar from the Foreign Affairs Committee."
+            },
+            {
+                "title": "Heatwave Brings Record High Temperatures to Western United States",
+                "risk_level": "Medium",
+                "summary": "A heatwave swept across the western United States, bringing record high temperatures and threatening infrastructure."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea launches ballistic missiles and artillery shells across the Demilitarized Zone (DMZ)",
+                "title": "Tensions between South Korea and North Korea escalate after joint military exercises",
                 "risk_level": "High",
-                "summary": "The launches, which included a Hwasong-12 and short-range ballistic missiles, as well as artillery shells, were seen as a significant escalation of tensions between North and South Korea."
+                "summary": "Tensions between South Korea and North Korea have escalated after the two countries conducted joint military exercises. The exercises, which included aircraft carrier drills and bombing runs, were seen as a provocation by North Korea, which responded by firing artillery shells into the Yellow Sea."
             },
             {
-                "title": "South Korea's president vows to strengthen national defense against North Korea's nuclear threats",
-                "risk_level": "High",
-                "summary": "President Yoon Suk-yeol's remarks came after North Korea's recent military exercises, which included the launch of a Hwasong-12 ballistic missile."
-            },
-            {
-                "title": "South Korean authorities confirm a high-profile hacking case involving a well-known cryptocurrency exchange",
+                "title": "South Korea's parliament passes bill to strengthen cyber security laws",
                 "risk_level": "Medium",
-                "summary": "The incident is believed to have been carried out by a North Korean hacking group, with the hackers making off with millions of dollars in cryptocurrency."
+                "summary": "South Korea's parliament has passed a bill to strengthen cyber security laws, following a series of high-profile hacking incidents. The bill, which is expected to be signed into law by the president, will require companies to report cyber attacks within 24 hours and will increase punishments for hackers."
+            },
+            {
+                "title": "South Korea reports spike in COVID-19 cases due to new variant",
+                "risk_level": "Medium",
+                "summary": "South Korea has reported a spike in COVID-19 cases, following the emergence of a new variant of the virus. The variant, which is believed to be more contagious than previous strains, has led to a sharp increase in cases, with health officials warning of a possible outbreak."
+            }
+        ],
+        "Japan": [
+            {
+                "title": "Protests Over Nuclear Plant Restart Planned in Japan",
+                "risk_level": "Medium",
+                "summary": "A group called Stop the Nuclear Plant's Restart! plans to protest against the restart of the Oi Nuclear Power Plant in Japan."
+            },
+            {
+                "title": "Japan's Government to Introduce New Immigration Rules",
+                "risk_level": "Medium",
+                "summary": "Japan's government will introduce new rules to make it easier for foreign workers to enter the country, with the aim of addressing labor shortages and demographic challenges."
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
