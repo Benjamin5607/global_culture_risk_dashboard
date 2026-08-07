@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Relations Remain on High Alert",
-                "risk_level": "High",
-                "summary": "The US and China have maintained an increased level of military activity in the South China Sea, escalating tensions between the two nations."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Demonstrations in cities across China continue over the country's strict COVID-19 policies, as protests spread and intensify in various parts of the country."
             },
             {
-                "title": "Ongoing Protests in Brazil",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Anti-government protests continue to rage in major Brazilian cities, highlighting deep-seated social and economic concerns."
+                "summary": "Tensions between the US and China reach a new high as Washington warns Beijing against supporting Russia in the Ukraine conflict, with US-China trade relations under scrutiny.    "
             },
             {
-                "title": "Global Economic Downturn",
-                "risk_level": "High",
-                "summary": "The International Monetary Fund (IMF) warns of a possible global recession, citing rising interest rates and inflation."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Riots erupt in various parts of the city of Kherson as Russian forces withdraw from the area, amid ongoing clashes between Ukrainian and Russian fighters in the region."
             }
         ],
         "United States": [
             {
-                "title": "Protests Erupt in Chicago Over Police Shooting",
+                "title": "US Supreme Court Blocks President Biden’s Student Loan Forgiveness Plan",
                 "risk_level": "High",
-                "summary": "Protests broke out in Chicago after a man was shot and killed by a police officer."
+                "summary": "The US Supreme Court has blocked President Biden’s student loan forgiveness plan, dealing a significant blow to the administration’s efforts to address the issue of student debt in the country."
             },
             {
-                "title": "House Republicans Vote to Remove Ilhan Omar from Foreign Affairs Committee",
+                "title": "House Jan. 6 Committee Issues Subpoenas to 6 Trump Allies",
                 "risk_level": "High",
-                "summary": "In a move seen as retaliatory, House Republicans voted to remove Rep. Ilhan Omar from the Foreign Affairs Committee."
+                "summary": "The House Jan. 6 committee has issued subpoenas to 6 Trump allies, including a former White House counsel, as part of an investigation into the events surrounding the 2021 U.S. Capitol riot."
             },
             {
-                "title": "Heatwave Brings Record High Temperatures to Western United States",
-                "risk_level": "Medium",
-                "summary": "A heatwave swept across the western United States, bringing record high temperatures and threatening infrastructure."
+                "title": "FBI Searching Mar-a-Lago After Trump Refuses to Return Classified Documents",
+                "risk_level": "High",
+                "summary": "The FBI has searched the Mar-a-Lago estate of former President Trump after he refused to return classified documents that were seized by the National Archives."
             }
         ],
         "South Korea": [
             {
-                "title": "Tensions between South Korea and North Korea escalate after joint military exercises",
+                "title": "South Korean President Criticized for Handling of NIS Scandal",
+                "risk_level": "Medium",
+                "summary": "South Korean President Yoon Suk-yeol faced criticism over his handling of a scandal involving the spy agency, which he is also the head of, amid concerns over national security and the rule of law."
+            },
+            {
+                "title": "North Korea's Military Modernization a Threat to Regional Security: U.S.",
                 "risk_level": "High",
-                "summary": "Tensions between South Korea and North Korea have escalated after the two countries conducted joint military exercises. The exercises, which included aircraft carrier drills and bombing runs, were seen as a provocation by North Korea, which responded by firing artillery shells into the Yellow Sea."
+                "summary": "The United States has expressed concern over North Korea's continued military modernization, which it sees as a threat to regional security and stability."
             },
             {
-                "title": "South Korea's parliament passes bill to strengthen cyber security laws",
+                "title": "South Korea and Japan to Resume Cooperation on North Korea Issues",
                 "risk_level": "Medium",
-                "summary": "South Korea's parliament has passed a bill to strengthen cyber security laws, following a series of high-profile hacking incidents. The bill, which is expected to be signed into law by the president, will require companies to report cyber attacks within 24 hours and will increase punishments for hackers."
-            },
-            {
-                "title": "South Korea reports spike in COVID-19 cases due to new variant",
-                "risk_level": "Medium",
-                "summary": "South Korea has reported a spike in COVID-19 cases, following the emergence of a new variant of the virus. The variant, which is believed to be more contagious than previous strains, has led to a sharp increase in cases, with health officials warning of a possible outbreak."
+                "summary": "South Korea and Japan have agreed to resume cooperation on issues related to North Korea, including its nuclear and missile programs, in a bid to strengthen regional security and stability."
             }
         ],
         "Japan": [
             {
-                "title": "Protests Over Nuclear Plant Restart Planned in Japan",
+                "title": "Japanese PM Fumio Kishida visits India amid tensions with China",
                 "risk_level": "Medium",
-                "summary": "A group called Stop the Nuclear Plant's Restart! plans to protest against the restart of the Oi Nuclear Power Plant in Japan."
+                "summary": "Japanese Prime Minister Fumio Kishida visited India, signaling a strategic shift in Japan's approach to regional security amid rising tensions with China."
             },
             {
-                "title": "Japan's Government to Introduce New Immigration Rules",
+                "title": "South Korea and Japan strengthen ties despite China's influence",
                 "risk_level": "Medium",
-                "summary": "Japan's government will introduce new rules to make it easier for foreign workers to enter the country, with the aim of addressing labor shortages and demographic challenges."
+                "summary": "South Korea and Japan agreed to strengthen their ties, boosting economic cooperation and strategic partnerships, despite China's growing influence in the region."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Japan's Kishida urges unity on China, North Korea threats",
+                "risk_level": "High",
+                "summary": "Japanese Prime Minister Fumio Kishida called for unity among regional countries to counter threats from China and North Korea amid rising tensions in the Indo-Pacific region."
             }
         ]
     }
