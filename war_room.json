@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Demonstrations in cities across China continue over the country's strict COVID-19 policies, as protests spread and intensify in various parts of the country."
-            },
-            {
-                "title": "",
+                "title": "Global economic tensions rise as US and China engage in trade war",
                 "risk_level": "Medium",
-                "summary": "Tensions between the US and China reach a new high as Washington warns Beijing against supporting Russia in the Ukraine conflict, with US-China trade relations under scrutiny.    "
+                "summary": "The ongoing trade war between the US and China has led to a rise in global economic tensions, with analysts warning of a potential recession."
             },
             {
-                "title": "",
+                "title": "Coronavirus pandemic continues to spread globally",
+                "risk_level": "High",
+                "summary": "The COVID-19 pandemic continues to spread globally, with new cases reported in multiple countries, and health officials warning of a potential second wave."
+            },
+            {
+                "title": "Protests break out in multiple countries over government corruption",
                 "risk_level": "Low",
-                "summary": "Riots erupt in various parts of the city of Kherson as Russian forces withdraw from the area, amid ongoing clashes between Ukrainian and Russian fighters in the region."
+                "summary": "Protests have broken out in multiple countries over government corruption, with demonstrators demanding greater transparency and accountability."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Blocks President Biden’s Student Loan Forgiveness Plan",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has blocked President Biden’s student loan forgiveness plan, dealing a significant blow to the administration’s efforts to address the issue of student debt in the country."
+                "title": "Biden Administration's Plans to Expand Background Checks for Firearm Purchases",
+                "risk_level": "Medium",
+                "summary": "The Biden administration is set to roll out new plans to expand background checks for firearm purchases, a move that could have significant implications for gun owners and the broader firearms industry."
             },
             {
-                "title": "House Jan. 6 Committee Issues Subpoenas to 6 Trump Allies",
+                "title": "Supreme Court to Hear Challenge to Biden's Student Loan Forgiveness Plan",
                 "risk_level": "High",
-                "summary": "The House Jan. 6 committee has issued subpoenas to 6 Trump allies, including a former White House counsel, as part of an investigation into the events surrounding the 2021 U.S. Capitol riot."
+                "summary": "The Supreme Court will hear a challenge to the Biden administration's student loan forgiveness plan, which has been a major controversy among conservatives and Republicans."
             },
             {
-                "title": "FBI Searching Mar-a-Lago After Trump Refuses to Return Classified Documents",
-                "risk_level": "High",
-                "summary": "The FBI has searched the Mar-a-Lago estate of former President Trump after he refused to return classified documents that were seized by the National Archives."
+                "title": "US House of Representatives Votes to Censure Rep. Paul Gosar",
+                "risk_level": "Medium",
+                "summary": "The US House of Representatives has voted to censure Rep. Paul Gosar (R-AZ) after he shared a meme making light of violence against Rep. Alexandria Ocasio-Cortez (D-NY) and President Joe Biden."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korean President Criticized for Handling of NIS Scandal",
-                "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol faced criticism over his handling of a scandal involving the spy agency, which he is also the head of, amid concerns over national security and the rule of law."
-            },
-            {
-                "title": "North Korea's Military Modernization a Threat to Regional Security: U.S.",
+                "title": "US imposes additional sanctions on North Korea over missile tests",
                 "risk_level": "High",
-                "summary": "The United States has expressed concern over North Korea's continued military modernization, which it sees as a threat to regional security and stability."
+                "summary": "The US has imposed new sanctions on North Korea for its recent missile tests, targeting several individuals and entities. The move is seen as an attempt to pressure North Korea to return to nuclear talks. The sanctions include freezing assets and prohibiting US citizens from doing business with the targeted individuals and entities."
             },
             {
-                "title": "South Korea and Japan to Resume Cooperation on North Korea Issues",
+                "title": "South Korea-US hold joint military exercise near North Korean border",
+                "risk_level": "High",
+                "summary": "South Korea and the US have held a joint military exercise near the border with North Korea, amid increased tensions on the peninsula. The exercise involved US F-35 fighter jets and South Korean F-15K jets, and was seen as a demonstration of the allies' military capabilities."
+            },
+            {
+                "title": "South Korea's ruling party faces opposition over plans to reform election law",
                 "risk_level": "Medium",
-                "summary": "South Korea and Japan have agreed to resume cooperation on issues related to North Korea, including its nuclear and missile programs, in a bid to strengthen regional security and stability."
+                "summary": "South Korea's ruling party is facing opposition from the opposition parties over plans to reform the election law. The ruling party's plan aims to introduce a 'proportional representation' system, which would give more seats to smaller parties. The opposition parties are criticizing the plan as undemocratic and biased towards the ruling party."
             }
         ],
         "Japan": [
             {
-                "title": "Japanese PM Fumio Kishida visits India amid tensions with China",
+                "title": "Tokyo Olympics Stadium Security Breach",
                 "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida visited India, signaling a strategic shift in Japan's approach to regional security amid rising tensions with China."
+                "summary": "A security breach occurred at the Tokyo Olympics Stadium, putting athletes and attendees at risk. An investigation is underway to determine the cause of the breach."
             },
             {
-                "title": "South Korea and Japan strengthen ties despite China's influence",
-                "risk_level": "Medium",
-                "summary": "South Korea and Japan agreed to strengthen their ties, boosting economic cooperation and strategic partnerships, despite China's growing influence in the region."
-            },
-            {
-                "title": "Japan's Kishida urges unity on China, North Korea threats",
+                "title": "Protest against Japanese Prime Minister Fumio Kishida",
                 "risk_level": "High",
-                "summary": "Japanese Prime Minister Fumio Kishida called for unity among regional countries to counter threats from China and North Korea amid rising tensions in the Indo-Pacific region."
+                "summary": "Thousands of protesters took to the streets in Tokyo to voice their discontent with Japanese Prime Minister Fumio Kishida's policies, highlighting rising tensions and social unrest."
+            },
+            {
+                "title": "North Korea's Intercontinental Ballistic Missile (ICBM) Test",
+                "risk_level": "High",
+                "summary": "North Korea conducted a successful intercontinental ballistic missile (ICBM) test, which has heightened concerns about regional security and global stability, particularly for Japan."
             }
         ]
     }
