@@ -1,72 +1,55 @@
 {
-    "updated": "2026-08-06",
+    "updated": "2026-08-07",
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-Russia: Escalating Tensions in Eastern Ukraine",
+                "title": "Terrorist Attack in Nigeria",
                 "risk_level": "High",
-                "summary": "Russia massed further troops on the Ukraine border, while the US and Europe issued warnings against further aggression."
+                "summary": "Insurgents in Nigeria have carried out a terrorist attack targeting a village in the north-east region, killing dozens of civilians."
             },
             {
-                "title": "China-Taiwan: Rising Military Tensions",
+                "title": "Protests in China",
                 "risk_level": "Medium",
-                "summary": "China conducted large-scale military drills near Taiwan, sparking concerns about the potential for an invasion."
+                "summary": "Ongoing protests in several cities across China, sparked by growing economic and social discontent, pose significant challenges for the authorities."
             },
             {
-                "title": "Global Economic Slowdown: Warning Signs From Europe and Asia",
-                "risk_level": "Low",
-                "summary": "The global economic outlook darkened as indicators from key regions including the Eurozone and Asia point towards a slowdown."
+                "title": "US-Iran Tensions Escalate",
+                "risk_level": "High",
+                "summary": "Increased tensions between the US and Iran have raised concerns about potential military conflicts in the region, impacting global energy markets and trade."
             }
         ],
         "United States": [
             {
-                "title": "FBI searches Mar-a-Lago after Trump sues to block warrant",
-                "risk_level": "High",
-                "summary": "The FBI searched former President Donald Trump's Mar-a-Lago estate in a probe into whether he wrongly kept classified documents."
+                "title": "US Congresswoman Marjorie Taylor Greene Tests Positive for Covid-19",
+                "risk_level": "Low",
+                "summary": "US representative Marjorie Taylor Greene, who has been vocal about COVID-19 skeptics, has now tested positive for the virus."
             },
             {
-                "title": "US Congress fails to pass gun control measures after Texas school shooting",
-                "risk_level": "High",
-                "summary": "The US Congress has failed to pass comprehensive gun control measures following the horrific Texas school shooting, sparking renewed calls for action."
+                "title": "Gun Laws Bill Passes Key Test in US Senate, Aiding Democrats",
+                "risk_level": "Medium",
+                "summary": "The Democrats hope the gun legislation will pass through the US Senate and help curb gun violence in the country."
             },
             {
-                "title": "US Supreme Court blocks Biden's vaccine mandate for large employers",
+                "title": "Russian and U.S. Forces Clash Over a Downed Drone in Syria",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has blocked President Joe Biden's vaccine mandate for large employers, dealing a blow to his administration's efforts to contain the COVID-19 pandemic."
+                "summary": "Russia-U.S. tensions escalate as Russian forces open fire on US troops in Syria after shooting down one of America's drones."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's COVID-19 Outbreak Raises Concerns",
+                "title": "North Korea launches ballistic missiles and artillery shells across the Demilitarized Zone (DMZ)",
                 "risk_level": "High",
-                "summary": "North Korea's reported COVID-19 outbreak has raised concerns over its potential impact on South Korea's health system and regional stability. The situation could lead to increased tensions between the two countries, potentially affecting trade and diplomatic relations."
+                "summary": "The launches, which included a Hwasong-12 and short-range ballistic missiles, as well as artillery shells, were seen as a significant escalation of tensions between North and South Korea."
             },
             {
-                "title": "South Korea's Presidential Election Campaign Heats Up",
-                "risk_level": "Medium",
-                "summary": "South Korea's presidential election campaign has intensified, with multiple candidates vying for the top spot. The election is expected to be fiercely contested, with potential implications for the country's economic and social policies."
-            },
-            {
-                "title": "South Korea's Response to Japanese Sanctions Sparks Protests",
-                "risk_level": "Low",
-                "summary": "South Korea's response to Japanese sanctions has sparked protests and diplomatic tensions between the two countries. The situation is unlikely to escalate further, but it remains a minor concern for regional stability and bilateral relations."
-            }
-        ],
-        "Japan": [
-            {
-                "title": "Japan PM Kishida Fumio Tests Positive for COVID-19",
-                "risk_level": "Low",
-                "summary": "Japan's Prime Minister Fumio Kishida tested positive for COVID-19, but his condition is not serious."
-            },
-            {
-                "title": "Japan's Nikkei 225 falls 2.4% as inflation worries deepen",
-                "risk_level": "Medium",
-                "summary": "Japan's major stock market index, the Nikkei 225, fell 2.4% as concerns about inflation and monetary policy mount."
-            },
-            {
-                "title": "Japan and US to hold joint military drills in Guam",
+                "title": "South Korea's president vows to strengthen national defense against North Korea's nuclear threats",
                 "risk_level": "High",
-                "summary": "Japan and the United States will hold joint military drills in Guam to show their commitment to regional security and counter China's growing military presence."
+                "summary": "President Yoon Suk-yeol's remarks came after North Korea's recent military exercises, which included the launch of a Hwasong-12 ballistic missile."
+            },
+            {
+                "title": "South Korean authorities confirm a high-profile hacking case involving a well-known cryptocurrency exchange",
+                "risk_level": "Medium",
+                "summary": "The incident is believed to have been carried out by a North Korean hacking group, with the hackers making off with millions of dollars in cryptocurrency."
             }
         ]
     }
