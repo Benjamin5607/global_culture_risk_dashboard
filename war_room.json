@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "North Korea conducts another ballistic missile test",
+                "title": "",
                 "risk_level": "High",
-                "summary": "North Korea has conducted another ballistic missile test, sparking international condemnation and raising concerns about the country's nuclear capabilities. The test is seen as a significant escalation in tensions between North Korea and the international community."
+                "summary": ""
             },
             {
-                "title": "Rise of Omicron variant causes global health concerns",
-                "risk_level": "High",
-                "summary": "The Omicron variant of COVID-19 has been spreading rapidly around the world, causing a surge in cases and hospitalizations. The rapid spread of the variant has raised concerns about the effectiveness of current vaccines and the potential for widespread outbreak."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": ""
             },
             {
-                "title": "Global cyberattack targets critical infrastructure",
-                "risk_level": "High",
-                "summary": "A global cyberattack has targeted critical infrastructure around the world, including power grids, water treatment plants, and transportation systems. The attack has caused widespread disruptions and raised concerns about the vulnerability of critical infrastructure to cyber threats."
+                "title": "Assassination of Iran's top nuclear scientist was met with no significant repercussions",
+                "risk_level": "Low",
+                "summary": "Iran's foreign minister warned that revenge is inevitable over the assassination of its top nuclear scientist"
             }
         ],
         "United States": [
             {
-                "title": "Tensions Rise Between US and China Over TikTok",
+                "title": "Mass Shooting at Greenwood Park Mall in Indianapolis, USA",
                 "risk_level": "High",
-                "summary": "The US is investigating TikTok's data collection practices, and Chinese officials have warned of retaliatory measures."
+                "summary": "At least 3 people were killed and 2 injured in a mass shooting at Greenwood Park Mall in Indianapolis, USA."
             },
             {
-                "title": "Biden Faces Congressional Pressure Over Border Influx",
-                "risk_level": "Medium",
-                "summary": "Asylum seekers and migrants continue to flock to the US-Mexico border, lawmakers are calling for increased efforts to manage the situation."
+                "title": "Cyber Attacks on US Government Agency",
+                "risk_level": "High",
+                "summary": "A major US government agency has been victim of a cyber attack that has resulted in stolen sensitive information."
             },
             {
-                "title": "Protests Erupt in Washington, DC, Over Gun Control",
-                "risk_level": "Medium",
-                "summary": "Following recent mass shootings, gun control advocates and counterprotesters clashed in the nation's capital."
+                "title": "Rising Tensions between US and Russia over Ukraine",
+                "risk_level": "High",
+                "summary": "The relationship between the US and Russia remains tense over the ongoing conflict in Ukraine."
             }
         ],
         "South Korea": [
             {
-                "title": "NK Leader Criticizes South Korea's Military Drills",
-                "risk_level": "High",
-                "summary": "North Korean leader Kim Jong Un criticized South Korea's military drills, calling them a 'hostile act.' This has heightened tensions between the two nations and has raised concerns about the risk of conflict."
+                "title": "US, Japan, and South Korea Hold Tri-Service Maritime Communications Exercise",
+                "risk_level": "Low",
+                "summary": "The United States, Japan, and South Korea held their first tri-service maritime communications exercise, marking a significant step towards enhancing regional cooperation and improving communication between their military forces. The exercise aimed to strengthen interoperability and enhance readiness to counter evolving threats in the Indo-Pacific region."
             },
             {
-                "title": "Protests Erupt in South Korea Over Proposed Labor Reforms",
-                "risk_level": "Medium",
-                "summary": "Protests have broken out in South Korea over proposed labor reforms that would reduce workers' benefits and increase the retirement age. The protests have caused disruptions to daily life and have increased tensions between labor unions and the government."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "South Korea to Impose Travel Restrictions on Citizens Due to COVID-19 Outbreaks",
-                "risk_level": "Medium",
-                "summary": "South Korea has announced plans to impose travel restrictions on citizens due to a rise in COVID-19 cases. The restrictions are aimed at reducing the spread of the virus and will affect people traveling to several countries."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "Japanese Government Announces New Cybersecurity Measures",
-                "risk_level": "High",
-                "summary": "In response to recent high-profile cyberattacks, the Japanese government has announced plans to increase funding for cybersecurity efforts and impose stricter regulations on businesses handling sensitive data."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "US and Japan hold joint naval drill amid concerns over China's maritime expansion plans."
             },
             {
-                "title": "Tokyo Protest against New Immigration Laws",
-                "risk_level": "Medium",
-                "summary": "A group of protesters gathered in Tokyo to voice their opposition to new immigration laws that they claim are overly restrictive and discriminatory."
+                "title": "Japan's population shrinks by 1 million people in just 5 years, government data shows",
+                "risk_level": "Low",
+                "summary": "Japan's population has shrunk by more than 1 million people over the past five years, according to government data released Friday."
             },
             {
-                "title": "Earthquake Rattles Eastern Japan, Evacuations Underway",
-                "risk_level": "High",
-                "summary": "A significant earthquake struck eastern Japan, causing widespread damage and prompting evacuations in several affected areas."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Japan, US to sign new military deal amid rising tensions with China, Kyodo News reports."
             }
         ]
     }
