@@ -3,53 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Food Prices Rise Amid Crop Failures in the Americas and Africa",
+                "title": "US-China Tensions Escalate: Taiwanese President Visits US",
+                "risk_level": "High",
+                "summary": "The visit by Taiwan's President Lee to the US has raised concerns about increased tensions between the US and China."
+            },
+            {
+                "title": "Global Economic Slowdown: World Bank Lowers Growth Forecast",
                 "risk_level": "Medium",
-                "summary": "Recent crop failures in the Americas and parts of Africa have driven up global food prices, increasing the risk of social unrest and protests."
+                "summary": "The World Bank has downgraded its global economic growth forecast for 2023, citing weakening economic momentum."
             },
             {
-                "title": "Global Cybersecurity Threats on the Rise as Attacks Increase by 50% in the Past Week",
+                "title": "Russia-Ukraine Conflict: Ceasefire Talks Stall",
                 "risk_level": "High",
-                "summary": "Global cybersecurity threats have increased by 50% in the past week, putting businesses and individuals at risk of data breaches and identity theft."
-            },
-            {
-                "title": "Global Economic Tensions Rise as US-China Trade War Escalates",
-                "risk_level": "High",
-                "summary": "The US-China trade war has escalated, increasing economic tensions between the two nations and raising concerns about a global economic downturn."
+                "summary": "Ceasefire negotiations between Russia and Ukraine have stalled, raising concerns about a renewed escalation in the conflict."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court overturns Roe v. Wade",
+                "title": "US Supreme Court agrees to consider whether Biden's student loan forgiveness plan is constitutional",
                 "risk_level": "High",
-                "summary": "The US Supreme Court's decision to overturn Roe v. Wade, a 1973 ruling that legalized abortion nationwide, has sparked widespread protests and fears of a rollback of women's rights."
+                "summary": "The US Supreme Court has agreed to hear multiple cases related to President Biden's student loan forgiveness plan, which could impact the plan's implementation and the lives of millions of borrowers."
             },
             {
-                "title": "US-Iran tensions escalate after Israeli drone attack",
+                "title": "US lawmakers reach deal on $47 bln semiconductor bill",
                 "risk_level": "Medium",
-                "summary": "The US has imposed new sanctions on Iran after an Israeli drone attack on Iranian targets, raising concerns about the escalating tensions between the two countries."
+                "summary": "US lawmakers have reached a deal on a $47 billion semiconductor bill, which aims to boost domestic chip production and reduce reliance on foreign suppliers, but the bill's prospects remain uncertain."
             },
             {
-                "title": "US COVID-19 cases surge due to Delta variant",
+                "title": "US Congress passes bill to boost semiconductor production, sends to White House for signature",
                 "risk_level": "High",
-                "summary": "The US has seen a significant increase in COVID-19 cases due to the highly contagious Delta variant, leading to concerns about the country's public health infrastructure and economic recovery."
+                "summary": "The US Congress has passed a bill to boost domestic semiconductor production, which aims to reduce reliance on foreign suppliers and enhance national security, but the bill's impact on the industry and the economy remains to be seen."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korean Navy Officer Arrested for Spying for China",
-                "risk_level": "Medium",
-                "summary": "A South Korean navy officer has been arrested for allegedly spying for China, in a rare case that has sparked concerns about national security."
-            },
-            {
-                "title": "Tension Rises Between South Korea and China Over Military Drills",
-                "risk_level": "High",
-                "summary": "Tension has risen between South Korea and China over a joint military exercise between Seoul and Washington, which Beijing has criticized as an attempt to encircle China."
-            },
-            {
-                "title": "South Korean President Slammed for Failing to Protect Citizens Amid Protests",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "South Korea's President has faced criticism for her government's inability to protect citizens during recent protests, highlighting the growing concerns about public safety and trust in the government."
+                "summary": "No major security/political/social risks have been reported in South Korea in the past 7 days."
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "A protest against government policies took place in a downtown area, but it was peaceful and caused no significant disruptions."
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Reports of a potential cyber attack on a major bank were unfounded, and no malicious activity was detected."
+            }
+        ],
+        "Japan": [
+            {
+                "title": "North Korea fires multiple ballistic missiles, including two that land in Japan's territorial waters",
+                "risk_level": "High",
+                "summary": "North Korea fired multiple ballistic missiles on August 5, including two that landed in Japan's territorial waters. The missiles were launched from Wonsan, North Korea, and one of them landed about 100 kilometers off the coast of Japan's northernmost island of Hokkaido."
+            },
+            {
+                "title": "Japan's government announces plan to build new US military base on Okinawa",
+                "risk_level": "Medium",
+                "summary": "Japan's government has announced plans to build a new US military base on the island of Okinawa, despite local opposition. The base will be used to support the deployment of F-35 fighter jets, which are currently being used for Exercises and Military Operations."
+            },
+            {
+                "title": "Protests against government's response to COVID-19 pandemic continue across Japan",
+                "risk_level": "Low",
+                "summary": "Protests against the Japanese government's response to the COVID-19 pandemic have continued to take place across the country over the past week. The protests have been largely peaceful and have highlighted various concerns, including the government's handling of the pandemic and issues related to vaccination distribution."
             }
         ]
     }
