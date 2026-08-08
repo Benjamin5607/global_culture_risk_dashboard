@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Tensions Escalate: Taiwanese President Visits US",
+                "title": "North Korea conducts another ballistic missile test",
                 "risk_level": "High",
-                "summary": "The visit by Taiwan's President Lee to the US has raised concerns about increased tensions between the US and China."
+                "summary": "North Korea has conducted another ballistic missile test, sparking international condemnation and raising concerns about the country's nuclear capabilities. The test is seen as a significant escalation in tensions between North Korea and the international community."
             },
             {
-                "title": "Global Economic Slowdown: World Bank Lowers Growth Forecast",
-                "risk_level": "Medium",
-                "summary": "The World Bank has downgraded its global economic growth forecast for 2023, citing weakening economic momentum."
+                "title": "Rise of Omicron variant causes global health concerns",
+                "risk_level": "High",
+                "summary": "The Omicron variant of COVID-19 has been spreading rapidly around the world, causing a surge in cases and hospitalizations. The rapid spread of the variant has raised concerns about the effectiveness of current vaccines and the potential for widespread outbreak."
             },
             {
-                "title": "Russia-Ukraine Conflict: Ceasefire Talks Stall",
+                "title": "Global cyberattack targets critical infrastructure",
                 "risk_level": "High",
-                "summary": "Ceasefire negotiations between Russia and Ukraine have stalled, raising concerns about a renewed escalation in the conflict."
+                "summary": "A global cyberattack has targeted critical infrastructure around the world, including power grids, water treatment plants, and transportation systems. The attack has caused widespread disruptions and raised concerns about the vulnerability of critical infrastructure to cyber threats."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court agrees to consider whether Biden's student loan forgiveness plan is constitutional",
+                "title": "Tensions Rise Between US and China Over TikTok",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has agreed to hear multiple cases related to President Biden's student loan forgiveness plan, which could impact the plan's implementation and the lives of millions of borrowers."
+                "summary": "The US is investigating TikTok's data collection practices, and Chinese officials have warned of retaliatory measures."
             },
             {
-                "title": "US lawmakers reach deal on $47 bln semiconductor bill",
+                "title": "Biden Faces Congressional Pressure Over Border Influx",
                 "risk_level": "Medium",
-                "summary": "US lawmakers have reached a deal on a $47 billion semiconductor bill, which aims to boost domestic chip production and reduce reliance on foreign suppliers, but the bill's prospects remain uncertain."
+                "summary": "Asylum seekers and migrants continue to flock to the US-Mexico border, lawmakers are calling for increased efforts to manage the situation."
             },
             {
-                "title": "US Congress passes bill to boost semiconductor production, sends to White House for signature",
-                "risk_level": "High",
-                "summary": "The US Congress has passed a bill to boost domestic semiconductor production, which aims to reduce reliance on foreign suppliers and enhance national security, but the bill's impact on the industry and the economy remains to be seen."
+                "title": "Protests Erupt in Washington, DC, Over Gun Control",
+                "risk_level": "Medium",
+                "summary": "Following recent mass shootings, gun control advocates and counterprotesters clashed in the nation's capital."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "No major security/political/social risks have been reported in South Korea in the past 7 days."
+                "title": "NK Leader Criticizes South Korea's Military Drills",
+                "risk_level": "High",
+                "summary": "North Korean leader Kim Jong Un criticized South Korea's military drills, calling them a 'hostile act.' This has heightened tensions between the two nations and has raised concerns about the risk of conflict."
             },
             {
-                "title": "",
+                "title": "Protests Erupt in South Korea Over Proposed Labor Reforms",
                 "risk_level": "Medium",
-                "summary": "A protest against government policies took place in a downtown area, but it was peaceful and caused no significant disruptions."
+                "summary": "Protests have broken out in South Korea over proposed labor reforms that would reduce workers' benefits and increase the retirement age. The protests have caused disruptions to daily life and have increased tensions between labor unions and the government."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Reports of a potential cyber attack on a major bank were unfounded, and no malicious activity was detected."
+                "title": "South Korea to Impose Travel Restrictions on Citizens Due to COVID-19 Outbreaks",
+                "risk_level": "Medium",
+                "summary": "South Korea has announced plans to impose travel restrictions on citizens due to a rise in COVID-19 cases. The restrictions are aimed at reducing the spread of the virus and will affect people traveling to several countries."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires multiple ballistic missiles, including two that land in Japan's territorial waters",
+                "title": "Japanese Government Announces New Cybersecurity Measures",
                 "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles on August 5, including two that landed in Japan's territorial waters. The missiles were launched from Wonsan, North Korea, and one of them landed about 100 kilometers off the coast of Japan's northernmost island of Hokkaido."
+                "summary": "In response to recent high-profile cyberattacks, the Japanese government has announced plans to increase funding for cybersecurity efforts and impose stricter regulations on businesses handling sensitive data."
             },
             {
-                "title": "Japan's government announces plan to build new US military base on Okinawa",
+                "title": "Tokyo Protest against New Immigration Laws",
                 "risk_level": "Medium",
-                "summary": "Japan's government has announced plans to build a new US military base on the island of Okinawa, despite local opposition. The base will be used to support the deployment of F-35 fighter jets, which are currently being used for Exercises and Military Operations."
+                "summary": "A group of protesters gathered in Tokyo to voice their opposition to new immigration laws that they claim are overly restrictive and discriminatory."
             },
             {
-                "title": "Protests against government's response to COVID-19 pandemic continue across Japan",
-                "risk_level": "Low",
-                "summary": "Protests against the Japanese government's response to the COVID-19 pandemic have continued to take place across the country over the past week. The protests have been largely peaceful and have highlighted various concerns, including the government's handling of the pandemic and issues related to vaccination distribution."
+                "title": "Earthquake Rattles Eastern Japan, Evacuations Underway",
+                "risk_level": "High",
+                "summary": "A significant earthquake struck eastern Japan, causing widespread damage and prompting evacuations in several affected areas."
             }
         ]
     }
