@@ -1,72 +1,55 @@
 {
-    "updated": "2026-08-07",
+    "updated": "2026-08-08",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Ransomware Attack on Ukraine's State Service of Ukraine for Emergencies",
-                "risk_level": "High",
-                "summary": "Cybersecurity risk to critical infrastructure"
-            },
-            {
-                "title": "Global protests against food inflation",
+                "title": "Global Food Prices Rise Amid Crop Failures in the Americas and Africa",
                 "risk_level": "Medium",
-                "summary": "Social unrest over cost of living"
+                "summary": "Recent crop failures in the Americas and parts of Africa have driven up global food prices, increasing the risk of social unrest and protests."
             },
             {
-                "title": "North Korea sanctions extension by UN Security Council",
+                "title": "Global Cybersecurity Threats on the Rise as Attacks Increase by 50% in the Past Week",
                 "risk_level": "High",
-                "summary": "Diplomatic tension and international conflict"
+                "summary": "Global cybersecurity threats have increased by 50% in the past week, putting businesses and individuals at risk of data breaches and identity theft."
+            },
+            {
+                "title": "Global Economic Tensions Rise as US-China Trade War Escalates",
+                "risk_level": "High",
+                "summary": "The US-China trade war has escalated, increasing economic tensions between the two nations and raising concerns about a global economic downturn."
             }
         ],
         "United States": [
             {
-                "title": "Ukraine-Russia Conflict Escalation",
+                "title": "US Supreme Court overturns Roe v. Wade",
+                "risk_level": "High",
+                "summary": "The US Supreme Court's decision to overturn Roe v. Wade, a 1973 ruling that legalized abortion nationwide, has sparked widespread protests and fears of a rollback of women's rights."
+            },
+            {
+                "title": "US-Iran tensions escalate after Israeli drone attack",
                 "risk_level": "Medium",
-                "summary": "The Biden administration announced a $1.85 billion military aid package to Ukraine, amid ongoing tensions with Russia."
+                "summary": "The US has imposed new sanctions on Iran after an Israeli drone attack on Iranian targets, raising concerns about the escalating tensions between the two countries."
             },
             {
-                "title": "Supreme Court Decision on Abortion Rights",
+                "title": "US COVID-19 cases surge due to Delta variant",
                 "risk_level": "High",
-                "summary": "The US Supreme Court overturned Roe v. Wade, a landmark decision that protected a woman's right to abortion, sparking widespread protests."
-            },
-            {
-                "title": "US-China Trade Relations Tensions",
-                "risk_level": "High",
-                "summary": "The US and China imposed tariffs on each other's goods, escalating trade tensions between the two nations."
+                "summary": "The US has seen a significant increase in COVID-19 cases due to the highly contagious Delta variant, leading to concerns about the country's public health infrastructure and economic recovery."
             }
         ],
         "South Korea": [
             {
-                "title": "Samsung Heavy Industries and Korean Air face corruption probe over Navy helicopter deal",
-                "risk_level": "High",
-                "summary": "South Korean authorities have launched a corruption probe into the country's two largest companies, Samsung Heavy Industries and Korean Air, over their involvement in a deal to supply Navy helicopters."
-            },
-            {
-                "title": "South Korea and US hold high-level talks on North Korea",
+                "title": "South Korean Navy Officer Arrested for Spying for China",
                 "risk_level": "Medium",
-                "summary": "The US and South Korean officials have held high-level talks to discuss North Korea's growing nuclear capabilities and the US's strategy to address the issue."
+                "summary": "A South Korean navy officer has been arrested for allegedly spying for China, in a rare case that has sparked concerns about national security."
             },
             {
-                "title": "South Korea's President Yoon meets with Japanese PM to discuss historical disputes",
+                "title": "Tension Rises Between South Korea and China Over Military Drills",
+                "risk_level": "High",
+                "summary": "Tension has risen between South Korea and China over a joint military exercise between Seoul and Washington, which Beijing has criticized as an attempt to encircle China."
+            },
+            {
+                "title": "South Korean President Slammed for Failing to Protect Citizens Amid Protests",
                 "risk_level": "Low",
-                "summary": "South Korean President Yoon Suk-yeol has met with visiting Japanese Prime Minister Fumio Kishida to discuss outstanding historical disputes and ways to improve ties with Tokyo."
-            }
-        ],
-        "Japan": [
-            {
-                "title": "Typhoon Hinnamor brings strong winds to southern Japan, prompting weather warnings",
-                "risk_level": "High",
-                "summary": "A powerful typhoon brought strong winds and heavy rainfall to southern Japan, prompting weather warnings and causing transportation disruptions. The typhoon made landfall on July 30, bringing sustained winds of up to 140km/h (87mph) and heavy rainfall to the region."
-            },
-            {
-                "title": "Japanese government to review its COVID-19 measures amid rising concerns over Omicron variant",
-                "risk_level": "Medium",
-                "summary": "The Japanese government announced plans to review its COVID-19 measures amid rising concerns over the spread of the Omicron variant. The government also announced plans to increase testing for international travelers and to consider imposing new restrictions on social gatherings."
-            },
-            {
-                "title": "Anti-Nuclear Protest Held in Tokyo Against Restarting Nuclear Reactors",
-                "risk_level": "High",
-                "summary": "Thousands of protesters gathered in Tokyo to condemn the Japanese government's plans to restart nuclear reactors. The protesters, organized by a coalition of anti-nuclear groups, argued that the reactors pose a significant risk to public safety and that their restart would undermine efforts to promote renewable energy."
+                "summary": "South Korea's President has faced criticism for her government's inability to protect citizens during recent protests, highlighting the growing concerns about public safety and trust in the government."
             }
         ]
     }
