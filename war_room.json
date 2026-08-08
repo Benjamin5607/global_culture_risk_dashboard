@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Russia Warns of Global 'Catastrophe' Over Oil Cap",
                 "risk_level": "High",
-                "summary": ""
+                "summary": "G7 and EU leaders agreed to impose a 60-million-barrel ceiling on Russian crude exports in December, Russia sees this as an economic catastrophe for them and they could potentially stop oil supplies to other countries."
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": ""
+                "title": "China Sees Worst Economic Growth Since 1990s Amid Xi's Reforms",
+                "risk_level": "High",
+                "summary": "China has seen its worst economic growth since the 1990s, as President Xi Jinping pursues his ambitious campaign of reforms."
             },
             {
-                "title": "Assassination of Iran's top nuclear scientist was met with no significant repercussions",
-                "risk_level": "Low",
-                "summary": "Iran's foreign minister warned that revenge is inevitable over the assassination of its top nuclear scientist"
+                "title": "Taiwan Reports Chinese Invasion Threats and Espionage",
+                "risk_level": "High",
+                "summary": "Taiwan reported multiple instances of Chinese military invasion and espionage threats."
             }
         ],
         "United States": [
             {
-                "title": "Mass Shooting at Greenwood Park Mall in Indianapolis, USA",
+                "title": "Violent protests break out in multiple U.S. cities over police brutality",
                 "risk_level": "High",
-                "summary": "At least 3 people were killed and 2 injured in a mass shooting at Greenwood Park Mall in Indianapolis, USA."
+                "summary": "Protests turn violent in major U.S. cities due to ongoing tensions between police and minority communities."
             },
             {
-                "title": "Cyber Attacks on US Government Agency",
+                "title": "Major data breach exposed sensitive information of millions of Americans",
                 "risk_level": "High",
-                "summary": "A major US government agency has been victim of a cyber attack that has resulted in stolen sensitive information."
+                "summary": "A massive data breach in the U.S. affected millions of people, compromising sensitive personal data."
             },
             {
-                "title": "Rising Tensions between US and Russia over Ukraine",
-                "risk_level": "High",
-                "summary": "The relationship between the US and Russia remains tense over the ongoing conflict in Ukraine."
+                "title": "Tensions rise between the U.S. and China over trade and security issues",
+                "risk_level": "Medium",
+                "summary": "U.S.-China relations are strained as both countries engage in a war of words over trade, security, and human rights."
             }
         ],
         "South Korea": [
             {
-                "title": "US, Japan, and South Korea Hold Tri-Service Maritime Communications Exercise",
-                "risk_level": "Low",
-                "summary": "The United States, Japan, and South Korea held their first tri-service maritime communications exercise, marking a significant step towards enhancing regional cooperation and improving communication between their military forces. The exercise aimed to strengthen interoperability and enhance readiness to counter evolving threats in the Indo-Pacific region."
+                "title": "North Korea Conducts Missile Tests",
+                "risk_level": "High",
+                "summary": "North Korea has conducted several missile tests near South Korea, heightening tensions in the region."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Protests Against President Yoon's Policies",
+                "risk_level": "Medium",
+                "summary": "Thousands of protesters have taken to the streets to demonstrate against President Yoon's policies, including labor reforms and economic austerity measures."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Cyberattacks on South Korean Firms",
+                "risk_level": "High",
+                "summary": "Several major South Korean firms have been hit by cyberattacks, with stolen data and financial information being sold on the dark web."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "US and Japan hold joint naval drill amid concerns over China's maritime expansion plans."
+                "title": "North Korea fires multiple ballistic missiles towards Japan",
+                "risk_level": "High",
+                "summary": "North Korea fired multiple ballistic missiles into the Sea of Japan on August 4, in a move that has heightened tensions in the region."
             },
             {
-                "title": "Japan's population shrinks by 1 million people in just 5 years, government data shows",
-                "risk_level": "Low",
-                "summary": "Japan's population has shrunk by more than 1 million people over the past five years, according to government data released Friday."
+                "title": "Protests against COVID-19 restrictions escalate in Japan",
+                "risk_level": "Medium",
+                "summary": "Protests against COVID-19 restrictions in Japan have been ongoing for several days, with some reports of clashes between protesters and police."
             },
             {
-                "title": "",
+                "title": "Tensions rise between Japan and China over disputed islands",
                 "risk_level": "Low",
-                "summary": "Japan, US to sign new military deal amid rising tensions with China, Kyodo News reports."
+                "summary": "Tensions have risen in recent days between Japan and China over a disputed set of islands in the East China Sea, with some fears of a potential clash."
             }
         ]
     }
