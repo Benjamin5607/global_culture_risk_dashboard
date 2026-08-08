@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia Warns of Global 'Catastrophe' Over Oil Cap",
+                "title": "US-China Tensions Escalate Over Taiwan",
                 "risk_level": "High",
-                "summary": "G7 and EU leaders agreed to impose a 60-million-barrel ceiling on Russian crude exports in December, Russia sees this as an economic catastrophe for them and they could potentially stop oil supplies to other countries."
+                "summary": "US-China tensions escalated over Taiwan as US President Biden reiterated support for the country's sovereignty, while China's Foreign Ministry warned of severe consequences if the US continues to intervene in Taiwan's affairs."
             },
             {
-                "title": "China Sees Worst Economic Growth Since 1990s Amid Xi's Reforms",
+                "title": "North Korea Conducts Missile Test",
                 "risk_level": "High",
-                "summary": "China has seen its worst economic growth since the 1990s, as President Xi Jinping pursues his ambitious campaign of reforms."
+                "summary": "North Korea conducted a ballistic missile test, prompting UN condemnation and a strong statement from the US calling for restraint."
             },
             {
-                "title": "Taiwan Reports Chinese Invasion Threats and Espionage",
-                "risk_level": "High",
-                "summary": "Taiwan reported multiple instances of Chinese military invasion and espionage threats."
+                "title": "Global Supply Chain Disruptions Worsen",
+                "risk_level": "Medium",
+                "summary": "Global supply chain disruptions worsened due to ongoing trade tensions and logistical challenges, impacting industries such as technology and autos."
             }
         ],
         "United States": [
             {
-                "title": "Violent protests break out in multiple U.S. cities over police brutality",
+                "title": "Tensions between US and Iran escalating over drone incident",
                 "risk_level": "High",
-                "summary": "Protests turn violent in major U.S. cities due to ongoing tensions between police and minority communities."
+                "summary": "A US drone was shot down by an Iranian surface-to-air missile in the Persian Gulf, raising fears of a potential conflict between the two nations."
             },
             {
-                "title": "Major data breach exposed sensitive information of millions of Americans",
-                "risk_level": "High",
-                "summary": "A massive data breach in the U.S. affected millions of people, compromising sensitive personal data."
-            },
-            {
-                "title": "Tensions rise between the U.S. and China over trade and security issues",
+                "title": "Gun ownership debate reignites after US mass shooting",
                 "risk_level": "Medium",
-                "summary": "U.S.-China relations are strained as both countries engage in a war of words over trade, security, and human rights."
+                "summary": "A mass shooting in the US has sparked renewed debate over gun ownership and control laws, with some calling for stricter regulations."
+            },
+            {
+                "title": "US-China trade tensions remain high as talks stall",
+                "risk_level": "High",
+                "summary": "Trade tensions between the US and China have increased amid stalled negotiations, with both sides imposing additional tariffs on each other's goods."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Conducts Missile Tests",
+                "title": "North Korean Ballistic Missile Launch",
                 "risk_level": "High",
-                "summary": "North Korea has conducted several missile tests near South Korea, heightening tensions in the region."
+                "summary": "North Korea launched an intercontinental ballistic missile into the Sea of Japan, sparking a strong response from the international community."
             },
             {
-                "title": "Protests Against President Yoon's Policies",
+                "title": "South Korea's Yoon Suk-yeol Faces Impeachment Charges",
                 "risk_level": "Medium",
-                "summary": "Thousands of protesters have taken to the streets to demonstrate against President Yoon's policies, including labor reforms and economic austerity measures."
+                "summary": "South Korean President Yoon Suk-yeol has been indicted on corruption charges, further straining his already precarious position in the country."
             },
             {
-                "title": "Cyberattacks on South Korean Firms",
-                "risk_level": "High",
-                "summary": "Several major South Korean firms have been hit by cyberattacks, with stolen data and financial information being sold on the dark web."
+                "title": "South Korea's Response to North Korea's Cyberattacks",
+                "risk_level": "Low",
+                "summary": "South Korea has vowed to take a tougher stance against North Korea's increasing cyberattacks, but experts warn that a military response could escalate tensions further."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea fires multiple ballistic missiles towards Japan",
+                "title": "North Korean Ballistic Missile Launch",
                 "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles into the Sea of Japan on August 4, in a move that has heightened tensions in the region."
+                "summary": "A North Korean ballistic missile passed over Japan, prompting the country to issue an emergency alert and suspend rail services. No damage was reported, but the incident highlights growing tensions in the region and the potential for increased security risks for Japan."
             },
             {
-                "title": "Protests against COVID-19 restrictions escalate in Japan",
+                "title": "",
+                "risk_level": "",
+                "summary": ""
+            },
+            {
+                "title": "Protests against Japan's plans to discharge treated nuclear wastewater from Fukushima",
                 "risk_level": "Medium",
-                "summary": "Protests against COVID-19 restrictions in Japan have been ongoing for several days, with some reports of clashes between protesters and police."
-            },
-            {
-                "title": "Tensions rise between Japan and China over disputed islands",
-                "risk_level": "Low",
-                "summary": "Tensions have risen in recent days between Japan and China over a disputed set of islands in the East China Sea, with some fears of a potential clash."
+                "summary": "Tensions remain high as protesters demonstrate against Japan's plans to discharge treated nuclear wastewater from Fukushima into the ocean. The move is seen as a potential environmental risk and has sparked international criticism."
             }
         ]
     }
