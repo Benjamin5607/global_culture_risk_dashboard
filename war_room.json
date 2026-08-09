@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US Warns China on Taiwan Invasion",
+                "title": "Global supply chain disruptions amid Ukraine conflict heighten risk for businesses",
                 "risk_level": "High",
-                "summary": "The United States has warned China that any invasion of Taiwan will not be tolerated, amid rising tensions between the two countries."
+                "summary": "The ongoing conflict in Ukraine is causing global supply chain disruptions and potentially destabilizing markets."
             },
             {
-                "title": "Rise in Tensions Between Russia and Ukraine",
+                "title": "Cybersecurity threats rise as more companies transition to remote work",
                 "risk_level": "High",
-                "summary": "There has been a significant increase in tensions between Russia and Ukraine, with reports of troop deployments and military buildup on the border."
+                "summary": "As more companies adopt remote work arrangements, cybersecurity threats are becoming increasingly prevalent and potentially devastating."
             },
             {
-                "title": "Iran's Nuclear Program Raises International Concerns",
-                "risk_level": "High",
-                "summary": "Iran's nuclear program has been a major source of concern for the international community, with many fearing that the country is developing nuclear weapons."
+                "title": "Global economic uncertainty persists due to inflation concerns",
+                "risk_level": "Medium",
+                "summary": "Ongoing inflation concerns and a potential global economic downturn pose risks to businesses and investors worldwide."
             }
         ],
         "United States": [
             {
-                "title": "Ukraine invasion sparks concern over global security",
+                "title": "US-Afghanistan drone strike error: Pentagon probes civilian deaths, ",
                 "risk_level": "High",
-                "summary": "The ongoing Ukraine invasion by Russian forces continues to dominate global headlines, sparking concerns about the security implications for the United States and its allies."
+                "summary": "The US military has admitted it made an error in a drone strike in Afghanistan that killed a family of 10 civilians. "
             },
             {
-                "title": "US Supreme Court overturns Roe v Wade, sparking protests",
-                "risk_level": "High",
-                "summary": "The US Supreme Court's decision to overturn Roe v Wade has sparked widespread protests and unrest across the country, raising concerns about social and political stability."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Federal Reserve raises interest rates to combat inflation",
-                "risk_level": "Medium",
-                "summary": "The Federal Reserve's decision to raise interest rates aims to combat inflation and stabilize the US economy, but may have negative consequences for small businesses and vulnerable communities."
+                "title": "California fires: Storms to bring relief but risk of new blazes remains, ",
+                "risk_level": "High",
+                "summary": "A series of storms is expected to bring relief to the western United States, but the risk of new wildfires remains."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires two ballistic missiles, South Korea and US scramble jets",
+                "title": "Protesters clash with police in Seoul over labour reform",
                 "risk_level": "High",
-                "summary": "North Korea fired two ballistic missiles, putting South Korea and US on high alert."
+                "summary": "Thousands of South Koreans protest against labour reforms in Seoul, with police using water cannons and tear gas to disperse the crowd."
             },
             {
-                "title": "South Korean President Yoon orders probe into alleged spy ring",
-                "risk_level": "Medium",
-                "summary": "South Korean President Yoon orders an investigation into alleged espionage ring linked to China and North Korea."
+                "title": "South Korea warns of potential North Korean missile launch",
+                "risk_level": "High",
+                "summary": "South Korea's military warns of potential North Korean missile launch after Pyongyang conducted a series of tests in recent days."
             },
             {
-                "title": "South Korea's ruling party facing scandal over embezzlement and bribery",
+                "title": "South Korea sees surge in COVID-19 cases amidst Omicron variant",
                 "risk_level": "Medium",
-                "summary": "South Korea's ruling party hit by corruption scandal over embezzlement and bribery allegations."
+                "summary": "South Korea reports a surge in COVID-19 cases as the Omicron variant spreads rapidly, with authorities considering new measures to contain the outbreak."
             }
         ],
         "Japan": [
             {
-                "title": "Japan to strengthen its defense capabilities to counter China's increasing military presence in the region",
+                "title": "Japan's ruling party suffers historic defeat in upper house election",
                 "risk_level": "High",
-                "summary": "In a move aimed at countering China's growing military presence in the region, Japan has announced plans to strengthen its defense capabilities. The move comes amid rising tensions between Tokyo and Beijing over issues such as the South China Sea and the deployment of Chinese troops on the self-governing island of Taiwan."
+                "summary": "Japan's ruling Liberal Democratic Party (LDP) has suffered a historic defeat in the country's upper house election, with the opposition Constitutional Democratic Party of Japan emerging as the largest party."
             },
             {
-                "title": "Concerns over Japan's aging population and labor shortages amid the COVID-19 pandemic",
+                "title": "Protesters clash with police in Tokyo over new security legislation",
                 "risk_level": "Medium",
-                "summary": "As Japan's aging population continues to grow, the country is facing a severe labor shortage. These issues have been exacerbated by the ongoing COVID-19 pandemic, which has forced many to reassess their priorities and change their working patterns."
+                "summary": "Protesters clashed with police in Tokyo on Saturday over new security legislation, which opponents say would undermine Japan's pacifist constitution."
             },
             {
-                "title": "Japan's government announces plans to increase spending on cyber security measures",
-                "risk_level": "High",
-                "summary": "In a bid to boost the country's defenses against cyber threats, Japan's government has unveiled plans to increase spending on cyber security measures. The move is aimed at protecting the country's critical infrastructure and sensitive data from potential cyber-attacks."
+                "title": "Japan's prime minister set to visit Ukraine amid growing tensions",
+                "risk_level": "Low",
+                "summary": "Japan's Prime Minister Fumio Kishida is set to visit Ukraine next month in a bid to strengthen ties between the two nations and support Kyiv in its conflict with Russia."
             }
         ]
     }
