@@ -3,70 +3,79 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Tensions between the US and China escalate over Taiwan",
-                "risk_level": "High",
-                "summary": "The situation in the Taiwan Strait remains unstable, with the US and China engaging in a war of words over the island's future."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "country": "Afghanistan",
+                "risk_type": "",
+                "risk_date": "2023-12-29"
             },
             {
-                "title": "Cyber attack on a major US software company",
-                "risk_level": "Medium",
-                "summary": "A leading US software firm has fallen victim to a devastating cyber attack, sparking fears of a wider disruption to global IT systems."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "country": "",
+                "risk_type": "",
+                "risk_date": "2024-03-01"
             },
             {
-                "title": "Protests erupt in multiple cities over economic inequality",
-                "risk_level": "High",
-                "summary": "Massive demonstrations have broken out in cities across the world as people express their frustration over economic inequality and poverty."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "country": "",
+                "risk_type": "",
+                "risk_date": "2023-06-05"
             }
         ],
         "United States": [
             {
-                "title": "Concerns Over Iran-US Conflict Escalation",
-                "risk_level": "High",
-                "summary": "Tensions between the US and Iran have reached a boiling point as a result of recent US airstrikes in Iraq and a potential US drone strike on an Iranian scientist."
+                "title": "Rise of COVID-19 cases due to new variants",
+                "risk_level": "Medium",
+                "summary": "The US is seeing a surge in COVID-19 cases due to the spread of new variants, leading to concerns about a potential new wave of infections."
             },
             {
-                "title": "Oxfam Study Warns of Climate Crisis Disaster in US",
+                "title": "Increased tensions with North Korea",
                 "risk_level": "High",
-                "summary": "Oxfam has released a report highlighting the devastating impact of climate-related disasters in the US, which has resulted in catastrophic wildfires, floods, and droughts."
+                "summary": "The US and North Korea are engaging in a war of words, with the US imposing new sanctions and North Korea conducting military exercises, raising concerns about the risk of conflict."
             },
             {
-                "title": "Gun Control Ruling Sparks Fears of Increased Violence",
+                "title": "Supreme Court vacancy sparks political tensions",
                 "risk_level": "High",
-                "summary": "A recent US Supreme Court ruling on gun control has sparked concerns that the ruling may lead to increased gun violence and mass shootings in the country."
+                "summary": "The sudden vacancy on the Supreme Court has sparked intense political tensions, with both parties vying for control of the court and raising concerns about the impact on the country's most important court."
             }
         ],
         "South Korea": [
             {
-                "title": "Concerns rise over North Korea's nuclear threats against US and South Korea",
+                "title": "Seoul's opposition leader arrested in election manipulation probe",
                 "risk_level": "High",
-                "summary": "North Korea has threatened to use nuclear weapons against the United States and South Korea, prompting concerns about a potential conflict."
+                "summary": "South Korea's main opposition leader, Lee Jun-seok, was arrested on July 29 over allegations of election interference, raising concerns over the country's democratization."
             },
             {
-                "title": "South Korea's parliament passes bill to allow for more surveillance of citizens",
-                "risk_level": "Medium",
-                "summary": "South Korea's parliament has passed a bill that would allow for more surveillance of citizens, sparking concerns about civil liberties."
+                "title": "North Korea conducts cruise missile test amid US-South Korea joint drills",
+                "risk_level": "High",
+                "summary": "North Korea has conducted a cruise missile test on July 26, amid ongoing US-South Korea joint military exercises, escalating regional tensions."
             },
             {
-                "title": "Protesters clash with police in Seoul over labor rights",
+                "title": "South Korea's LG Electronics reportedly halts production of some high-end TVs",
                 "risk_level": "Medium",
-                "summary": "Protesters clashed with police in Seoul over labor rights, highlighting ongoing tensions between workers and employers in South Korea."
+                "summary": "LG Electronics, one of South Korea's top consumer electronics companies, has temporarily suspended production of some high-end TVs due to supply chain disruptions and high inflation."
             }
         ],
         "Japan": [
             {
-                "title": "Protests erupt over nuclear power plant in Japan",
-                "risk_level": "High",
-                "summary": "Demonstrations took place near the Ikata nuclear power plant in Ehime prefecture, sparking concerns over public safety and the country's energy policy."
-            },
-            {
-                "title": "New COVID-19 cases surge in Japan",
-                "risk_level": "High",
-                "summary": "Japan reported a significant increase in new coronavirus infections, citing the highly contagious omicron variant as the main cause."
-            },
-            {
-                "title": "Japan's new immigration law sparks criticism",
+                "title": "Taiwan-Japan tensions escalate over Japan Coast Guard's arrest of Taiwanese activist",
                 "risk_level": "Medium",
-                "summary": "The Japanese government's new immigration law has been met with criticism from human rights groups, who argue it will exacerbate existing issues such as labor exploitation and deportations."
+                "summary": "A Taiwanese activist was arrested by the Japan Coast Guard, leading to increased tensions between Taiwan and Japan."
+            },
+            {
+                "title": "North Korea fires two ballistic missiles into the Sea of Japan",
+                "risk_level": "High",
+                "summary": "North Korea has launched two ballistic missiles into the Sea of Japan in a possible provocation"
+            },
+            {
+                "title": "Japan PM Fumio Kishida vows to boost military presence in East Asia amidst China threat",
+                "risk_level": "Medium",
+                "summary": "Japanese Prime Minister Fumio Kishida has pledged to strengthen Japan's military presence in East Asia in response to China's growing assertiveness"
             }
         ]
     }
