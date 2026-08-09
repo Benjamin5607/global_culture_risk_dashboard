@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Concerns Over China's Military Build-Up in South China Sea",
+                "title": "Tensions between the US and China escalate over Taiwan",
                 "risk_level": "High",
-                "summary": "China's increasing military presence in the South China Sea has raised concerns about regional stability and the potential for conflict with other countries in the area."
+                "summary": "The situation in the Taiwan Strait remains unstable, with the US and China engaging in a war of words over the island's future."
             },
             {
-                "title": "Rise of Anti-US Sentiment in the Middle East",
+                "title": "Cyber attack on a major US software company",
                 "risk_level": "Medium",
-                "summary": "Increased anti-US rhetoric and protests in several Middle Eastern countries have created a challenging environment for US diplomacy and business interests in the region."
+                "summary": "A leading US software firm has fallen victim to a devastating cyber attack, sparking fears of a wider disruption to global IT systems."
             },
             {
-                "title": "North Korea's Recent Nuclear Tests",
+                "title": "Protests erupt in multiple cities over economic inequality",
                 "risk_level": "High",
-                "summary": "North Korea's recent nuclear tests have heightened tensions with the international community and increased the risk of conflict on the Korean peninsula."
+                "summary": "Massive demonstrations have broken out in cities across the world as people express their frustration over economic inequality and poverty."
             }
         ],
         "United States": [
             {
-                "title": "Roe v. Wade Abortion Ruling Reversal",
+                "title": "Concerns Over Iran-US Conflict Escalation",
                 "risk_level": "High",
-                "summary": "The US Supreme Court overturns the landmark abortion rights case Roe v. Wade, sparking widespread protests and controversy."
+                "summary": "Tensions between the US and Iran have reached a boiling point as a result of recent US airstrikes in Iraq and a potential US drone strike on an Iranian scientist."
             },
             {
-                "title": "Violent Protests Erupt in US Cities Over Abortion Ruling",
+                "title": "Oxfam Study Warns of Climate Crisis Disaster in US",
                 "risk_level": "High",
-                "summary": "Violent clashes break out between pro-choice and anti-abortion groups in cities across the US, leading to injuries and arrests."
+                "summary": "Oxfam has released a report highlighting the devastating impact of climate-related disasters in the US, which has resulted in catastrophic wildfires, floods, and droughts."
             },
             {
-                "title": "Migrant Crisis Intensifies at US-Mexico Border",
-                "risk_level": "Medium",
-                "summary": "A surge in migrant arrivals at the US-Mexico border continues to put pressure on border facilities and resources."
+                "title": "Gun Control Ruling Sparks Fears of Increased Violence",
+                "risk_level": "High",
+                "summary": "A recent US Supreme Court ruling on gun control has sparked concerns that the ruling may lead to increased gun violence and mass shootings in the country."
             }
         ],
         "South Korea": [
             {
-                "title": "Ransomware Attack Hits South Korean Cryptocurrency Exchange",
+                "title": "Concerns rise over North Korea's nuclear threats against US and South Korea",
                 "risk_level": "High",
-                "summary": "A South Korean cryptocurrency exchange was hit by a ransomware attack, compromising the personal data of over 30,000 users. The incident raises concerns about the vulnerability of the country's cryptocurrency sector to cyber threats."
+                "summary": "North Korea has threatened to use nuclear weapons against the United States and South Korea, prompting concerns about a potential conflict."
             },
             {
-                "title": "Government Warns of North Korean Cyberattacks Amid Tensions",
-                "risk_level": "High",
-                "summary": "The South Korean government has warned of a heightened risk of cyberattacks from North Korea in the wake of recent inter-Korean tensions. The warning comes as the two countries engage in a war of words over Pyongyang's nuclear program."
-            },
-            {
-                "title": "COVID-19 Outbreak in Seoul Sparks Concerns Over Public Safety",
+                "title": "South Korea's parliament passes bill to allow for more surveillance of citizens",
                 "risk_level": "Medium",
-                "summary": "A recent surge in COVID-19 cases in Seoul has sparked concerns over public safety in South Korea. Authorities have implemented new measures to contain the outbreak, including enhanced surveillance and testing protocols."
+                "summary": "South Korea's parliament has passed a bill that would allow for more surveillance of citizens, sparking concerns about civil liberties."
+            },
+            {
+                "title": "Protesters clash with police in Seoul over labor rights",
+                "risk_level": "Medium",
+                "summary": "Protesters clashed with police in Seoul over labor rights, highlighting ongoing tensions between workers and employers in South Korea."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Population Falls 430,000 to Below 127 Million in 2022, First Time On Record",
+                "title": "Protests erupt over nuclear power plant in Japan",
+                "risk_level": "High",
+                "summary": "Demonstrations took place near the Ikata nuclear power plant in Ehime prefecture, sparking concerns over public safety and the country's energy policy."
+            },
+            {
+                "title": "New COVID-19 cases surge in Japan",
+                "risk_level": "High",
+                "summary": "Japan reported a significant increase in new coronavirus infections, citing the highly contagious omicron variant as the main cause."
+            },
+            {
+                "title": "Japan's new immigration law sparks criticism",
                 "risk_level": "Medium",
-                "summary": "Trend of declining population remains"
-            },
-            {
-                "title": "Tokyo Olympics Chief Takeda Says He's Sorry for Games Chaos",
-                "risk_level": "Low",
-                "summary": "Apology came in wake of logistical issues during 2021 event"
-            },
-            {
-                "title": "",
-                "risk_level": "",
-                "summary": "(Could not find any other relevant event in the past 7 days)"
+                "summary": "The Japanese government's new immigration law has been met with criticism from human rights groups, who argue it will exacerbate existing issues such as labor exploitation and deportations."
             }
         ]
     }
