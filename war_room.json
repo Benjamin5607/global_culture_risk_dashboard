@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global supply chain disruptions amid Ukraine conflict heighten risk for businesses",
+                "title": "North Korea Launches Ballistic Missile Test",
                 "risk_level": "High",
-                "summary": "The ongoing conflict in Ukraine is causing global supply chain disruptions and potentially destabilizing markets."
+                "summary": "In a provocative move, North Korea has launched a ballistic missile test, increasing tensions in the region."
             },
             {
-                "title": "Cybersecurity threats rise as more companies transition to remote work",
+                "title": "US-China Trade Tensions Escalate",
                 "risk_level": "High",
-                "summary": "As more companies adopt remote work arrangements, cybersecurity threats are becoming increasingly prevalent and potentially devastating."
+                "summary": "Tensions between the US and China have escalated, with both countries imposing new trade restrictions."
             },
             {
-                "title": "Global economic uncertainty persists due to inflation concerns",
-                "risk_level": "Medium",
-                "summary": "Ongoing inflation concerns and a potential global economic downturn pose risks to businesses and investors worldwide."
+                "title": "Cyberattack on European Healthcare System Disrupted",
+                "risk_level": "High",
+                "summary": "A recent cyberattack on a European healthcare system has caused significant disruptions to patient care."
             }
         ],
         "United States": [
             {
-                "title": "US-Afghanistan drone strike error: Pentagon probes civilian deaths, ",
+                "title": "Florida judge blocks new law requiring schools to report LGBTQ+ students to parents",
                 "risk_level": "High",
-                "summary": "The US military has admitted it made an error in a drone strike in Afghanistan that killed a family of 10 civilians. "
+                "summary": "A Florida judge has blocked a new law requiring schools to report LGBTQ+ students to parents, arguing that it violates the rights of students and is unconstitutional."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "US Supreme Court allows Texas abortion ban to take effect",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has allowed a Texas abortion ban to take effect, marking a significant setback for abortion rights in the country."
             },
             {
-                "title": "California fires: Storms to bring relief but risk of new blazes remains, ",
-                "risk_level": "High",
-                "summary": "A series of storms is expected to bring relief to the western United States, but the risk of new wildfires remains."
+                "title": "US and Israel reach agreement on Iran nuclear deal",
+                "risk_level": "Medium",
+                "summary": "The US and Israel have reached an agreement on the Iran nuclear deal, with Israel agreeing to support the deal in exchange for concessions from the US on military aid and security cooperation."
             }
         ],
         "South Korea": [
             {
-                "title": "Protesters clash with police in Seoul over labour reform",
+                "title": "Ruling Party's Election Fund Scandal Deepens",
                 "risk_level": "High",
-                "summary": "Thousands of South Koreans protest against labour reforms in Seoul, with police using water cannons and tear gas to disperse the crowd."
+                "summary": "North Korea's foreign minister warned that the country will 'never' return to nuclear talks with South Korea, as it seeks stronger relations with China and Russia, after Seoul and Washington agreed on new military drills to counter growing threats from Pyongyang."
             },
             {
-                "title": "South Korea warns of potential North Korean missile launch",
+                "title": "South Korean Economy Shrinks Again, Heightening Recession Fears",
                 "risk_level": "High",
-                "summary": "South Korea's military warns of potential North Korean missile launch after Pyongyang conducted a series of tests in recent days."
+                "summary": "South Korea has become the latest major economy to see its GDP shrink, heightening concerns that the country could tip into recession. Experts say the outlook is grim due to weak exports, lower investment and rising uncertainty over the global economic outlook."
             },
             {
-                "title": "South Korea sees surge in COVID-19 cases amidst Omicron variant",
-                "risk_level": "Medium",
-                "summary": "South Korea reports a surge in COVID-19 cases as the Omicron variant spreads rapidly, with authorities considering new measures to contain the outbreak."
+                "title": "North Korean ICBM Test Sparks Fears of Escalating Conflict",
+                "risk_level": "High",
+                "summary": "North Korea has fired a long-range missile which appeared to land near Japan, sparking concerns over escalating tensions in the region and fears that the country's nuclear programme is advancing at a rapid pace."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's ruling party suffers historic defeat in upper house election",
-                "risk_level": "High",
-                "summary": "Japan's ruling Liberal Democratic Party (LDP) has suffered a historic defeat in the country's upper house election, with the opposition Constitutional Democratic Party of Japan emerging as the largest party."
-            },
-            {
-                "title": "Protesters clash with police in Tokyo over new security legislation",
+                "title": "Japan's Defense Ministry confirms missile detected over northern island of Hokkaido, but no explosion reported.",
                 "risk_level": "Medium",
-                "summary": "Protesters clashed with police in Tokyo on Saturday over new security legislation, which opponents say would undermine Japan's pacifist constitution."
+                "summary": ""
             },
             {
-                "title": "Japan's prime minister set to visit Ukraine amid growing tensions",
-                "risk_level": "Low",
-                "summary": "Japan's Prime Minister Fumio Kishida is set to visit Ukraine next month in a bid to strengthen ties between the two nations and support Kyiv in its conflict with Russia."
+                "title": "Japan's ruling party to revise defense guidelines, consider increasing troop presence on remote islands and boosting missile intercept capabilities.",
+                "risk_level": "High",
+                "summary": ""
+            },
+            {
+                "title": "Japanese government to impose stricter COVID-19 measures on Tokyo and surrounding regions due to rising cases.",
+                "risk_level": "Medium",
+                "summary": ""
             }
         ]
     }
