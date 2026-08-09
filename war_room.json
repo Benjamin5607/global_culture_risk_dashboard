@@ -1,72 +1,72 @@
 {
-    "updated": "2026-08-08",
+    "updated": "2026-08-09",
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China Tensions Escalate Over Taiwan",
+                "title": "US Warns China on Taiwan Invasion",
                 "risk_level": "High",
-                "summary": "US-China tensions escalated over Taiwan as US President Biden reiterated support for the country's sovereignty, while China's Foreign Ministry warned of severe consequences if the US continues to intervene in Taiwan's affairs."
+                "summary": "The United States has warned China that any invasion of Taiwan will not be tolerated, amid rising tensions between the two countries."
             },
             {
-                "title": "North Korea Conducts Missile Test",
+                "title": "Rise in Tensions Between Russia and Ukraine",
                 "risk_level": "High",
-                "summary": "North Korea conducted a ballistic missile test, prompting UN condemnation and a strong statement from the US calling for restraint."
+                "summary": "There has been a significant increase in tensions between Russia and Ukraine, with reports of troop deployments and military buildup on the border."
             },
             {
-                "title": "Global Supply Chain Disruptions Worsen",
-                "risk_level": "Medium",
-                "summary": "Global supply chain disruptions worsened due to ongoing trade tensions and logistical challenges, impacting industries such as technology and autos."
+                "title": "Iran's Nuclear Program Raises International Concerns",
+                "risk_level": "High",
+                "summary": "Iran's nuclear program has been a major source of concern for the international community, with many fearing that the country is developing nuclear weapons."
             }
         ],
         "United States": [
             {
-                "title": "Tensions between US and Iran escalating over drone incident",
+                "title": "Ukraine invasion sparks concern over global security",
                 "risk_level": "High",
-                "summary": "A US drone was shot down by an Iranian surface-to-air missile in the Persian Gulf, raising fears of a potential conflict between the two nations."
+                "summary": "The ongoing Ukraine invasion by Russian forces continues to dominate global headlines, sparking concerns about the security implications for the United States and its allies."
             },
             {
-                "title": "Gun ownership debate reignites after US mass shooting",
+                "title": "US Supreme Court overturns Roe v Wade, sparking protests",
+                "risk_level": "High",
+                "summary": "The US Supreme Court's decision to overturn Roe v Wade has sparked widespread protests and unrest across the country, raising concerns about social and political stability."
+            },
+            {
+                "title": "Federal Reserve raises interest rates to combat inflation",
                 "risk_level": "Medium",
-                "summary": "A mass shooting in the US has sparked renewed debate over gun ownership and control laws, with some calling for stricter regulations."
-            },
-            {
-                "title": "US-China trade tensions remain high as talks stall",
-                "risk_level": "High",
-                "summary": "Trade tensions between the US and China have increased amid stalled negotiations, with both sides imposing additional tariffs on each other's goods."
+                "summary": "The Federal Reserve's decision to raise interest rates aims to combat inflation and stabilize the US economy, but may have negative consequences for small businesses and vulnerable communities."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korean Ballistic Missile Launch",
+                "title": "North Korea fires two ballistic missiles, South Korea and US scramble jets",
                 "risk_level": "High",
-                "summary": "North Korea launched an intercontinental ballistic missile into the Sea of Japan, sparking a strong response from the international community."
+                "summary": "North Korea fired two ballistic missiles, putting South Korea and US on high alert."
             },
             {
-                "title": "South Korea's Yoon Suk-yeol Faces Impeachment Charges",
+                "title": "South Korean President Yoon orders probe into alleged spy ring",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol has been indicted on corruption charges, further straining his already precarious position in the country."
+                "summary": "South Korean President Yoon orders an investigation into alleged espionage ring linked to China and North Korea."
             },
             {
-                "title": "South Korea's Response to North Korea's Cyberattacks",
-                "risk_level": "Low",
-                "summary": "South Korea has vowed to take a tougher stance against North Korea's increasing cyberattacks, but experts warn that a military response could escalate tensions further."
+                "title": "South Korea's ruling party facing scandal over embezzlement and bribery",
+                "risk_level": "Medium",
+                "summary": "South Korea's ruling party hit by corruption scandal over embezzlement and bribery allegations."
             }
         ],
         "Japan": [
             {
-                "title": "North Korean Ballistic Missile Launch",
+                "title": "Japan to strengthen its defense capabilities to counter China's increasing military presence in the region",
                 "risk_level": "High",
-                "summary": "A North Korean ballistic missile passed over Japan, prompting the country to issue an emergency alert and suspend rail services. No damage was reported, but the incident highlights growing tensions in the region and the potential for increased security risks for Japan."
+                "summary": "In a move aimed at countering China's growing military presence in the region, Japan has announced plans to strengthen its defense capabilities. The move comes amid rising tensions between Tokyo and Beijing over issues such as the South China Sea and the deployment of Chinese troops on the self-governing island of Taiwan."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "Protests against Japan's plans to discharge treated nuclear wastewater from Fukushima",
+                "title": "Concerns over Japan's aging population and labor shortages amid the COVID-19 pandemic",
                 "risk_level": "Medium",
-                "summary": "Tensions remain high as protesters demonstrate against Japan's plans to discharge treated nuclear wastewater from Fukushima into the ocean. The move is seen as a potential environmental risk and has sparked international criticism."
+                "summary": "As Japan's aging population continues to grow, the country is facing a severe labor shortage. These issues have been exacerbated by the ongoing COVID-19 pandemic, which has forced many to reassess their priorities and change their working patterns."
+            },
+            {
+                "title": "Japan's government announces plans to increase spending on cyber security measures",
+                "risk_level": "High",
+                "summary": "In a bid to boost the country's defenses against cyber threats, Japan's government has unveiled plans to increase spending on cyber security measures. The move is aimed at protecting the country's critical infrastructure and sensitive data from potential cyber-attacks."
             }
         ]
     }
