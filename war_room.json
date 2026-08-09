@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "North Korea Launches Ballistic Missile Test",
+                "title": "Concerns Over China's Military Build-Up in South China Sea",
                 "risk_level": "High",
-                "summary": "In a provocative move, North Korea has launched a ballistic missile test, increasing tensions in the region."
+                "summary": "China's increasing military presence in the South China Sea has raised concerns about regional stability and the potential for conflict with other countries in the area."
             },
             {
-                "title": "US-China Trade Tensions Escalate",
-                "risk_level": "High",
-                "summary": "Tensions between the US and China have escalated, with both countries imposing new trade restrictions."
+                "title": "Rise of Anti-US Sentiment in the Middle East",
+                "risk_level": "Medium",
+                "summary": "Increased anti-US rhetoric and protests in several Middle Eastern countries have created a challenging environment for US diplomacy and business interests in the region."
             },
             {
-                "title": "Cyberattack on European Healthcare System Disrupted",
+                "title": "North Korea's Recent Nuclear Tests",
                 "risk_level": "High",
-                "summary": "A recent cyberattack on a European healthcare system has caused significant disruptions to patient care."
+                "summary": "North Korea's recent nuclear tests have heightened tensions with the international community and increased the risk of conflict on the Korean peninsula."
             }
         ],
         "United States": [
             {
-                "title": "Florida judge blocks new law requiring schools to report LGBTQ+ students to parents",
+                "title": "Roe v. Wade Abortion Ruling Reversal",
                 "risk_level": "High",
-                "summary": "A Florida judge has blocked a new law requiring schools to report LGBTQ+ students to parents, arguing that it violates the rights of students and is unconstitutional."
+                "summary": "The US Supreme Court overturns the landmark abortion rights case Roe v. Wade, sparking widespread protests and controversy."
             },
             {
-                "title": "US Supreme Court allows Texas abortion ban to take effect",
+                "title": "Violent Protests Erupt in US Cities Over Abortion Ruling",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has allowed a Texas abortion ban to take effect, marking a significant setback for abortion rights in the country."
+                "summary": "Violent clashes break out between pro-choice and anti-abortion groups in cities across the US, leading to injuries and arrests."
             },
             {
-                "title": "US and Israel reach agreement on Iran nuclear deal",
+                "title": "Migrant Crisis Intensifies at US-Mexico Border",
                 "risk_level": "Medium",
-                "summary": "The US and Israel have reached an agreement on the Iran nuclear deal, with Israel agreeing to support the deal in exchange for concessions from the US on military aid and security cooperation."
+                "summary": "A surge in migrant arrivals at the US-Mexico border continues to put pressure on border facilities and resources."
             }
         ],
         "South Korea": [
             {
-                "title": "Ruling Party's Election Fund Scandal Deepens",
+                "title": "Ransomware Attack Hits South Korean Cryptocurrency Exchange",
                 "risk_level": "High",
-                "summary": "North Korea's foreign minister warned that the country will 'never' return to nuclear talks with South Korea, as it seeks stronger relations with China and Russia, after Seoul and Washington agreed on new military drills to counter growing threats from Pyongyang."
+                "summary": "A South Korean cryptocurrency exchange was hit by a ransomware attack, compromising the personal data of over 30,000 users. The incident raises concerns about the vulnerability of the country's cryptocurrency sector to cyber threats."
             },
             {
-                "title": "South Korean Economy Shrinks Again, Heightening Recession Fears",
+                "title": "Government Warns of North Korean Cyberattacks Amid Tensions",
                 "risk_level": "High",
-                "summary": "South Korea has become the latest major economy to see its GDP shrink, heightening concerns that the country could tip into recession. Experts say the outlook is grim due to weak exports, lower investment and rising uncertainty over the global economic outlook."
+                "summary": "The South Korean government has warned of a heightened risk of cyberattacks from North Korea in the wake of recent inter-Korean tensions. The warning comes as the two countries engage in a war of words over Pyongyang's nuclear program."
             },
             {
-                "title": "North Korean ICBM Test Sparks Fears of Escalating Conflict",
-                "risk_level": "High",
-                "summary": "North Korea has fired a long-range missile which appeared to land near Japan, sparking concerns over escalating tensions in the region and fears that the country's nuclear programme is advancing at a rapid pace."
+                "title": "COVID-19 Outbreak in Seoul Sparks Concerns Over Public Safety",
+                "risk_level": "Medium",
+                "summary": "A recent surge in COVID-19 cases in Seoul has sparked concerns over public safety in South Korea. Authorities have implemented new measures to contain the outbreak, including enhanced surveillance and testing protocols."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Defense Ministry confirms missile detected over northern island of Hokkaido, but no explosion reported.",
+                "title": "Japan's Population Falls 430,000 to Below 127 Million in 2022, First Time On Record",
                 "risk_level": "Medium",
-                "summary": ""
+                "summary": "Trend of declining population remains"
             },
             {
-                "title": "Japan's ruling party to revise defense guidelines, consider increasing troop presence on remote islands and boosting missile intercept capabilities.",
-                "risk_level": "High",
-                "summary": ""
+                "title": "Tokyo Olympics Chief Takeda Says He's Sorry for Games Chaos",
+                "risk_level": "Low",
+                "summary": "Apology came in wake of logistical issues during 2021 event"
             },
             {
-                "title": "Japanese government to impose stricter COVID-19 measures on Tokyo and surrounding regions due to rising cases.",
-                "risk_level": "Medium",
-                "summary": ""
+                "title": "",
+                "risk_level": "",
+                "summary": "(Could not find any other relevant event in the past 7 days)"
             }
         ]
     }
