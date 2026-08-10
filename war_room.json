@@ -3,70 +3,73 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "China-US Tensions Escalate Over Taiwan",
+                "title": "Cyberattack on global supply chain",
                 "risk_level": "High",
-                "summary": "China's military drills around Taiwan have caused tensions with the US, which has sent a clear warning to Beijing. The situation remains volatile, with potential for military action."
+                "summary": "A global supply chain has been hit by a devastating cyberattack, causing widespread disruptions to businesses and economies worldwide."
             },
             {
-                "title": "Global Energy Crisis Worsens",
+                "title": "Global trade tensions escalate",
                 "risk_level": "High",
-                "summary": "The global energy crisis is worsening, with oil prices soaring and production cuts deepening. This may trigger a recession, especially for economies heavily reliant on energy imports."
+                "summary": "Tensions between major trading nations have escalated, with several countries imposing new tariffs and trade restrictions."
             },
             {
-                "title": "Rising Tensions Between India and Pakistan Over Kashmir",
+                "title": "Mass protests in global cities",
                 "risk_level": "High",
-                "summary": "India and Pakistan have clashed over the disputed region of Kashmir, raising tensions between the two nuclear-armed nations. This could lead to a full-blown conflict, with significant regional and global implications."
+                "summary": "Mass protests have erupted in cities around the world, triggered by a range of grievances including economic inequality and social injustice."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Limits Gun-Regulating Agency's Power",
+                "title": "Tensions rise over US border restrictions",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has limited the power of a federal agency that enforces stricter gun laws, raising concerns about the impact on public safety."
+                "summary": "A US federal court has blocked the Biden administration's plan to end Title 42, a pandemic-era rule that allowed for the rapid expulsion of migrants at the border, potentially leading to increased tensions and border security risks."
             },
             {
-                "title": "Florida Governor Signs Bill Restricting Access to Abortions",
-                "risk_level": "High",
-                "summary": "Florida's governor has signed a bill restricting access to abortions, sparking debates about reproductive rights and women's health."
-            },
-            {
-                "title": "US and Chinese Diplomats Meet Amid Tensions",
+                "title": "Federal judge blocks Texas social media law",
                 "risk_level": "Medium",
-                "summary": "US and Chinese diplomats have met to discuss tensions between the two nations, but no concrete agreements were reached, leaving the situation uncertain."
+                "summary": "A US federal judge has temporarily blocked a Texas law that aimed to ban social media companies from moderating content, citing concerns over free speech and the potential for misinformation."
+            },
+            {
+                "title": "US lawmakers clash over abortion rights",
+                "risk_level": "High",
+                "summary": "US lawmakers have been at odds over abortion rights, with some pushing for the reversal of a federal judge's ruling that allowed for the restriction of abortion services in certain states, while others have vowed to protect access to reproductive healthcare."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's Kim vows to accelerate arms development as US drills with South resume",
+                "date": "08-05-2024",
+                "title": "South Korean President faces backlash over military conscription reform",
                 "risk_level": "High",
-                "summary": "North Korean leader Kim Jong Un has vowed to accelerate the development of his military's arsenal, state media reported, in response to US and South Korean joint military drills that resumed after a five-year pause."
+                "summary": "Protests erupt in Seoul as President Yoon Suk-yeol's proposed military conscription reforms spark outrage among conscripts and their families."
             },
             {
-                "title": "S. Korea, US begin joint military exercises",
+                "date": "08-03-2024",
+                "title": "North and South Korea exchange gunfire near border",
                 "risk_level": "High",
-                "summary": "South Korea and the United States launched joint military exercises on Monday, five years after the drills were suspended due to the COVID-19 pandemic."
+                "summary": "Tensions rise as North and South Korean soldiers exchange gunfire along the Demilitarized Zone (DMZ)."
             },
             {
-                "title": "South Korea Sees 7th Week of Protests as Police Use Force to Disperse Demonstrators",
+                "date": "07-28-2024",
+                "title": "South Korean police cracking down on student-led protests",
                 "risk_level": "Medium",
-                "summary": "Police in South Korea used force to disperse anti-government demonstrators for the seventh week in a row, as thousands of people marched through the capital city of Seoul calling for President Yoon Suk-yeol's ouster."
+                "summary": "Police in South Korea clash with student protesters demanding an end to military conscription and increased support for arts and humanities students."
             }
         ],
         "Japan": [
             {
-                "title": "Nuclear power plant incident in Oi raises concerns",
-                "risk_level": "High",
-                "summary": "On August 6, a fire broke out in the Oi Nuclear Power Station in Fukui Prefecture, Japan, prompting concerns about safety and potential environmental impacts."
+                "title": "Japan to Raise 20 TWh of Power via Renewable Energy by 2030",
+                "risk_level": "Low",
+                "summary": "Japan aims to increase its renewable energy production to 20 terawatt-hours (TWh) by 2030, in line with its plan to phase out nuclear power."
             },
             {
-                "title": "Rising tensions with China in East China Sea",
+                "title": "Japan's Inflation Rate Hits 4.5%, Highest in 41 Years",
                 "risk_level": "High",
-                "summary": "On August 3, Japan's defense minister expressed concern over China's increased military presence in the East China Sea, highlighting the need for vigilance in maintaining regional security."
+                "summary": "Japan's inflation rate has risen to 4.5%, the highest in 41 years, largely due to the ongoing global economic crisis and supply chain disruptions."
             },
             {
-                "title": "Protests against nuclear policy in Tokyo",
+                "title": "Tokyo to Host 2025 World Expo on 'Designing Future Society for Our Lives'",
                 "risk_level": "Medium",
-                "summary": "On August 2, a group of protesters gathered in Tokyo to voice opposition to Japan's nuclear energy policy, calling for a shift towards renewable energy sources."
+                "summary": "Tokyo has been chosen to host the 2025 World Expo, which will focus on 'Designing Future Society for Our Lives', highlighting the city's commitment to innovation and sustainability."
             }
         ]
     }
