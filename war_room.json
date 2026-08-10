@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Riots in Iran continued for a third consecutive day (7/30/2024) with protesters defying security forces in multiple cities, including Tehran, Mashhad, and Tabriz. "
-            },
-            {
-                "title": "",
+                "title": "Global supply chains could be severely disrupted",
                 "risk_level": "High",
-                "summary": "Turkish military forces launched a series of airstrikes against Kurdish militant targets in northern Iraq (7/29/2024)."
+                "summary": "Russian invasion of Ukraine has already led to global supply chain disruptions, and further escalation could severely impact global trade."
             },
             {
-                "title": "",
+                "title": "Cyber attacks against critical infrastructure increase",
                 "risk_level": "Medium",
-                "summary": "Protests against Indian government policies erupted in multiple cities across the country (7/27/2024), resulting in clashes with police and reports of injuries."
+                "summary": "Rising global tensions have led to an increase in cyber attacks against critical infrastructure, such as power plants and hospitals."
+            },
+            {
+                "title": "Social unrest expected at G20 summit",
+                "risk_level": "Medium",
+                "summary": "Protests and demonstrations are expected worldwide in response to the upcoming G20 summit, which could lead to social unrest and clashes with authorities."
             }
         ],
         "United States": [
             {
-                "title": "US Shootings: Gun violence in the United States sees a surge in recent weeks",
-                "risk_level": "High",
-                "summary": "The US saw a surge in gun violence in the past week, with multiple mass shootings reported."
+                "title": "US Supreme Court rejects bid to halt Biden's student loan forgiveness plan",
+                "risk_level": "Low",
+                "summary": "The US Supreme Court has rejected a bid to halt President Joe Biden's plan to forgive up to $20,000 in student loans. The court's decision allows the plan to move forward, potentially benefiting millions of borrowers."
             },
             {
-                "title": "Jan 6th Riot Charges: US DOJ announces charges against hundreds of January 6th riot participants",
+                "title": "Trump Organization convicted on tax evasion charges in New York",
                 "risk_level": "High",
-                "summary": "The US Department of Justice (DOJ) announced charges against over 800 individuals involved in the January 6th riot at the US Capitol building."
+                "summary": "A New York jury has convicted the Trump Organization on tax evasion charges. The verdict marks a significant blow to former President Donald Trump and his family's business empire."
             },
             {
-                "title": "US Border Influx: Hundreds of migrants detained at US-Mexico border in recent days",
+                "title": "US lawmakers reach bipartisan deal on gun safety bill",
                 "risk_level": "Medium",
-                "summary": "The US Border Patrol reported an increase in migrant detentions at the US-Mexico border over the past week, with hundreds of individuals being taken into custody."
+                "summary": "US lawmakers have reached a bipartisan deal on a gun safety bill, marking a rare moment of bipartisan cooperation on the issue of gun control. The bill includes measures to improve background checks and restrict access to firearms for certain individuals."
             }
         ],
         "South Korea": [
             {
-                "title": "",
+                "title": "Seoul's 'Nakwon Market' fire sparks public safety concerns",
                 "risk_level": "Medium",
-                "summary": "Tensions between South Korea and North Korea increased after the North fired a ballistic missile into the sea, with the US and South Korean militaries conductingjoint drills in response."
+                "summary": "A devastating fire broke out in Seoul's iconic Nakwon Market on August 7, causing significant property damage. The incident has heightened public safety concerns and raised questions about the city's emergency response protocols."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "South Korea's presidential office issued a statement urging citizens to remain calm amid rising tensions with the North."
+                "title": "Jeju Island COVID-19 cases surge ahead of peak travel season",
+                "risk_level": "High",
+                "summary": "South Korea's Jeju Island, a popular tourist destination, has seen a sharp increase in COVID-19 cases in the past week. This has sparked concerns among tourists and residents alike, amid the peak summer travel season."
             },
             {
-                "title": "South Korean government to provide 10 billion won in support for victims of Itaewon crush",
-                "risk_level": "Low",
-                "summary": "The South Korean government announced that it would provide 10 billion won ($7.4 million) in support for the victims of the deadly Itaewon crush, which occurred on October 29, 2022."
+                "title": "Protests erupt in Seoul over revised education reform plans",
+                "risk_level": "High",
+                "summary": "Hundreds of protesters took to the streets in Seoul on August 8 to express their opposition to the government's revised education reform plans. The protesters argue that the changes will disproportionately affect low-income students and undermine the country's education system."
             }
         ],
         "Japan": [
             {
-                "title": "Japan to consider new economic measures due to Ukraine Russia conflict",
+                "title": "Magnitude 5.8 Earthquake Hits Off Eastern Japan",
                 "risk_level": "Medium",
-                "summary": "Japan is considering new economic measures to mitigate the impact of the Ukraine-Russia conflict, which has led to high fuel prices."
+                "summary": "A magnitude 5.8 earthquake struck off the coast of eastern Japan, triggering a tsunami warning in the area but causing no casualties or damage."
             },
             {
-                "title": "Japan’s ruling party to introduce 10.8 trillion yen stimulus package",
-                "risk_level": "High",
-                "summary": "Japan's ruling party plans to introduce a 10.8 trillion yen ($97.3 billion) stimulus package to address economic concerns and inflation."
+                "title": "Japan´s Constitutional Reform Bill Faces Uncertainty",
+                "risk_level": "Low",
+                "summary": "Japan's ruling party is pushing for constitutional reform, but the bill's passage remains uncertain due to opposition from other parties."
             },
             {
-                "title": "Japan’s economy shows signs of recovery, but recession fears linger",
+                "title": "Tokyo 2020 Olympics Corruption Investigation Ongoing",
                 "risk_level": "Medium",
-                "summary": "Japan's economy is showing signs of recovery, but recession fears linger due to global economic uncertainty and inflation concerns."
+                "summary": "A corruption investigation related to the Tokyo 2020 Olympics is ongoing, with officials accused of embezzlement and other financial crimes."
             }
         ]
     }
