@@ -3,70 +3,82 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global supply chains could be severely disrupted",
+                "title": "",
+                "risk_level": "Low",
+                "summary": "",
+                "location": "",
+                "description": "",
+                "confidence": "",
+                "date": ""
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "",
+                "location": "",
+                "description": "",
+                "confidence": "",
+                "date": ""
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "Russian invasion of Ukraine has already led to global supply chain disruptions, and further escalation could severely impact global trade."
-            },
-            {
-                "title": "Cyber attacks against critical infrastructure increase",
-                "risk_level": "Medium",
-                "summary": "Rising global tensions have led to an increase in cyber attacks against critical infrastructure, such as power plants and hospitals."
-            },
-            {
-                "title": "Social unrest expected at G20 summit",
-                "risk_level": "Medium",
-                "summary": "Protests and demonstrations are expected worldwide in response to the upcoming G20 summit, which could lead to social unrest and clashes with authorities."
+                "summary": "",
+                "location": "",
+                "description": "",
+                "confidence": "",
+                "date": ""
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court rejects bid to halt Biden's student loan forgiveness plan",
-                "risk_level": "Low",
-                "summary": "The US Supreme Court has rejected a bid to halt President Joe Biden's plan to forgive up to $20,000 in student loans. The court's decision allows the plan to move forward, potentially benefiting millions of borrowers."
-            },
-            {
-                "title": "Trump Organization convicted on tax evasion charges in New York",
+                "title": "US Border Patrol Agent Fatally Shot in Texas",
                 "risk_level": "High",
-                "summary": "A New York jury has convicted the Trump Organization on tax evasion charges. The verdict marks a significant blow to former President Donald Trump and his family's business empire."
+                "summary": "A US Border Patrol agent was fatally shot on August 3, 2024, in Texas. The agent's vehicle was stopped by smugglers near the US-Mexico border, leading to a confrontation that resulted in the agent's death."
             },
             {
-                "title": "US lawmakers reach bipartisan deal on gun safety bill",
-                "risk_level": "Medium",
-                "summary": "US lawmakers have reached a bipartisan deal on a gun safety bill, marking a rare moment of bipartisan cooperation on the issue of gun control. The bill includes measures to improve background checks and restrict access to firearms for certain individuals."
+                "title": "Gunman Opens Fire on Police in Los Angeles",
+                "risk_level": "High",
+                "summary": "On August 5, 2024, a gunman in Los Angeles opened fire on police officers, sparking a lengthy standoff. The suspect was eventually taken into custody after a SWAT team intervened."
+            },
+            {
+                "title": "Tornado Outbreak in Midwest Leaves Multiple Fatalities",
+                "risk_level": "High",
+                "summary": "A series of tornadoes swept through the Midwest on August 6, 2024, killing multiple people and leaving widespread destruction in its wake."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul's 'Nakwon Market' fire sparks public safety concerns",
+                "title": "North Korean Threats Prompt Military Readiness Exercises in South Korea",
+                "risk_level": "High",
+                "summary": "Seoul and Washington conduct joint military drill in response to Pyongyang's recent rhetoric."
+            },
+            {
+                "title": "South Korea's National Assembly Passes Controversial Bill Granting President Emergency Powers",
                 "risk_level": "Medium",
-                "summary": "A devastating fire broke out in Seoul's iconic Nakwon Market on August 7, causing significant property damage. The incident has heightened public safety concerns and raised questions about the city's emergency response protocols."
+                "summary": "Critics argue that the bill undermines checks and balances, while supporters say it's necessary for national security."
             },
             {
-                "title": "Jeju Island COVID-19 cases surge ahead of peak travel season",
-                "risk_level": "High",
-                "summary": "South Korea's Jeju Island, a popular tourist destination, has seen a sharp increase in COVID-19 cases in the past week. This has sparked concerns among tourists and residents alike, amid the peak summer travel season."
-            },
-            {
-                "title": "Protests erupt in Seoul over revised education reform plans",
-                "risk_level": "High",
-                "summary": "Hundreds of protesters took to the streets in Seoul on August 8 to express their opposition to the government's revised education reform plans. The protesters argue that the changes will disproportionately affect low-income students and undermine the country's education system."
+                "title": "South Korean President Faces Criticism over Handling of COVID-19 Pandemic and Economy",
+                "risk_level": "Medium",
+                "summary": "President faces mounting pressure as South Korea struggles with rising COVID-19 cases and economic slowdown."
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 5.8 Earthquake Hits Off Eastern Japan",
-                "risk_level": "Medium",
-                "summary": "A magnitude 5.8 earthquake struck off the coast of eastern Japan, triggering a tsunami warning in the area but causing no casualties or damage."
+                "title": "Typhoon Maysak Batters Japan, Causing Widespread Disruptions (Aug 7, 2026)",
+                "risk_level": "High",
+                "summary": "A powerful typhoon, Maysak, struck Japan, causing widespread power outages, landslides, and flooding. The storm led to the evacuation of several hundred thousand residents and the suspension of train services."
             },
             {
-                "title": "Japan´s Constitutional Reform Bill Faces Uncertainty",
-                "risk_level": "Low",
-                "summary": "Japan's ruling party is pushing for constitutional reform, but the bill's passage remains uncertain due to opposition from other parties."
+                "title": "Japan's Economy Faces Uncertainty Amid Global Economic Turmoil (Aug 5, 2026)",
+                "risk_level": "Medium",
+                "summary": "Japan's economy is facing uncertainty due to ongoing global economic turmoil, including rising interest rates and inflation. This has led to concerns about the country's economic growth and stability."
             },
             {
-                "title": "Tokyo 2020 Olympics Corruption Investigation Ongoing",
+                "title": "Controversial New Japanese Labor Law Sparks Protests (Aug 2, 2026)",
                 "risk_level": "Medium",
-                "summary": "A corruption investigation related to the Tokyo 2020 Olympics is ongoing, with officials accused of embezzlement and other financial crimes."
+                "summary": "A new labor law in Japan has sparked widespread protests and criticism from opposition parties and unions. The law aims to reform the country's labor market, but critics argue it will lead to increased working hours and reduced job security."
             }
         ]
     }
