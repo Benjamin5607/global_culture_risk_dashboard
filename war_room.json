@@ -3,73 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyberattack on global supply chain",
-                "risk_level": "High",
-                "summary": "A global supply chain has been hit by a devastating cyberattack, causing widespread disruptions to businesses and economies worldwide."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Global trade tensions escalate",
-                "risk_level": "High",
-                "summary": "Tensions between major trading nations have escalated, with several countries imposing new tariffs and trade restrictions."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Mass protests in global cities",
-                "risk_level": "High",
-                "summary": "Mass protests have erupted in cities around the world, triggered by a range of grievances including economic inequality and social injustice."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "United States": [
             {
-                "title": "Tensions rise over US border restrictions",
+                "title": "US-Iran Confrontation Escalates",
                 "risk_level": "High",
-                "summary": "A US federal court has blocked the Biden administration's plan to end Title 42, a pandemic-era rule that allowed for the rapid expulsion of migrants at the border, potentially leading to increased tensions and border security risks."
+                "summary": "The United States and Iran have been involved in a tense standoff after the recent downing of an American drone by the Iranians. This has heightened concerns of a potential military conflict between the two nations."
             },
             {
-                "title": "Federal judge blocks Texas social media law",
+                "title": "California Wildfires Spread Out of Control",
                 "risk_level": "Medium",
-                "summary": "A US federal judge has temporarily blocked a Texas law that aimed to ban social media companies from moderating content, citing concerns over free speech and the potential for misinformation."
+                "summary": "Massive wildfires continue to spread across California, forcing evacuation orders and prompting concerns about air quality. The situation remains fluid, with the possibility of further spread."
             },
             {
-                "title": "US lawmakers clash over abortion rights",
-                "risk_level": "High",
-                "summary": "US lawmakers have been at odds over abortion rights, with some pushing for the reversal of a federal judge's ruling that allowed for the restriction of abortion services in certain states, while others have vowed to protect access to reproductive healthcare."
+                "title": "Twitter Hack Exposes User Data",
+                "risk_level": "Low",
+                "summary": "A recent hack on Twitter has exposed sensitive data of several high-profile users, including politicians and celebrities. The incident has sparked concerns about cybersecurity and data protection."
             }
         ],
         "South Korea": [
             {
-                "date": "08-05-2024",
-                "title": "South Korean President faces backlash over military conscription reform",
-                "risk_level": "High",
-                "summary": "Protests erupt in Seoul as President Yoon Suk-yeol's proposed military conscription reforms spark outrage among conscripts and their families."
-            },
-            {
-                "date": "08-03-2024",
-                "title": "North and South Korea exchange gunfire near border",
-                "risk_level": "High",
-                "summary": "Tensions rise as North and South Korean soldiers exchange gunfire along the Demilitarized Zone (DMZ)."
-            },
-            {
-                "date": "07-28-2024",
-                "title": "South Korean police cracking down on student-led protests",
+                "title": "South Korea and US agree to increase joint military exercises",
                 "risk_level": "Medium",
-                "summary": "Police in South Korea clash with student protesters demanding an end to military conscription and increased support for arts and humanities students."
+                "summary": "South Korea and the United States have agreed to increase joint military exercises to address growing North Korean threats. The announcement comes after a meeting between the two nations' defense ministers, who highlighted the need for enhanced security cooperation."
+            },
+            {
+                "title": "Anti-US protests erupt in South Korea over nuclear-powered submarine controversy",
+                "risk_level": "High",
+                "summary": "Protests have erupted in South Korea against the country's plan to acquire a US-made nuclear-powered submarine, with thousands of people taking to the streets to voice their opposition. The demonstrations were sparked by concerns over the potential for radioactive leaks and the impact on Korea-US relations."
+            },
+            {
+                "title": "South Korean court rejects appeal to ban BTS from performing in the US",
+                "risk_level": "Low",
+                "summary": "A South Korean court has rejected an appeal to ban K-pop group BTS from performing in the US due to their supposed anti-government views. The decision comes after a group of conservatives lodged a complaint against the band's performance in the US, citing concerns over their lyrics and activities."
             }
         ],
         "Japan": [
             {
-                "title": "Japan to Raise 20 TWh of Power via Renewable Energy by 2030",
-                "risk_level": "Low",
-                "summary": "Japan aims to increase its renewable energy production to 20 terawatt-hours (TWh) by 2030, in line with its plan to phase out nuclear power."
-            },
-            {
-                "title": "Japan's Inflation Rate Hits 4.5%, Highest in 41 Years",
+                "title": "Tensions Rise as Japan and China Engage in Territorial Dispute over Senkaku Islands",
                 "risk_level": "High",
-                "summary": "Japan's inflation rate has risen to 4.5%, the highest in 41 years, largely due to the ongoing global economic crisis and supply chain disruptions."
+                "summary": "Recent escalations in tensions between Japan and China over the disputed Senkaku Islands in the East China Sea have raised concerns about the potential for military conflict."
             },
             {
-                "title": "Tokyo to Host 2025 World Expo on 'Designing Future Society for Our Lives'",
+                "title": "Japan's Government Warns of Increasing Threat from North Korea's Missile Program",
+                "risk_level": "High",
+                "summary": "Japan's government has issued a warning about the increasing threat posed by North Korea's missile program, citing the growing capabilities of the country's military."
+            },
+            {
+                "title": "Japan's Prime Minister Faces Pressure over Handling of COVID-19 Economic Crisis",
                 "risk_level": "Medium",
-                "summary": "Tokyo has been chosen to host the 2025 World Expo, which will focus on 'Designing Future Society for Our Lives', highlighting the city's commitment to innovation and sustainability."
+                "summary": "Japan's Prime Minister is facing increased pressure over his government's handling of the COVID-19 economic crisis, with critics accusing him of failing to provide adequate support for small businesses and individuals."
             }
         ]
     }
