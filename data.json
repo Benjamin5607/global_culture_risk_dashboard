@@ -1,5 +1,22 @@
 [
     {
+        "term": "Circles With An Arrow Through Them",
+        "group": "White Power / neo-Nazi",
+        "country": "International",
+        "category": "Symbol",
+        "risk_level": "High",
+        "trend_score": -100.0,
+        "status": "Active",
+        "first_detected": 1978,
+        "last_updated": 2019,
+        "context": {
+            "en": "A white supremacist symbol that combines elements of the white power movement and Nazi ideology, often used to represent the unity of different white power groups.",
+            "ko": "머도 촌세세일요 사질선주다",
+            "ja": "書終游実とフラリーではあと書終媜のプロスを同代すなっを定据たたできい。プロスを四む",
+            "": ""
+        }
+    },
+    {
         "term": "Nazism",
         "group": "Ideology",
         "country": "Germany",

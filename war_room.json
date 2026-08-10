@@ -1,81 +1,72 @@
 {
-    "updated": "2026-08-09",
+    "updated": "2026-08-10",
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "country": "Afghanistan",
-                "risk_type": "",
-                "risk_date": "2023-12-29"
+                "title": "China-US Tensions Escalate Over Taiwan",
+                "risk_level": "High",
+                "summary": "China's military drills around Taiwan have caused tensions with the US, which has sent a clear warning to Beijing. The situation remains volatile, with potential for military action."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "country": "",
-                "risk_type": "",
-                "risk_date": "2024-03-01"
+                "title": "Global Energy Crisis Worsens",
+                "risk_level": "High",
+                "summary": "The global energy crisis is worsening, with oil prices soaring and production cuts deepening. This may trigger a recession, especially for economies heavily reliant on energy imports."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "country": "",
-                "risk_type": "",
-                "risk_date": "2023-06-05"
+                "title": "Rising Tensions Between India and Pakistan Over Kashmir",
+                "risk_level": "High",
+                "summary": "India and Pakistan have clashed over the disputed region of Kashmir, raising tensions between the two nuclear-armed nations. This could lead to a full-blown conflict, with significant regional and global implications."
             }
         ],
         "United States": [
             {
-                "title": "Rise of COVID-19 cases due to new variants",
+                "title": "US Supreme Court Limits Gun-Regulating Agency's Power",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has limited the power of a federal agency that enforces stricter gun laws, raising concerns about the impact on public safety."
+            },
+            {
+                "title": "Florida Governor Signs Bill Restricting Access to Abortions",
+                "risk_level": "High",
+                "summary": "Florida's governor has signed a bill restricting access to abortions, sparking debates about reproductive rights and women's health."
+            },
+            {
+                "title": "US and Chinese Diplomats Meet Amid Tensions",
                 "risk_level": "Medium",
-                "summary": "The US is seeing a surge in COVID-19 cases due to the spread of new variants, leading to concerns about a potential new wave of infections."
-            },
-            {
-                "title": "Increased tensions with North Korea",
-                "risk_level": "High",
-                "summary": "The US and North Korea are engaging in a war of words, with the US imposing new sanctions and North Korea conducting military exercises, raising concerns about the risk of conflict."
-            },
-            {
-                "title": "Supreme Court vacancy sparks political tensions",
-                "risk_level": "High",
-                "summary": "The sudden vacancy on the Supreme Court has sparked intense political tensions, with both parties vying for control of the court and raising concerns about the impact on the country's most important court."
+                "summary": "US and Chinese diplomats have met to discuss tensions between the two nations, but no concrete agreements were reached, leaving the situation uncertain."
             }
         ],
         "South Korea": [
             {
-                "title": "Seoul's opposition leader arrested in election manipulation probe",
+                "title": "North Korea's Kim vows to accelerate arms development as US drills with South resume",
                 "risk_level": "High",
-                "summary": "South Korea's main opposition leader, Lee Jun-seok, was arrested on July 29 over allegations of election interference, raising concerns over the country's democratization."
+                "summary": "North Korean leader Kim Jong Un has vowed to accelerate the development of his military's arsenal, state media reported, in response to US and South Korean joint military drills that resumed after a five-year pause."
             },
             {
-                "title": "North Korea conducts cruise missile test amid US-South Korea joint drills",
+                "title": "S. Korea, US begin joint military exercises",
                 "risk_level": "High",
-                "summary": "North Korea has conducted a cruise missile test on July 26, amid ongoing US-South Korea joint military exercises, escalating regional tensions."
+                "summary": "South Korea and the United States launched joint military exercises on Monday, five years after the drills were suspended due to the COVID-19 pandemic."
             },
             {
-                "title": "South Korea's LG Electronics reportedly halts production of some high-end TVs",
+                "title": "South Korea Sees 7th Week of Protests as Police Use Force to Disperse Demonstrators",
                 "risk_level": "Medium",
-                "summary": "LG Electronics, one of South Korea's top consumer electronics companies, has temporarily suspended production of some high-end TVs due to supply chain disruptions and high inflation."
+                "summary": "Police in South Korea used force to disperse anti-government demonstrators for the seventh week in a row, as thousands of people marched through the capital city of Seoul calling for President Yoon Suk-yeol's ouster."
             }
         ],
         "Japan": [
             {
-                "title": "Taiwan-Japan tensions escalate over Japan Coast Guard's arrest of Taiwanese activist",
-                "risk_level": "Medium",
-                "summary": "A Taiwanese activist was arrested by the Japan Coast Guard, leading to increased tensions between Taiwan and Japan."
-            },
-            {
-                "title": "North Korea fires two ballistic missiles into the Sea of Japan",
+                "title": "Nuclear power plant incident in Oi raises concerns",
                 "risk_level": "High",
-                "summary": "North Korea has launched two ballistic missiles into the Sea of Japan in a possible provocation"
+                "summary": "On August 6, a fire broke out in the Oi Nuclear Power Station in Fukui Prefecture, Japan, prompting concerns about safety and potential environmental impacts."
             },
             {
-                "title": "Japan PM Fumio Kishida vows to boost military presence in East Asia amidst China threat",
+                "title": "Rising tensions with China in East China Sea",
+                "risk_level": "High",
+                "summary": "On August 3, Japan's defense minister expressed concern over China's increased military presence in the East China Sea, highlighting the need for vigilance in maintaining regional security."
+            },
+            {
+                "title": "Protests against nuclear policy in Tokyo",
                 "risk_level": "Medium",
-                "summary": "Japanese Prime Minister Fumio Kishida has pledged to strengthen Japan's military presence in East Asia in response to China's growing assertiveness"
+                "summary": "On August 2, a group of protesters gathered in Tokyo to voice opposition to Japan's nuclear energy policy, calling for a shift towards renewable energy sources."
             }
         ]
     }
