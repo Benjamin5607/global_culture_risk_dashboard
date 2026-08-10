@@ -4,69 +4,69 @@
         "Global (All)": [
             {
                 "title": "",
-                "risk_level": "",
-                "summary": ""
+                "risk_level": "Low",
+                "summary": "Riots in Iran continued for a third consecutive day (7/30/2024) with protesters defying security forces in multiple cities, including Tehran, Mashhad, and Tabriz. "
             },
             {
                 "title": "",
-                "risk_level": "",
-                "summary": ""
+                "risk_level": "High",
+                "summary": "Turkish military forces launched a series of airstrikes against Kurdish militant targets in northern Iraq (7/29/2024)."
             },
             {
                 "title": "",
-                "risk_level": "",
-                "summary": ""
+                "risk_level": "Medium",
+                "summary": "Protests against Indian government policies erupted in multiple cities across the country (7/27/2024), resulting in clashes with police and reports of injuries."
             }
         ],
         "United States": [
             {
-                "title": "US-Iran Confrontation Escalates",
+                "title": "US Shootings: Gun violence in the United States sees a surge in recent weeks",
                 "risk_level": "High",
-                "summary": "The United States and Iran have been involved in a tense standoff after the recent downing of an American drone by the Iranians. This has heightened concerns of a potential military conflict between the two nations."
+                "summary": "The US saw a surge in gun violence in the past week, with multiple mass shootings reported."
             },
             {
-                "title": "California Wildfires Spread Out of Control",
+                "title": "Jan 6th Riot Charges: US DOJ announces charges against hundreds of January 6th riot participants",
+                "risk_level": "High",
+                "summary": "The US Department of Justice (DOJ) announced charges against over 800 individuals involved in the January 6th riot at the US Capitol building."
+            },
+            {
+                "title": "US Border Influx: Hundreds of migrants detained at US-Mexico border in recent days",
                 "risk_level": "Medium",
-                "summary": "Massive wildfires continue to spread across California, forcing evacuation orders and prompting concerns about air quality. The situation remains fluid, with the possibility of further spread."
-            },
-            {
-                "title": "Twitter Hack Exposes User Data",
-                "risk_level": "Low",
-                "summary": "A recent hack on Twitter has exposed sensitive data of several high-profile users, including politicians and celebrities. The incident has sparked concerns about cybersecurity and data protection."
+                "summary": "The US Border Patrol reported an increase in migrant detentions at the US-Mexico border over the past week, with hundreds of individuals being taken into custody."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea and US agree to increase joint military exercises",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "South Korea and the United States have agreed to increase joint military exercises to address growing North Korean threats. The announcement comes after a meeting between the two nations' defense ministers, who highlighted the need for enhanced security cooperation."
+                "summary": "Tensions between South Korea and North Korea increased after the North fired a ballistic missile into the sea, with the US and South Korean militaries conductingjoint drills in response."
             },
             {
-                "title": "Anti-US protests erupt in South Korea over nuclear-powered submarine controversy",
-                "risk_level": "High",
-                "summary": "Protests have erupted in South Korea against the country's plan to acquire a US-made nuclear-powered submarine, with thousands of people taking to the streets to voice their opposition. The demonstrations were sparked by concerns over the potential for radioactive leaks and the impact on Korea-US relations."
-            },
-            {
-                "title": "South Korean court rejects appeal to ban BTS from performing in the US",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "A South Korean court has rejected an appeal to ban K-pop group BTS from performing in the US due to their supposed anti-government views. The decision comes after a group of conservatives lodged a complaint against the band's performance in the US, citing concerns over their lyrics and activities."
+                "summary": "South Korea's presidential office issued a statement urging citizens to remain calm amid rising tensions with the North."
+            },
+            {
+                "title": "South Korean government to provide 10 billion won in support for victims of Itaewon crush",
+                "risk_level": "Low",
+                "summary": "The South Korean government announced that it would provide 10 billion won ($7.4 million) in support for the victims of the deadly Itaewon crush, which occurred on October 29, 2022."
             }
         ],
         "Japan": [
             {
-                "title": "Tensions Rise as Japan and China Engage in Territorial Dispute over Senkaku Islands",
-                "risk_level": "High",
-                "summary": "Recent escalations in tensions between Japan and China over the disputed Senkaku Islands in the East China Sea have raised concerns about the potential for military conflict."
-            },
-            {
-                "title": "Japan's Government Warns of Increasing Threat from North Korea's Missile Program",
-                "risk_level": "High",
-                "summary": "Japan's government has issued a warning about the increasing threat posed by North Korea's missile program, citing the growing capabilities of the country's military."
-            },
-            {
-                "title": "Japan's Prime Minister Faces Pressure over Handling of COVID-19 Economic Crisis",
+                "title": "Japan to consider new economic measures due to Ukraine Russia conflict",
                 "risk_level": "Medium",
-                "summary": "Japan's Prime Minister is facing increased pressure over his government's handling of the COVID-19 economic crisis, with critics accusing him of failing to provide adequate support for small businesses and individuals."
+                "summary": "Japan is considering new economic measures to mitigate the impact of the Ukraine-Russia conflict, which has led to high fuel prices."
+            },
+            {
+                "title": "Japan’s ruling party to introduce 10.8 trillion yen stimulus package",
+                "risk_level": "High",
+                "summary": "Japan's ruling party plans to introduce a 10.8 trillion yen ($97.3 billion) stimulus package to address economic concerns and inflation."
+            },
+            {
+                "title": "Japan’s economy shows signs of recovery, but recession fears linger",
+                "risk_level": "Medium",
+                "summary": "Japan's economy is showing signs of recovery, but recession fears linger due to global economic uncertainty and inflation concerns."
             }
         ]
     }
