@@ -3,70 +3,53 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Iran nuclear talks hit snag, sparking international concern over Middle East tensions.",
+                "title": "Cyberattack disrupts global supply chain",
                 "risk_level": "High",
-                "summary": "Talks to revive the 2015 Iran nuclear deal have stalled, raising concerns about renewed tensions in the Middle East and the potential for military conflict."
+                "summary": "A sophisticated cyberattack has affected a major logistics company, causing delays and disruptions to global supply chains."
             },
             {
-                "title": "COVID-19 cases rise in South Korea as Omicron variant spreads.",
+                "title": "Protests erupt in major city over economic instability",
                 "risk_level": "High",
-                "summary": "South Korea has seen an increase in COVID-19 cases due to the spread of the Omicron variant, prompting health officials to take measures to control the outbreak."
+                "summary": "Large-scale protests have broken out in a major city due to growing economic instability and frustration with the government's handling of the situation."
             },
             {
-                "title": "Turkish-Egyptian rift deepens as Turkey accuses Egypt of supporting Syrian rebels.",
+                "title": "Tensions escalate between rival nations over disputed territory",
                 "risk_level": "High",
-                "summary": "Turkey and Egypt are at odds over their respective roles in the Syrian conflict, with Turkey accusing Egypt of supporting Syrian rebels."
-            }
-        ],
-        "United States": [
-            {
-                "title": "US-China Trade Relations Tense Further Amid New Tariffs",
-                "risk_level": "High",
-                "summary": "US-China trade relations have escalated further after the US imposed new tariffs on Chinese goods, sparking concerns about a potential impact on global economic growth."
-            },
-            {
-                "title": "Fears of US Political Polarization Intensify Following January 6 Committee Hearings",
-                "risk_level": "High",
-                "summary": "The US Capitol riots hearing has highlighted the nation's continued deep divisions, raising concerns about the stability of the nation during an election year."
-            },
-            {
-                "title": "Surge in Migrant Arrivals at US-Mexico Border Continues Amid Humanitarian Concerns",
-                "risk_level": "High",
-                "summary": "The United States has seen a significant increase in migrant arrivals at the US-Mexico border, raising concerns about the capacity of border facilities to handle the influx and providing adequate humanitarian assistance."
+                "summary": "The situation between two rival nations has grown increasingly tense, with both sides engaging in aggressive rhetoric and military build-up in the disputed territory."
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea warns of 'imminent' US-North Korea conflict, issues alert to citizens",
-                "risk_level": "High",
-                "summary": "South Korea issues a warning to its citizens about the possibility of an imminent conflict between the US and North Korea due to increasing tensions in the region."
-            },
-            {
-                "title": "South Korean officials deny reports of spy satellite sale to China",
+                "title": "N. Korea Fires Cruise Missiles off East Coast",
                 "risk_level": "Medium",
-                "summary": "South Korean officials deny reports that the country is planning to sell a spy satellite to China, citing national security concerns."
+                "summary": "South Korea's military says North Korea fired cruise missiles off its east coast on Wednesday, sparking concerns about heightened tensions in the region."
             },
             {
-                "title": "South Korea's president apologises for COVID-19 vaccine delays",
+                "title": "Moon Jae-in's Legacy Under Threat as Successor's Approval Rating Slumps",
                 "risk_level": "Low",
-                "summary": "South Korea's president apologises for delays in the delivery of COVID-19 vaccines, which have left some citizens without access to the vaccine."
+                "summary": "A survey has found that the approval rating of President Yoon Suk-yeol's liberal predecessor is the most unpopular president since South Korea's democracy began."
+            },
+            {
+                "title": "South Korea Sees Spike in Omicron XBB.1.5 Cases",
+                "risk_level": "Medium",
+                "summary": "South Korea reported a surge in new COVID-19 cases driven by the highly transmissible XBB.1.5 variant on Wednesday."
             }
         ],
         "Japan": [
             {
-                "title": "Protests erupt in Tokyo over new COVID-19 measures",
+                "title": "North Korea Fires Ballistic Missile Over Japan",
                 "risk_level": "High",
-                "summary": "Thousands of people took to the streets in Tokyo to protest new COVID-19 measures, with some calling for the government to resign."
+                "summary": "North Korea fired a ballistic missile that landed in the sea between Japan and the Korean Peninsula on June 5, 2023."
             },
             {
-                "title": "North Korea fires multiple ballistic missiles towards Japan",
-                "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles towards Japan, prompting an emergency alert in the country."
-            },
-            {
-                "title": "Typhoon Nanmadol makes landfall in Japan, causing widespread disruption",
+                "title": "Tokyo 2020 Olympics: Concerns Over COVID-19",
                 "risk_level": "Medium",
-                "summary": "Typhoon Nanmadol made landfall in Japan, causing widespread disruption and flooding in several regions."
+                "summary": "Concerns have been raised over the potential spread of COVID-19 during the Tokyo 2020 Olympics, which began on July 23, 2021."
+            },
+            {
+                "title": "Japan's COVID-19 Cases Surge Amid New Wave",
+                "risk_level": "High",
+                "summary": "Japan experienced a surge in COVID-19 cases in January 2022, with a new wave of infections affecting multiple regions."
             }
         ]
     }
