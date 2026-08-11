@@ -3,73 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-Iran tensions escalate over drone incident",
+                "title": "Iran nuclear talks hit snag, sparking international concern over Middle East tensions.",
                 "risk_level": "High",
-                "summary": "Iran seizes US drone, US threatens retaliation; global economy and stability at risk; potential for military conflict between US and Iran."
+                "summary": "Talks to revive the 2015 Iran nuclear deal have stalled, raising concerns about renewed tensions in the Middle East and the potential for military conflict."
             },
             {
-                "title": "Cyber-attack on Ukraine's infrastructure",
+                "title": "COVID-19 cases rise in South Korea as Omicron variant spreads.",
                 "risk_level": "High",
-                "summary": "Massive cyber-attack on Ukraine's infrastructure, including government and private sector; potential for spread to other countries and sectors; high risk of data breaches and outages."
+                "summary": "South Korea has seen an increase in COVID-19 cases due to the spread of the Omicron variant, prompting health officials to take measures to control the outbreak."
             },
             {
-                "title": "Protests in China over economic reforms",
-                "risk_level": "Medium",
-                "summary": "Anti-government protests in China over economic reforms, human rights abuses, and government control; potential for widespread unrest and impact on global supply chains."
+                "title": "Turkish-Egyptian rift deepens as Turkey accuses Egypt of supporting Syrian rebels.",
+                "risk_level": "High",
+                "summary": "Turkey and Egypt are at odds over their respective roles in the Syrian conflict, with Turkey accusing Egypt of supporting Syrian rebels."
             }
         ],
         "United States": [
             {
-                "title": "Roe v Wade Leak",
+                "title": "US-China Trade Relations Tense Further Amid New Tariffs",
                 "risk_level": "High",
-                "summary": "A private memo from Supreme Court Justice Samuel Alito has been leaked, suggesting that the court may overturn Roe v Wade, sparking debate and protests."
+                "summary": "US-China trade relations have escalated further after the US imposed new tariffs on Chinese goods, sparking concerns about a potential impact on global economic growth."
             },
             {
-                "title": "Jan 6 Hearing",
+                "title": "Fears of US Political Polarization Intensify Following January 6 Committee Hearings",
                 "risk_level": "High",
-                "summary": "The House January 6 Committee holds a hearing to investigate the events leading up to the US Capitol riot on January 6, 2021."
+                "summary": "The US Capitol riots hearing has highlighted the nation's continued deep divisions, raising concerns about the stability of the nation during an election year."
             },
             {
-                "title": "Twitter Files",
-                "risk_level": "Medium",
-                "summary": "Elon Musk releases \"Twitter Files\" showing the company's handling of free speech and censorship, sparking debate about social media regulation."
+                "title": "Surge in Migrant Arrivals at US-Mexico Border Continues Amid Humanitarian Concerns",
+                "risk_level": "High",
+                "summary": "The United States has seen a significant increase in migrant arrivals at the US-Mexico border, raising concerns about the capacity of border facilities to handle the influx and providing adequate humanitarian assistance."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires ballistic missile into Sea of Japan",
+                "title": "South Korea warns of 'imminent' US-North Korea conflict, issues alert to citizens",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile into the Sea of Japan, prompting a strong reaction from South Korea and its allies. The launch is seen as a provocation and a threat to regional security.",
-                "date": "2023-11-18"
+                "summary": "South Korea issues a warning to its citizens about the possibility of an imminent conflict between the US and North Korea due to increasing tensions in the region."
             },
             {
-                "title": "South Korea warns of 'serious consequences' after North Korea's missile launch",
-                "risk_level": "High",
-                "summary": "South Korea's presidential office warned that the missile launch by North Korea is a serious threat to regional security and has urged the international community to take action against Pyongyang.",
-                "date": "2023-11-18"
+                "title": "South Korean officials deny reports of spy satellite sale to China",
+                "risk_level": "Medium",
+                "summary": "South Korean officials deny reports that the country is planning to sell a spy satellite to China, citing national security concerns."
             },
             {
-                "title": "North Korea's Kim Jong Un orders military to be ready to strike US and South Korea",
-                "risk_level": "High",
-                "summary": "North Korean leader Kim Jong Un has ordered his military to be ready to strike the US and South Korea, sparking a new wave of tensions in the region.",
-                "date": "2023-11-19"
+                "title": "South Korea's president apologises for COVID-19 vaccine delays",
+                "risk_level": "Low",
+                "summary": "South Korea's president apologises for delays in the delivery of COVID-19 vaccines, which have left some citizens without access to the vaccine."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Economy Faces Risks of Global Recession",
+                "title": "Protests erupt in Tokyo over new COVID-19 measures",
                 "risk_level": "High",
-                "summary": "Japanese economy is highly exposed to the global economic downturn due to its high dependence on foreign trade. The risk of a global recession could severely impact Japan's economic growth."
+                "summary": "Thousands of people took to the streets in Tokyo to protest new COVID-19 measures, with some calling for the government to resign."
             },
             {
-                "title": "North Korea-US Tensions Escalate, Japan on High Alert",
+                "title": "North Korea fires multiple ballistic missiles towards Japan",
                 "risk_level": "High",
-                "summary": "Tensions between North Korea and the US have escalated in the past week, with North Korea conducting a series of missile tests. Japan has increased its military alert level in response to the heightened tensions."
+                "summary": "North Korea fired multiple ballistic missiles towards Japan, prompting an emergency alert in the country."
             },
             {
-                "title": "Japan's COVID-19 Hospitalizations Rise Amid New Variant",
+                "title": "Typhoon Nanmadol makes landfall in Japan, causing widespread disruption",
                 "risk_level": "Medium",
-                "summary": "Japan has seen a recent increase in COVID-19 hospitalizations due to a new variant of the virus. The Japanese government has stepped up its efforts to contain the spread of the virus."
+                "summary": "Typhoon Nanmadol made landfall in Japan, causing widespread disruption and flooding in several regions."
             }
         ]
     }
