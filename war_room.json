@@ -1,84 +1,75 @@
 {
-    "updated": "2026-08-10",
+    "updated": "2026-08-11",
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "",
-                "location": "",
-                "description": "",
-                "confidence": "",
-                "date": ""
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "",
-                "location": "",
-                "description": "",
-                "confidence": "",
-                "date": ""
-            },
-            {
-                "title": "",
+                "title": "US-Iran tensions escalate over drone incident",
                 "risk_level": "High",
-                "summary": "",
-                "location": "",
-                "description": "",
-                "confidence": "",
-                "date": ""
+                "summary": "Iran seizes US drone, US threatens retaliation; global economy and stability at risk; potential for military conflict between US and Iran."
+            },
+            {
+                "title": "Cyber-attack on Ukraine's infrastructure",
+                "risk_level": "High",
+                "summary": "Massive cyber-attack on Ukraine's infrastructure, including government and private sector; potential for spread to other countries and sectors; high risk of data breaches and outages."
+            },
+            {
+                "title": "Protests in China over economic reforms",
+                "risk_level": "Medium",
+                "summary": "Anti-government protests in China over economic reforms, human rights abuses, and government control; potential for widespread unrest and impact on global supply chains."
             }
         ],
         "United States": [
             {
-                "title": "US Border Patrol Agent Fatally Shot in Texas",
+                "title": "Roe v Wade Leak",
                 "risk_level": "High",
-                "summary": "A US Border Patrol agent was fatally shot on August 3, 2024, in Texas. The agent's vehicle was stopped by smugglers near the US-Mexico border, leading to a confrontation that resulted in the agent's death."
+                "summary": "A private memo from Supreme Court Justice Samuel Alito has been leaked, suggesting that the court may overturn Roe v Wade, sparking debate and protests."
             },
             {
-                "title": "Gunman Opens Fire on Police in Los Angeles",
+                "title": "Jan 6 Hearing",
                 "risk_level": "High",
-                "summary": "On August 5, 2024, a gunman in Los Angeles opened fire on police officers, sparking a lengthy standoff. The suspect was eventually taken into custody after a SWAT team intervened."
+                "summary": "The House January 6 Committee holds a hearing to investigate the events leading up to the US Capitol riot on January 6, 2021."
             },
             {
-                "title": "Tornado Outbreak in Midwest Leaves Multiple Fatalities",
-                "risk_level": "High",
-                "summary": "A series of tornadoes swept through the Midwest on August 6, 2024, killing multiple people and leaving widespread destruction in its wake."
+                "title": "Twitter Files",
+                "risk_level": "Medium",
+                "summary": "Elon Musk releases \"Twitter Files\" showing the company's handling of free speech and censorship, sparking debate about social media regulation."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korean Threats Prompt Military Readiness Exercises in South Korea",
+                "title": "North Korea fires ballistic missile into Sea of Japan",
                 "risk_level": "High",
-                "summary": "Seoul and Washington conduct joint military drill in response to Pyongyang's recent rhetoric."
+                "summary": "North Korea fired a ballistic missile into the Sea of Japan, prompting a strong reaction from South Korea and its allies. The launch is seen as a provocation and a threat to regional security.",
+                "date": "2023-11-18"
             },
             {
-                "title": "South Korea's National Assembly Passes Controversial Bill Granting President Emergency Powers",
-                "risk_level": "Medium",
-                "summary": "Critics argue that the bill undermines checks and balances, while supporters say it's necessary for national security."
+                "title": "South Korea warns of 'serious consequences' after North Korea's missile launch",
+                "risk_level": "High",
+                "summary": "South Korea's presidential office warned that the missile launch by North Korea is a serious threat to regional security and has urged the international community to take action against Pyongyang.",
+                "date": "2023-11-18"
             },
             {
-                "title": "South Korean President Faces Criticism over Handling of COVID-19 Pandemic and Economy",
-                "risk_level": "Medium",
-                "summary": "President faces mounting pressure as South Korea struggles with rising COVID-19 cases and economic slowdown."
+                "title": "North Korea's Kim Jong Un orders military to be ready to strike US and South Korea",
+                "risk_level": "High",
+                "summary": "North Korean leader Kim Jong Un has ordered his military to be ready to strike the US and South Korea, sparking a new wave of tensions in the region.",
+                "date": "2023-11-19"
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Maysak Batters Japan, Causing Widespread Disruptions (Aug 7, 2026)",
+                "title": "Japan's Economy Faces Risks of Global Recession",
                 "risk_level": "High",
-                "summary": "A powerful typhoon, Maysak, struck Japan, causing widespread power outages, landslides, and flooding. The storm led to the evacuation of several hundred thousand residents and the suspension of train services."
+                "summary": "Japanese economy is highly exposed to the global economic downturn due to its high dependence on foreign trade. The risk of a global recession could severely impact Japan's economic growth."
             },
             {
-                "title": "Japan's Economy Faces Uncertainty Amid Global Economic Turmoil (Aug 5, 2026)",
-                "risk_level": "Medium",
-                "summary": "Japan's economy is facing uncertainty due to ongoing global economic turmoil, including rising interest rates and inflation. This has led to concerns about the country's economic growth and stability."
+                "title": "North Korea-US Tensions Escalate, Japan on High Alert",
+                "risk_level": "High",
+                "summary": "Tensions between North Korea and the US have escalated in the past week, with North Korea conducting a series of missile tests. Japan has increased its military alert level in response to the heightened tensions."
             },
             {
-                "title": "Controversial New Japanese Labor Law Sparks Protests (Aug 2, 2026)",
+                "title": "Japan's COVID-19 Hospitalizations Rise Amid New Variant",
                 "risk_level": "Medium",
-                "summary": "A new labor law in Japan has sparked widespread protests and criticism from opposition parties and unions. The law aims to reform the country's labor market, but critics argue it will lead to increased working hours and reduced job security."
+                "summary": "Japan has seen a recent increase in COVID-19 hospitalizations due to a new variant of the virus. The Japanese government has stepped up its efforts to contain the spread of the virus."
             }
         ]
     }
