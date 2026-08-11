@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Hong Kong protests spread to shopping malls",
                 "risk_level": "High",
-                "summary": "Deteriorating US-China relations may lead to heightened tensions in the region."
+                "summary": "Thousands of protesters occupied shopping malls across Hong Kong, leading to police clashes and widespread disruption."
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Global economic instability persists, potentially exacerbating social unrest worldwide."
+                "title": "Nepal-China border tensions escalate",
+                "risk_level": "High",
+                "summary": "The Nepal-China border dispute has escalated, with Nepal accusing China of encroaching on its territory."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "The recent increase in vaccine mandates has sparked debates about individual rights versus public health."
+                "title": "Russian military build-up near Ukraine continues",
+                "risk_level": "High",
+                "summary": "Russia has continued to build up its military presence near Ukraine's borders, sparking concerns about a potential invasion."
             }
         ],
         "United States": [
             {
-                "title": "Racial Tensions Rise After Police Shooting in Akron, Ohio",
+                "title": "Florida school shooting threat leads to new lockdown protocol",
                 "risk_level": "High",
-                "summary": "A police shooting in Akron, Ohio, has sparked widespread protests and outrage, highlighting ongoing racial tensions in the United States."
+                "summary": "A false report of a school shooting in Florida has led to a new lockdown protocol being implemented for schools in the state."
             },
             {
-                "title": "US Senate Passes Landmark Climate Bill with Bipartisan Support",
+                "title": "US to Impose New Sanctions over Ukraine Crisis",
+                "risk_level": "High",
+                "summary": "The US is preparing to impose new sanctions on Russia in response to its ongoing aggression in Ukraine."
+            },
+            {
+                "title": "US Supreme Court rejects Texas abortion law challenge",
                 "risk_level": "Medium",
-                "summary": "The US Senate has passed a landmark climate bill with significant bipartisan support, marking a major victory for environmental advocates."
-            },
-            {
-                "title": "Gun-Control Advocates March on Washington D.C.",
-                "risk_level": "High",
-                "summary": "Gun-control advocates have marched on Washington D.C. to pressure lawmakers into taking action to reduce gun violence in the United States."
+                "summary": "The US Supreme Court has rejected a challenge to a Texas law that restricts access to abortion, dealing a blow to abortion rights in the state."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Kim Joo-hyun, a 30-year-old member of the South Korean Army, was charged with the murder of a superior officer on August 2, 2024, in a case related to bullying and physical abuse in the army. The incident is being seen as a sign of a broader problem of bullying in the military, which has been criticized for its poor treatment of lower-ranked personnel."
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "In June, Seoul's Incheon International Airport, South Korea's biggest airport, faced disruptions and flight delays due to a cyberattack. On August 1, 2024, an alert was issued for increased tensions between North and South Korea ahead of annual joint military drills scheduled for August. "
-            },
-            {
-                "title": "North Korea fires two ballistic missiles into the East Sea, South Korea and Japan issue joint statement criticizing the launch.",
+                "title": "North Korea's missile tests pose a threat to South Korea's national security",
                 "risk_level": "High",
-                "summary": "South Korea's government on August 4, 2024, said that it detected the North firing two ballistic missiles into the East Sea on the morning of August 4. Both South Korea and Japan issued a joint statement criticizing the launch, which both countries see as a provocation."
+                "summary": "North Korea has continued to conduct missile tests in recent days, sparking concerns in South Korea about the threat to national security. The tests have been met with condemnation from the international community, including the United States and Japan."
+            },
+            {
+                "title": "Protests against military service exemption for lawmakers in South Korea",
+                "risk_level": "Medium",
+                "summary": "Demonstrations were held in front of the South Korean National Assembly building in the capital city of Seoul, where protesters called for an end to the military service exemption for lawmakers. The issue has been a contentious one in South Korea, with many calling for greater equality and fairness in the treatment of citizens."
+            },
+            {
+                "title": "Concerns over South Korea's handling of COVID-19 outbreaks in the country",
+                "risk_level": "Low",
+                "summary": "South Korea has seen a recent increase in COVID-19 cases, leading to concerns about the government's handling of the outbreaks. The government has implemented various measures to contain the spread of the virus, but some critics argue that more needs to be done to protect public health."
             }
         ],
         "Japan": [
             {
-                "title": "Anti-LDP Rally in Tokyo",
-                "risk_level": "Medium",
-                "summary": "Over 50,000 people attended an anti-LDP and Kishida rally in Tokyo on August 6, amid growing discontent over the economy and Ukraine support."
-            },
-            {
-                "title": "Japan's Economy Continues to Slow Down",
+                "title": "Possible North Korea Ballistic Missile Test over Japan",
                 "risk_level": "High",
-                "summary": "Japan's economy contracted for the third consecutive quarter in the April-June period, raising concerns about the country's growth prospects."
+                "summary": "Japanese officials are on high alert as tensions rise over a potential North Korean ballistic missile test, which could pose a threat to the country's airspace."
             },
             {
-                "title": "Protests Against Japan's Nuclear Policy",
-                "risk_level": "Low",
-                "summary": "Smaller protests were held in various cities across Japan on August 8, with demonstrators calling for an end to Japan's nuclear policy."
+                "title": "Typhoon Hinnamor Approaches Japan",
+                "risk_level": "High",
+                "summary": "A powerful typhoon is expected to hit Japan, causing strong winds and heavy rainfall that could lead to widespread power outages and flooding."
+            },
+            {
+                "title": "Japan to Review Defense Policy Amid China and North Korea Tensions",
+                "risk_level": "Medium",
+                "summary": "The Japanese government is set to revise its defense strategy in response to increased tensions with China and North Korea, including the potential for a Chinese missile test in the Sea of Japan."
             }
         ]
     }
