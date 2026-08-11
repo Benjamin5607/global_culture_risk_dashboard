@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Hong Kong protests spread to shopping malls",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Thousands of protesters occupied shopping malls across Hong Kong, leading to police clashes and widespread disruption."
+                "summary": "Cybercrime: Global ransomware attacks surged, affecting multiple industries and governments."
             },
             {
-                "title": "Nepal-China border tensions escalate",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The Nepal-China border dispute has escalated, with Nepal accusing China of encroaching on its territory."
+                "summary": "Global economic instability: Stock markets plummeted, and economic experts warn of ongoing recession fears."
             },
             {
-                "title": "Russian military build-up near Ukraine continues",
-                "risk_level": "High",
-                "summary": "Russia has continued to build up its military presence near Ukraine's borders, sparking concerns about a potential invasion."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Social unrest: Large-scale protests break out in major cities worldwide, driven by economic grievances and social inequality."
             }
         ],
         "United States": [
             {
-                "title": "Florida school shooting threat leads to new lockdown protocol",
+                "title": "Rising Tensions with Iran",
                 "risk_level": "High",
-                "summary": "A false report of a school shooting in Florida has led to a new lockdown protocol being implemented for schools in the state."
+                "summary": "Reports of Iranian missile tests and US naval movements have increased tensions between the two nations, raising the risk of a potential conflict."
             },
             {
-                "title": "US to Impose New Sanctions over Ukraine Crisis",
-                "risk_level": "High",
-                "summary": "The US is preparing to impose new sanctions on Russia in response to its ongoing aggression in Ukraine."
-            },
-            {
-                "title": "US Supreme Court rejects Texas abortion law challenge",
+                "title": "Gun Control Legislation Stalls in Senate",
                 "risk_level": "Medium",
-                "summary": "The US Supreme Court has rejected a challenge to a Texas law that restricts access to abortion, dealing a blow to abortion rights in the state."
+                "summary": "A bipartisan gun control bill failed to advance in the US Senate, leaving many wondering if any meaningful legislation will pass in the near future."
+            },
+            {
+                "title": "Migrant Crisis at Southern Border",
+                "risk_level": "High",
+                "summary": "Thousands of migrants remain stranded at the US-Mexico border, sparking concerns about humanitarian conditions and potential security risks."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's missile tests pose a threat to South Korea's national security",
+                "title": "North Korea Fires Missiles Amid Ongoing U.S.-South Korea Exercise",
                 "risk_level": "High",
-                "summary": "North Korea has continued to conduct missile tests in recent days, sparking concerns in South Korea about the threat to national security. The tests have been met with condemnation from the international community, including the United States and Japan."
+                "summary": "North Korea fired two short-range ballistic missiles Tuesday, South Korean officials said, in what appeared to be an escalation during the ongoing joint military drill between South Korean and U.S. forces."
             },
             {
-                "title": "Protests against military service exemption for lawmakers in South Korea",
+                "title": "South Korea's ruling party suffers local election blow",
                 "risk_level": "Medium",
-                "summary": "Demonstrations were held in front of the South Korean National Assembly building in the capital city of Seoul, where protesters called for an end to the military service exemption for lawmakers. The issue has been a contentious one in South Korea, with many calling for greater equality and fairness in the treatment of citizens."
+                "summary": "South Korea's ruling party and its allies have suffered significant losses in local elections, dealing a blow to President Yoon Suk-yeol's governing coalition."
             },
             {
-                "title": "Concerns over South Korea's handling of COVID-19 outbreaks in the country",
-                "risk_level": "Low",
-                "summary": "South Korea has seen a recent increase in COVID-19 cases, leading to concerns about the government's handling of the outbreaks. The government has implemented various measures to contain the spread of the virus, but some critics argue that more needs to be done to protect public health."
+                "title": "S. Korea to consider deploying nuclear-powered submarines",
+                "risk_level": "Medium",
+                "summary": "Defense minister says Seoul to study feasibility of nuclear-powered subs, amid military tensions with Pyongyang."
             }
         ],
         "Japan": [
             {
-                "title": "Possible North Korea Ballistic Missile Test over Japan",
-                "risk_level": "High",
-                "summary": "Japanese officials are on high alert as tensions rise over a potential North Korean ballistic missile test, which could pose a threat to the country's airspace."
-            },
-            {
-                "title": "Typhoon Hinnamor Approaches Japan",
-                "risk_level": "High",
-                "summary": "A powerful typhoon is expected to hit Japan, causing strong winds and heavy rainfall that could lead to widespread power outages and flooding."
-            },
-            {
-                "title": "Japan to Review Defense Policy Amid China and North Korea Tensions",
+                "title": "Typhoon warning issued for Japan as storm approaches",
                 "risk_level": "Medium",
-                "summary": "The Japanese government is set to revise its defense strategy in response to increased tensions with China and North Korea, including the potential for a Chinese missile test in the Sea of Japan."
+                "summary": "A typhoon warning has been issued for Japan as the storm is expected to make landfall. Residents are advised to take necessary precautions and follow evacuation orders if necessary."
+            },
+            {
+                "title": "North Korea fires multiple ballistic missiles towards Japan",
+                "risk_level": "High",
+                "summary": "North Korea fired multiple ballistic missiles towards Japan, prompting a response from the Japanese military. The incident highlights ongoing tensions between Japan and North Korea."
+            },
+            {
+                "title": "Protests erupt in Japan over government's handling of COVID-19 pandemic",
+                "risk_level": "Low",
+                "summary": "Protests have erupted in Japan over the government's handling of the COVID-19 pandemic. Demonstrators are calling for greater transparency and better response measures."
             }
         ]
     }
