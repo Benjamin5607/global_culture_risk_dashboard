@@ -3,53 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyberattack disrupts global supply chain",
+                "title": "",
                 "risk_level": "High",
-                "summary": "A sophisticated cyberattack has affected a major logistics company, causing delays and disruptions to global supply chains."
+                "summary": "Deteriorating US-China relations may lead to heightened tensions in the region."
             },
             {
-                "title": "Protests erupt in major city over economic instability",
-                "risk_level": "High",
-                "summary": "Large-scale protests have broken out in a major city due to growing economic instability and frustration with the government's handling of the situation."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Global economic instability persists, potentially exacerbating social unrest worldwide."
             },
             {
-                "title": "Tensions escalate between rival nations over disputed territory",
+                "title": "",
+                "risk_level": "Low",
+                "summary": "The recent increase in vaccine mandates has sparked debates about individual rights versus public health."
+            }
+        ],
+        "United States": [
+            {
+                "title": "Racial Tensions Rise After Police Shooting in Akron, Ohio",
                 "risk_level": "High",
-                "summary": "The situation between two rival nations has grown increasingly tense, with both sides engaging in aggressive rhetoric and military build-up in the disputed territory."
+                "summary": "A police shooting in Akron, Ohio, has sparked widespread protests and outrage, highlighting ongoing racial tensions in the United States."
+            },
+            {
+                "title": "US Senate Passes Landmark Climate Bill with Bipartisan Support",
+                "risk_level": "Medium",
+                "summary": "The US Senate has passed a landmark climate bill with significant bipartisan support, marking a major victory for environmental advocates."
+            },
+            {
+                "title": "Gun-Control Advocates March on Washington D.C.",
+                "risk_level": "High",
+                "summary": "Gun-control advocates have marched on Washington D.C. to pressure lawmakers into taking action to reduce gun violence in the United States."
             }
         ],
         "South Korea": [
             {
-                "title": "N. Korea Fires Cruise Missiles off East Coast",
-                "risk_level": "Medium",
-                "summary": "South Korea's military says North Korea fired cruise missiles off its east coast on Wednesday, sparking concerns about heightened tensions in the region."
-            },
-            {
-                "title": "Moon Jae-in's Legacy Under Threat as Successor's Approval Rating Slumps",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "A survey has found that the approval rating of President Yoon Suk-yeol's liberal predecessor is the most unpopular president since South Korea's democracy began."
+                "summary": "Kim Joo-hyun, a 30-year-old member of the South Korean Army, was charged with the murder of a superior officer on August 2, 2024, in a case related to bullying and physical abuse in the army. The incident is being seen as a sign of a broader problem of bullying in the military, which has been criticized for its poor treatment of lower-ranked personnel."
             },
             {
-                "title": "South Korea Sees Spike in Omicron XBB.1.5 Cases",
-                "risk_level": "Medium",
-                "summary": "South Korea reported a surge in new COVID-19 cases driven by the highly transmissible XBB.1.5 variant on Wednesday."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "In June, Seoul's Incheon International Airport, South Korea's biggest airport, faced disruptions and flight delays due to a cyberattack. On August 1, 2024, an alert was issued for increased tensions between North and South Korea ahead of annual joint military drills scheduled for August. "
+            },
+            {
+                "title": "North Korea fires two ballistic missiles into the East Sea, South Korea and Japan issue joint statement criticizing the launch.",
+                "risk_level": "High",
+                "summary": "South Korea's government on August 4, 2024, said that it detected the North firing two ballistic missiles into the East Sea on the morning of August 4. Both South Korea and Japan issued a joint statement criticizing the launch, which both countries see as a provocation."
             }
         ],
         "Japan": [
             {
-                "title": "North Korea Fires Ballistic Missile Over Japan",
-                "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile that landed in the sea between Japan and the Korean Peninsula on June 5, 2023."
-            },
-            {
-                "title": "Tokyo 2020 Olympics: Concerns Over COVID-19",
+                "title": "Anti-LDP Rally in Tokyo",
                 "risk_level": "Medium",
-                "summary": "Concerns have been raised over the potential spread of COVID-19 during the Tokyo 2020 Olympics, which began on July 23, 2021."
+                "summary": "Over 50,000 people attended an anti-LDP and Kishida rally in Tokyo on August 6, amid growing discontent over the economy and Ukraine support."
             },
             {
-                "title": "Japan's COVID-19 Cases Surge Amid New Wave",
+                "title": "Japan's Economy Continues to Slow Down",
                 "risk_level": "High",
-                "summary": "Japan experienced a surge in COVID-19 cases in January 2022, with a new wave of infections affecting multiple regions."
+                "summary": "Japan's economy contracted for the third consecutive quarter in the April-June period, raising concerns about the country's growth prospects."
+            },
+            {
+                "title": "Protests Against Japan's Nuclear Policy",
+                "risk_level": "Low",
+                "summary": "Smaller protests were held in various cities across Japan on August 8, with demonstrators calling for an end to Japan's nuclear policy."
             }
         ]
     }
