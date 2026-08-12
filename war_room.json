@@ -3,82 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Iran Warns US of 'Harsh Response' Over Drone Seizure",
+                "title": "Global food prices may have reached their peak, but the outlook is still bleak",
                 "risk_level": "High",
-                "summary": "Iran has threatened to take 'harsh' action against the US after a US drone entered Iranian airspace and was seized by the Iranian military. The incident has raised concerns about tensions between the two countries."
+                "summary": "The impact of inflation on food prices has been a significant concern for many countries, and recent trends suggest that the worst may be over. However, the outlook remains bleak with food insecurity affecting millions of people globally."
             },
             {
-                "title": "Taliban Says 'No One Has the Right to Interfere in Afghanistan' ",
+                "title": "Global energy crisis deepens as prices reach record highs",
                 "risk_level": "High",
-                "summary": ""
+                "summary": "The global energy crisis has reached new heights with prices reaching record levels. This has a significant impact on the economies of many countries, and there are concerns about the long-term consequences of this crisis."
             },
             {
-                "title": "Biden Says 'No Decision' Made to Remove US Troops From Germany",
+                "title": "Global supply chain disruptions may continue due to geopolitical tensions",
                 "risk_level": "Medium",
-                "summary": "US President Joe Biden has said that 'no decision' has been made to remove US troops from Germany. The announcement comes after reports that the US was considering withdrawing troops from Germany amid increasing tensions with Russia."
+                "summary": "Geopolitical tensions have led to supply chain disruptions in various parts of the world. While efforts are being made to resolve these issues, the situation remains fragile and could continue to have a significant impact on global trade."
             }
         ],
         "United States": [
             {
-                "title": "Texas Elementary School Shooting Leaves 18 Injured, Including 9 Students and 5 Adults, with 2 Others Missing - NBC News",
+                "title": "US House passes bill limiting president's ability to withdraw troops from Ukraine.",
                 "risk_level": "High",
-                "summary": "In the third Texas elementary school shooting in as many months, an 18-year-old gunman opened fire at the school, injuring several people and leaving others missing"
+                "summary": "The US House of Representatives passed a bill limiting the president's ability to withdraw troops from Ukraine, a move that could impact US relations with Russia."
             },
             {
-                "title": "Florida Police Officer Arrested for Fatally Shooting 27-Year-Old Man During Traffic Stop - NBC News",
-                "risk_level": "High",
-                "summary": "A Florida police officer has been arrested for fatally shooting a 27-year-old man during a traffic stop, which was captured on dashcam footage."
+                "title": "Twitter faces potential SEC probe over Musk's tweet about buying Tesla.",
+                "risk_level": "Medium",
+                "summary": "Twitter may face a Securities and Exchange Commission (SEC) probe over Elon Musk's tweet about buying Tesla, raising concerns about the company's financial disclosures."
             },
             {
-                "title": "Gunman Kills 1, Injures 4 at Oklahoma Elementary School Shooting - NBC News",
-                "risk_level": "High",
-                "summary": "An 18-year-old gunman went on a shooting rampage at an Oklahoma elementary school, killing one student and injuring four others before being apprehended by police."
+                "title": "Justice Department sues to block Boeing's deal for MAX 7 jets.",
+                "risk_level": "Low",
+                "summary": "The US Department of Justice filed a lawsuit to block Boeing's deal for MAX 7 jets, alleging the company's bid was not competitively bid."
             }
         ],
         "South Korea": [
             {
-                "title": "",
+                "title": "Protests Erupt in South Korea Over Labor Law Changes",
                 "risk_level": "High",
-                "summary": "Tensions rise between South Korea and North Korea after North Korea fires missile over Japan. (Aug 7, 2026)"
+                "summary": "Large crowds gathered at the national assembly in Seoul to protest proposed changes to labor laws that would allow for more flexible working hours and less job protections. This marks a growing divide in the country over issues of social equality and worker's rights."
             },
             {
-                "title": "",
+                "title": "Cyberattacks Against South Korean Tech Firms Surge",
+                "risk_level": "High",
+                "summary": "Multiple tech companies in South Korea have reported being targeted by a series of sophisticated cyberattacks in recent days, highlighting concerns about the country's vulnerability to cyber threats."
+            },
+            {
+                "title": "US Imposes Sanctions on North Korean Individuals Over Missile Tests",
                 "risk_level": "Medium",
-                "summary": "South Korean parliament passes law increasing military cooperation with US. (Aug 5, 2026)"
-            },
-            {
-                "title": "",
-                "risk_level": "High",
-                "summary": "South Korea reports record high number of COVID-19 cases among new immigrants. (Aug 3, 2026)"
+                "summary": "The United States has imposed new sanctions on several North Korean individuals and entities in response to recent ballistic missile tests, putting further pressure on the regime."
             }
         ],
         "Japan": [
             {
                 "title": "",
                 "risk_level": "",
-                "summary": "",
-                "details": {
-                    "Event 1": "Japanese prime minister Fumio Kishida's ruling Liberal Democratic Party suffered a setback in elections, raising uncertainty over the leadership.",
-                    "Date": "2024-01-04"
-                }
+                "summary": "Japan's Prime Minister Fumio Kishida says the decision to discharge Fukushima water into the ocean was made with caution, amid concerns from neighboring countries. "
             },
             {
                 "title": "",
                 "risk_level": "",
-                "summary": "",
-                "details": {
-                    "Event 2": "Anti-nuclear protests erupt in Osaka, Japan, ahead of a crucial vote on the country's nuclear energy policy, highlighting growing public discontent.",
-                    "Date": "2024-01-09"
-                }
+                "summary": "A magnitude 6.1 earthquake strikes eastern Japan, causing no reports of major damage or injury. "
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "details": {
-                    "Event 3": "Concerns over Japan's pension system deepen as the country's government faces criticism for proposing changes that may worsen financial outcomes for retirees.",
-                    "Date": "2024-01-08"
-                }
+                "title": "Japan's defense minister says the country is considering acquiring US-made Patriot interceptors, amid growing concerns over North Korea's missile program.",
+                "risk_level": "Medium",
+                "summary": "The move comes as tensions between Japan and North Korea continue to escalate. Japan's defense minister has stated that the country is taking steps to improve its missile defense capabilities. "
             }
         ]
     }
