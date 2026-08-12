@@ -3,70 +3,82 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Iran Warns US of 'Harsh Response' Over Drone Seizure",
                 "risk_level": "High",
-                "summary": "Russia launches a series of hypersonic missile tests near the Norwegian border, increasing tensions."
+                "summary": "Iran has threatened to take 'harsh' action against the US after a US drone entered Iranian airspace and was seized by the Iranian military. The incident has raised concerns about tensions between the two countries."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Iran and Saudi Arabia agree to re-establish diplomatic relations after years of tensions."
+                "title": "Taliban Says 'No One Has the Right to Interfere in Afghanistan' ",
+                "risk_level": "High",
+                "summary": ""
             },
             {
-                "title": "",
+                "title": "Biden Says 'No Decision' Made to Remove US Troops From Germany",
                 "risk_level": "Medium",
-                "summary": "The US Federal Reserve announces a 25-basis-point rate hike to combat inflation, sparking market volatility."
+                "summary": "US President Joe Biden has said that 'no decision' has been made to remove US troops from Germany. The announcement comes after reports that the US was considering withdrawing troops from Germany amid increasing tensions with Russia."
             }
         ],
         "United States": [
             {
-                "title": "Protests Erupt at US Supreme Court Over Abortion Rights",
-                "risk_level": "Medium",
-                "summary": "Thousands gathered outside the US Supreme Court building on August 8 to protest the reversal of Roe v Wade, sparking clashes with police."
+                "title": "Texas Elementary School Shooting Leaves 18 Injured, Including 9 Students and 5 Adults, with 2 Others Missing - NBC News",
+                "risk_level": "High",
+                "summary": "In the third Texas elementary school shooting in as many months, an 18-year-old gunman opened fire at the school, injuring several people and leaving others missing"
             },
             {
-                "title": "FBI Arrests Suspect in Connection with US Capitol Breach",
-                "risk_level": "Medium",
-                "summary": "On August 6, the FBI apprehended a man suspected of participating in the 2021 storming of the US Capitol, highlighting ongoing concerns about domestic extremism."
+                "title": "Florida Police Officer Arrested for Fatally Shooting 27-Year-Old Man During Traffic Stop - NBC News",
+                "risk_level": "High",
+                "summary": "A Florida police officer has been arrested for fatally shooting a 27-year-old man during a traffic stop, which was captured on dashcam footage."
             },
             {
-                "title": "US Senate Blocks Electoral Count Reform Act",
-                "risk_level": "Medium",
-                "summary": "A proposed bill to reform the electoral count process in the US Senate was blocked on August 1, sparking debate about the legitimacy of US elections."
+                "title": "Gunman Kills 1, Injures 4 at Oklahoma Elementary School Shooting - NBC News",
+                "risk_level": "High",
+                "summary": "An 18-year-old gunman went on a shooting rampage at an Oklahoma elementary school, killing one student and injuring four others before being apprehended by police."
             }
         ],
         "South Korea": [
             {
-                "title": "Tensions rise between South Korea and Japan over export restrictions",
+                "title": "",
                 "risk_level": "High",
-                "summary": "South Korea and Japan have a long-standing trade dispute, but recent export restrictions imposed by Japan have caused tensions to rise. This raises concerns for South Korea's economy and political relations with Japan."
+                "summary": "Tensions rise between South Korea and North Korea after North Korea fires missile over Japan. (Aug 7, 2026)"
             },
             {
-                "title": "Protests break out in Seoul over plans to relocate the presidential office",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "A plan to relocate the presidential office in Seoul has sparked protests from locals who are concerned about the impact on their community. The protests have disrupted traffic and raised concerns about social stability."
+                "summary": "South Korean parliament passes law increasing military cooperation with US. (Aug 5, 2026)"
             },
             {
-                "title": "North Korea launches ballistic missile, sparking concerns about security",
+                "title": "",
                 "risk_level": "High",
-                "summary": "North Korea launched a ballistic missile towards the East Sea, sparking concerns about security in the region. The launch has been condemned by the international community, and tensions between North and South Korea remain high."
+                "summary": "South Korea reports record high number of COVID-19 cases among new immigrants. (Aug 3, 2026)"
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo 2023 Festival to be Canceled Due to Economic Concerns",
-                "risk_level": "High",
-                "summary": "The 2023 Tokyo Festival is at risk of being canceled due to economic concerns. \n        This has raised questions about the event's financial viability."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "details": {
+                    "Event 1": "Japanese prime minister Fumio Kishida's ruling Liberal Democratic Party suffered a setback in elections, raising uncertainty over the leadership.",
+                    "Date": "2024-01-04"
+                }
             },
             {
-                "title": "North Korea's Potential Missile Test",
-                "risk_level": "High",
-                "summary": "North Korea has made statements indicating a potential missile test soon. \n        This has raised concerns about regional security."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "details": {
+                    "Event 2": "Anti-nuclear protests erupt in Osaka, Japan, ahead of a crucial vote on the country's nuclear energy policy, highlighting growing public discontent.",
+                    "Date": "2024-01-09"
+                }
             },
             {
-                "title": "Japan's F-35 Fighter Jet Controversy",
-                "risk_level": "Medium",
-                "summary": "Japan's acquisition of the F-35 fighter jet has raised controversy. \n        Critics argue it is too expensive and lacks capabilities."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "details": {
+                    "Event 3": "Concerns over Japan's pension system deepen as the country's government faces criticism for proposing changes that may worsen financial outcomes for retirees.",
+                    "Date": "2024-01-08"
+                }
             }
         ]
     }
