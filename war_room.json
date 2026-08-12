@@ -3,88 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia-Ukraine Conflict Escalation Intensifies Amid Fresh Attacks",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Fighting in Ukraine's eastern regions continues, with both sides suffering heavy losses. International pressure on Russia mounts, but a ceasefire appears unlikely in the near term."
+                "summary": "Russia launches a series of hypersonic missile tests near the Norwegian border, increasing tensions."
             },
             {
-                "title": "China Covid Outbreak: Lockdowns and Travel Restrictions Impose on Major Cities",
-                "risk_level": "High",
-                "summary": "A new wave of Covid-19 cases in China prompts the imposition of lockdowns and travel restrictions on major cities. Economic impact and supply chain disruptions are expected."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Iran and Saudi Arabia agree to re-establish diplomatic relations after years of tensions."
             },
             {
-                "title": "Turkey-Syria Border Tensions Flare Amid Humanitarian Crisis",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Clashes along the Turkey-Syria border worsen the humanitarian crisis for refugees and displaced persons, with escalating risk of further destabilization in the region."
+                "summary": "The US Federal Reserve announces a 25-basis-point rate hike to combat inflation, sparking market volatility."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Upholds Abortion Restrictions in Louisiana Case",
+                "title": "Protests Erupt at US Supreme Court Over Abortion Rights",
                 "risk_level": "Medium",
-                "summary": "On August 5, 2022, the US Supreme Court ruled in the case of June Medical Services LLC v. Russo, upholding abortion restrictions in Louisiana. The decision could have implications for reproductive rights across the United States."
+                "summary": "Thousands gathered outside the US Supreme Court building on August 8 to protest the reversal of Roe v Wade, sparking clashes with police."
             },
             {
-                "title": "House Passes Bill to Raise Debt Ceiling, But Senate Faces Obstacles",
-                "risk_level": "High",
-                "summary": "On August 1, 2022, the US House of Representatives passed a bill to raise the federal debt ceiling, but the Senate faces significant obstacles before it can pass. The delay has led to concerns about a potential default on US debt."
+                "title": "FBI Arrests Suspect in Connection with US Capitol Breach",
+                "risk_level": "Medium",
+                "summary": "On August 6, the FBI apprehended a man suspected of participating in the 2021 storming of the US Capitol, highlighting ongoing concerns about domestic extremism."
             },
             {
-                "title": "US House Committee Holds Hearing on Cryptocurrency and Financial Stability",
+                "title": "US Senate Blocks Electoral Count Reform Act",
                 "risk_level": "Medium",
-                "summary": "On July 31, 2022, a US House committee held a hearing on the risks of cryptocurrency to financial stability. The hearing highlighted concerns about the potential impacts of cryptocurrency on the US economy."
+                "summary": "A proposed bill to reform the electoral count process in the US Senate was blocked on August 1, sparking debate about the legitimacy of US elections."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
-            },
-            {
-                "title": "",
+                "title": "Tensions rise between South Korea and Japan over export restrictions",
                 "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile into the Sea of Japan, triggering a strong reaction from the United States and South Korea."
+                "summary": "South Korea and Japan have a long-standing trade dispute, but recent export restrictions imposed by Japan have caused tensions to rise. This raises concerns for South Korea's economy and political relations with Japan."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Protests break out in Seoul over plans to relocate the presidential office",
+                "risk_level": "Medium",
+                "summary": "A plan to relocate the presidential office in Seoul has sparked protests from locals who are concerned about the impact on their community. The protests have disrupted traffic and raised concerns about social stability."
+            },
+            {
+                "title": "North Korea launches ballistic missile, sparking concerns about security",
+                "risk_level": "High",
+                "summary": "North Korea launched a ballistic missile towards the East Sea, sparking concerns about security in the region. The launch has been condemned by the international community, and tensions between North and South Korea remain high."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "No events found"
+                "title": "Tokyo 2023 Festival to be Canceled Due to Economic Concerns",
+                "risk_level": "High",
+                "summary": "The 2023 Tokyo Festival is at risk of being canceled due to economic concerns. \n        This has raised questions about the event's financial viability."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "events": [
-                    {
-                        "title": "Magnitude 5.7 earthquake strikes off Japan's northeastern coast",
-                        "risk_level": "High",
-                        "summary": "A strong earthquake struck off Japan's northeastern coast on August 8, 2024, prompting warnings of a tsunami but no damage or casualties reported yet. The Japan Meteorological Agency issued a tsunami warning for several prefectures, including Miyagi and Fukushima. The earthquake occurred at 8:00 a.m. local time, about 200 kilometers east of the city of Iwaki, according to the agency."
-                    },
-                    {
-                        "title": "Japan to increase military presence in South China Sea ",
-                        "risk_level": "High",
-                        "summary": "Japan announced plans to increase its military presence in the South China Sea, a move aimed at pushing back against China's growing influence in the region. The move comes amid rising tensions between Japan and China, which have been heightened in recent years over issues such as Taiwan. Japan's defense minister said the country would deploy more troops and equipment to the area to deter potential threats from China."
-                    },
-                    {
-                        "title": " Japan passes bill to allow same-sex marriage nationwide",
-                        "risk_level": "",
-                        "summary": "",
-                        "source": [
-                            {
-                                "name": "",
-                                "url": ""
-                            }
-                        ]
-                    }
-                ]
+                "title": "North Korea's Potential Missile Test",
+                "risk_level": "High",
+                "summary": "North Korea has made statements indicating a potential missile test soon. \n        This has raised concerns about regional security."
+            },
+            {
+                "title": "Japan's F-35 Fighter Jet Controversy",
+                "risk_level": "Medium",
+                "summary": "Japan's acquisition of the F-35 fighter jet has raised controversy. \n        Critics argue it is too expensive and lacks capabilities."
             }
         ]
     }
