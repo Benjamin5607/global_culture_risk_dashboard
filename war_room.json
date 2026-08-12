@@ -1,72 +1,90 @@
 {
-    "updated": "2026-08-11",
+    "updated": "2026-08-12",
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "Russia-Ukraine Conflict Escalation Intensifies Amid Fresh Attacks",
                 "risk_level": "High",
-                "summary": "Cybercrime: Global ransomware attacks surged, affecting multiple industries and governments."
+                "summary": "Fighting in Ukraine's eastern regions continues, with both sides suffering heavy losses. International pressure on Russia mounts, but a ceasefire appears unlikely in the near term."
             },
             {
-                "title": "",
+                "title": "China Covid Outbreak: Lockdowns and Travel Restrictions Impose on Major Cities",
                 "risk_level": "High",
-                "summary": "Global economic instability: Stock markets plummeted, and economic experts warn of ongoing recession fears."
+                "summary": "A new wave of Covid-19 cases in China prompts the imposition of lockdowns and travel restrictions on major cities. Economic impact and supply chain disruptions are expected."
             },
             {
-                "title": "",
+                "title": "Turkey-Syria Border Tensions Flare Amid Humanitarian Crisis",
                 "risk_level": "Medium",
-                "summary": "Social unrest: Large-scale protests break out in major cities worldwide, driven by economic grievances and social inequality."
+                "summary": "Clashes along the Turkey-Syria border worsen the humanitarian crisis for refugees and displaced persons, with escalating risk of further destabilization in the region."
             }
         ],
         "United States": [
             {
-                "title": "Rising Tensions with Iran",
-                "risk_level": "High",
-                "summary": "Reports of Iranian missile tests and US naval movements have increased tensions between the two nations, raising the risk of a potential conflict."
-            },
-            {
-                "title": "Gun Control Legislation Stalls in Senate",
+                "title": "US Supreme Court Upholds Abortion Restrictions in Louisiana Case",
                 "risk_level": "Medium",
-                "summary": "A bipartisan gun control bill failed to advance in the US Senate, leaving many wondering if any meaningful legislation will pass in the near future."
+                "summary": "On August 5, 2022, the US Supreme Court ruled in the case of June Medical Services LLC v. Russo, upholding abortion restrictions in Louisiana. The decision could have implications for reproductive rights across the United States."
             },
             {
-                "title": "Migrant Crisis at Southern Border",
+                "title": "House Passes Bill to Raise Debt Ceiling, But Senate Faces Obstacles",
                 "risk_level": "High",
-                "summary": "Thousands of migrants remain stranded at the US-Mexico border, sparking concerns about humanitarian conditions and potential security risks."
+                "summary": "On August 1, 2022, the US House of Representatives passed a bill to raise the federal debt ceiling, but the Senate faces significant obstacles before it can pass. The delay has led to concerns about a potential default on US debt."
+            },
+            {
+                "title": "US House Committee Holds Hearing on Cryptocurrency and Financial Stability",
+                "risk_level": "Medium",
+                "summary": "On July 31, 2022, a US House committee held a hearing on the risks of cryptocurrency to financial stability. The hearing highlighted concerns about the potential impacts of cryptocurrency on the US economy."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea Fires Missiles Amid Ongoing U.S.-South Korea Exercise",
+                "title": "",
+                "risk_level": "",
+                "summary": ""
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "North Korea fired two short-range ballistic missiles Tuesday, South Korean officials said, in what appeared to be an escalation during the ongoing joint military drill between South Korean and U.S. forces."
+                "summary": "North Korea fired a ballistic missile into the Sea of Japan, triggering a strong reaction from the United States and South Korea."
             },
             {
-                "title": "South Korea's ruling party suffers local election blow",
-                "risk_level": "Medium",
-                "summary": "South Korea's ruling party and its allies have suffered significant losses in local elections, dealing a blow to President Yoon Suk-yeol's governing coalition."
-            },
-            {
-                "title": "S. Korea to consider deploying nuclear-powered submarines",
-                "risk_level": "Medium",
-                "summary": "Defense minister says Seoul to study feasibility of nuclear-powered subs, amid military tensions with Pyongyang."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon warning issued for Japan as storm approaches",
-                "risk_level": "Medium",
-                "summary": "A typhoon warning has been issued for Japan as the storm is expected to make landfall. Residents are advised to take necessary precautions and follow evacuation orders if necessary."
-            },
-            {
-                "title": "North Korea fires multiple ballistic missiles towards Japan",
-                "risk_level": "High",
-                "summary": "North Korea fired multiple ballistic missiles towards Japan, prompting a response from the Japanese military. The incident highlights ongoing tensions between Japan and North Korea."
-            },
-            {
-                "title": "Protests erupt in Japan over government's handling of COVID-19 pandemic",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "Protests have erupted in Japan over the government's handling of the COVID-19 pandemic. Demonstrators are calling for greater transparency and better response measures."
+                "summary": "No events found"
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "events": [
+                    {
+                        "title": "Magnitude 5.7 earthquake strikes off Japan's northeastern coast",
+                        "risk_level": "High",
+                        "summary": "A strong earthquake struck off Japan's northeastern coast on August 8, 2024, prompting warnings of a tsunami but no damage or casualties reported yet. The Japan Meteorological Agency issued a tsunami warning for several prefectures, including Miyagi and Fukushima. The earthquake occurred at 8:00 a.m. local time, about 200 kilometers east of the city of Iwaki, according to the agency."
+                    },
+                    {
+                        "title": "Japan to increase military presence in South China Sea ",
+                        "risk_level": "High",
+                        "summary": "Japan announced plans to increase its military presence in the South China Sea, a move aimed at pushing back against China's growing influence in the region. The move comes amid rising tensions between Japan and China, which have been heightened in recent years over issues such as Taiwan. Japan's defense minister said the country would deploy more troops and equipment to the area to deter potential threats from China."
+                    },
+                    {
+                        "title": " Japan passes bill to allow same-sex marriage nationwide",
+                        "risk_level": "",
+                        "summary": "",
+                        "source": [
+                            {
+                                "name": "",
+                                "url": ""
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }
