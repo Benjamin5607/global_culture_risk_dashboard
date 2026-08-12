@@ -3,70 +3,91 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber-attack on US government agency affects thousands",
+                "title": "Cyber-attack on US Government Agency Impacts Citizens' Data",
                 "risk_level": "High",
-                "summary": "A significant cyber-attack on a US government agency has exposed the personal data of thousands of individuals, sparking concerns over national security and data protection."
+                "summary": "A recent cyber-attack on a US government agency has compromised sensitive citizen data, sparking concerns about data protection and national security."
             },
             {
-                "title": "Anti-government protests in Iran turn violent",
-                "risk_level": "High",
-                "summary": "Protesters have taken to the streets in Iran to express their discontent with the government, resulting in violent clashes with security forces and reports of civilian casualties."
+                "title": "Social Unrest in Global Cities Over Economic Inequality",
+                "risk_level": "Medium",
+                "summary": "Protests and demonstrations have erupted in several global cities, highlighting growing concerns about economic inequality and social injustice."
             },
             {
-                "title": "New COVID-19 variant spreads globally, WHO sounds alarm",
+                "title": "Global Health Crisis Exacerbated by Pandemic-Related Supply Chain Disruptions",
                 "risk_level": "High",
-                "summary": "A new COVID-19 variant has been identified in several countries, prompting the World Health Organization (WHO) to issue a warning about the potential risks of a global outbreak."
+                "summary": "The ongoing global health crisis has been worsened by pandemic-related supply chain disruptions, leading to shortages of critical medical equipment and supplies."
             }
         ],
         "United States": [
             {
-                "title": "Mass Shooting in Highland Park, Illinois",
+                "title": "Tensions escalate between the US and China over Taiwan",
                 "risk_level": "High",
-                "summary": "At least 6 people were killed and 24 injured in a shooting at a July 4th parade in Highland Park, Illinois,  a suburb of Chicago."
+                "summary": "The US has sent a clear signal of support to Taiwan, fuelling tensions with China; A US diplomat has met Taiwan's President, causing China's anger to rise."
             },
             {
-                "title": "Escalating US-China Tensions over Taiwan",
-                "risk_level": "High",
-                "summary": "The United States has strengthened its military presence in the Indo-Pacific region amid escalating tensions with China over Taiwan, which China claims as its own territory."
+                "title": "US inflation data shows continued slowdown in price growth",
+                "risk_level": "Low",
+                "summary": "The US inflation rate eased more than expected in July, but is still above the Federal Reserve's target; However, this data might affect interest rates in the next FOMC meeting."
             },
             {
-                "title": "Heatwave Continues to Spread Across the US West",
-                "risk_level": "Medium",
-                "summary": "A severe heatwave has been scorching the western United States for days, leading to power outages, water shortages, and heat-related illnesses."
+                "title": "Ukraine-Russia conflict: US imposes new sanctions on Putin's allies",
+                "risk_level": "High",
+                "summary": "The US has imposed new sanctions on several Russian allies, as the conflict in Ukraine continues; These sanctions target oligarchs and other key figures close to Putin."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea warns of 'stronger' military might amid drills with South Korea and US",
-                "risk_level": "High",
-                "summary": "North Korea has issued a stark warning to South Korea and the US, saying its \"military might will be stronger and more unpredictable\" in response to ongoing drills in the region."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "date": "",
+                "description": "",
+                "source": "",
+                "risk_area": "",
+                "risk_category": "",
+                "event_link": "",
+                "risk_level_code": ""
             },
             {
-                "title": "South Korean presidential office hacked in suspected North Korean cyber attack",
-                "risk_level": "High",
-                "summary": "The South Korean presidential office says it has been hacked in a suspected North Korean cyber attack."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "date": "",
+                "description": "",
+                "source": "",
+                "risk_area": "",
+                "risk_category": "",
+                "event_link": "",
+                "risk_level_code": ""
             },
             {
-                "title": "South Korea to deploy S-1 air defense missile system to disputed island",
-                "risk_level": "Medium",
-                "summary": "South Korea is set to deploy a new air defense missile system to a disputed island in the Yellow Sea, a move that could strain relations with China and Japan."
+                "title": "",
+                "risk_level": "",
+                "summary": "",
+                "date": "",
+                "description": "",
+                "source": "",
+                "risk_area": "",
+                "risk_category": "",
+                "event_link": "",
+                "risk_level_code": ""
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Kishida says won't give 'incentives' to North Korea despite talks",
+                "title": "Japanese Yen weakens to 24-year low against US dollar, sparking worries about economy",
                 "risk_level": "High",
-                "summary": "Japan plans to maintain a hard line with North Korea in upcoming talks, with Prime Minister Fumio Kishida vowing not to offer any incentives, a stance that is likely to disappoint Pyongyang, which has been seeking diplomatic rewards in exchange for concessions on denuclearization."
+                "summary": "The Japanese yen has reached its lowest level against the US dollar since 1998, fuelling concerns about the country's economic stability and potential impact on its already-struggling economy."
             },
             {
-                "title": "Japan protests China's 'illegitimate' claims in South China Sea",
+                "title": "North Korea fires ballistic missile over Japan, sparking international condemnation",
+                "risk_level": "High",
+                "summary": "North Korea launched a ballistic missile that flew over Japan, triggering widespread condemnation from the international community and raising concerns about regional security."
+            },
+            {
+                "title": "Japan's LDP delays leadership election due to COVID-19 cases among candidates",
                 "risk_level": "Medium",
-                "summary": "Japan's government on Tuesday protested China's 'illegitimate' claims to a disputed area of the South China Sea, saying Beijing's actions undermine the rules-based international order and pose a threat to regional peace and stability."
-            },
-            {
-                "title": "Japan's economy likely contracted in Q2, but will rebound in H2: economists",
-                "risk_level": "Low",
-                "summary": "Japan's economy likely contracted in the second quarter due to lingering COVID-19 concerns and a decline in external demand, but economists expect a rebound in the second half of the year thanks to a pickup in exports and a recovery in consumption."
+                "summary": "The ruling Liberal Democratic Party (LDP) in Japan has postponed its leadership election due to COVID-19 cases among some of the candidates, causing uncertainty in the country's political landscape."
             }
         ]
     }
