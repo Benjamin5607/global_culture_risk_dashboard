@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global food prices may have reached their peak, but the outlook is still bleak",
+                "title": "Cyber-attack on US government agency affects thousands",
                 "risk_level": "High",
-                "summary": "The impact of inflation on food prices has been a significant concern for many countries, and recent trends suggest that the worst may be over. However, the outlook remains bleak with food insecurity affecting millions of people globally."
+                "summary": "A significant cyber-attack on a US government agency has exposed the personal data of thousands of individuals, sparking concerns over national security and data protection."
             },
             {
-                "title": "Global energy crisis deepens as prices reach record highs",
+                "title": "Anti-government protests in Iran turn violent",
                 "risk_level": "High",
-                "summary": "The global energy crisis has reached new heights with prices reaching record levels. This has a significant impact on the economies of many countries, and there are concerns about the long-term consequences of this crisis."
+                "summary": "Protesters have taken to the streets in Iran to express their discontent with the government, resulting in violent clashes with security forces and reports of civilian casualties."
             },
             {
-                "title": "Global supply chain disruptions may continue due to geopolitical tensions",
-                "risk_level": "Medium",
-                "summary": "Geopolitical tensions have led to supply chain disruptions in various parts of the world. While efforts are being made to resolve these issues, the situation remains fragile and could continue to have a significant impact on global trade."
+                "title": "New COVID-19 variant spreads globally, WHO sounds alarm",
+                "risk_level": "High",
+                "summary": "A new COVID-19 variant has been identified in several countries, prompting the World Health Organization (WHO) to issue a warning about the potential risks of a global outbreak."
             }
         ],
         "United States": [
             {
-                "title": "US House passes bill limiting president's ability to withdraw troops from Ukraine.",
+                "title": "Mass Shooting in Highland Park, Illinois",
                 "risk_level": "High",
-                "summary": "The US House of Representatives passed a bill limiting the president's ability to withdraw troops from Ukraine, a move that could impact US relations with Russia."
+                "summary": "At least 6 people were killed and 24 injured in a shooting at a July 4th parade in Highland Park, Illinois,  a suburb of Chicago."
             },
             {
-                "title": "Twitter faces potential SEC probe over Musk's tweet about buying Tesla.",
+                "title": "Escalating US-China Tensions over Taiwan",
+                "risk_level": "High",
+                "summary": "The United States has strengthened its military presence in the Indo-Pacific region amid escalating tensions with China over Taiwan, which China claims as its own territory."
+            },
+            {
+                "title": "Heatwave Continues to Spread Across the US West",
                 "risk_level": "Medium",
-                "summary": "Twitter may face a Securities and Exchange Commission (SEC) probe over Elon Musk's tweet about buying Tesla, raising concerns about the company's financial disclosures."
-            },
-            {
-                "title": "Justice Department sues to block Boeing's deal for MAX 7 jets.",
-                "risk_level": "Low",
-                "summary": "The US Department of Justice filed a lawsuit to block Boeing's deal for MAX 7 jets, alleging the company's bid was not competitively bid."
+                "summary": "A severe heatwave has been scorching the western United States for days, leading to power outages, water shortages, and heat-related illnesses."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests Erupt in South Korea Over Labor Law Changes",
+                "title": "North Korea warns of 'stronger' military might amid drills with South Korea and US",
                 "risk_level": "High",
-                "summary": "Large crowds gathered at the national assembly in Seoul to protest proposed changes to labor laws that would allow for more flexible working hours and less job protections. This marks a growing divide in the country over issues of social equality and worker's rights."
+                "summary": "North Korea has issued a stark warning to South Korea and the US, saying its \"military might will be stronger and more unpredictable\" in response to ongoing drills in the region."
             },
             {
-                "title": "Cyberattacks Against South Korean Tech Firms Surge",
+                "title": "South Korean presidential office hacked in suspected North Korean cyber attack",
                 "risk_level": "High",
-                "summary": "Multiple tech companies in South Korea have reported being targeted by a series of sophisticated cyberattacks in recent days, highlighting concerns about the country's vulnerability to cyber threats."
+                "summary": "The South Korean presidential office says it has been hacked in a suspected North Korean cyber attack."
             },
             {
-                "title": "US Imposes Sanctions on North Korean Individuals Over Missile Tests",
+                "title": "South Korea to deploy S-1 air defense missile system to disputed island",
                 "risk_level": "Medium",
-                "summary": "The United States has imposed new sanctions on several North Korean individuals and entities in response to recent ballistic missile tests, putting further pressure on the regime."
+                "summary": "South Korea is set to deploy a new air defense missile system to a disputed island in the Yellow Sea, a move that could strain relations with China and Japan."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "Japan's Prime Minister Fumio Kishida says the decision to discharge Fukushima water into the ocean was made with caution, amid concerns from neighboring countries. "
+                "title": "Japan's Kishida says won't give 'incentives' to North Korea despite talks",
+                "risk_level": "High",
+                "summary": "Japan plans to maintain a hard line with North Korea in upcoming talks, with Prime Minister Fumio Kishida vowing not to offer any incentives, a stance that is likely to disappoint Pyongyang, which has been seeking diplomatic rewards in exchange for concessions on denuclearization."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "A magnitude 6.1 earthquake strikes eastern Japan, causing no reports of major damage or injury. "
-            },
-            {
-                "title": "Japan's defense minister says the country is considering acquiring US-made Patriot interceptors, amid growing concerns over North Korea's missile program.",
+                "title": "Japan protests China's 'illegitimate' claims in South China Sea",
                 "risk_level": "Medium",
-                "summary": "The move comes as tensions between Japan and North Korea continue to escalate. Japan's defense minister has stated that the country is taking steps to improve its missile defense capabilities. "
+                "summary": "Japan's government on Tuesday protested China's 'illegitimate' claims to a disputed area of the South China Sea, saying Beijing's actions undermine the rules-based international order and pose a threat to regional peace and stability."
+            },
+            {
+                "title": "Japan's economy likely contracted in Q2, but will rebound in H2: economists",
+                "risk_level": "Low",
+                "summary": "Japan's economy likely contracted in the second quarter due to lingering COVID-19 concerns and a decline in external demand, but economists expect a rebound in the second half of the year thanks to a pickup in exports and a recovery in consumption."
             }
         ]
     }
