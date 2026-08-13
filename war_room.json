@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "US, China, and Russia hold key calls to discuss Ukraine conflict",
                 "risk_level": "High",
-                "summary": ""
+                "summary": "Leaders from the US, China, and Russia are set to hold critical calls to discuss the ongoing Ukraine conflict, potentially signaling a shift in global political dynamics."
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": ""
+                "title": "Global food price surge sparks social unrest and protests",
+                "risk_level": "High",
+                "summary": "Rising global food prices have led to social unrest and protests in several countries, highlighting the vulnerability of global supply chains and the need for urgent action."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": ""
+                "title": "Cyber-attacks on critical infrastructure intensify, prompting calls for enhanced security measures",
+                "risk_level": "High",
+                "summary": "Cyber-attacks on critical infrastructure have increased, sparking concerns about national security and prompting calls for enhanced security measures to protect against potential threats."
             }
         ],
         "United States": [
             {
-                "title": "Tensions Rise Over US Border Agents Using Whips Against Haitian Migrants",
+                "title": "US Congress to Investigate Facebook's Meta over Data Collection",
                 "risk_level": "High",
-                "summary": "US Customs and Border Protection (CBP) has announced it will investigate after a viral video showed agents using whips against Haitian migrants at the US-Mexico border."
+                "summary": "The US Congress has announced plans to investigate Meta over data collection practices."
             },
             {
-                "title": "US House Republicans Vote on Resolution Condemning FBI Raid on Mar-a-Lago",
+                "title": "Supreme Court to Hear Case on Gun Rights",
+                "risk_level": "High",
+                "summary": "The US Supreme Court has agreed to hear a case that challenges a New York gun law, which could have significant implications for gun rights."
+            },
+            {
+                "title": "US Federal Reserve Raises Interest Rates to Combat Inflation",
                 "risk_level": "Medium",
-                "summary": "The US House of Representatives voted on a resolution to condemn the FBI raid on former President Trump's Mar-a-Lago estate."
-            },
-            {
-                "title": "US Supreme Court Blocks Biden Administration's Vaccine-or-Test Rule for Businesses",
-                "risk_level": "High",
-                "summary": "The US Supreme Court blocked the Biden administration's rule requiring large businesses to mandate COVID-19 vaccinations or weekly testing for employees."
+                "summary": "The US Federal Reserve has raised interest rates to combat high inflation, which could have significant economic implications."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea's Missile Launch",
+                "title": "North Korea conducts missile test over Japanese waters",
                 "risk_level": "High",
-                "summary": "North Korea tested a new missile system last week, raising concerns in South Korea and the international community."
+                "summary": "South Korea and Japan strongly condemn the test, raising tensions in the region."
             },
             {
-                "title": "Protests Against New Labor Law",
+                "title": "Protest in Seoul over pension reform",
                 "risk_level": "Medium",
-                "summary": "Large protests in major cities in South Korea against the new labor reform law, which opponents argue will weaken workers' rights."
+                "summary": "Thousands of citizens protest against pension reform in the capital city, Seoul."
             },
             {
-                "title": "South Korea's COVID-19 Outbreak",
-                "risk_level": "Medium",
-                "summary": "An increase in COVID-19 cases in South Korea has raised concerns about another wave of infections, with renewed restrictions being considered."
+                "title": "South Korean lawmakers grill officials over military readiness",
+                "risk_level": "Low",
+                "summary": "Lawmakers question officials on the country's military readiness, citing concerns over North Korea's actions."
             }
         ],
         "Japan": [
             {
-                "title": "Mass protests in Japan against Kishida government's planned constitutional reform",
+                "title": "Japanese Defense Ministry announces plans for new F-35B fighter squadron at MCAS Iwakuni",
                 "risk_level": "High",
-                "summary": "Tens of thousands of people in Japan demonstrated against the government's plans to revise the country's constitution, which could lead to significant changes in the country's political system and potentially impact social stability."
+                "summary": "Following the US withdrawal from Afghanistan and the rise of China in the region, Japan seeks to reinforce its military capabilities, particularly in terms of air power."
             },
             {
-                "title": "Japan's inflation rate hits 4.5% in July, highest in 41 years",
+                "title": "Japan's government and parliament to debate new anti-stalking law.",
                 "risk_level": "Medium",
-                "summary": "Japan's inflation rate rose to 4.5% in July, the highest in 41 years, as the country grapples with the global economic downturn and rising energy prices, potentially affecting consumer purchasing power and economic stability."
+                "summary": "Lawmakers to discuss amendments aimed at strengthening stalking laws, increasing penalties, and implementing stricter monitoring of offenders."
             },
             {
-                "title": "North Korea tests ballistic missile, prompting US-Japan defense exercise",
-                "risk_level": "High",
-                "summary": "North Korea fired a ballistic missile into the sea between the Korean Peninsula and Japan, prompting a joint defense exercise between the US and Japan, highlighting regional security tensions and potential threats to stability in the region."
+                "title": "Japanese government and businesses face criticism over handling of recent floods and landslides.",
+                "risk_level": "Low",
+                "summary": "Citizens express disappointment as they feel that the authorities and local businesses have not yet provided sufficient aid and support in response to the devastation."
             }
         ]
     }

@@ -1,5 +1,21 @@
 [
     {
+        "term": "Ruth Bader Ginsburg",
+        "group": "Politicians",
+        "country": "USA",
+        "category": "Law",
+        "risk_level": "High",
+        "trend_score": 0.65,
+        "status": "Passed away",
+        "first_detected": "1950",
+        "last_updated": "2022-09-20T14:54:22.141Z",
+        "context": {
+            "en": "United States Supreme Court Associate Justice",
+            "ko": "미국 미국 대법원 법관",
+            "ja": "エアターズートチを也了ゝどRuth Bader Ginsburg"
+        }
+    },
+    {
         "term": "Circles With An Arrow Through Them",
         "group": "White Power / neo-Nazi",
         "country": "International",
