@@ -3,65 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Tension escalates between US and Iran following military drills in the Persian Gulf.",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Tensions in the Middle East escalated after US and Iranian militaries conducted separate training exercises in the Persian Gulf, prompting concerns about potential conflict."
+                "summary": ""
             },
             {
-                "title": "Russia-Ukraine Conflict: Putin warns of potential nuclear attack if West intervenes.",
-                "risk_level": "High",
-                "summary": "Russian President Vladimir Putin warned of the possibility of a nuclear response if Western nations intervene militarily in the conflict between Russia and Ukraine."
-            },
-            {
-                "title": "Climate Change: Global temperatures set to rise by 3.2°C by 2100, report warns.",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "A new report predicts that global temperatures will rise by 3.2°C by 2100, highlighting the urgent need for climate action."
+                "summary": ""
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": ""
             }
         ],
         "United States": [
             {
-                "title": "Supreme Court overturns Roe v. Wade",
+                "title": "Tensions Rise Over US Border Agents Using Whips Against Haitian Migrants",
                 "risk_level": "High",
-                "summary": "The decision has sparked widespread protests and has significant implications on reproductive rights in the US."
+                "summary": "US Customs and Border Protection (CBP) has announced it will investigate after a viral video showed agents using whips against Haitian migrants at the US-Mexico border."
             },
             {
-                "title": "Congressman shoots attacker in self-defense",
+                "title": "US House Republicans Vote on Resolution Condemning FBI Raid on Mar-a-Lago",
                 "risk_level": "Medium",
-                "summary": "The incident highlights concerns over gun violence and congressional security."
+                "summary": "The US House of Representatives voted on a resolution to condemn the FBI raid on former President Trump's Mar-a-Lago estate."
             },
             {
-                "title": "US inflation rate reaches 9.1% in June",
-                "risk_level": "Medium",
-                "summary": "The high inflation rate continues to affect Americans' purchasing power and economic stability."
+                "title": "US Supreme Court Blocks Biden Administration's Vaccine-or-Test Rule for Businesses",
+                "risk_level": "High",
+                "summary": "The US Supreme Court blocked the Biden administration's rule requiring large businesses to mandate COVID-19 vaccinations or weekly testing for employees."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires two ballistic missiles into the Sea of Japan",
+                "title": "North Korea's Missile Launch",
                 "risk_level": "High",
-                "summary": "South Korea and Japan condemn the launches, which come amid heightened tensions on the Korean Peninsula."
+                "summary": "North Korea tested a new missile system last week, raising concerns in South Korea and the international community."
             },
             {
-                "title": "South Korean government to increase military spending to counter North Korea",
-                "risk_level": "High",
-                "summary": "The move aims to boost the country's military capabilities in response to the nuclear-armed North's growing threats."
+                "title": "Protests Against New Labor Law",
+                "risk_level": "Medium",
+                "summary": "Large protests in major cities in South Korea against the new labor reform law, which opponents argue will weaken workers' rights."
+            },
+            {
+                "title": "South Korea's COVID-19 Outbreak",
+                "risk_level": "Medium",
+                "summary": "An increase in COVID-19 cases in South Korea has raised concerns about another wave of infections, with renewed restrictions being considered."
             }
         ],
         "Japan": [
             {
-                "title": "Magnitude 6.0 earthquake strikes northern Japan, triggering landslides and power outages",
+                "title": "Mass protests in Japan against Kishida government's planned constitutional reform",
                 "risk_level": "High",
-                "summary": "A magnitude 6.0 earthquake struck northern Japan on 13 August 2024, triggering landslides and power outages. The quake also caused widespread damage and disrupted transportation services."
+                "summary": "Tens of thousands of people in Japan demonstrated against the government's plans to revise the country's constitution, which could lead to significant changes in the country's political system and potentially impact social stability."
             },
             {
-                "title": "Japan's defence minister visits US for talks on security cooperation",
+                "title": "Japan's inflation rate hits 4.5% in July, highest in 41 years",
                 "risk_level": "Medium",
-                "summary": "Japan's defence minister arrived in the US on a three-day visit to discuss security cooperation and share expertise on defence technology."
+                "summary": "Japan's inflation rate rose to 4.5% in July, the highest in 41 years, as the country grapples with the global economic downturn and rising energy prices, potentially affecting consumer purchasing power and economic stability."
             },
             {
-                "title": "Japan sees surge in COVID-19 cases as Omicron variant spreads",
-                "risk_level": "Low",
-                "summary": "Japan reported a surge in COVID-19 cases due to the spread of the Omicron variant, with new infections rising to 10,000 per day, according to health officials."
+                "title": "North Korea tests ballistic missile, prompting US-Japan defense exercise",
+                "risk_level": "High",
+                "summary": "North Korea fired a ballistic missile into the sea between the Korean Peninsula and Japan, prompting a joint defense exercise between the US and Japan, highlighting regional security tensions and potential threats to stability in the region."
             }
         ]
     }
