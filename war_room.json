@@ -3,70 +3,65 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Taliban Warns US: Withdraw Remaining Troops or Face War",
+                "title": "Tension escalates between US and Iran following military drills in the Persian Gulf.",
                 "risk_level": "High",
-                "summary": "Taliban on Thursday warned the United States to withdraw its remaining troops from Afghanistan or face the consequences of war."
+                "summary": "Tensions in the Middle East escalated after US and Iranian militaries conducted separate training exercises in the Persian Gulf, prompting concerns about potential conflict."
             },
             {
-                "title": "China Tests H-6N Missile Capable of Delivering Nuke from US Border",
+                "title": "Russia-Ukraine Conflict: Putin warns of potential nuclear attack if West intervenes.",
                 "risk_level": "High",
-                "summary": "China tested a modified H-6N bomber capable of carrying nuclear weapons from the US border, heightening concerns over Beijing's military expansion."
+                "summary": "Russian President Vladimir Putin warned of the possibility of a nuclear response if Western nations intervene militarily in the conflict between Russia and Ukraine."
             },
             {
-                "title": "NATO's Stoltenberg Warns Against Escalation with Russia",
+                "title": "Climate Change: Global temperatures set to rise by 3.2°C by 2100, report warns.",
                 "risk_level": "Medium",
-                "summary": "NATO Secretary-General Jens Stoltenberg has warned against escalating tensions between the alliance and Russia following a recent uptick in military deployments."
+                "summary": "A new report predicts that global temperatures will rise by 3.2°C by 2100, highlighting the urgent need for climate action."
             }
         ],
         "United States": [
             {
-                "title": "US Abortion Pills Ban: Supreme Court Weighs in on Controversy",
+                "title": "Supreme Court overturns Roe v. Wade",
+                "risk_level": "High",
+                "summary": "The decision has sparked widespread protests and has significant implications on reproductive rights in the US."
+            },
+            {
+                "title": "Congressman shoots attacker in self-defense",
                 "risk_level": "Medium",
-                "summary": "US Supreme Court weighs in on ban of abortion pills, sparking controversy"
+                "summary": "The incident highlights concerns over gun violence and congressional security."
             },
             {
-                "title": "FBI Raid on Trump's Home: A Security Risk or a Political Tussle?",
-                "risk_level": "High",
-                "summary": "FBI raid on Trump's home raises concerns over security, politics, and the rule of law"
-            },
-            {
-                "title": "Gun Violence on the Rise: US Sees Surge in Mass Shootings",
-                "risk_level": "High",
-                "summary": "Gun violence on the rise in the US, with a surge in mass shootings and fatalities"
+                "title": "US inflation rate reaches 9.1% in June",
+                "risk_level": "Medium",
+                "summary": "The high inflation rate continues to affect Americans' purchasing power and economic stability."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Seoul's city government ordered the shutdown of over 1,300 illicit bars and clubs found to be operating without licenses from Wednesday."
+                "title": "North Korea fires two ballistic missiles into the Sea of Japan",
+                "risk_level": "High",
+                "summary": "South Korea and Japan condemn the launches, which come amid heightened tensions on the Korean Peninsula."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "South Korea and the United States will hold joint exercises in the Yellow Sea next month, Seoul's defense ministry said, as a top U.S. military general visited the South's military headquarters in Seoul on Thursday."
-            },
-            {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "South Korea's daily new COVID-19 cases hovered for two consecutive days below 30,000 since the omicron-driven wave early last year, but the number of critically ill patients remained high."
+                "title": "South Korean government to increase military spending to counter North Korea",
+                "risk_level": "High",
+                "summary": "The move aims to boost the country's military capabilities in response to the nuclear-armed North's growing threats."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo Olympic Stadium to be Demolished Due to Structural Issues",
-                "risk_level": "Medium",
-                "summary": "Concerns over structural integrity have led to the decision to demolish the Tokyo Olympic Stadium, causing social unrest among locals and athletes."
-            },
-            {
-                "title": "Japan Fears Record COVID-19 Cases",
+                "title": "Magnitude 6.0 earthquake strikes northern Japan, triggering landslides and power outages",
                 "risk_level": "High",
-                "summary": "Despite vaccination efforts, Japan has reported record COVID-19 cases, causing concerns over healthcare capacity and potential lockdowns."
+                "summary": "A magnitude 6.0 earthquake struck northern Japan on 13 August 2024, triggering landslides and power outages. The quake also caused widespread damage and disrupted transportation services."
             },
             {
-                "title": "Protests Against Japan's Constitution Revision",
+                "title": "Japan's defence minister visits US for talks on security cooperation",
+                "risk_level": "Medium",
+                "summary": "Japan's defence minister arrived in the US on a three-day visit to discuss security cooperation and share expertise on defence technology."
+            },
+            {
+                "title": "Japan sees surge in COVID-19 cases as Omicron variant spreads",
                 "risk_level": "Low",
-                "summary": "Civil society groups in Japan have been protesting the proposed revision to the country's constitution, which they argue undermines democratic principles."
+                "summary": "Japan reported a surge in COVID-19 cases due to the spread of the Omicron variant, with new infections rising to 10,000 per day, according to health officials."
             }
         ]
     }
