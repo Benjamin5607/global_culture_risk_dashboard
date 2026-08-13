@@ -3,73 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia-Ukraine Conflict",
+                "title": "Taliban Warns US: Withdraw Remaining Troops or Face War",
                 "risk_level": "High",
-                "summary": "Heavy fighting in eastern Ukraine and a significant escalation of military build-up in eastern Europe"
+                "summary": "Taliban on Thursday warned the United States to withdraw its remaining troops from Afghanistan or face the consequences of war."
             },
             {
-                "title": "Global Economic Recession",
+                "title": "China Tests H-6N Missile Capable of Delivering Nuke from US Border",
                 "risk_level": "High",
-                "summary": "Concerns of a global recession due to rising inflation, monetary policy tightening and supply chain disruptions"
+                "summary": "China tested a modified H-6N bomber capable of carrying nuclear weapons from the US border, heightening concerns over Beijing's military expansion."
             },
             {
-                "title": "Rise of Global Tensions",
-                "risk_level": "High",
-                "summary": "Increased tensions between the US, China and other world powers over trade, security and technology"
+                "title": "NATO's Stoltenberg Warns Against Escalation with Russia",
+                "risk_level": "Medium",
+                "summary": "NATO Secretary-General Jens Stoltenberg has warned against escalating tensions between the alliance and Russia following a recent uptick in military deployments."
             }
         ],
         "United States": [
             {
-                "title": "Tensions between the US and Iran escalate after a drone strike",
-                "risk_level": "High",
-                "summary": "Iran's IRGC warns of retaliation after US drone strike kills top Iranian military commander in Baghdad airport, escalating tensions between the two nations."
-            },
-            {
-                "title": "California wildfires prompt state of emergency declaration",
-                "risk_level": "High",
-                "summary": "Governor declares state of emergency as several wildfires burn in California, forcing evacuations and threatening critical infrastructure."
-            },
-            {
-                "title": "Supreme Court upholds Trump-era immigration rule, drawing criticism from advocacy groups",
+                "title": "US Abortion Pills Ban: Supreme Court Weighs in on Controversy",
                 "risk_level": "Medium",
-                "summary": "Supreme Court rules that US can deny green cards to immigrants who use or have used public benefits, sparking criticism from immigration advocates and Democrats."
+                "summary": "US Supreme Court weighs in on ban of abortion pills, sparking controversy"
+            },
+            {
+                "title": "FBI Raid on Trump's Home: A Security Risk or a Political Tussle?",
+                "risk_level": "High",
+                "summary": "FBI raid on Trump's home raises concerns over security, politics, and the rule of law"
+            },
+            {
+                "title": "Gun Violence on the Rise: US Sees Surge in Mass Shootings",
+                "risk_level": "High",
+                "summary": "Gun violence on the rise in the US, with a surge in mass shootings and fatalities"
             }
         ],
         "South Korea": [
             {
                 "title": "",
-                "risk_level": "Low",
-                "summary": "",
-                "text": "Seoul city authorities have warned of potential disruptions due to a planned workersâ strike scheduled to take place over the next week."
-            },
-            {
-                "title": "",
                 "risk_level": "Medium",
-                "summary": "",
-                "text": "A cyber-attack on a US-based company has compromised data for nearly 1 million individuals, with some records containing personal information belonging to South Koreans."
+                "summary": "Seoul's city government ordered the shutdown of over 1,300 illicit bars and clubs found to be operating without licenses from Wednesday."
             },
             {
                 "title": "",
                 "risk_level": "Low",
-                "summary": "",
-                "text": "South Korea and the US have agreed to conduct joint military drills in May as part of their annual Foal Eagle exercise, sparking fears among North Korea."
+                "summary": "South Korea and the United States will hold joint exercises in the Yellow Sea next month, Seoul's defense ministry said, as a top U.S. military general visited the South's military headquarters in Seoul on Thursday."
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "South Korea's daily new COVID-19 cases hovered for two consecutive days below 30,000 since the omicron-driven wave early last year, but the number of critically ill patients remained high."
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Nanmadol Weakens as It Moves Over Southern Japan",
-                "risk_level": "High",
-                "summary": "Typhoon Nanmadol made landfall in southern Japan on September 16, causing widespread power outages and damage. The storm brought strong winds and heavy rainfall, with some areas seeing up to 30 inches of rain."
-            },
-            {
-                "title": "Ruling Party Loses Control of Okayama Prefecture in Election",
+                "title": "Tokyo Olympic Stadium to be Demolished Due to Structural Issues",
                 "risk_level": "Medium",
-                "summary": "The ruling Liberal Democratic Party (LDP) lost control of Okayama Prefecture in a recent election, marking a significant setback for the party."
+                "summary": "Concerns over structural integrity have led to the decision to demolish the Tokyo Olympic Stadium, causing social unrest among locals and athletes."
             },
             {
-                "title": "Tokyo University Students Stage Protest Over Education Reforms",
+                "title": "Japan Fears Record COVID-19 Cases",
+                "risk_level": "High",
+                "summary": "Despite vaccination efforts, Japan has reported record COVID-19 cases, causing concerns over healthcare capacity and potential lockdowns."
+            },
+            {
+                "title": "Protests Against Japan's Constitution Revision",
                 "risk_level": "Low",
-                "summary": "Students at Tokyo University staged a protest over education reforms, citing concerns about the impact on their education and future careers."
+                "summary": "Civil society groups in Japan have been protesting the proposed revision to the country's constitution, which they argue undermines democratic principles."
             }
         ]
     }
