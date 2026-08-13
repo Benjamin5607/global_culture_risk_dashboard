@@ -1,93 +1,72 @@
 {
-    "updated": "2026-08-12",
+    "updated": "2026-08-13",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber-attack on US Government Agency Impacts Citizens' Data",
+                "title": "Russia-Ukraine conflict escalates, NATO warns of 'unprecedented' consequences",
                 "risk_level": "High",
-                "summary": "A recent cyber-attack on a US government agency has compromised sensitive citizen data, sparking concerns about data protection and national security."
+                "summary": "The conflict between Russia and Ukraine has intensified, with NATO warning of 'unprecedented' consequences for global stability. The US and EU have imposed new sanctions on Russia, while Ukraine's military says it has made gains in the east."
             },
             {
-                "title": "Social Unrest in Global Cities Over Economic Inequality",
+                "title": "US-China tensions rise over Taiwan",
+                "risk_level": "High",
+                "summary": "The US and China have clashed over Taiwan, with the US conducting military exercises in the South China Sea. China has warned the US to stay out of its 'internal affairs', while the US has pledged to defend Taiwan."
+            },
+            {
+                "title": "COVID-19 cases surge in Indonesia and Malaysia",
                 "risk_level": "Medium",
-                "summary": "Protests and demonstrations have erupted in several global cities, highlighting growing concerns about economic inequality and social injustice."
-            },
-            {
-                "title": "Global Health Crisis Exacerbated by Pandemic-Related Supply Chain Disruptions",
-                "risk_level": "High",
-                "summary": "The ongoing global health crisis has been worsened by pandemic-related supply chain disruptions, leading to shortages of critical medical equipment and supplies."
+                "summary": "COVID-19 cases have surged in Indonesia and Malaysia, with both countries imposing new restrictions to slow the spread of the virus. The outbreaks have raised concerns about the effectiveness of vaccination campaigns in Southeast Asia."
             }
         ],
         "United States": [
             {
-                "title": "Tensions escalate between the US and China over Taiwan",
-                "risk_level": "High",
-                "summary": "The US has sent a clear signal of support to Taiwan, fuelling tensions with China; A US diplomat has met Taiwan's President, causing China's anger to rise."
-            },
-            {
-                "title": "US inflation data shows continued slowdown in price growth",
+                "title": "",
                 "risk_level": "Low",
-                "summary": "The US inflation rate eased more than expected in July, but is still above the Federal Reserve's target; However, this data might affect interest rates in the next FOMC meeting."
+                "summary": "Florida lawmakers propose new bill to address rising crime in the state, focusing on repeat offenders and violent crimes."
             },
             {
-                "title": "Ukraine-Russia conflict: US imposes new sanctions on Putin's allies",
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US has imposed new sanctions on several Russian allies, as the conflict in Ukraine continues; These sanctions target oligarchs and other key figures close to Putin."
+                "summary": "US President Joe Biden calls for increased action to address the gun violence crisis in the US, amid the anniversary of the 1999 Columbine High School shooting and recent mass shootings in California and Texas."
+            },
+            {
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "The US Supreme Court allows the House January 6 committee to access classified documents related to the investigation into the 2021 US Capitol attack, potentially shedding new light on the January 6 insurrection."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "date": "",
-                "description": "",
-                "source": "",
-                "risk_area": "",
-                "risk_category": "",
-                "event_link": "",
-                "risk_level_code": ""
+                "title": "Seoul's Mayor Suspended Amidst Corruption Probe",
+                "risk_level": "Medium",
+                "summary": "The suspension of Seoul's mayor amidst a corruption probe has sparked concerns about the integrity of the city's governance. This development may impact investor confidence and public trust in the government, contributing to a medium-level risk scenario."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "date": "",
-                "description": "",
-                "source": "",
-                "risk_area": "",
-                "risk_category": "",
-                "event_link": "",
-                "risk_level_code": ""
+                "title": "North Korea Fires Ballistic Missiles, Raising Tensions",
+                "risk_level": "High",
+                "summary": "North Korea has fired multiple ballistic missiles, escalating tensions with South Korea and international powers. This aggression poses a significant risk to regional stability and global security, warranting a high-level risk assessment."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": "",
-                "date": "",
-                "description": "",
-                "source": "",
-                "risk_area": "",
-                "risk_category": "",
-                "event_link": "",
-                "risk_level_code": ""
+                "title": "South Korean Trade Minister Resigns Amidst Beef Import Dispute",
+                "risk_level": "Medium",
+                "summary": "The South Korean trade minister has resigned due to controversy surrounding the country's decision to import US beef. This development may impact trade relations with key partners and contribute to market volatility, resulting in a medium-level risk scenario."
             }
         ],
         "Japan": [
             {
-                "title": "Japanese Yen weakens to 24-year low against US dollar, sparking worries about economy",
-                "risk_level": "High",
-                "summary": "The Japanese yen has reached its lowest level against the US dollar since 1998, fuelling concerns about the country's economic stability and potential impact on its already-struggling economy."
-            },
-            {
-                "title": "North Korea fires ballistic missile over Japan, sparking international condemnation",
-                "risk_level": "High",
-                "summary": "North Korea launched a ballistic missile that flew over Japan, triggering widespread condemnation from the international community and raising concerns about regional security."
-            },
-            {
-                "title": "Japan's LDP delays leadership election due to COVID-19 cases among candidates",
+                "title": "Protests Held Against Changes to Japan's Voting Rights Law",
                 "risk_level": "Medium",
-                "summary": "The ruling Liberal Democratic Party (LDP) in Japan has postponed its leadership election due to COVID-19 cases among some of the candidates, causing uncertainty in the country's political landscape."
+                "summary": "Thousands of Japanese citizens protested the amendments to the voting rights law, fearing it would make it more difficult for certain groups to participate in the country's electoral process."
+            },
+            {
+                "title": "Cybercrime Attacks on Japanese Companies Increases",
+                "risk_level": "High",
+                "summary": "Several major Japanese companies have been targeted in a series of high-profile cybercrime attacks in the last week, resulting in significant economic losses."
+            },
+            {
+                "title": "Rising Tensions Between Japan and China over Taiwan",
+                "risk_level": "High",
+                "summary": "Tensions have escalated between Japan and China over Taiwan, with both nations engaging in a war of words in the media, and there have been reports of military mobilization in the region."
             }
         ]
     }
