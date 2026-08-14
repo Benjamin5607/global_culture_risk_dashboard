@@ -1,72 +1,72 @@
 {
-    "updated": "2026-08-13",
+    "updated": "2026-08-14",
     "scopes": {
         "Global (All)": [
             {
-                "title": "US, China, and Russia hold key calls to discuss Ukraine conflict",
+                "title": "Russia-Ukraine Conflict Escalates",
                 "risk_level": "High",
-                "summary": "Leaders from the US, China, and Russia are set to hold critical calls to discuss the ongoing Ukraine conflict, potentially signaling a shift in global political dynamics."
+                "summary": "Tensions between Russia and Ukraine have been escalating over the past week, with both sides reporting increased shelling and casualties."
             },
             {
-                "title": "Global food price surge sparks social unrest and protests",
+                "title": "Global Economic Slowdown",
                 "risk_level": "High",
-                "summary": "Rising global food prices have led to social unrest and protests in several countries, highlighting the vulnerability of global supply chains and the need for urgent action."
+                "summary": "The global economy is experiencing a slow down due to various factors including inflation, supply chain disruptions, and monetary policy changes."
             },
             {
-                "title": "Cyber-attacks on critical infrastructure intensify, prompting calls for enhanced security measures",
-                "risk_level": "High",
-                "summary": "Cyber-attacks on critical infrastructure have increased, sparking concerns about national security and prompting calls for enhanced security measures to protect against potential threats."
+                "title": "Cyber Attacks on Critical Infrastructure",
+                "risk_level": "Medium",
+                "summary": "There have been reports of cyber attacks on critical infrastructure in various countries, causing disruptions to essential services."
             }
         ],
         "United States": [
             {
-                "title": "US Congress to Investigate Facebook's Meta over Data Collection",
+                "title": "US Supreme Court Upholds Right to Carry Handguns",
                 "risk_level": "High",
-                "summary": "The US Congress has announced plans to investigate Meta over data collection practices."
+                "summary": "The US Supreme Court has ruled that Americans have a constitutional right to carry a handgun in public for self-defense, a major victory for gun rights advocates."
             },
             {
-                "title": "Supreme Court to Hear Case on Gun Rights",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has agreed to hear a case that challenges a New York gun law, which could have significant implications for gun rights."
-            },
-            {
-                "title": "US Federal Reserve Raises Interest Rates to Combat Inflation",
+                "title": "Biden Proposes New Gun Control Measures Following Mass Shooting",
                 "risk_level": "Medium",
-                "summary": "The US Federal Reserve has raised interest rates to combat high inflation, which could have significant economic implications."
+                "summary": "US President Joe Biden has proposed new gun control measures in response to a recent mass shooting in California, but it's unclear whether the proposals will gain traction in Congress."
+            },
+            {
+                "title": "Facebook Whistleblower Testifies Before US Congress",
+                "risk_level": "Low",
+                "summary": "A former Facebook employee has testified before the US Congress, alleging that the company's algorithms spread misinformation and harm children's mental health."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea conducts missile test over Japanese waters",
+                "title": "North Korea warns of 'preemptive' nuclear strike against US and its allies",
                 "risk_level": "High",
-                "summary": "South Korea and Japan strongly condemn the test, raising tensions in the region."
+                "summary": "North Korean state media has warned that the country is ready to launch a preemptive strike against the US and its allies, including South Korea, following recent joint military drills between the two countries. The statement came after the US and South Korea conducted a joint military drill in the North's territorial waters, which Pyongyang condemned as a 'provocation'."
             },
             {
-                "title": "Protest in Seoul over pension reform",
+                "title": "Seoul urges calm as North Korean leader's sister visits Russia",
                 "risk_level": "Medium",
-                "summary": "Thousands of citizens protest against pension reform in the capital city, Seoul."
+                "summary": "South Korea has urged calm following a surprise visit by Kim Yo Jong, the sister of North Korean leader Kim Jong Un, to Russia. The visit comes amid rising tensions between Seoul and Pyongyang over recent joint military drills and the North's nuclear program."
             },
             {
-                "title": "South Korean lawmakers grill officials over military readiness",
-                "risk_level": "Low",
-                "summary": "Lawmakers question officials on the country's military readiness, citing concerns over North Korea's actions."
+                "title": "South Korean President orders military to 'fully prepare' for potential North Korean threats",
+                "risk_level": "High",
+                "summary": "South Korean President Yoon Suk-yeol has ordered the military to 'fully prepare' for potential North Korean threats after recent joint military drills between the US and South Korea. The move came following a warning from North Korea that it is ready to launch a preemptive strike against the US and its allies."
             }
         ],
         "Japan": [
             {
-                "title": "Japanese Defense Ministry announces plans for new F-35B fighter squadron at MCAS Iwakuni",
-                "risk_level": "High",
-                "summary": "Following the US withdrawal from Afghanistan and the rise of China in the region, Japan seeks to reinforce its military capabilities, particularly in terms of air power."
-            },
-            {
-                "title": "Japan's government and parliament to debate new anti-stalking law.",
+                "title": "Tokyo Olympic Stadium Security Breach",
                 "risk_level": "Medium",
-                "summary": "Lawmakers to discuss amendments aimed at strengthening stalking laws, increasing penalties, and implementing stricter monitoring of offenders."
+                "summary": "A security breach was reported at the Tokyo Olympic Stadium, where an individual allegedly attempted to jump over the security fence. An investigation is underway to determine the circumstances surrounding the incident."
             },
             {
-                "title": "Japanese government and businesses face criticism over handling of recent floods and landslides.",
+                "title": "North Korea's Possible Missiles Movement Near Japan",
+                "risk_level": "High",
+                "summary": "Reports indicate that North Korea may be moving missile-armed ships near Japan, sparking concerns for a potential military escalation."
+            },
+            {
+                "title": "Anti-Whaling Protests in Japanese Waters",
                 "risk_level": "Low",
-                "summary": "Citizens express disappointment as they feel that the authorities and local businesses have not yet provided sufficient aid and support in response to the devastation."
+                "summary": "Environmental activists have begun protesting Japanese whaling practices in the nation's waters, raising tensions between Japan and the activists."
             }
         ]
     }
