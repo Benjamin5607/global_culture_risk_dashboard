@@ -3,70 +3,71 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "US-China relations deteriorate as trade tensions escalate",
                 "risk_level": "High",
                 "summary": ""
             },
             {
-                "title": "",
-                "risk_level": "Medium",
+                "title": "Cybersecurity breach at major tech firm exposes user data",
+                "risk_level": "High",
                 "summary": ""
             },
             {
-                "title": "",
-                "risk_level": "Low",
+                "title": "Global protests against government corruption intensify",
+                "risk_level": "Medium",
                 "summary": ""
             }
         ],
         "United States": [
             {
-                "title": "Protesters clash with National Guard in DC",
+                "title": "Gun violence concerns as Biden meets with lawmakers on gun safety",
                 "risk_level": "High",
-                "summary": "Over the weekend, clashes between protesters and the National Guard in Washington D.C. resulted in injured officers and property damage. The protests were sparked by a new law restricting abortion access in the U.S."
+                "summary": "President Biden met with lawmakers to discuss gun safety legislation, but progress remains uncertain."
             },
             {
-                "title": "Supreme Court blocks bid to add Biden to ballot in swing states",
+                "title": "Tensions rise as US and China hold high-stakes diplomatic talks",
                 "risk_level": "High",
-                "summary": "The Supreme Court recently blocked a bid to add Joe Biden to the ballot in multiple swing states, dealing a blow to Republicans seeking a rematch against the President. This move highlights the ongoing tensions between the executive branch and the judiciary."
+                "summary": "The US and China held talks on a range of issues, including trade, security, and human rights."
             },
             {
-                "title": "US Congress passes landmark bill on chip manufacturing",
-                "risk_level": "Low",
-                "summary": "In a bipartisan effort, the U.S. Congress passed a landmark bill aimed at boosting the country's semiconductor manufacturing capabilities. This move is seen as a step towards countering China's growing influence in the industry."
+                "title": "Florida's 'Stop WOKE Act' sparks concern over free speech and education",
+                "risk_level": "Medium",
+                "summary": "The Florida law restricts discussions of race and sex in schools and workplaces, leading to controversy and lawsuits."
             }
         ],
         "South Korea": [
             {
-                "title": "Concerns over possible North Korean missile tests rise",
-                "risk_level": "High",
-                "summary": "South Korea's military is on high alert following recent increased military activities by North Korea"
-            },
-            {
-                "title": "South Korea, US conduct large-scale military exercise amid North Korean threats",
-                "risk_level": "High",
-                "summary": "Joint drills signal determination to deter North Korea's nuclear ambitions"
-            },
-            {
-                "title": "Burning water crisis deepens in South Korea as water supply is cut ",
+                "title": "North Korea fires missile days after test, Seoul says - CNN",
                 "risk_level": "Medium",
-                "summary": "South Korea faces severe water shortages, affecting 2 million residents in capital Seoul"
+                "summary": "Seoul's Joint Chiefs of Staff said the projectile landed in the sea between Korea and Japan."
+            },
+            {
+                "title": "North Korea fires two ballistic missiles amid US-South Korea drills, says Seoul - Al Jazeera",
+                "risk_level": "High",
+                "summary": "South Korea's military reported the projectiles were fired from the northwestern area of DPRK into the sea."
+            },
+            {
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ],
         "Japan": [
             {
-                "title": "LDP's ruling coalition maintains majority in Japanese upper house polls",
-                "risk_level": "High",
-                "summary": "Results of the poll suggest that the coalition will keep control of the upper house, allowing it to pass legislation without opposition input."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Typhoon Hinnamor to make landfall in eastern Japan around Wednesday, with maximum sustained winds of up to 140 km/h."
             },
             {
-                "title": "Japanese court sentences former Tokyo Governor to house arrest for bribery",
-                "risk_level": "Medium",
-                "summary": "The court found the former governor guilty of bribery and sentenced him to house arrest due to his age."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "US House of Representatives Committee on Foreign Affairs Chair Michael McCaul visits Japan to discuss North Korea issue, Japan's efforts to counter China's growing military presence, and other key issues in the Indo-Pacific region."
             },
             {
-                "title": "Japan and South Korea agree to resume economic talks",
-                "risk_level": "Medium",
-                "summary": "The countries agreed to restore dialogue on key trade issues after months of tension."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "",
+                "title\\": "Tonga and Japan ink fisheries agreement"
             }
         ]
     }
