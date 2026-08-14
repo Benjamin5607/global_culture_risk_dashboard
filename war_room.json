@@ -3,71 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-China relations deteriorate as trade tensions escalate",
+                "title": "Cyber Attack on Global IT Systems",
                 "risk_level": "High",
-                "summary": ""
+                "summary": "A global cyber attack has been reported, affecting several key infrastructure systems. The attack is believed to have originated from a nation-state actor."
             },
             {
-                "title": "Cybersecurity breach at major tech firm exposes user data",
+                "title": "Protests Erupt in Major Global Cities",
                 "risk_level": "High",
-                "summary": ""
+                "summary": "Mass protests have broken out in major cities worldwide, amidst growing unrest and social unrest."
             },
             {
-                "title": "Global protests against government corruption intensify",
+                "title": "Major Global Financial Institution Experiences Data Breach",
                 "risk_level": "Medium",
-                "summary": ""
+                "summary": "A major global financial institution has reported a significant data breach, potentially affecting millions of customers."
             }
         ],
         "United States": [
             {
-                "title": "Gun violence concerns as Biden meets with lawmakers on gun safety",
+                "title": "FBI Director Testifies Before Senate Intelligence Committee on Domestic Terrorism",
                 "risk_level": "High",
-                "summary": "President Biden met with lawmakers to discuss gun safety legislation, but progress remains uncertain."
+                "summary": "FBI Director Christopher Wray testified before the Senate Intelligence Committee on the threat posed by domestic terrorism, acknowledging the growing concern and discussing efforts to combat it."
             },
             {
-                "title": "Tensions rise as US and China hold high-stakes diplomatic talks",
+                "title": "US Senate Votes to Hold Mark Meadows in Contempt for Jan 6 Committee",
                 "risk_level": "High",
-                "summary": "The US and China held talks on a range of issues, including trade, security, and human rights."
+                "summary": "The US Senate voted 8-0 to hold former White House Chief of Staff Mark Meadows in contempt for refusing to comply with the House Select Committee's subpoena on January 6-related documents."
             },
             {
-                "title": "Florida's 'Stop WOKE Act' sparks concern over free speech and education",
+                "title": "Texas Abortion Lawsuits Against Biden Admin. Reopened",
                 "risk_level": "Medium",
-                "summary": "The Florida law restricts discussions of race and sex in schools and workplaces, leading to controversy and lawsuits."
+                "summary": "Texas has reopened lawsuits against the Biden administration over its efforts to block a state ban on most abortions."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires missile days after test, Seoul says - CNN",
+                "title": "Protests and clashes at the Gwanghwamun square in South Korea's capital Seoul",
                 "risk_level": "Medium",
-                "summary": "Seoul's Joint Chiefs of Staff said the projectile landed in the sea between Korea and Japan."
+                "summary": "Police in South Korea clashed with protesters on August 10, 2024, marking the fourth consecutive night of anti-government demonstrations in Seoul's Gwanghwamun square."
             },
             {
-                "title": "North Korea fires two ballistic missiles amid US-South Korea drills, says Seoul - Al Jazeera",
+                "title": "Possible threat of North Korea's nuclear tests",
                 "risk_level": "High",
-                "summary": "South Korea's military reported the projectiles were fired from the northwestern area of DPRK into the sea."
+                "summary": "There have been multiple reports of North Korea preparing for a nuclear test, a move that would likely increase tensions with South Korea and its allies."
             },
             {
-                "title": "",
-                "risk_level": "",
-                "summary": ""
+                "title": "Concerns over South Korea's privacy policies",
+                "risk_level": "Low",
+                "summary": "The South Korean government has faced criticism over its proposed new privacy policies, with many fearing that they could compromise citizens' data."
             }
         ],
         "Japan": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Typhoon Hinnamor to make landfall in eastern Japan around Wednesday, with maximum sustained winds of up to 140 km/h."
+                "title": "Typhoon Nanmadol brings strong winds and heavy rain to Japan",
+                "risk_level": "High",
+                "summary": "A powerful typhoon has brought strong winds and heavy rain to Japan, causing widespread disruption and damage."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "US House of Representatives Committee on Foreign Affairs Chair Michael McCaul visits Japan to discuss North Korea issue, Japan's efforts to counter China's growing military presence, and other key issues in the Indo-Pacific region."
+                "title": "Japan's LDP election result sparks concerns about governance",
+                "risk_level": "Medium",
+                "summary": "The results of the ruling Liberal Democratic Party's (LDP) internal election have sparked concerns about the party's leadership and governance."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "",
-                "title\\": "Tonga and Japan ink fisheries agreement"
+                "title": "Tokyo confirms 1,000 new Covid-19 cases in past 24 hours",
+                "risk_level": "Medium",
+                "summary": "Tokyo has confirmed over 1,000 new Covid-19 cases in the past 24 hours, raising concerns about the spread of the virus."
             }
         ]
     }
