@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber Attack on Global IT Systems",
+                "title": "Global Recession Risk Increases as Global Economic Indicators Tumble",
                 "risk_level": "High",
-                "summary": "A global cyber attack has been reported, affecting several key infrastructure systems. The attack is believed to have originated from a nation-state actor."
+                "summary": "Global economic indicators suggest a growing recession risk, impacting global trade and markets."
             },
             {
-                "title": "Protests Erupt in Major Global Cities",
+                "title": "US-China Trade Tensions Escalate as Tariffs Imposed on Additional Goods",
                 "risk_level": "High",
-                "summary": "Mass protests have broken out in major cities worldwide, amidst growing unrest and social unrest."
+                "summary": "Increased tariffs on US-China trade escalates tensions, impacting global supply chains and markets."
             },
             {
-                "title": "Major Global Financial Institution Experiences Data Breach",
-                "risk_level": "Medium",
-                "summary": "A major global financial institution has reported a significant data breach, potentially affecting millions of customers."
+                "title": "Cybersecurity Threats Rise as Global Hackers Target Sensitive Data",
+                "risk_level": "High",
+                "summary": "Global hackers target sensitive data, compromising cybersecurity and increasing risk of data breaches."
             }
         ],
         "United States": [
             {
-                "title": "FBI Director Testifies Before Senate Intelligence Committee on Domestic Terrorism",
-                "risk_level": "High",
-                "summary": "FBI Director Christopher Wray testified before the Senate Intelligence Committee on the threat posed by domestic terrorism, acknowledging the growing concern and discussing efforts to combat it."
-            },
-            {
-                "title": "US Senate Votes to Hold Mark Meadows in Contempt for Jan 6 Committee",
-                "risk_level": "High",
-                "summary": "The US Senate voted 8-0 to hold former White House Chief of Staff Mark Meadows in contempt for refusing to comply with the House Select Committee's subpoena on January 6-related documents."
-            },
-            {
-                "title": "Texas Abortion Lawsuits Against Biden Admin. Reopened",
+                "title": "US Border Patrol Agents Detain Migrant at Gunpoint in Texas",
                 "risk_level": "Medium",
-                "summary": "Texas has reopened lawsuits against the Biden administration over its efforts to block a state ban on most abortions."
+                "summary": "Border patrol agents in Texas have been accused of holding migrants at gunpoint and detaining them, sparking controversy and raising fears about the treatment of migrants."
+            },
+            {
+                "title": "FBI Raids Trump Properties, Including Mar-a-Lago, in Investigation",
+                "risk_level": "High",
+                "summary": "The FBI has raided properties owned by former US President Donald Trump, including Mar-a-Lago, in an investigation related to the handling of classified documents."
+            },
+            {
+                "title": "Heatwave in West and Southwest US Worsens as Temperatures Soar",
+                "risk_level": "Low",
+                "summary": "A severe heatwave in the Western and Southwestern United States has caused temperatures to soar, prompting warnings about heat-related illnesses and power outages."
             }
         ],
         "South Korea": [
             {
-                "title": "Protests and clashes at the Gwanghwamun square in South Korea's capital Seoul",
-                "risk_level": "Medium",
-                "summary": "Police in South Korea clashed with protesters on August 10, 2024, marking the fourth consecutive night of anti-government demonstrations in Seoul's Gwanghwamun square."
-            },
-            {
-                "title": "Possible threat of North Korea's nuclear tests",
+                "title": "North Korea launches missile over Japan",
                 "risk_level": "High",
-                "summary": "There have been multiple reports of North Korea preparing for a nuclear test, a move that would likely increase tensions with South Korea and its allies."
+                "summary": "On August 4, 2023, North Korea launched a missile over Japan, sparking widespread alarm and condemnation."
             },
             {
-                "title": "Concerns over South Korea's privacy policies",
+                "title": "Protests erupt in South Korea over labor laws",
+                "risk_level": "Medium",
+                "summary": "On August 7, 2023, thousands of South Koreans took to the streets to protest against proposed labor law changes, leading to clashes with police."
+            },
+            {
+                "title": "US-South Korea military exercises resume",
                 "risk_level": "Low",
-                "summary": "The South Korean government has faced criticism over its proposed new privacy policies, with many fearing that they could compromise citizens' data."
+                "summary": "On August 10, 2023, the United States and South Korea resumed their annual military exercises, which were suspended due to COVID-19."
             }
         ],
         "Japan": [
             {
-                "title": "Typhoon Nanmadol brings strong winds and heavy rain to Japan",
-                "risk_level": "High",
-                "summary": "A powerful typhoon has brought strong winds and heavy rain to Japan, causing widespread disruption and damage."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "No recent security, political or social risks reported in Japan."
             },
             {
-                "title": "Japan's LDP election result sparks concerns about governance",
-                "risk_level": "Medium",
-                "summary": "The results of the ruling Liberal Democratic Party's (LDP) internal election have sparked concerns about the party's leadership and governance."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             },
             {
-                "title": "Tokyo confirms 1,000 new Covid-19 cases in past 24 hours",
-                "risk_level": "Medium",
-                "summary": "Tokyo has confirmed over 1,000 new Covid-19 cases in the past 24 hours, raising concerns about the spread of the virus."
+                "title": "",
+                "risk_level": "",
+                "summary": ""
             }
         ]
     }
