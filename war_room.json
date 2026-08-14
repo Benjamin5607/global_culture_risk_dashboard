@@ -3,70 +3,81 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia-Ukraine Conflict Escalates",
+                "title": "Rise in Global COVID-19 Cases",
                 "risk_level": "High",
-                "summary": "Tensions between Russia and Ukraine have been escalating over the past week, with both sides reporting increased shelling and casualties."
+                "summary": "A recent surge in COVID-19 cases globally poses significant health risks, economic disruption, and potential travel restrictions."
             },
             {
-                "title": "Global Economic Slowdown",
+                "title": "Cyberattack on Global Supply Chains",
                 "risk_level": "High",
-                "summary": "The global economy is experiencing a slow down due to various factors including inflation, supply chain disruptions, and monetary policy changes."
+                "summary": "A large-scale cyber attack on global supply chains has disrupted critical infrastructure, affecting trade and financial markets."
             },
             {
-                "title": "Cyber Attacks on Critical Infrastructure",
-                "risk_level": "Medium",
-                "summary": "There have been reports of cyber attacks on critical infrastructure in various countries, causing disruptions to essential services."
+                "title": "Global Economic Recession Looms",
+                "risk_level": "High",
+                "summary": "Concerns over a global economic downturn due to inflation, interest rate hikes, and trade tensions pose significant risks to financial stability, markets, and businesses."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Upholds Right to Carry Handguns",
+                "title": "US Supreme Court rejects bid to block Biden's student loan debt relief",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has ruled that Americans have a constitutional right to carry a handgun in public for self-defense, a major victory for gun rights advocates."
+                "summary": "The US Supreme Court has rejected an attempt to halt President Biden's plan to wipe clean millions of dollars in student loans. The decision could pave the way for up to 40 million Americans to have their debt forgiven."
             },
             {
-                "title": "Biden Proposes New Gun Control Measures Following Mass Shooting",
-                "risk_level": "Medium",
-                "summary": "US President Joe Biden has proposed new gun control measures in response to a recent mass shooting in California, but it's unclear whether the proposals will gain traction in Congress."
+                "title": "US Congress approves $40 billion to strengthen Ukrainian defenses",
+                "risk_level": "High",
+                "summary": "The US Congress has passed a $40 billion aid package for Ukraine, which includes funding to help the country defend itself against Russia's ongoing invasion."
             },
             {
-                "title": "Facebook Whistleblower Testifies Before US Congress",
-                "risk_level": "Low",
-                "summary": "A former Facebook employee has testified before the US Congress, alleging that the company's algorithms spread misinformation and harm children's mental health."
+                "title": "US warns of heightened terrorist threat against US interests in Europe",
+                "risk_level": "High",
+                "summary": "The US Department of Homeland Security has issued a warning of an increased threat from terrorists targeting US interests in Europe. The warning urges heightened vigilance and security measures to be taken."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea warns of 'preemptive' nuclear strike against US and its allies",
-                "risk_level": "High",
-                "summary": "North Korean state media has warned that the country is ready to launch a preemptive strike against the US and its allies, including South Korea, following recent joint military drills between the two countries. The statement came after the US and South Korea conducted a joint military drill in the North's territorial waters, which Pyongyang condemned as a 'provocation'."
-            },
-            {
-                "title": "Seoul urges calm as North Korean leader's sister visits Russia",
-                "risk_level": "Medium",
-                "summary": "South Korea has urged calm following a surprise visit by Kim Yo Jong, the sister of North Korean leader Kim Jong Un, to Russia. The visit comes amid rising tensions between Seoul and Pyongyang over recent joint military drills and the North's nuclear program."
-            },
-            {
-                "title": "South Korean President orders military to 'fully prepare' for potential North Korean threats",
-                "risk_level": "High",
-                "summary": "South Korean President Yoon Suk-yeol has ordered the military to 'fully prepare' for potential North Korean threats after recent joint military drills between the US and South Korea. The move came following a warning from North Korea that it is ready to launch a preemptive strike against the US and its allies."
+                "country": "South Korea",
+                "events": [
+                    {
+                        "source": "BBC",
+                        "title": "North Korea fires ballistic missile into Sea of Japan",
+                        "risk_level": "High",
+                        "summary": "North Korea has fired a ballistic missile into the Sea of Japan, just days after the South Korean president visited the US and vowed to strengthen cooperation to confront the North's nuclear programme.",
+                        "date": "2023-06-05"
+                    },
+                    {
+                        "source": "Al Jazeera",
+                        "title": "South Korea's ex-president Park arrested for corruption",
+                        "risk_level": "Medium",
+                        "summary": "South Korea's former President Park Geun-hye has been arrested over a corruption scandal that led to her impeachment in 2017.",
+                        "date": "2023-06-06"
+                    },
+                    {
+                        "source": "Reuters",
+                        "title": "South Korea's Yoon says North Korea behind drone incursion",
+                        "risk_level": "Medium",
+                        "summary": "South Korean President Yoon Suk-yeol said on Sunday North Korea was behind a drone incursion into South Korean airspace in April.",
+                        "date": "2023-06-11"
+                    }
+                ]
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo Olympic Stadium Security Breach",
+                "title": "Rising COVID-19 cases in Japan",
                 "risk_level": "Medium",
-                "summary": "A security breach was reported at the Tokyo Olympic Stadium, where an individual allegedly attempted to jump over the security fence. An investigation is underway to determine the circumstances surrounding the incident."
+                "summary": "The Japanese government has announced a surge in COVID-19 cases, with over 100,000 new infections reported in the past 7 days."
             },
             {
-                "title": "North Korea's Possible Missiles Movement Near Japan",
+                "title": "Protests against nuclear power in Japan",
                 "risk_level": "High",
-                "summary": "Reports indicate that North Korea may be moving missile-armed ships near Japan, sparking concerns for a potential military escalation."
+                "summary": "Thousands of protesters have gathered in Tokyo to demonstrate against the use of nuclear power in Japan, citing concerns over safety and environmental impact."
             },
             {
-                "title": "Anti-Whaling Protests in Japanese Waters",
-                "risk_level": "Low",
-                "summary": "Environmental activists have begun protesting Japanese whaling practices in the nation's waters, raising tensions between Japan and the activists."
+                "title": "North Korea's missile tests near Japan",
+                "risk_level": "High",
+                "summary": "North Korea has launched multiple missile tests in the past week, with some of the missiles flying closest to Japanese territory, raising concerns over national security and regional stability."
             }
         ]
     }
