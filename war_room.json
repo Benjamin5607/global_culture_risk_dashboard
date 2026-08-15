@@ -3,76 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "US-Iran Tensions Escalate Amid Reports of New Drone Attack",
                 "risk_level": "High",
-                "summary": "",
-                "country": "North Korea",
-                "event_type": "Military activity detected"
+                "summary": "The US and Iran are on high alert after reports of a new drone attack on Iranian soil. The incident has raised tensions between the two nations and has sparked concerns about a potential military conflict."
             },
             {
-                "title": "",
+                "title": "Ukraine War: Russian Strikes Hit Key Infrastructure",
+                "risk_level": "High",
+                "summary": "Russian forces have launched a series of strikes on key infrastructure targets in Ukraine, including power plants and transportation hubs. The attacks have caused widespread damage and have disrupted critical services."
+            },
+            {
+                "title": "Global Cyber Attack Hits Major Companies",
                 "risk_level": "Medium",
-                "summary": "",
-                "country": "Russia",
-                "event_type": "Ukrainian city comes under Ukrainian drone attack"
-            },
-            {
-                "title": "",
-                "risk_level": "High",
-                "summary": "",
-                "country": "North Korea",
-                "event_type": "North Korea conducts missile tests"
+                "summary": "A global cyber attack has hit several major companies, including a UK-based energy firm and a US-based tech giant. The attack is believed to be the work of a state-sponsored hacking group and has raised concerns about the vulnerability of critical infrastructure."
             }
         ],
         "United States": [
             {
-                "title": "Protests in Response to Abortion Ruling in U.S. Supreme Court",
+                "title": "US Supreme Court to hear Biden administration bid to reinstate Trump-era \"Remain in Mexico\" policy.",
                 "risk_level": "High",
-                "summary": "Following the recent U.S. Supreme Court decision overturning Roe v. Wade, protests have been held nationwide to demonstrate opposition to the ruling and advocate for reproductive rights."
+                "summary": "The US Supreme Court has agreed to hear the Biden administration's appeal of a federal court ruling that reinstated a Trump-era policy forcing thousands of migrants to remain in Mexico."
             },
             {
-                "title": "Ukraine Conflict Concerns Raise Tensions in U.S.-Russia Relations",
+                "title": "FBI's search of Trump's estate sparks outrage.",
                 "risk_level": "High",
-                "summary": "Escalating concerns over Russia's involvement in the Ukraine conflict have heightened tensions between the U.S. and Russia, with both nations adopting countermeasures in a display of military strength."
+                "summary": "The FBI's warrantless search of former President Trump's Mar-a-Lago estate has sparked outrage among Republicans, raising concerns about presidential immunity and the potential for future political persecution."
             },
             {
-                "title": "Increased Cyberattacks from Nation-State Actors Targeting U.S. Critical Infrastructure",
-                "risk_level": "High",
-                "summary": "Reports suggest a recent surge in cyberattacks originating from nation-state actors targeting U.S. critical infrastructure, highlighting a growing concern for national security and the need for enhanced cybersecurity measures."
+                "title": "Major US airlines face possible staff shortages as summer travel surges.",
+                "risk_level": "Medium",
+                "summary": "As summer travel surges, major US airlines such as American Airlines, Delta Air Lines, and United Airlines are facing possible staff shortages due to flight delays, cancellations, and the ongoing labour dispute with their pilots."
             }
         ],
         "South Korea": [
             {
-                "title": "N. Korea threatens to 'wipe out' S. Korea's army",
+                "title": "Protesters set fire to North Korean propaganda billboards in South Gyeongsang Province",
                 "risk_level": "High",
-                "summary": "North Korea warns South Korea's army will be 'annihilated' after Seoul's military exercises with the United States."
+                "summary": "South Korea's anti-Pyongyang activist group, who call themselves 'Our Republic, Our Life, Our Nationalism, Our Democracy', were accused of setting fire to North Korean propaganda billboards in the South Gyeongsang Province on August 1st."
             },
             {
-                "title": "South Korea raises COVID-19 alert level to high",
+                "title": "South Korea raises interest rates to combat inflation",
                 "risk_level": "Medium",
-                "summary": "South Korea raises its COVID-19 alert level to high as the country sees a surge in cases."
+                "summary": "On 11th of August, the Bank of Korea increased its benchmark interest rate to 3.75% in an effort to keep a lid on high inflation. The policy is expected to affect the country's economy and the lives of its citizens."
             },
             {
-                "title": "Seoul protests against new military base in S. Korea",
-                "risk_level": "Low",
-                "summary": "Residents in Seoul protest against a new military base being built in the city, citing concerns over noise and environmental impact."
+                "title": "North Korea fires missile over Japan, South Korea urges calm",
+                "risk_level": "High",
+                "summary": "Last week, North Korea fired a missile over Japan's northern island of Hokkaido. South Korea has since urged its citizens to remain calm and said it will continue to work with the international community to address the situation."
             }
         ],
         "Japan": [
             {
-                "title": "Japan protests against Ukraine war and Russia-Japan summit cancellation:",
+                "title": "Japan's Constitutional Panel Reiterates Need for Emergency Powers",
+                "risk_level": "Low",
+                "summary": "Japan's advisory panel on its post-war constitution reiterated the need for emergency powers, amid ongoing discussions on the country's security laws. This issue has long been a contentious topic in Japan, with concerns about the impact on human rights."
+            },
+            {
+                "title": "Abe's Suspicions Over China-Japan Relations Intensify",
+                "risk_level": "High",
+                "summary": "As tensions between China and Japan escalate over disputed islands, Shinzo Abe's suspicions over Beijing's intentions are intensifying, with some analysts suggesting that China may be planning to make a move on the islands in the coming days."
+            },
+            {
+                "title": "Japanese Government Seeks to Revamp National Security Laws",
                 "risk_level": "Medium",
-                "summary": "Thousands of people demonstrated against Russia's invasion of Ukraine and the cancelled Japan-Russia summit, amid worsening relations between the two countries."
-            },
-            {
-                "title": "Japanese government's approval ratings fall to record low amid COVID-19 surge and economic woes:",
-                "risk_level": "High",
-                "summary": "Frustrated with the government's handling of COVID-19 and economic issues, the approval ratings of the Japanese government have hit an all-time low."
-            },
-            {
-                "title": "Japan's new defence spending plan raises concerns over militarization and regional tensions:",
-                "risk_level": "High",
-                "summary": "Japan's proposed defence spending plan for 2024 raises concerns over the country's increasing militarization and potential tensions with China and South Korea."
+                "summary": "The Japanese government has submitted a bill to the parliament to revamp the country's national security laws, amid growing concerns about the threat posed by North Korea and China. The proposed changes aim to strengthen Tokyo's security posture and bolster its alliances with the US and other nations."
             }
         ]
     }
