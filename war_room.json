@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Cyber Attack on Global Supply Chain",
+                "title": "China's Economic Slowdown Affects Global Trade",
                 "risk_level": "High",
-                "summary": "A global supply chain cyber attack has been reported, affecting multiple industries and countries, resulting in significant disruptions to trade and commerce."
+                "summary": "China's economic slowdown has a ripple effect on the global economy, affecting trade and market stability."
             },
             {
-                "title": "Climate Change Protests Spread Globally",
+                "title": "Ukraine Conflict Escalation",
                 "risk_level": "High",
-                "summary": "Climate change protests have been reported in multiple countries across the globe, with thousands of people taking to the streets to demand action on climate change."
+                "summary": "The ongoing conflict between Ukraine and Russia escalates, posing concerns for global security and energy stability."
             },
             {
-                "title": "Global Health Alert Issued Due to New Virus Outbreak",
-                "risk_level": "High",
-                "summary": "A new virus outbreak has been reported in multiple countries, prompting a global health alert and calls for increased precautions and vaccination efforts."
+                "title": "Global Inflation Rates Surge",
+                "risk_level": "Medium",
+                "summary": "Inflation rates rise globally, affecting consumer spending and business operations, with potential economic instability."
             }
         ],
         "United States": [
             {
-                "title": "FBI Search of Trump's Mar-a-Lago Home Sparks Fears of Political Persecution",
+                "title": "U.S. Officials Warn of Possible Russian Cyberattacks Ahead of Midterm Elections: Reports",
                 "risk_level": "High",
-                "summary": "The FBI search of Donald Trump's Mar-a-Lago home has sparked fears of political persecution and raised concerns about the use of executive power."
+                "summary": "U.S. officials warn Russia may conduct cyber operations ahead of the midterm elections in the country."
             },
             {
-                "title": "Gun Violence Continues to Plague the US",
+                "title": "US, China to hold military talks amid South China Sea tensions",
+                "risk_level": "High",
+                "summary": "The U.S. and China will hold military talks this week amid rising tensions in the South China Sea."
+            },
+            {
+                "title": "FBI Investigates Vandalism at Black Churches in US",
                 "risk_level": "Medium",
-                "summary": "A series of mass shootings in the US has left multiple people dead and injured, highlighting the ongoing issue of gun violence in the country."
-            },
-            {
-                "title": "Climate Change Protests Escalate as Heatwaves Sweep the Country",
-                "risk_level": "High",
-                "summary": "Protests against climate change are escalating across the US as heatwaves sweep the country, highlighting the urgent need for action on the issue."
+                "summary": "The FBI is investigating a string of vandalism at Black churches in the US, which authorities say is a hate crime."
             }
         ],
         "South Korea": [
             {
-                "title": "",
+                "title": "North Korea fires ballistic missile, South Korea and US hold joint drills",
                 "risk_level": "High",
-                "summary": "North Korea fired an unidentified projectile into the sea"
+                "summary": "South Korea and the US have launched joint military drills in response to North Korea's recent missile tests. The drills, which involve air, land, and sea exercises, were conducted in the South-west of the peninsula. North Korea's leader Kim Jong Un has threatened to take 'corresponding actions' in response to the drills."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "South Korea reports record-high number of COVID-19 cases for fourth day"
-            },
-            {
-                "title": "",
+                "title": "South Korean President Yoon Suk-yeol meets with NATO chief in Seoul",
                 "risk_level": "Medium",
-                "summary": "Seoul warns of North Korea’s possible fourth missile test in a week"
+                "summary": "South Korean President Yoon Suk-yeol has met with NATO chief Jens Stoltenberg in Seoul. The meeting is part of a broader effort to strengthen bilateral ties between South Korea and NATO, with the two sides discussing cooperation on defense and security issues."
+            },
+            {
+                "title": "Protesters in Seoul clash with police over anti-pension reform",
+                "risk_level": "Low",
+                "summary": "Protesters in Seoul have clashed with police over government plans to reform the pension system. The protesters, who are opposed to the proposed reforms, have blocked roads and burned rubbish in the streets. The government has vowed to push through the reforms, despite opposition from workers and pensioners."
             }
         ],
         "Japan": [
             {
-                "title": "Japan to Increase Military Presence in South China Sea Amid Rising Tensions",
-                "risk_level": "Medium",
-                "summary": "Japan's Prime Minister Fumio Kishida has announced plans to increase the country's military presence in the South China Sea, a move that has raised concerns about rising tensions between Japan and China."
-            },
-            {
-                "title": "Japan's Economy Contracts for Second Consecutive Quarter Amid Global Slowdown",
-                "risk_level": "Low",
-                "summary": "Japan's economy has contracted for the second consecutive quarter, a sign of the country's vulnerability to global economic trends."
-            },
-            {
-                "title": "Japan's Government Approves Record-Breaking Defense Budget Amid Regional Tensions",
+                "title": "Japan's Ransomware Attack Exposes Over 6,000 People's Personal Data",
                 "risk_level": "High",
-                "summary": "Japan's government has approved a record-breaking defense budget, a move that comes amid rising tensions in the region and increasing concerns about North Korea's military ambitions."
+                "summary": "A ransomware attack on a Japanese company has exposed personal data of over 6,000 individuals, sparking concerns about cybersecurity in Japan."
+            },
+            {
+                "title": "Tokyo Sees Rise in COVID-19 Cases Amid New Omicron Subvariant",
+                "risk_level": "Medium",
+                "summary": "Tokyo has reported a significant increase in COVID-19 cases due to the spread of a new Omicron subvariant, prompting concerns about a potential new wave of infections."
+            },
+            {
+                "title": "Anti-Nuclear Protesters Clash with Police in Tokyo",
+                "risk_level": "High",
+                "summary": "Anti-nuclear protesters clashed with police in Tokyo, highlighting the ongoing debate about Japan's energy policy and the role of nuclear power"
             }
         ]
     }
