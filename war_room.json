@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-Iran Tensions Escalate Amid Reports of New Drone Attack",
+                "title": "Russia-Ukraine Conflict Escalation",
                 "risk_level": "High",
-                "summary": "The US and Iran are on high alert after reports of a new drone attack on Iranian soil. The incident has raised tensions between the two nations and has sparked concerns about a potential military conflict."
+                "summary": "Increased tensions between Russia and Ukraine have led to a significant escalation in violence, posing a high risk to regional stability and global security."
             },
             {
-                "title": "Ukraine War: Russian Strikes Hit Key Infrastructure",
-                "risk_level": "High",
-                "summary": "Russian forces have launched a series of strikes on key infrastructure targets in Ukraine, including power plants and transportation hubs. The attacks have caused widespread damage and have disrupted critical services."
-            },
-            {
-                "title": "Global Cyber Attack Hits Major Companies",
+                "title": "COVID-19 Pandemic Updates",
                 "risk_level": "Medium",
-                "summary": "A global cyber attack has hit several major companies, including a UK-based energy firm and a US-based tech giant. The attack is believed to be the work of a state-sponsored hacking group and has raised concerns about the vulnerability of critical infrastructure."
+                "summary": "The ongoing COVID-19 pandemic continues to pose a medium risk to global health, economics, and social stability, with new variants and outbreaks causing concern."
+            },
+            {
+                "title": "Global Economic Uncertainty",
+                "risk_level": "Low",
+                "summary": "The current economic situation remains uncertain due to factors such as inflation, interest rates, and trade policies, posing a low but still present risk to global economic stability."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court to hear Biden administration bid to reinstate Trump-era \"Remain in Mexico\" policy.",
+                "title": "US Supreme Court Declines to Block Michigan Abortion Ban",
                 "risk_level": "High",
-                "summary": "The US Supreme Court has agreed to hear the Biden administration's appeal of a federal court ruling that reinstated a Trump-era policy forcing thousands of migrants to remain in Mexico."
+                "summary": "The US Supreme Court declines to block Michigan's 1931 abortion ban, sparking a national debate over reproductive rights."
             },
             {
-                "title": "FBI's search of Trump's estate sparks outrage.",
-                "risk_level": "High",
-                "summary": "The FBI's warrantless search of former President Trump's Mar-a-Lago estate has sparked outrage among Republicans, raising concerns about presidential immunity and the potential for future political persecution."
+                "title": "US Officials Condemn Iran's Cyberattack on US Federal Agencies",
+                "risk_level": "Critical",
+                "summary": "US officials condemn a cyberattack on US federal agencies by Iran, highlighting growing tensions between the two countries."
             },
             {
-                "title": "Major US airlines face possible staff shortages as summer travel surges.",
-                "risk_level": "Medium",
-                "summary": "As summer travel surges, major US airlines such as American Airlines, Delta Air Lines, and United Airlines are facing possible staff shortages due to flight delays, cancellations, and the ongoing labour dispute with their pilots."
+                "title": "US House Committee Approves Four Articles of Impeachment Against Trump",
+                "risk_level": "Critical",
+                "summary": "The US House Committee on Judiciary approves four articles of impeachment against former President Donald Trump, marking a significant step towards impeachment."
             }
         ],
         "South Korea": [
             {
-                "title": "Protesters set fire to North Korean propaganda billboards in South Gyeongsang Province",
-                "risk_level": "High",
-                "summary": "South Korea's anti-Pyongyang activist group, who call themselves 'Our Republic, Our Life, Our Nationalism, Our Democracy', were accused of setting fire to North Korean propaganda billboards in the South Gyeongsang Province on August 1st."
+                "title": "South Korea Reports 5,400 COVID-19 Cases Over Past Week: KDCA",
+                "risk_level": "Low",
+                "summary": "According to the Korea Disease Control and Prevention Agency (KDCA), there were 5,400 new COVID-19 cases in South Korea over the past week, raising concerns about a potential surge in infections."
             },
             {
-                "title": "South Korea raises interest rates to combat inflation",
+                "title": "South Korea Faces Uncertainty Amid North Korea's Nuclear Threats",
+                "risk_level": "High",
+                "summary": "South Korea remains on high alert as North Korea's recent nuclear tests and missile launches have heightened tensions in the region. The international community is urging calm while awaiting a response from North Korea's leader to a recent US overture."
+            },
+            {
+                "title": "South Korea's Yoon Warns of 'Critical Moment' Amid North Korea Tensions",
                 "risk_level": "Medium",
-                "summary": "On 11th of August, the Bank of Korea increased its benchmark interest rate to 3.75% in an effort to keep a lid on high inflation. The policy is expected to affect the country's economy and the lives of its citizens."
-            },
-            {
-                "title": "North Korea fires missile over Japan, South Korea urges calm",
-                "risk_level": "High",
-                "summary": "Last week, North Korea fired a missile over Japan's northern island of Hokkaido. South Korea has since urged its citizens to remain calm and said it will continue to work with the international community to address the situation."
+                "summary": "South Korean President Yoon Suk-yeol has warned that the country is facing a critical moment in its relationship with North Korea amid rising tensions following a recent flurry of missile tests."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Constitutional Panel Reiterates Need for Emergency Powers",
-                "risk_level": "Low",
-                "summary": "Japan's advisory panel on its post-war constitution reiterated the need for emergency powers, amid ongoing discussions on the country's security laws. This issue has long been a contentious topic in Japan, with concerns about the impact on human rights."
-            },
-            {
-                "title": "Abe's Suspicions Over China-Japan Relations Intensify",
+                "title": "Multiple wildfires in Hokkaido, sparking evacuation warnings",
                 "risk_level": "High",
-                "summary": "As tensions between China and Japan escalate over disputed islands, Shinzo Abe's suspicions over Beijing's intentions are intensifying, with some analysts suggesting that China may be planning to make a move on the islands in the coming days."
+                "summary": "A heatwave has brought extreme temperatures to Hokkaido, fueling multiple wildfires that have threatened populated areas."
             },
             {
-                "title": "Japanese Government Seeks to Revamp National Security Laws",
+                "title": "Tokyo's COVID cases surge, prompting local gov'ts to step up measures",
                 "risk_level": "Medium",
-                "summary": "The Japanese government has submitted a bill to the parliament to revamp the country's national security laws, amid growing concerns about the threat posed by North Korea and China. The proposed changes aim to strengthen Tokyo's security posture and bolster its alliances with the US and other nations."
+                "summary": "Recent COVID outbreaks in Tokyo have led local authorities to implement stricter measures, including mask mandates and increased testing."
+            },
+            {
+                "title": "Japanese citizens protest govt. plans to revise pension system",
+                "risk_level": "Medium",
+                "summary": "Demonstrations took place across Japan, as citizens expressed opposition to the government's proposed changes to the pension system."
             }
         ]
     }
