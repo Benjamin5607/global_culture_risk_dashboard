@@ -3,70 +3,73 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "China's Economic Slowdown Affects Global Trade",
+                "title": "",
                 "risk_level": "High",
-                "summary": "China's economic slowdown has a ripple effect on the global economy, affecting trade and market stability."
+                "summary": "",
+                "source": "North Korea nuclear test sparks global concern and sanctions fear"
             },
             {
-                "title": "Ukraine Conflict Escalation",
-                "risk_level": "High",
-                "summary": "The ongoing conflict between Ukraine and Russia escalates, posing concerns for global security and energy stability."
-            },
-            {
-                "title": "Global Inflation Rates Surge",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Inflation rates rise globally, affecting consumer spending and business operations, with potential economic instability."
+                "summary": "",
+                "source": "China-U.S. trade tensions escalate over tariffs and subsidies"
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "",
+                "source": "European Union agrees to strengthen cyber defense against Russian hacking threats"
             }
         ],
         "United States": [
             {
-                "title": "U.S. Officials Warn of Possible Russian Cyberattacks Ahead of Midterm Elections: Reports",
+                "title": "US Supreme Court Allows Trump Evidentiary Rulings to Stay in Place",
                 "risk_level": "High",
-                "summary": "U.S. officials warn Russia may conduct cyber operations ahead of the midterm elections in the country."
+                "summary": "The US Supreme Court ruled that several of former President Donald Trump's evidentiary rulings can stay in place, dealing a blow to Democrats and adding to tensions over the investigation into his handling of classified documents."
             },
             {
-                "title": "US, China to hold military talks amid South China Sea tensions",
+                "title": "House Jan. 6 Panel Subpoenas Trump, Raising Risks of Indictment",
                 "risk_level": "High",
-                "summary": "The U.S. and China will hold military talks this week amid rising tensions in the South China Sea."
+                "summary": "The US House select committee investigating the Jan. 6, 2021, attack on the Capitol issued a subpoena to former President Donald Trump, raising the risk of his indictment and further intensifying tensions over the Trump investigations."
             },
             {
-                "title": "FBI Investigates Vandalism at Black Churches in US",
-                "risk_level": "Medium",
-                "summary": "The FBI is investigating a string of vandalism at Black churches in the US, which authorities say is a hate crime."
+                "title": "California Officials Warn of Potential Nationwide Rail Strike",
+                "risk_level": "High",
+                "summary": "California officials warned of the potential for a nationwide rail strike that could disrupt transportation across the country as negotiations between rail unions and rail management broke down."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires ballistic missile, South Korea and US hold joint drills",
+                "title": "Tensions rise on the Korean Peninsula as North Korea conducts a series of missile tests",
                 "risk_level": "High",
-                "summary": "South Korea and the US have launched joint military drills in response to North Korea's recent missile tests. The drills, which involve air, land, and sea exercises, were conducted in the South-west of the peninsula. North Korea's leader Kim Jong Un has threatened to take 'corresponding actions' in response to the drills."
+                "summary": "North Korea has conducted a series of missile tests, sparking concerns about its nuclear capabilities and the potential for conflict on the Korean Peninsula."
             },
             {
-                "title": "South Korean President Yoon Suk-yeol meets with NATO chief in Seoul",
+                "title": "Protests erupt in South Korea over plans to redevelop a historic park",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol has met with NATO chief Jens Stoltenberg in Seoul. The meeting is part of a broader effort to strengthen bilateral ties between South Korea and NATO, with the two sides discussing cooperation on defense and security issues."
+                "summary": "Thousands of people have taken to the streets in South Korea to protest plans to redevelop a historic park, raising concerns about the government's handling of sensitive cultural issues."
             },
             {
-                "title": "Protesters in Seoul clash with police over anti-pension reform",
+                "title": "South Korea's parliament passes a contentious bill on labor reform",
                 "risk_level": "Low",
-                "summary": "Protesters in Seoul have clashed with police over government plans to reform the pension system. The protesters, who are opposed to the proposed reforms, have blocked roads and burned rubbish in the streets. The government has vowed to push through the reforms, despite opposition from workers and pensioners."
+                "summary": "South Korea's parliament has passed a bill aimed at reforming the country's labor market, but the move has been met with criticism from some unions and opposition groups."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Ransomware Attack Exposes Over 6,000 People's Personal Data",
-                "risk_level": "High",
-                "summary": "A ransomware attack on a Japanese company has exposed personal data of over 6,000 individuals, sparking concerns about cybersecurity in Japan."
-            },
-            {
-                "title": "Tokyo Sees Rise in COVID-19 Cases Amid New Omicron Subvariant",
+                "title": "Tokyo Reports COVID-19 Cluster Amid Japan's Summer Festival Season",
                 "risk_level": "Medium",
-                "summary": "Tokyo has reported a significant increase in COVID-19 cases due to the spread of a new Omicron subvariant, prompting concerns about a potential new wave of infections."
+                "summary": "Tokyo reported a surge in COVID-19 cases, linked to the ongoing Obon festival, raising concerns about the risk of transmission in crowded areas."
             },
             {
-                "title": "Anti-Nuclear Protesters Clash with Police in Tokyo",
+                "title": "Japan, US Reach Basic Agreement on Semiconductor Export Controls",
+                "risk_level": "Low",
+                "summary": "Japan and the US have reached a preliminary agreement to set export controls on semiconductors, which may impact Japan's electronics industry."
+            },
+            {
+                "title": "Typhoon Mawar Threatens Japan as Thousands Evacuated",
                 "risk_level": "High",
-                "summary": "Anti-nuclear protesters clashed with police in Tokyo, highlighting the ongoing debate about Japan's energy policy and the role of nuclear power"
+                "summary": "Typhoon Mawar is intensifying and may make landfall in Japan, prompting evacuation orders for thousands of residents and potential power disruptions."
             }
         ]
     }
