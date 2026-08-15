@@ -6,70 +6,73 @@
                 "title": "",
                 "risk_level": "High",
                 "summary": "",
-                "source": "North Korea nuclear test sparks global concern and sanctions fear"
+                "country": "North Korea",
+                "event_type": "Military activity detected"
             },
             {
                 "title": "",
                 "risk_level": "Medium",
                 "summary": "",
-                "source": "China-U.S. trade tensions escalate over tariffs and subsidies"
+                "country": "Russia",
+                "event_type": "Ukrainian city comes under Ukrainian drone attack"
             },
             {
                 "title": "",
-                "risk_level": "Low",
+                "risk_level": "High",
                 "summary": "",
-                "source": "European Union agrees to strengthen cyber defense against Russian hacking threats"
+                "country": "North Korea",
+                "event_type": "North Korea conducts missile tests"
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Allows Trump Evidentiary Rulings to Stay in Place",
+                "title": "Protests in Response to Abortion Ruling in U.S. Supreme Court",
                 "risk_level": "High",
-                "summary": "The US Supreme Court ruled that several of former President Donald Trump's evidentiary rulings can stay in place, dealing a blow to Democrats and adding to tensions over the investigation into his handling of classified documents."
+                "summary": "Following the recent U.S. Supreme Court decision overturning Roe v. Wade, protests have been held nationwide to demonstrate opposition to the ruling and advocate for reproductive rights."
             },
             {
-                "title": "House Jan. 6 Panel Subpoenas Trump, Raising Risks of Indictment",
+                "title": "Ukraine Conflict Concerns Raise Tensions in U.S.-Russia Relations",
                 "risk_level": "High",
-                "summary": "The US House select committee investigating the Jan. 6, 2021, attack on the Capitol issued a subpoena to former President Donald Trump, raising the risk of his indictment and further intensifying tensions over the Trump investigations."
+                "summary": "Escalating concerns over Russia's involvement in the Ukraine conflict have heightened tensions between the U.S. and Russia, with both nations adopting countermeasures in a display of military strength."
             },
             {
-                "title": "California Officials Warn of Potential Nationwide Rail Strike",
+                "title": "Increased Cyberattacks from Nation-State Actors Targeting U.S. Critical Infrastructure",
                 "risk_level": "High",
-                "summary": "California officials warned of the potential for a nationwide rail strike that could disrupt transportation across the country as negotiations between rail unions and rail management broke down."
+                "summary": "Reports suggest a recent surge in cyberattacks originating from nation-state actors targeting U.S. critical infrastructure, highlighting a growing concern for national security and the need for enhanced cybersecurity measures."
             }
         ],
         "South Korea": [
             {
-                "title": "Tensions rise on the Korean Peninsula as North Korea conducts a series of missile tests",
+                "title": "N. Korea threatens to 'wipe out' S. Korea's army",
                 "risk_level": "High",
-                "summary": "North Korea has conducted a series of missile tests, sparking concerns about its nuclear capabilities and the potential for conflict on the Korean Peninsula."
+                "summary": "North Korea warns South Korea's army will be 'annihilated' after Seoul's military exercises with the United States."
             },
             {
-                "title": "Protests erupt in South Korea over plans to redevelop a historic park",
+                "title": "South Korea raises COVID-19 alert level to high",
                 "risk_level": "Medium",
-                "summary": "Thousands of people have taken to the streets in South Korea to protest plans to redevelop a historic park, raising concerns about the government's handling of sensitive cultural issues."
+                "summary": "South Korea raises its COVID-19 alert level to high as the country sees a surge in cases."
             },
             {
-                "title": "South Korea's parliament passes a contentious bill on labor reform",
+                "title": "Seoul protests against new military base in S. Korea",
                 "risk_level": "Low",
-                "summary": "South Korea's parliament has passed a bill aimed at reforming the country's labor market, but the move has been met with criticism from some unions and opposition groups."
+                "summary": "Residents in Seoul protest against a new military base being built in the city, citing concerns over noise and environmental impact."
             }
         ],
         "Japan": [
             {
-                "title": "Tokyo Reports COVID-19 Cluster Amid Japan's Summer Festival Season",
+                "title": "Japan protests against Ukraine war and Russia-Japan summit cancellation:",
                 "risk_level": "Medium",
-                "summary": "Tokyo reported a surge in COVID-19 cases, linked to the ongoing Obon festival, raising concerns about the risk of transmission in crowded areas."
+                "summary": "Thousands of people demonstrated against Russia's invasion of Ukraine and the cancelled Japan-Russia summit, amid worsening relations between the two countries."
             },
             {
-                "title": "Japan, US Reach Basic Agreement on Semiconductor Export Controls",
-                "risk_level": "Low",
-                "summary": "Japan and the US have reached a preliminary agreement to set export controls on semiconductors, which may impact Japan's electronics industry."
-            },
-            {
-                "title": "Typhoon Mawar Threatens Japan as Thousands Evacuated",
+                "title": "Japanese government's approval ratings fall to record low amid COVID-19 surge and economic woes:",
                 "risk_level": "High",
-                "summary": "Typhoon Mawar is intensifying and may make landfall in Japan, prompting evacuation orders for thousands of residents and potential power disruptions."
+                "summary": "Frustrated with the government's handling of COVID-19 and economic issues, the approval ratings of the Japanese government have hit an all-time low."
+            },
+            {
+                "title": "Japan's new defence spending plan raises concerns over militarization and regional tensions:",
+                "risk_level": "High",
+                "summary": "Japan's proposed defence spending plan for 2024 raises concerns over the country's increasing militarization and potential tensions with China and South Korea."
             }
         ]
     }
