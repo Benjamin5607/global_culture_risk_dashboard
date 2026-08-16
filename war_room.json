@@ -1,72 +1,72 @@
 {
-    "updated": "2026-08-15",
+    "updated": "2026-08-16",
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia-Ukraine Conflict Escalation",
+                "title": "COVID-19: Global Cases and Deaths Surpass 2022 Numbers, WHO Reports",
                 "risk_level": "High",
-                "summary": "Increased tensions between Russia and Ukraine have led to a significant escalation in violence, posing a high risk to regional stability and global security."
+                "summary": "The COVID-19 pandemic has seen cases and deaths exceed last year's figures, according to recent data by the World Health Organization (WHO)."
             },
             {
-                "title": "COVID-19 Pandemic Updates",
-                "risk_level": "Medium",
-                "summary": "The ongoing COVID-19 pandemic continues to pose a medium risk to global health, economics, and social stability, with new variants and outbreaks causing concern."
+                "title": "Global Food Prices Rise Amid Drought and War in Key Producing Countries",
+                "risk_level": "High",
+                "summary": "Food prices have increased globally due to droughts in key-producing countries and ongoing war in Ukraine, raising concerns about food security."
             },
             {
-                "title": "Global Economic Uncertainty",
-                "risk_level": "Low",
-                "summary": "The current economic situation remains uncertain due to factors such as inflation, interest rates, and trade policies, posing a low but still present risk to global economic stability."
+                "title": "Tensions Between the US and China Escalate Over Economic and Security Issues",
+                "risk_level": "High",
+                "summary": "The relationship between the United States and China has deteriorated further, with both sides imposing new sanctions and criticising each other's trade and security policies."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Declines to Block Michigan Abortion Ban",
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Gun control debate continues in the US after Uvalde shooting anniversary, with some states considering new restrictions on gun sales. "
+            },
+            {
+                "title": "",
                 "risk_level": "High",
-                "summary": "The US Supreme Court declines to block Michigan's 1931 abortion ban, sparking a national debate over reproductive rights."
+                "summary": "US Congress considers major changes to Electoral Count Act in response to 2020 election disputes"
             },
             {
-                "title": "US Officials Condemn Iran's Cyberattack on US Federal Agencies",
-                "risk_level": "Critical",
-                "summary": "US officials condemn a cyberattack on US federal agencies by Iran, highlighting growing tensions between the two countries."
-            },
-            {
-                "title": "US House Committee Approves Four Articles of Impeachment Against Trump",
-                "risk_level": "Critical",
-                "summary": "The US House Committee on Judiciary approves four articles of impeachment against former President Donald Trump, marking a significant step towards impeachment."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "US abortion debate continues to heat up after Roe v. Wade reversal, with some states implementing or considering 'trigger laws'"
             }
         ],
         "South Korea": [
             {
-                "title": "South Korea Reports 5,400 COVID-19 Cases Over Past Week: KDCA",
-                "risk_level": "Low",
-                "summary": "According to the Korea Disease Control and Prevention Agency (KDCA), there were 5,400 new COVID-19 cases in South Korea over the past week, raising concerns about a potential surge in infections."
-            },
-            {
-                "title": "South Korea Faces Uncertainty Amid North Korea's Nuclear Threats",
+                "title": "North Korea threatens South Korea over military drill",
                 "risk_level": "High",
-                "summary": "South Korea remains on high alert as North Korea's recent nuclear tests and missile launches have heightened tensions in the region. The international community is urging calm while awaiting a response from North Korea's leader to a recent US overture."
+                "summary": "North Korea has warned South Korea of 'serious consequences' over joint military drills, raising concerns about regional tensions."
             },
             {
-                "title": "South Korea's Yoon Warns of 'Critical Moment' Amid North Korea Tensions",
+                "title": "South Korea reports surge in COVID-19 cases amid Omicron spread",
                 "risk_level": "Medium",
-                "summary": "South Korean President Yoon Suk-yeol has warned that the country is facing a critical moment in its relationship with North Korea amid rising tensions following a recent flurry of missile tests."
+                "summary": "South Korea has seen a significant increase in COVID-19 cases, with the Omicron variant continuing to spread rapidly across the country."
+            },
+            {
+                "title": "South Korean politician resigns over child abuse allegations",
+                "risk_level": "Low",
+                "summary": "A prominent South Korean politician has resigned amid allegations of child abuse, sparking widespread outrage and calls for greater accountability."
             }
         ],
         "Japan": [
             {
-                "title": "Multiple wildfires in Hokkaido, sparking evacuation warnings",
+                "title": "Tokyo Governor Eriko Nakamura Faces Impeachment Proceedings For Corruption Allegations",
                 "risk_level": "High",
-                "summary": "A heatwave has brought extreme temperatures to Hokkaido, fueling multiple wildfires that have threatened populated areas."
+                "summary": "Tokyo Governor Eriko Nakamura is facing impeachment proceedings after being accused of corruption and misusing public funds. The investigation is ongoing, and the decision is expected to have significant implications for the country's politics."
             },
             {
-                "title": "Tokyo's COVID cases surge, prompting local gov'ts to step up measures",
+                "title": "Japan's Consumer Sentiment Hits 52-Year Low Amid Economic Concerns",
                 "risk_level": "Medium",
-                "summary": "Recent COVID outbreaks in Tokyo have led local authorities to implement stricter measures, including mask mandates and increased testing."
+                "summary": "Japan's consumer sentiment has hit a 52-year low, with households citing economic concerns as the primary reason. This development has led to worries about the economic growth of the country and potential impact on the overall economy."
             },
             {
-                "title": "Japanese citizens protest govt. plans to revise pension system",
-                "risk_level": "Medium",
-                "summary": "Demonstrations took place across Japan, as citizens expressed opposition to the government's proposed changes to the pension system."
+                "title": "North Korea Fires Ballistic Missile Over Japan, Raising Tensions",
+                "risk_level": "High",
+                "summary": "North Korea has fired a ballistic missile over Japan, causing widespread panic and concerns about regional security. The incident has raised tensions between the two countries and has implications for the global economy and world politics."
             }
         ]
     }
