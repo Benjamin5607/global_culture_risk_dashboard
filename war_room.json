@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global Economic Uncertainty Amid US-China Tensions",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Recent trade tensions between the US and China have led to global economic uncertainty, with investors and businesses watching closely for any signs of escalation."
+                "summary": ""
             },
             {
-                "title": "Cybersecurity Threats Targeting Critical Infrastructure",
+                "title": "Global supply chain disruptions due to COVID-19 continue to affect economies worldwide",
                 "risk_level": "High",
-                "summary": "Reports of cybersecurity threats targeting critical infrastructure have raised concerns about the potential for widespread disruptions and damage."
+                "summary": "COVID-19 continues to disrupt global supply chains, impacting economies and businesses worldwide."
             },
             {
-                "title": "Social Media Disinformation Spurs Growing Concerns",
-                "risk_level": "Medium",
-                "summary": "The spread of disinformation on social media platforms has become a growing concern, with many experts warning about its potential to influence public opinion and undermine democratic processes."
+                "title": "Cybersecurity threats and data breaches affect businesses and governments",
+                "risk_level": "High",
+                "summary": "Cybersecurity threats and data breaches are a growing concern for businesses and governments, with potential impacts on economies and societies."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court Justice Threatens to Block 2024 Elections Over SCOTUS Security Concerns",
-                "risk_level": "High",
-                "summary": "US Supreme Court Justice, Thomas, has threatened to stop all electoral activities unless the US Congress provides adequate security for the Supreme Court and its justices. This statement comes after recent threats against the justices, sparking controversy and anxiety across the US."
+                "title": "Escalating tensions between US and Russia over Ukraine",
+                "risk_level": "Medium",
+                "summary": "US and Russia have been involved in a heated debate over Ukraine's involvement in the conflict with Russia, with both sides accusing each other of escalating the situation. This tension has raised concerns about a potential conflict between the two countries."
             },
             {
-                "title": "US Federal Reserve Warns of Potential Recession",
+                "title": "Gun violence in US schools remains a pressing concern",
                 "risk_level": "High",
-                "summary": "The US Federal Reserve has warned that there is a rising possibility of a recession in the US. This warning comes as consumer confidence drops and the economy slows, indicating a possible downturn in the near future."
+                "summary": "There have been several incidents of gun violence in US schools in the past week, sparking renewed calls for stricter gun control laws and improved school security measures."
             },
             {
-                "title": "Tennessee School Shooting Leaves 3 Injured, 1 Dead",
-                "risk_level": "High",
-                "summary": "A high school shooting in Tennessee has left 1 student dead and 3 others injured. The incident is still under investigation, but it highlights the ongoing issue of school safety in the US."
+                "title": "Protests against vaccine mandates continue to spread across the US",
+                "risk_level": "Low",
+                "summary": "Protests against vaccine mandates have been taking place across the US, with some demonstrators expressing opposition to mandatory vaccination policies and others calling for more support for those who are unable to receive vaccines."
             }
         ],
         "South Korea": [
             {
-                "title": "N. Korea Conducts ICBM Launch: South Korea Raises Alert Levels",
+                "title": "North Korea conducts missile test amid nuclear talks",
                 "risk_level": "High",
-                "summary": "South Korea raised its military alert levels in response to a reported ICBM launch by North Korea on August 12, 2023. The launch prompted a joint statement from the United Nations Security Council (UNSC) condemning the action."
+                "summary": "North Korea has conducted a test-firing of a ballistic missile, amid ongoing nuclear talks between North Korea and the US. The missile flew about 400 km and reached an altitude of 760 km. The move was widely condemned by South Korea and the US, with the South Korean government calling it an act of great concern and the US saying it was a provocation."
             },
             {
-                "title": "South Korea Reports Spike in Crime Due to Crypto Market Decline",
+                "title": "Protests erupt in South Korea as police crack down on abortion rights advocates",
                 "risk_level": "Medium",
-                "summary": "Following a steep decline in the cryptocurrency market, South Korea has reported a significant increase in cryptocurrency-related crimes, including theft and fraud. The authorities are urging citizens to be cautious and report suspicious activities."
+                "summary": "Protests have broken out in South Korea as police crack down on abortion rights advocates. The police have detained hundreds of protesters, sparking concerns about human rights abuses. The move has sparked widespread outrage, with many calling it an attack on women's rights and autonomy."
             },
             {
-                "title": "Protests Erupt in South Korea Over Labor Reform Bill",
+                "title": "Rising tensions between South Korea and Japan over export restrictions",
                 "risk_level": "High",
-                "summary": "Thousands of protesters took to the streets in South Korea to voice their opposition to a proposed labor reform bill that would increase working hours and reduce job security for young workers. The protests were met with police in riot gear, leading to confrontations and arrests."
+                "summary": "Tensions between South Korea and Japan are rising over export restrictions imposed by Japan. The move is seen as a retaliatory measure against South Korea's decision to sue Japanese firms for forced labor during World War II. The restrictions have sparked concerns about the impact on trade and economic ties between the two countries."
             }
         ],
         "Japan": [
             {
-                "title": "Japan Arrests Three for Alleged Involvement in Anti-Monarchy Group",
-                "risk_level": "Medium",
-                "summary": "Tokyo metropolitan police have arrested three individuals on suspicion of violating the Public Peace Disorder Control Law for their alleged involvement in the Japanese monarchy opposition organization"
-            },
-            {
-                "title": "North Korea Fires Missile Over Japan, Prompting Air Raid Alert",
+                "title": "Japanese PM Fumio Kishida Announces Support for Taiwan Amid Tensions with China",
                 "risk_level": "High",
-                "summary": "A ballistic missile was fired by North Korea into waters off Hokkaido, triggering widespread alerts and a rapid response from the Japanese military."
+                "summary": "Japanese Prime Minister Fumio Kishida has announced his country's support for Taiwan in a meeting with Taiwanese President Tsai Ing-wen, amid growing tensions with China. The move is seen as a key diplomatic shift in East Asia and has significant implications for regional security and stability."
             },
             {
-                "title": "Japan Sees Record Number of New COVID-19 Cases; Hospitalizations Continue to Rise",
-                "risk_level": "Low",
-                "summary": "Japan reported over 200,000 new daily COVID-19 cases, surpassing its pre-pandemic peak."
+                "title": "Japan's FSA Freezes $13 Billion in Cryptocurrency After TerraUSD Crash",
+                "risk_level": "Medium",
+                "summary": "Japan's Financial Services Agency (FSA) has frozen around $13 billion in cryptocurrency assets linked to the collapse of TerraUSD, a digital currency that lost nearly 100% of its value. The move is aimed at preventing further financial instability and protecting investors."
+            },
+            {
+                "title": "Japan's Upper House Approves Bill to Increase Military Spending by 6%",
+                "risk_level": "High",
+                "summary": "Japan's Upper House has approved a bill to increase the country's military spending by 6%, marking a significant shift in Tokyo's defense strategy. The move is seen as a response to China's growing military presence in the region and North Korea's nuclear ambitions."
             }
         ]
     }
