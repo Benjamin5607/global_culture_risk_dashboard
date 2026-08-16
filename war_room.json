@@ -3,70 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Global economic instability sparks protests in major cities",
+                "title": "Global Economic Uncertainty Amid US-China Tensions",
                 "risk_level": "High",
-                "summary": "Riots broke out in several major cities worldwide as people expressed dissatisfaction with the state of the global economy. The protests are expected to continue for the next few days, causing widespread disruption."
+                "summary": "Recent trade tensions between the US and China have led to global economic uncertainty, with investors and businesses watching closely for any signs of escalation."
             },
             {
-                "title": "US-China tensions escalate over Taiwan",
+                "title": "Cybersecurity Threats Targeting Critical Infrastructure",
                 "risk_level": "High",
-                "summary": "The US and China have been engaged in a high-stakes game of diplomatic brinksmanship over Taiwan, with both sides trading increasingly aggressive rhetoric. The situation is highly volatile and could potentially lead to military conflict."
+                "summary": "Reports of cybersecurity threats targeting critical infrastructure have raised concerns about the potential for widespread disruptions and damage."
             },
             {
-                "title": "Climate protests shut down major airports worldwide",
-                "risk_level": "High",
-                "summary": "In a coordinated effort to raise awareness about climate change, protesters have shut down major airports in over 10 countries. The disruptions are causing widespread delays and cancellations, with estimates suggesting up to 100,000 flights may be impacted."
+                "title": "Social Media Disinformation Spurs Growing Concerns",
+                "risk_level": "Medium",
+                "summary": "The spread of disinformation on social media platforms has become a growing concern, with many experts warning about its potential to influence public opinion and undermine democratic processes."
             }
         ],
         "United States": [
             {
-                "title": "Cybersecurity Concerns Rise with Rise of Ransomware Attacks",
+                "title": "US Supreme Court Justice Threatens to Block 2024 Elections Over SCOTUS Security Concerns",
                 "risk_level": "High",
-                "summary": "The United States has recently seen a significant increase in ransomware attacks, with several high-profile victims. The attacks have led to concerns about the country's cybersecurity preparedness and the potential for widespread disruptions."
+                "summary": "US Supreme Court Justice, Thomas, has threatened to stop all electoral activities unless the US Congress provides adequate security for the Supreme Court and its justices. This statement comes after recent threats against the justices, sparking controversy and anxiety across the US."
             },
             {
-                "title": "Gun Control Laws Spark Debate in the US",
-                "risk_level": "Medium",
-                "summary": "The recent passing of gun control laws in the United States has sparked a heated debate about Second Amendment rights and the impact on public safety."
+                "title": "US Federal Reserve Warns of Potential Recession",
+                "risk_level": "High",
+                "summary": "The US Federal Reserve has warned that there is a rising possibility of a recession in the US. This warning comes as consumer confidence drops and the economy slows, indicating a possible downturn in the near future."
             },
             {
-                "title": "Climate Change Protests Erupt in Cities Across the US",
-                "risk_level": "Low",
-                "summary": "As global climate change protests continue, US cities have seen an increase in demonstrations calling for action on climate change."
+                "title": "Tennessee School Shooting Leaves 3 Injured, 1 Dead",
+                "risk_level": "High",
+                "summary": "A high school shooting in Tennessee has left 1 student dead and 3 others injured. The incident is still under investigation, but it highlights the ongoing issue of school safety in the US."
             }
         ],
         "South Korea": [
             {
-                "title": "US, South Korea, Japan hold trilateral talks on security, economy",
-                "risk_level": "Medium",
-                "summary": "The foreign ministers of the United States, South Korea, and Japan held talks in New York, focusing on security and economic cooperation, and agreed to enhance trilateral cooperation. The meeting came amidst concerns over North Korea's growing nuclear capabilities and its potential impact on regional stability."
-            },
-            {
-                "title": "South Korean parliament passes bill on US beef imports",
-                "risk_level": "Medium",
-                "summary": "The South Korean parliament has passed a bill that allows the import of US beef, despite ongoing concerns over mad cow disease. The move is expected to improve relations between Seoul and Washington but may face opposition from farmers and consumers who fear the risks associated with US beef imports."
-            },
-            {
-                "title": "South Korea and the US conduct joint military exercise",
+                "title": "N. Korea Conducts ICBM Launch: South Korea Raises Alert Levels",
                 "risk_level": "High",
-                "summary": "The South Korean and US militaries have conducted a joint exercise in the Yellow Sea, with the aim of strengthening defenses against a potential threat from North Korea. The exercise comes amid heightened tensions on the Korean peninsula, with North Korea conducting a number of missile tests in recent weeks."
+                "summary": "South Korea raised its military alert levels in response to a reported ICBM launch by North Korea on August 12, 2023. The launch prompted a joint statement from the United Nations Security Council (UNSC) condemning the action."
+            },
+            {
+                "title": "South Korea Reports Spike in Crime Due to Crypto Market Decline",
+                "risk_level": "Medium",
+                "summary": "Following a steep decline in the cryptocurrency market, South Korea has reported a significant increase in cryptocurrency-related crimes, including theft and fraud. The authorities are urging citizens to be cautious and report suspicious activities."
+            },
+            {
+                "title": "Protests Erupt in South Korea Over Labor Reform Bill",
+                "risk_level": "High",
+                "summary": "Thousands of protesters took to the streets in South Korea to voice their opposition to a proposed labor reform bill that would increase working hours and reduce job security for young workers. The protests were met with police in riot gear, leading to confrontations and arrests."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's Defence Minister Proposes New Security Law Amid Taiwan Concerns",
-                "risk_level": "High",
-                "summary": "Japan's defence minister, Yasukazu Hamada, proposed a new national security law to counter potential threats from China, citing concerns about Taiwan. The law would give the government more authority to counter 'all domains of security' and allow for greater cooperation with the US. This move has sparked debate about the country's growing reliance on security alliances and its military capabilities."
-            },
-            {
-                "title": "Japan and the US Hold First Joint Naval Drill in 5 Years",
+                "title": "Japan Arrests Three for Alleged Involvement in Anti-Monarchy Group",
                 "risk_level": "Medium",
-                "summary": "Japan and the US have held their first joint naval drill in five years. The drill aimed to demonstrate the strength of their security alliance and show their ability to respond to potential threats from China. However, it comes at a time when tensions between China and Taiwan are rising, and Japan is increasing its military presence in the region."
+                "summary": "Tokyo metropolitan police have arrested three individuals on suspicion of violating the Public Peace Disorder Control Law for their alleged involvement in the Japanese monarchy opposition organization"
             },
             {
-                "title": "New Japan PM Fumio Kishida to Strengthen Security Ties with US, Australia, and India",
+                "title": "North Korea Fires Missile Over Japan, Prompting Air Raid Alert",
                 "risk_level": "High",
-                "summary": "Japan's new Prime Minister, Fumio Kishida, has announced plans to strengthen security ties with key allies, including the US, Australia, and India. This move is a response to growing concerns about China's military expansion and its impact on regional security. Kishida's government aims to deepen cooperation on defence, technology, and economic issues with its partners."
+                "summary": "A ballistic missile was fired by North Korea into waters off Hokkaido, triggering widespread alerts and a rapid response from the Japanese military."
+            },
+            {
+                "title": "Japan Sees Record Number of New COVID-19 Cases; Hospitalizations Continue to Rise",
+                "risk_level": "Low",
+                "summary": "Japan reported over 200,000 new daily COVID-19 cases, surpassing its pre-pandemic peak."
             }
         ]
     }
