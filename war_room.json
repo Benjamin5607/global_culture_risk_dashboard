@@ -3,73 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "Russia warns of military action in Ukraine",
+                "title": "North Korea Conducts Ballistic Missile Test",
                 "risk_level": "High",
-                "summary": "Russia has warned Ukraine of military action if Kyiv does not implement the Minsk agreements."
+                "summary": "Pyongyang tested an ICBM, sparking concerns over regional stability and global security."
             },
             {
-                "title": "COVID-19 restrictions imposed in China",
-                "risk_level": "Medium",
-                "summary": "China has reimposed COVID-19 restrictions amid a surge in cases, affecting millions of people."
+                "title": "US-China Trade Tensions Escalate",
+                "risk_level": "High",
+                "summary": "The ongoing trade war between the two global powers is causing market volatility and uncertainty."
             },
             {
-                "title": "Cyberattack on US government agency",
+                "title": "Ukraine Conflict Intensifies",
                 "risk_level": "High",
-                "summary": "A major US government agency has confirmed a significant cyberattack, compromising sensitive data."
+                "summary": "The conflict between Ukrainian forces and Russian-backed separatists is escalating, posing a risk to regional stability."
             }
         ],
         "United States": [
             {
-                "title": "US and China engage in verbal spat over balloon incident",
+                "title": "Rising Tensions Over US-China Relations",
                 "risk_level": "High",
-                "summary": "An Chinese spy balloon has been shot down by the US military, leading to increased tensions between the two countries."
+                "summary": "The US and China have been experiencing increased tensions regarding trade, technology, and global security, with multiple incidents reported in the past week, including a US Navy destroyer sailing through the Taiwan Strait and a meeting between Chinese and US military leaders to discuss maritime security."
             },
             {
-                "title": "Gun safety bill signed into law by US President",
+                "title": "Mass Shooting in California Leaves Multiple Dead",
                 "risk_level": "Medium",
-                "summary": "The US President has signed a new gun safety bill into law, which aims to stricter background checks and red flag laws."
+                "summary": "A mass shooting in Half Moon Bay, California, resulted in the deaths of several people and multiple injuries, with the suspect reportedly taken into custody."
             },
             {
-                "title": "US Supreme Court strikes down law allowing reproductive rights",
-                "risk_level": "High",
-                "summary": "The US Supreme Court has struck down a law that protected reproductive rights, leading to concerns about access to abortion"
+                "title": "US Immigration Policy Under Fire Amid Border Crisis",
+                "risk_level": "Medium",
+                "summary": "The US-Mexico border has seen a surge in migrant arrivals, leading to tensions between the US and Mexico governments, with criticism of the US immigration policy and calls for reform."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "A North Korean defector died after setting himself on fire near the Demilitarized Zone (DMZ) amid mounting discontent with South Korea's refugee policy.",
-                "date": "2023-12-31"
+                "title": "North Korean Ballistic Missile Launches, South Korea and US Conduct Joint Exercises",
+                "risk_level": "High",
+                "summary": "On August 10, 2023, North Korea launched three ballistic missiles, which South Korea and the US responded to with joint military exercises."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "South Korea's government has ordered all schools to suspend classes due to a rise in the number of students and teachers infected with COVID-19.",
-                "date": "2023-12-27"
-            },
-            {
-                "title": "",
+                "title": "South Korea and Japan Resume Intelligence Sharing",
                 "risk_level": "Medium",
-                "summary": "A group of South Korean activists were arrested for allegedly crossing into North Korea on a boat, sparking concerns about security along the border.",
-                "date": "2024-01-04"
+                "summary": "On August 7, 2023, South Korea and Japan announced the resumption of their intelligence sharing agreement, ending a 14-month feud."
+            },
+            {
+                "title": "South Korean Opposition Leader Charged with Corruption",
+                "risk_level": "Low",
+                "summary": "On August 5, 2023, South Korean opposition leader Lee Jae-myung was charged with corruption in a case involving alleged embezzlement and tax evasion."
             }
         ],
         "Japan": [
             {
-                "title": "Japan's PM Kishida says COVID-19 vaccine passports could be considered for domestic use",
+                "title": "Typhoon Nanmadol brings strong winds to Japan",
                 "risk_level": "Medium",
-                "summary": "Japan's PM Kishida considers introducing COVID-19 vaccine passports for domestic use."
+                "summary": "Typhoon Nanmadol made landfall in Japan on August 9, 2024, causing strong winds and heavy rainfall. The storm has caused power outages, damaged buildings, and flooded roads."
             },
             {
-                "title": "North Korea fires missiles, including ICBM, into Sea of Japan",
+                "title": "Japan's Economy Contracts for 2nd Consecutive Quarter",
                 "risk_level": "High",
-                "summary": "North Korea fires missile into Sea of Japan, drawing condemnation from Japan and South Korea."
+                "summary": "Japan's economy contracted for the second consecutive quarter in Q2 2024, according to a report by the Ministry of Finance. The contraction is attributed to weak domestic demand and supply chain disruptions."
             },
             {
-                "title": "Japan and the US begin joint military exercise in the Pacific",
-                "risk_level": "Low",
-                "summary": "Japan and the US begin joint military exercise in the Pacific Ocean, amid heightened tensions with North Korea."
+                "title": "Protester's deaths raise concerns about Japan’s labor law",
+                "risk_level": "High",
+                "summary": "Two protesters died during a labor dispute at a Japanese factory on August 5, 2024. The incident has raised concerns about Japan's labor law and its impact on workers' rights."
             }
         ]
     }
