@@ -1,72 +1,72 @@
 {
-    "updated": "2026-08-16",
+    "updated": "2026-08-17",
     "scopes": {
         "Global (All)": [
             {
                 "title": "",
                 "risk_level": "High",
-                "summary": ""
+                "summary": "Tensions between the US and China rise over Taiwan relations."
             },
             {
-                "title": "Global supply chain disruptions due to COVID-19 continue to affect economies worldwide",
-                "risk_level": "High",
-                "summary": "COVID-19 continues to disrupt global supply chains, impacting economies and businesses worldwide."
+                "title": "",
+                "risk_level": "Medium",
+                "summary": "Global food prices surge due to drought and war in Ukraine and Russia."
             },
             {
-                "title": "Cybersecurity threats and data breaches affect businesses and governments",
-                "risk_level": "High",
-                "summary": "Cybersecurity threats and data breaches are a growing concern for businesses and governments, with potential impacts on economies and societies."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "Protests erupt in India over new labor laws."
             }
         ],
         "United States": [
             {
-                "title": "Escalating tensions between US and Russia over Ukraine",
-                "risk_level": "Medium",
-                "summary": "US and Russia have been involved in a heated debate over Ukraine's involvement in the conflict with Russia, with both sides accusing each other of escalating the situation. This tension has raised concerns about a potential conflict between the two countries."
-            },
-            {
-                "title": "Gun violence in US schools remains a pressing concern",
+                "title": "US Federal Judge Blocks Biden's Student Loan Forgiveness Plan",
                 "risk_level": "High",
-                "summary": "There have been several incidents of gun violence in US schools in the past week, sparking renewed calls for stricter gun control laws and improved school security measures."
+                "summary": "On Aug 4, a federal judge ruled that President Biden's student loan forgiveness plan was unlawful, dealing a blow to the administration's efforts to address the issue."
             },
             {
-                "title": "Protests against vaccine mandates continue to spread across the US",
-                "risk_level": "Low",
-                "summary": "Protests against vaccine mandates have been taking place across the US, with some demonstrators expressing opposition to mandatory vaccination policies and others calling for more support for those who are unable to receive vaccines."
+                "title": "US Supreme Court Allows Trump's Tax Returns To Be Handed Over To Prosecutors",
+                "risk_level": "High",
+                "summary": "The Supreme Court has given the green light for Trump's tax returns to be handed over to Manhattan prosecutors, a major development in the investigation into the former President's finances."
+            },
+            {
+                "title": "US Lawmakers Reach Deal To Avoid Potential Government Shutdown",
+                "risk_level": "Medium",
+                "summary": "After days of negotiations, US lawmakers have reached a deal to avoid a potential government shutdown, a significant development that comes as the federal budget is set to expire."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea conducts missile test amid nuclear talks",
-                "risk_level": "High",
-                "summary": "North Korea has conducted a test-firing of a ballistic missile, amid ongoing nuclear talks between North Korea and the US. The missile flew about 400 km and reached an altitude of 760 km. The move was widely condemned by South Korea and the US, with the South Korean government calling it an act of great concern and the US saying it was a provocation."
+                "title": "",
+                "risk_level": "Low",
+                "summary": "South Korea reports 14,000 more omicron cases in the last 4 days."
             },
             {
-                "title": "Protests erupt in South Korea as police crack down on abortion rights advocates",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Protests have broken out in South Korea as police crack down on abortion rights advocates. The police have detained hundreds of protesters, sparking concerns about human rights abuses. The move has sparked widespread outrage, with many calling it an attack on women's rights and autonomy."
+                "summary": "South Korea’s president Yoon Suk-yeol orders a probe into spy allegations against a minister amid opposition party demands."
             },
             {
-                "title": "Rising tensions between South Korea and Japan over export restrictions",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Tensions between South Korea and Japan are rising over export restrictions imposed by Japan. The move is seen as a retaliatory measure against South Korea's decision to sue Japanese firms for forced labor during World War II. The restrictions have sparked concerns about the impact on trade and economic ties between the two countries."
+                "summary": "South Korea’s government issues a public warning about North Korea’s potential missile launch after detecting activity at the Tongchon launch site."
             }
         ],
         "Japan": [
             {
-                "title": "Japanese PM Fumio Kishida Announces Support for Taiwan Amid Tensions with China",
+                "title": "Japanese government's response to COVID-19 cases sparks concerns among elderly",
                 "risk_level": "High",
-                "summary": "Japanese Prime Minister Fumio Kishida has announced his country's support for Taiwan in a meeting with Taiwanese President Tsai Ing-wen, amid growing tensions with China. The move is seen as a key diplomatic shift in East Asia and has significant implications for regional security and stability."
+                "summary": "Japan's government has faced criticism for its response to a recent surge in COVID-19 cases, with elderly citizens expressing concerns about access to vaccines and medical care."
             },
             {
-                "title": "Japan's FSA Freezes $13 Billion in Cryptocurrency After TerraUSD Crash",
+                "title": "Protests against nuclear power in Japan",
+                "risk_level": "High",
+                "summary": "Tens of thousands of people protested in Tokyo and several other Japanese cities on August 7, demanding an end to the use of nuclear power in the country."
+            },
+            {
+                "title": "LDP's Koizumi and Fumio Kishida's speeches raise questions over Japanese government's stance on US-China relations",
                 "risk_level": "Medium",
-                "summary": "Japan's Financial Services Agency (FSA) has frozen around $13 billion in cryptocurrency assets linked to the collapse of TerraUSD, a digital currency that lost nearly 100% of its value. The move is aimed at preventing further financial instability and protecting investors."
-            },
-            {
-                "title": "Japan's Upper House Approves Bill to Increase Military Spending by 6%",
-                "risk_level": "High",
-                "summary": "Japan's Upper House has approved a bill to increase the country's military spending by 6%, marking a significant shift in Tokyo's defense strategy. The move is seen as a response to China's growing military presence in the region and North Korea's nuclear ambitions."
+                "summary": "Recent speeches by LDP's Fumio Kishida and former PM Junichiro Koizumi have led to increased speculation about Japan's stance on US-China relations, with some pundits warning of a potential shift towards a more neutral position."
             }
         ]
     }
