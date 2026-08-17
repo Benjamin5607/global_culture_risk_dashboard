@@ -3,70 +3,76 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "",
+                "title": "US-Iran Tensions Escalate Amid Ongoing Nuclear Deal Talks",
                 "risk_level": "High",
-                "summary": "Tensions between the US and China rise over Taiwan relations."
+                "summary": "US threatens Iran with military action over potential nuclear deal, while Iran demands guarantees on the deal's terms."
             },
             {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "Global food prices surge due to drought and war in Ukraine and Russia."
+                "title": "North Korea Fires Ballistic Missiles",
+                "risk_level": "High",
+                "summary": "North Korea conducted a missile test, further escalating tensions with the international community."
             },
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "Protests erupt in India over new labor laws."
+                "title": "Russia-Ukraine Military Conflict Continues to Unfold",
+                "risk_level": "High",
+                "summary": "Fighting between Russian-backed forces and Ukrainian forces continues, sparking global concern."
             }
         ],
         "United States": [
             {
-                "title": "US Federal Judge Blocks Biden's Student Loan Forgiveness Plan",
+                "title": "US Supreme Court blocks House from obtaining Trump documents",
                 "risk_level": "High",
-                "summary": "On Aug 4, a federal judge ruled that President Biden's student loan forgiveness plan was unlawful, dealing a blow to the administration's efforts to address the issue."
+                "summary": "The US Supreme Court on Monday blocked a House panel's attempt to obtain President Donald Trump's tax returns and other financial records, dealing a setback to Democrats' efforts to investigate the former president's finances."
             },
             {
-                "title": "US Supreme Court Allows Trump's Tax Returns To Be Handed Over To Prosecutors",
+                "title": "Russia's Wagner Group allegedly involved in US prison riot",
                 "risk_level": "High",
-                "summary": "The Supreme Court has given the green light for Trump's tax returns to be handed over to Manhattan prosecutors, a major development in the investigation into the former President's finances."
+                "summary": "The US Department of Justice said on Friday that it is investigating possible foreign involvement in the violent riot at the US Correctional Institution in Hazelton, West Virginia, in which 19 inmates and two corrections officers were injured."
             },
             {
-                "title": "US Lawmakers Reach Deal To Avoid Potential Government Shutdown",
-                "risk_level": "Medium",
-                "summary": "After days of negotiations, US lawmakers have reached a deal to avoid a potential government shutdown, a significant development that comes as the federal budget is set to expire."
+                "title": "US judge blocks Biden's plan to end Title 42",
+                "risk_level": "High",
+                "summary": "A US federal judge on Monday blocked the Biden administration's plan to end Title 42, a pandemic-era rule that has allowed the US to quickly expel migrants at the border, dealing a blow to the administration's immigration plans."
             }
         ],
         "South Korea": [
             {
-                "title": "",
-                "risk_level": "Low",
-                "summary": "South Korea reports 14,000 more omicron cases in the last 4 days."
-            },
-            {
-                "title": "",
-                "risk_level": "Medium",
-                "summary": "South Korea’s president Yoon Suk-yeol orders a probe into spy allegations against a minister amid opposition party demands."
-            },
-            {
-                "title": "",
+                "title": "North Korea fires multiple ballistic missiles, South Korea and US respond with joint drills",
                 "risk_level": "High",
-                "summary": "South Korea’s government issues a public warning about North Korea’s potential missile launch after detecting activity at the Tongchon launch site."
+                "summary": "South Korea and the US conducted joint military drills in response to North Korea's missile launches."
+            },
+            {
+                "title": "South Korean government announces stricter COVID-19 measures amid rising cases",
+                "risk_level": "Medium",
+                "summary": "The South Korean government has imposed stricter COVID-19 measures due to the rising number of cases."
+            },
+            {
+                "title": "US, South Korea and Japan agree to enhance cooperation on North Korea and security issues",
+                "risk_level": "High",
+                "summary": "The US, South Korea and Japan have agreed to strengthen their cooperation on North Korea and security issues."
             }
         ],
         "Japan": [
             {
-                "title": "Japanese government's response to COVID-19 cases sparks concerns among elderly",
+                "title": "",
                 "risk_level": "High",
-                "summary": "Japan's government has faced criticism for its response to a recent surge in COVID-19 cases, with elderly citizens expressing concerns about access to vaccines and medical care."
+                "summary": "",
+                "source": "North Korea missile test,  Japan and South Korea on high alert",
+                "risks": "Military/Geopolitics"
             },
             {
-                "title": "Protests against nuclear power in Japan",
-                "risk_level": "High",
-                "summary": "Tens of thousands of people protested in Tokyo and several other Japanese cities on August 7, demanding an end to the use of nuclear power in the country."
-            },
-            {
-                "title": "LDP's Koizumi and Fumio Kishida's speeches raise questions over Japanese government's stance on US-China relations",
+                "title": "",
                 "risk_level": "Medium",
-                "summary": "Recent speeches by LDP's Fumio Kishida and former PM Junichiro Koizumi have led to increased speculation about Japan's stance on US-China relations, with some pundits warning of a potential shift towards a more neutral position."
+                "summary": "",
+                "source": "",
+                "risks": "Environmental/Climate"
+            },
+            {
+                "title": "",
+                "risk_level": "Low",
+                "summary": "",
+                "source": "",
+                "risks": "Social/Unrest"
             }
         ]
     }
