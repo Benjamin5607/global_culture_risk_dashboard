@@ -3,76 +3,70 @@
     "scopes": {
         "Global (All)": [
             {
-                "title": "US-Iran Tensions Escalate Amid Ongoing Nuclear Deal Talks",
+                "title": "Cyberattack on US Government Agency Disrupts Services",
                 "risk_level": "High",
-                "summary": "US threatens Iran with military action over potential nuclear deal, while Iran demands guarantees on the deal's terms."
+                "summary": "A cyberattack on a US government agency has disrupted several services, potentially exposing sensitive information."
             },
             {
-                "title": "North Korea Fires Ballistic Missiles",
+                "title": "Ongoing Conflict in Eastern Europe Intensifies",
                 "risk_level": "High",
-                "summary": "North Korea conducted a missile test, further escalating tensions with the international community."
+                "summary": "The ongoing conflict in Eastern Europe has intensified, with reports of increased military activity and civilian casualties."
             },
             {
-                "title": "Russia-Ukraine Military Conflict Continues to Unfold",
-                "risk_level": "High",
-                "summary": "Fighting between Russian-backed forces and Ukrainian forces continues, sparking global concern."
+                "title": "Global Economic Downturn Predicted",
+                "risk_level": "Medium",
+                "summary": "Economists predict a global economic downturn due to rising interest rates and slowing economic growth."
             }
         ],
         "United States": [
             {
-                "title": "US Supreme Court blocks House from obtaining Trump documents",
+                "title": "Gun violence in Illinois leaves 8 dead in shooting at July 4 parade",
                 "risk_level": "High",
-                "summary": "The US Supreme Court on Monday blocked a House panel's attempt to obtain President Donald Trump's tax returns and other financial records, dealing a setback to Democrats' efforts to investigate the former president's finances."
+                "summary": "A mass shooting in Highland Park, Illinois, killed 7 people during a July 4 parade. The shooter was later apprehended."
             },
             {
-                "title": "Russia's Wagner Group allegedly involved in US prison riot",
+                "title": "US imposes fresh sanctions on Russia over Ukraine war",
                 "risk_level": "High",
-                "summary": "The US Department of Justice said on Friday that it is investigating possible foreign involvement in the violent riot at the US Correctional Institution in Hazelton, West Virginia, in which 19 inmates and two corrections officers were injured."
+                "summary": "The US has introduced new sanctions against Russia, targeting its defense and technology sectors, in response to the ongoing conflict in Ukraine."
             },
             {
-                "title": "US judge blocks Biden's plan to end Title 42",
-                "risk_level": "High",
-                "summary": "A US federal judge on Monday blocked the Biden administration's plan to end Title 42, a pandemic-era rule that has allowed the US to quickly expel migrants at the border, dealing a blow to the administration's immigration plans."
+                "title": "Biden administration expands pause on student loan payments",
+                "risk_level": "Medium",
+                "summary": "The US Department of Education has announced an extension of the pause on student loan repayments, amid ongoing controversy over the program's sustainability."
             }
         ],
         "South Korea": [
             {
-                "title": "North Korea fires multiple ballistic missiles, South Korea and US respond with joint drills",
+                "title": "Tensions Rise Between North and South Korea Over Military Drills",
                 "risk_level": "High",
-                "summary": "South Korea and the US conducted joint military drills in response to North Korea's missile launches."
+                "summary": "South Korea and the United States have conducted large-scale joint military drills, prompting a strong reaction from North Korea, which views the drills as a provocation."
             },
             {
-                "title": "South Korean government announces stricter COVID-19 measures amid rising cases",
+                "title": "South Korea's Opposition Demands Prime Minister's Resignation",
                 "risk_level": "Medium",
-                "summary": "The South Korean government has imposed stricter COVID-19 measures due to the rising number of cases."
+                "summary": "South Korea's opposition parties have called for the prime minister to resign over allegations of corruption and abuse of power."
             },
             {
-                "title": "US, South Korea and Japan agree to enhance cooperation on North Korea and security issues",
-                "risk_level": "High",
-                "summary": "The US, South Korea and Japan have agreed to strengthen their cooperation on North Korea and security issues."
+                "title": "COVID-19 Outbreak in South Korea's Nightlife Scene",
+                "risk_level": "Low",
+                "summary": "A cluster of COVID-19 cases has been reported in South Korea's nightlife scene, prompting concerns about the spread of the virus."
             }
         ],
         "Japan": [
             {
-                "title": "",
+                "title": "Magnitude 5.9 earthquake hits eastern Japan",
                 "risk_level": "High",
-                "summary": "",
-                "source": "North Korea missile test,  Japan and South Korea on high alert",
-                "risks": "Military/Geopolitics"
+                "summary": "An earthquake with a magnitude of 5.9 struck eastern Japan on Monday, prompting warnings of possible tsunamis and power disruptions. The Japan Meteorological Agency said the quake hit at 6:10am local time and its epicenter was located in the sea, about 250 kilometers east of Tokyo."
             },
             {
-                "title": "",
+                "title": "Protests against government's COVID policy erupt in Tokyo",
                 "risk_level": "Medium",
-                "summary": "",
-                "source": "",
-                "risks": "Environmental/Climate"
+                "summary": "Protests against the Japanese government's COVID-19 response have broken out in Tokyo, with demonstrators calling for a shift in policy and an end to certain restrictions."
             },
             {
-                "title": "",
+                "title": "Heatwave warnings issued as Tokyo sees record high temperatures",
                 "risk_level": "Low",
-                "summary": "",
-                "source": "",
-                "risks": "Social/Unrest"
+                "summary": "Heatwave warnings have been issued across Japan as temperatures soar to record highs in Tokyo. The heatwave has caused widespread discomfort and has raised concerns about potential health risks."
             }
         ]
     }
